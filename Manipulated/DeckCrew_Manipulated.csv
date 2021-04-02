@@ -1,0 +1,60 @@
+,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude
+0,"Anderson, Mr. James",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0
+1,"Anderson, Mr. John",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0
+2,"Archer, Mr. Ernest Edward",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,3,True,50.90472085,-1.3587998082396187,0.0
+3,"Bailey, Mr. Joseph Henry",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Master-at-arms,16,True,50.90472085,-1.3587998082396187,0.0
+4,"Bradley, Mr. T.",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+5,"Brice, Mr. Walter T.",42,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,11,True,50.90472085,-1.3587998082396187,0.0
+6,"Bright, Mr. Arthur John",41,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Quartermaster,D,True,51.3017496,-1.0535822,0.0
+7,"Buley, Mr. Edward John",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,10,True,50.90472085,-1.3587998082396187,0.0
+8,"Clench, Mr. Frederick",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,12,True,50.90472085,-1.3587998082396187,0.0
+9,"Clench, Mr. George James",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+10,"Couch, Mr. Frank",28,"Port Isaac, Cornwall, South West England, England, PL29 3SB, United Kingdom",Southampton,Able Seaman,,False,50.5938787,-4.8299895,0.0
+11,"Davis, Mr. Stephen James",39,,Southampton,Able Seaman,,False,,,
+12,"Evans, Mr. Alfred Frank",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Lookout,15,True,50.90472085,-1.3587998082396187,0.0
+13,"Evans, Mr. Frank Oliver",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,10,True,50.90472085,-1.3587998082396187,0.0
+14,"Fleet, Mr. Frederick",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Lookout,6,True,50.90472085,-1.3587998082396187,0.0
+15,"Foley, Mr. John",44,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Storekeeper,4,True,50.90472085,-1.3587998082396187,0.0
+16,"Forward, Mr. James",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0
+17,"Haines, Mr. Albert M.",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Boatswain,9,True,50.90472085,-1.3587998082396187,0.0
+18,"Harder, Mr. William",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Window Cleaner,14,True,50.90472085,-1.3587998082396187,0.0
+19,"Hemming, Mr. Samuel Ernest",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Lamp Trimmer,4,True,50.90472085,-1.3587998082396187,0.0
+20,"Hichens, Mr. Robert",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Quartermaster,6,True,50.90472085,-1.3587998082396187,0.0
+21,"Hogg, Mr. George Alfred",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Lookout,7,True,50.90472085,-1.3587998082396187,0.0
+22,"Holman, Mr. Harry",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+23,"Hopkins, Mr. Robert John",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,13,True,50.90472085,-1.3587998082396187,0.0
+24,"Horswill, Mr. Albert Edward James",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,1,True,50.90472085,-1.3587998082396187,0.0
+25,"Humphreys, Mr. Sidney James",48,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Quartermaster,11,True,50.90472085,-1.3587998082396187,0.0
+26,"Hutchinson, Mr. John Hall",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Carpenter/Joiner,,False,50.90472085,-1.3587998082396187,0.0
+27,"Jewell, Mr. Archie",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Lookout,7,True,50.90472085,-1.3587998082396187,0.0
+28,"Jones, Mr. Thomas William",32,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Able Seaman,8,True,53.6326141,-2.8105631,0.0
+29,"King, Mr. Thomas W.",43,"Portsmouth, Havant, Hampshire, South East England, England, United Kingdom",Southampton,Master-at-arms,,False,50.8221133,-1.0677602492961795,0.0
+30,"Lee, Mr. Reginald Robinson",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Lookout,13,True,50.90472085,-1.3587998082396187,0.0
+31,"Lucas, Mr. William A.",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,D,True,50.90472085,-1.3587998082396187,0.0
+32,"Lyons, Mr. William Henry",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,4,True,50.90472085,-1.3587998082396187,0.0
+33,"Matherson, Mr. David",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+34,"Mathais, Mr. Montague Vincent",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
+35,"Maxwell, Mr. John",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Carpenter/Joiner,,False,50.90472085,-1.3587998082396187,0.0
+36,"McCarthy, Mr. William",47,"Cork, County Cork, Munster, Éire / Ireland",Southampton,Able Seaman,4,True,51.898627,-8.4705942,0.0
+37,"McGough, Mr. James R.",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,9,True,50.90472085,-1.3587998082396187,0.0
+38,"Moore, Mr. George Alfred",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,3,True,50.90472085,-1.3587998082396187,0.0
+39,"Nichols, Mr. Alfred",42,"Shirley Holms, Sway, New Forest, Hampshire, South East England, England, SO41 8NL, United Kingdom",Belfast,Boatswain,,False,50.783826,-1.5735367,0.0
+40,"O'Loughlin, Dr. William Francis Norman",62,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Surgeon,,False,50.90472085,-1.3587998082396187,0.0
+41,"Olliver, Mr. Alfred",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Quartermaster,5,True,50.90472085,-1.3587998082396187,0.0
+42,"Osman, Mr. Frank",28,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Southampton,Able Seaman,2,True,51.0893892,-1.2887593,0.0
+43,"Pascoe, Mr. Charles H.",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,8,True,50.90472085,-1.3587998082396187,0.0
+44,"Perkis, Mr. Walter John",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Quartermaster,4,True,50.90472085,-1.3587998082396187,0.0
+45,"Peters, Mr. William Chapman",26,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Able Seaman,9,True,51.3017496,-1.0535822,0.0
+46,"Poingdestre, Mr. John Thomas",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,12,True,50.90472085,-1.3587998082396187,0.0
+47,"Rowe, Mr. George Thomas",32,"Gosport, Hampshire, South East England, England, United Kingdom",Belfast,Quartermaster,C,True,50.7952074,-1.1210853,0.0
+48,"Sawyer, Mr. Robert James",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Window Cleaner,,False,50.90472085,-1.3587998082396187,0.0
+49,"Scarrott, Mr. Joseph George",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,14,True,50.90472085,-1.3587998082396187,0.0
+50,"Simpson, Dr. John Edward",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Surgeon,,False,50.90472085,-1.3587998082396187,0.0
+51,"Smith, Mr. William",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+52,"Symons, Mr. George Thomas Macdonald",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Lookout,1,True,50.90472085,-1.3587998082396187,0.0
+53,"Tamlyn, Mr. Frederick",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
+54,"Taylor, Mr. C.",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+55,"Terrell, Mr. Bertram",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
+56,"Vigott, Mr. Philip Francis",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Able Seaman,13,True,50.90472085,-1.3587998082396187,0.0
+57,"Weller, Mr. William Clifford",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Able Seaman,7,True,50.90472085,-1.3587998082396187,0.0
+58,"Wynn, Mr. Walter",41,"Shirley Holms, Sway, New Forest, Hampshire, South East England, England, SO41 8NL, United Kingdom",Belfast,Quartermaster,9,True,50.783826,-1.5735367,0.0
