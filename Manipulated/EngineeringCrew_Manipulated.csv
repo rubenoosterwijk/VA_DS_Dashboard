@@ -1,320 +1,320 @@
 ,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude
-0,"Abrams, Mr. William",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-1,"Adams, Mr. R.",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-2,"Allen, Mr. Henry",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-3,"Allen, Mr. Ernest Frederick",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
-4,"Allsop, Mr. Alfred Samuel",34.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Electrician,,False,50.90472085,-1.3587998082396187,0.0
-5,"Avery, Mr. James Frank",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,15,True,50.90472085,-1.3587998082396187,0.0
-6,"Bailey, Mr. George W.",46.0,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Fireman/Stoker,,False,51.3017496,-1.0535822,0.0
-7,"Baines, Mr. Richard",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-8,"Bannon, Mr. John",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-9,"Barlow, Mr. Charles",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-10,"Barnes, Mr. Charles",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-11,"Barnes, Mr. Frederick",29.0,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Fireman/Stoker,,False,51.3017496,-1.0535822,0.0
-12,"Barrett, Mr. Frederick",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,13,True,50.90472085,-1.3587998082396187,0.0
-13,"Barrett, Mr. Frederick William",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-14,"Beattie, Mr. Joseph",34.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-15,"Beauchamp, Mr. George William",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,13,True,50.90472085,-1.3587998082396187,0.0
-16,"Bell, Mr. Joseph",50.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Chief Engineer,,False,50.90472085,-1.3587998082396187,0.0
-17,"Bendell, Mr. F.",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-18,"Bennett, Mr. George Alfred",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-19,"Benville, Mr. E.",42.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-20,"Bessant, Mr. William Edward",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-21,"Bevis, Mr. Joseph Henry",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-22,"Biddlecombe, Mr. Charles",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-23,"Biggs, Mr. Edward Charles",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-24,"Billow, Mr. J.",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-25,"Binstead, Mr. Walter",19.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,3,True,50.90472085,-1.3587998082396187,0.0
-26,"Black, Mr. Alexander",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-27,"Black, Mr. D.",41.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-28,"Blackman, Mr. H.",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-29,"Blake, Mr. Percival Albert",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,15,True,50.90472085,-1.3587998082396187,0.0
-30,"Blake, Mr. Seaton",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
-31,"Blake, Mr. Thomas",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-32,"Blaney, Mr. James",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-33,"Blann, Mr. Eustace Horatius",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-34,"Bott, Mr. W.",44.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-35,"Bradley, Mr. Patrick Joseph",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-36,"Brewer, Mr. Henry ""Harry""",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-37,"Briant, Mr. Albert",34.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-38,"Brooks, Mr. J.",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-39,"Brown, Mr. John",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-40,"Brown, Mr. Joseph James",25.0,"Eastleigh, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.9202316,-1.299273639634381,0.0
-41,"Burroughs, Mr. Arthur",35.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-42,"Burton, Mr. Edward John",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-43,"Butt, Mr. William John",30.0,"Freemantle, King Lane, Over Wallop, Test Valley, Hampshire, South East England, England, SO20 8JG, United Kingdom",Southampton,Fireman/Stoker,,False,51.144324299999994,-1.5956504842344639,0.0
-44,"Calderwood, Mr. Hugh",30.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Trimmer,,False,54.5964411,-5.9302761,0.0
-45,"Canner, Mr. J.",40.0,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Fireman/Stoker,,False,51.3017496,-1.0535822,0.0
-46,"Carr, Mr. Richard Stephen",37.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-47,"Carter, Mr. James",46.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-48,"Casey, Mr. T.",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-49,"Castleman, Mr. Edward",37.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-50,"Cavell, Mr. George Henry",22.0,"Sholing FC, Hound, Hedge End, Eastleigh, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,15,True,50.893264099999996,-1.338103450000002,0.0
-51,"Cherrett, Mr. William Victor",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-52,"Chisnall, Mr. George Alexander",36.0,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Belfast,Boilermaker,,False,51.0893892,-1.2887593,0.0
-53,"Chorley, Mr. John",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-54,"Clark, Mr. William",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
-55,"Coe, Mr. Harry",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-56,"Coleman, Mr. John",57.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
-57,"Collins, Mr. Samuel",35.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,1,True,50.90472085,-1.3587998082396187,0.0
-58,"Combes, Mr. George",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-59,"Cooper, Mr. Harry",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-60,"Cooper, Mr. James",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-61,"Copperthwaite, Mr. B.",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-62,"Corcoran, Mr. Dennis",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-63,"Cotton, Mr. A.",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-64,"Couch, Mr. Joseph Henry",45.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-65,"Couper, Mr. Robert",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-66,"Coy, Mr. Francis Ernest George",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Junior Assistant 3rd Engineer,,False,50.90472085,-1.3587998082396187,0.0
-67,"Crabb, Mr. H.",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-68,"Creese, Mr. Henry Philip",44.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Deck Engineer,,False,50.90472085,-1.3587998082396187,0.0
-69,"Crimmins, Mr. James",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,13,True,50.90472085,-1.3587998082396187,0.0
-70,"Cross, Mr. W.",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-71,"Cunningham, Mr. B.",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-72,"Curtis, Mr. Arthur",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-73,"Davies, Mr. Thomas",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-74,"Dawson, Mr. Joseph[17]",23.0,"Dublin, Dublin 1, Leinster, Éire / Ireland",Southampton,Trimmer,,False,53.3497645,-6.2602732,0.0
-75,"Diaper, Mr. J.",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-76,"Dickson, Mr. W.",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-77,"Dilley, Mr. John",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-78,"Dillon, Mr. Thomas Patrick",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,4,True,50.90472085,-1.3587998082396187,0.0
-79,"Dodd, Mr. Edward Charles",38.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Junior 3rd Engineer,,False,50.90472085,-1.3587998082396187,0.0
-80,"Dodds, Mr. Henry Watson",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Junior Assistant 4th Engineer,,False,50.90472085,-1.3587998082396187,0.0
-81,"Doel, Mr. Frederick",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,C,True,50.90472085,-1.3587998082396187,0.0
-82,"Dore, Mr. A.",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-83,"Doyle, Mr. Laurence",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-84,"Duffy, Mr. William Luke",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Writer/Engineer's Clerk,,False,50.90472085,-1.3587998082396187,0.0
-85,"Dyer, Mr. Henry Ryland",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Senior Assistant 4th Engineer,,False,50.90472085,-1.3587998082396187,0.0
-86,"Dymond, Mr. Frank",25.0,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Southampton,Fireman/Stoker,15,True,51.0893892,-1.2887593,0.0
-87,"Eagle, Mr. Alfred James",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-88,"Eastman, Mr. Charles",44.0,"Millbrook Industries Ltd, Totton and Eling, Totton, New Forest, Hampshire, South East England, England, SO40 3XJ, United Kingdom",Southampton,Greaser,,False,50.93096825,-1.5017017400404562,0.0
-89,"Elliott, Mr. Everett Edward",23.0,"Edmonton, London Borough of Enfield, London, Greater London, England, N9 9HH, United Kingdom",London,Trimmer,,False,51.6267968,-0.0769118,0.0
-90,"Ervine, Mr. Albert George",18.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Assistant Electrician,,False,54.5964411,-5.9302761,0.0
-91,"Evans, Mr. Williams",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-92,"Farquharson, Mr. William Edward",39.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Southampton,Senior 2nd Engineer,,False,54.5964411,-5.9302761,0.0
-93,"Fay, Mr. Thomas",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-94,"Ferrary, Mr. Anton",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-95,"Ferris, Mr. William",38.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-96,"Fitzpatrick, Mr. Charles W.N.",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Mess Steward,B,True,50.90472085,-1.3587998082396187,0.0
-97,"Flarty, Mr. Edward",52.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
-98,Ford. Mr. H.,22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-99,"Ford, Mr. Thomas",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-100,"Foster, Mr. A.",37.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Engineering Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-101,"Fraser, Mr. James",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom","Belfast, Ireland",Junior Assistant Third Engineer,,False,50.90472085,-1.3587998082396187,0.0
-102,"Fraser, Mr. James",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-103,"Fredricks, Mr. Walter Francis",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,15,True,50.90472085,-1.3587998082396187,0.0
-104,"Fryer, Mr. Albert Ernest",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,13,True,50.90472085,-1.3587998082396187,0.0
-105,"Geer, Mr. Alfred Ernest",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-106,"Godley, Mr. George",38.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
-107,"Godwin, Mr. Frederick Charles",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-108,"Golder, Mr. Martin W.",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-109,"Gordon, Mr. J.",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-110,"Goree, Mr. Frank",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-111,"Gosling, Mr. Bertram James",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-112,"Gosling, S.",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-113,"Gradidge, Mr. Ernest E.",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-114,"Graham, Mr. Thomas Gibson",28.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Fireman/Stoker,,False,54.5964411,-5.9302761,0.0
-115,"Green, Mr. George",41.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-116,"Gregory, Mr. David",43.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-117,"Gumery, Mr. George",24.0,"Birmingham, West Midlands Combined Authority, West Midlands, England, United Kingdom",Southampton,Mess Steward,,False,52.4796992,-1.9026911,0.0
-118,"Hagan, Mr. John",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-119,"Hall, Mr. Joseph",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-120,"Hallett, Mr. George",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-121,"Hands, Mr. Bernard",34.0,"Killashandra, Cavan-Belturbet Municipal District, County Cavan, Éire / Ireland",Southampton,Fireman/Stoker,,False,54.0146118,-7.5286568,0.0
-122,"Hannam, Mr. George",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-123,"Harris, Mr. Edward",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-124,"Harris, Mr. Frederick",34.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,14,True,50.90472085,-1.3587998082396187,0.0
-125,"Harrison, Mr. Norman",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Second Engineer,,False,50.90472085,-1.3587998082396187,0.0
-126,"Harvey, Mr. Herbert Gifford",34.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Southampton,Junior Assistant Second Engineer,,False,54.5964411,-5.9302761,0.0
-127,"Haslin, Mr. James",45.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-128,"Hart, Mr. James",58.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-129,"Head, Mr. Arthur",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-130,"Hebb, Mr. A.",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
-131,"Hendrickson, Mr. Charles Osker",29.0,,Southampton,Leading Fireman,1,True,,,
-132,"Hesketh, Mr. John Henry",33.0,"Kirkdale, Marsh Street, Kirkdale, Liverpool, North West England, England, L20 2BN, United Kingdom",Belfast,Junior Second Engineer,,False,53.4407853,-2.9811665,0.0
-133,"Hill, Mr. James",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-134,"Hinton, Mr. Steven William",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-135,"Hosking, Mr. George Fox",36.0,"Southampton, South East England, England, United Kingdom",Southampton,Senior Third Engineer,,False,50.9025349,-1.404189,0.0
-136,"Hunt, Mr. Albert",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,C,True,50.90472085,-1.3587998082396187,0.0
-137,"Hunt, Mr. T.",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-138,"Hurst, Mr. Charles",41.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-139,"Hurst, Walter",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,B,True,50.90472085,-1.3587998082396187,0.0
-140,"Ingram, Mr. Charles",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-141,"Instance, T.",33.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-142,"Jackopson, Mr. John Henry",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-143,"Jago, Mr. Joseph",59.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-144,"James, Mr. Thomas",27.0,"Cardiff Airport, Readers Way, Rhoose, Vale of Glamorgan, Cymru / Wales, CF62 3DQ, United Kingdom",Southampton,Fireman/Stoker,,False,51.397871550000005,-3.3445890119919994,0.0
-145,"Jarvis, Mr. William",37.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-146,"Joas, Mr. N.",38.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-147,"Judd, Mr. Charles E.",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,B,True,50.90472085,-1.3587998082396187,0.0
-148,"Jukes, Mr. James",35.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-149,"Jupe, Mr. Herbert",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Electrician,,False,50.90472085,-1.3587998082396187,0.0
-150,"Kaspar, Mr. Franz V.",40.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,9,True,50.90472085,-1.3587998082396187,0.0
-151,"Kearl, Mr. Charles H.",44.0,,Southampton,Greaser,,False,,,
-152,"Kearl, Mr. G.",24.0,"Hampshire, England, United Kingdom",Southampton,Trimmer,,False,51.04483545,-1.2434093597173146,0.0
-153,"Keegan, Mr. James",38.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-154,"Kelly, Mr. James",44.0,"County Meath, Leinster, Éire / Ireland",Southampton,Greaser,,False,53.649784350000004,-6.588529492009938,0.0
-155,"Kelly, Mr. William",23.0,"Dublin, Dublin 1, Leinster, Éire / Ireland",Belfast,Assistant Electrician,,False,53.3497645,-6.2602732,0.0
-156,"Kemish, Mr. George",22.0,,Southampton,Fireman/Stoker,9,True,,,
-157,"Kemp, Mr. Thomas Hulman",43.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Fourth Engineer,,False,50.90472085,-1.3587998082396187,0.0
-158,"Kenchenten, Mr. Frederick",37.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-159,"Kerr, Mr. Thomas",26.0,"Glasgow, Glasgow City, Scotland, G2 9SN, United Kingdom",Southampton,Fireman/Stoker,,False,55.8609825,-4.2488787,0.0
-160,"Kinsella, Mr. Louis",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-161,"Kirkham, Mr. James",43.0,,Southampton,Greaser,,False,,,
-162,"Knowles, Mr. Thomas",39.0,"Lymington, Hampshire, South East England, England, United Kingdom",Southampton,Fireman's Messman,C,True,50.7590864,-1.547571931693926,0.0
-163,"Lahy, Mr. Thomas E.",32.0,"London, Greater London, England, United Kingdom",Southampton,Fireman/Stoker,,False,51.5073219,-0.1276474,0.0
-164,Lee. Mr. Henry,18.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-165,"Light, Mr. Charles",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-166,"Light, Mr. W.",47.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-167,"Lindsay, Mr. William Charles",30.0,"Bristol Way, Wellesbourne CP, Wellesbourne, Stratford-on-Avon, Warwickshire, West Midlands, England, CV35 9TJ, United Kingdom",Southampton,Fireman/Stoker,B,True,52.1868871,-1.5995568,0.0
-168,"Loyd, Mr. W.",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-169,"Long, Mr. Frank",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-170,"Long, Mr. William",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-171,"Mackie, Mr. William Dickson",32.0,"London, Greater London, England, United Kingdom",Belfast,Junior Fifth Engineer,,False,51.5073219,-0.1276474,0.0
-172,"Major, Mr. William",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,13,True,50.90472085,-1.3587998082396187,0.0
-173,"Marett, Mr. George John",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-174,"Marsh, Mr. Frederick Charles",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-175,"Maskell, Mr. L.A.",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-176,"Mason, Mr. Frank Archibald Robert",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,B,True,50.90472085,-1.3587998082396187,0.0
-177,"Mason, Mr. James",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-178,"May Jr., Mr. Arthur William",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-179,"May Sr., Mr. Arthur William",60.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman's Messman,,False,50.90472085,-1.3587998082396187,0.0
-180,"Mayo, Mr. William Peter",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-181,"Mayzes, Mr. Thomas",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-182,"McAndrew, Mr. Thomas Patrick",38.0,,Southampton,Fireman/Stoker,,False,,,
-183,"McAndrews, Mr. William",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-184,"McCastlen, Mr. William",38.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-185,"McCubbin, Mr. Lee",,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-186,"McGann, Mr. James",29.0,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Trimmer,B,True,53.6326141,-2.8105631,0.0
-187,"McGarvey, Mr. Edward Joseph",34.0,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Fireman/Stoker,,False,53.6326141,-2.8105631,0.0
-188,"McGaw, Mr. Errol Victor",30.0,"Aldershot, Rushmoor, Hampshire, South East England, England, GU11 1FD, United Kingdom",Southampton,Fireman/Stoker,,False,51.2494169,-0.7630148,0.0
-189,"McGregor, Mr. J. (John Brown Niven)",30.0,"Allenshaw Wood (Airsoft Edinburgh), Midlothian, Scotland, United Kingdom",Southampton,Fireman/Stoker,,False,55.795446350000006,-3.0662448525444046,0.0
-190,"McInerney, Mr. Thomas",38.0,"Bootle Street, St. Matthew's, Fishwick, Preston, Lancashire, North West England, England, PR1 5NS, United Kingdom",Southampton,Greaser,,False,53.765146,-2.6801237,0.0
-191,"McInytre, Mr. William",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,A,True,50.90472085,-1.3587998082396187,0.0
-192,"McQuillan, Mr. William",32.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Fireman/Stoker,,False,54.5964411,-5.9302761,0.0
-193,"McRae, Mr. William Alexander",32.0,"Shirley Holms, Sway, New Forest, Hampshire, South East England, England, SO41 8NL, United Kingdom",Southampton,Fireman/Stoker,,False,50.783826,-1.5735367,0.0
-194,"McReynolds, Mr. William",22.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Junior Sixth Engineer,,False,54.5964411,-5.9302761,0.0
-195,"Middleton, Mr. Alfred Pirrie",17.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Assistant Electrician,,False,54.5964411,-5.9302761,0.0
-196,"Milford, Mr. George",28.0,,Southampton,Fireman/Stoker,,False,,,
-197,"Millar, Mr. Robert",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Extra Fifth Engineer,,False,50.90472085,-1.3587998082396187,0.0
-198,"Millar, Mr. Thomas",33.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Assistant Deck Engineer,,False,54.5964411,-5.9302761,0.0
-199,"Mintram, Mr. William",46.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-200,"Mitchell, Mr. Lawrence (Lorenzo)",19.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-201,"Moore, Mr. John J.",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-202,"Moore, Mr. Ralph",21.0,"London, Greater London, England, United Kingdom",Southampton,Trimmer,,False,51.5073219,-0.1276474,0.0
-203,"Moores, Mr. Richard Henry",44.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-204,"Morgan, Mr. Arthur Herbert",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-205,"Morgan, Mr. Thomas A.",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-206,"Morrell, Mr. R. (Albert White)",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-207,"Morris, Mr. Arthur",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-208,"Morris, Mr. William Edward",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-209,"Moyes, Mr. William Young",23.0,"Stirling, Scotland, FK8 2DD, United Kingdom",Belfast,Senior Sixth Engineer,,False,56.1181242,-3.9360012,0.0
-210,"Murdock, Mr. William",34.0,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Fireman/Stoker,B,True,54.5964411,-5.9302761,0.0
-211,"Nettleton, Mr. George Walter",29.0,"St Denys, Chilworth, Fowler's Walk, Chilworth, Test Valley, Hampshire, South East England, England, SO16 7NN, United Kingdom",Southampton,Fireman/Stoker,,False,50.9669509,-1.4224590499999992,0.0
-212,"Newman, Mr. Charles Thomas",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Engineering Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-213,"Noon, Mr. John",35.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-214,"Norris, Mr. James",22.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-215,"Noss, Mr. Bertram Arthur",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-216,"Noss, Mr. Henry",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
-217,"Nutbean, Mr. William",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-218,"O'Connor, Mr. John",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
-219,"Olive, Mr. Charles",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-220,"Oliver, Mr. H.",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-221,"Othen, Mr. Charles",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,11,True,50.90472085,-1.3587998082396187,0.0
-222,"Paice, Mr. Richard Charles John",32.0,"Kingsclere, Basingstoke and Deane, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,51.31734145,-1.244282195835814,0.0
-223,"Painter, Mr. Charles",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-224,"Painter, Mr. Frank",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-225,"Palles, Mr. Thomas Henry Michael",45.0,"Liverpool, North West England, England, United Kingdom",Southampton,Greaser,,False,53.407154,-2.991665,0.0
-226,"Parsons, Mr. Frank Alfred",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Senior Fifth Engineer,,False,50.90472085,-1.3587998082396187,0.0
-227,"Pearce, Mr. John",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
-228,"Pelham, Mr. George",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,16,True,50.90472085,-1.3587998082396187,0.0
-229,"Perry, Mr. Edgar Lionel",19.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,?,True,50.90472085,-1.3587998082396187,0.0
-230,"Perry, Mr. Henry Frederick",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-231,"Phillips, Mr. G.",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-232,"Pitfield, Mr. William James",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-233,"Podesta, Mr. John",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-234,"Pond, Mr. George",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-235,"Prangnell, Mr. George",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,B,True,50.90472085,-1.3587998082396187,0.0
-236,"Preston, Mr. Thomas Charles Alfred",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-237,"Priest, Mr. Arthur J.",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
-238,"Proudfoot, Mr. Richard Royston",22.0,"Plymouth Breakwater, Bayside Lane, Wembury, Heybrook Bay, South Hams, Devon, South West England, England, PL9 0AS, United Kingdom",Southampton,Trimmer,,False,50.33392715,-4.155682606473795,0.0
-239,"Pugh, Mr. Percy",31.0,"Hampshire, England, United Kingdom",Southampton,Leading Fireman,,False,51.04483545,-1.2434093597173146,0.0
-240,"Pusey, Mr. William Robert Holland",24.0,"Hythe, The Marsh, Langdown, Hythe and Dibden, New Forest, Hampshire, South East England, England, SO45 6AJ, United Kingdom",Southampton,Fireman/Stoker,1,True,50.86981,-1.3990205,0.0
-241,"Ranger, Mr. Thomas G.",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,4,True,50.90472085,-1.3587998082396187,0.0
-242,"Read, Mr. Joseph",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-243,"Reed, Mr. Robert",30.0,"Gosport, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.7952074,-1.1210853,0.0
-244,"Reeves, Mr. Robert",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-245,"Rice, Mr. Charles",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,10,True,50.90472085,-1.3587998082396187,0.0
-246,"Richards, Mr. Joseph James",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-247,"Rickman, Mr. George Albert",36.0,"Milford-on-Sea, New Forest, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.72505115,-1.5855744198861115,0.0
-248,"Roberts, Mr. Robert George",35.0,"Bransgore, New Forest, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.77368955,-1.7157711428164197,0.0
-249,"Rous, Mr. Arthur John",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Plumber,,False,50.90472085,-1.3587998082396187,0.0
-250,"Rudd, Mr. Henry",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Engineering Storkeeper,,False,50.90472085,-1.3587998082396187,0.0
-251,"Rutter, Mr. Sidney",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-252,"Sangster, Mr. Charles Edward",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-253,"Saunders, Mr. Thomas",,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-254,"Saunders, Mr. W.",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-255,"Saunders, Mr. W.",23.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-256,"Scott, Mr. Archibald",40.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-257,"Scott, Mr. Frederick",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,4,True,50.90472085,-1.3587998082396187,0.0
-258,"Self, Mr. Alfred Henry",40.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-259,"Self, Mr. Edward",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
-260,"Senior, Mr. Henry",31.0,"London, Greater London, England, United Kingdom",Southampton,Fireman/Stoker,B,True,51.5073219,-0.1276474,0.0
-261,"Shea, Mr. Thomas",29.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-262,"Sheath, Mr. Frederick",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,1,True,50.90472085,-1.3587998082396187,0.0
-263,"Shepherd, Mr. Johnathan",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Junior Assistant Second Engineer,,False,50.90472085,-1.3587998082396187,0.0
-264,"Shiers, Mr. Alfred",24.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,5,True,50.90472085,-1.3587998082396187,0.0
-265,"Shillaber, Mr. Charles",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-266,"Skeates, Mr. William",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-267,"Sloan, Mr. Peter",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Chief Electrician,,False,50.90472085,-1.3587998082396187,0.0
-268,"Small, Mr. William",40.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-269,"Smith, Mr. Ernest George",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-270,"Smith, Mr. James Muil",35.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Junior Fourth Engineer,,False,50.90472085,-1.3587998082396187,0.0
-271,"Smither, Mr. Harry James",22.0,,Southampton,Fireman/Stoker,,False,,,
-272,"Snellgrove, Mr. George",41.0,"Millbrook Industries Ltd, Totton and Eling, Totton, New Forest, Hampshire, South East England, England, SO40 3XJ, United Kingdom",Southampton,Fireman/Stoker,,False,50.93096825,-1.5017017400404562,0.0
-273,"Snooks, Mr. W",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-274,"Snowberger, Mr. Eustace Philip",21.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
-275,"Sparkman, Mr. Henry",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
-276,"Stafford, Mr. Michael (Albert Briant)",34.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-277,"Stanbrook, Mr. Augustus",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-278,"Steel, Mr. Robert Edward",30.0,"Royal Channel Islands Yacht Club, La Tourgand, St Peter Port, Guernsey, GY1 1WF, Guernsey",Southampton,Trimmer,,False,49.4578405,-2.5349672,0.0
-279,"Stocker, Mr. Henry Dorey",20.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-280,"Street, Mr. Henry Albert",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,9,True,50.90472085,-1.3587998082396187,0.0
-281,"Stubbs, Mr. James Henry",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-282,Sullivan Mr. S.,25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-283,"Taylor, Mr. James",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,1,True,50.90472085,-1.3587998082396187,0.0
-284,"Taylor, Mr. John",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-285,"Taylor, Mr. T.",42.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-286,"Taylor, Mr. William Henry",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
-287,"Thomas, Mr. James",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-288,"Thompson, Mr. John William",42.0,"Liverpool, North West England, England, United Kingdom",Southampton,Fireman/Stoker,A/14,True,53.407154,-2.991665,0.0
-289,"Threlfall, Mr. Thomas",38.0,"Liverpool, North West England, England, United Kingdom",Southampton,Leading Fireman,14,True,53.407154,-2.991665,0.0
-290,"Thresher, Mr. George",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
-291,"Tizard, Mr. Arthur Leopold",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-292,"Tozer, Mr. James",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-293,"Triggs, Mr. Robert",41.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
-294,"Turley, Mr. Richard",37.0,"Newry, County Down, Northern Ireland, United Kingdom",Southampton,Fireman/Stoker,,False,54.1775283,-6.337506,0.0
-295,"van der Brugge, Mr. Wessel Adrianus",42.0,"Delfshaven, Schiedamseweg, Bospolder, Delfshaven, Rotterdam, Zuid-Holland, Nederland, 3025AE, Nederland",Southampton,Fireman/Stoker,,False,51.9099946,4.4457004,0.0
-296,"Veal, Mr. Arthur",36.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-297,"Vear, Mr. Henry",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-298,"Vear, Mr. W.",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-299,"Ward, Mr. Arthur",24.0,"Romsey, Test Valley, Hampshire, South East England, England, SO51, United Kingdom",Southampton,Junior Assistant Fourth Engineer,,False,50.993266399999996,-1.4895057794851212,0.0
-300,"Ward, Mr. Joseph",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-301,"Wardner, Mr. Frederick Albert",39.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-302,"Wateridge, Mr. Edward Lewis",25.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-303,"Watson, Mr. W.",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-304,"Webb, Mr. Samuel Francis",28.0,,Southampton,Trimmer,,False,,,
-305,"Webber, Mr. Francis Albert",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
-306,"White, Mr. Alfred",32.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,4,True,50.90472085,-1.3587998082396187,0.0
-307,"White, Mr. Frank Leonard",27.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-308,"White, Mr. William George",23.0,"Salisbury, Wiltshire, South West England, England, United Kingdom",Southampton,Trimmer,15,True,51.0690613,-1.7954134,0.0
-309,"Williams, Mr. Samuel Solomon",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-310,"Wilson, Mr. Bertie",28.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Senior Assistant Second Engineer,,False,50.90472085,-1.3587998082396187,0.0
-311,"Wilton, Mr. William",45.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-312,"Witcher, Mr. Alfred",40.0,"Lymington, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.7590864,-1.547571931693926,0.0
-313,"Witt, Mr. F.",,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-314,"Witt, Mr. Henry Dennis",40.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-315,"Woodford, Mr. Frederick",41.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
-316,"Wood, Mr. Henry",31.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
-317,"Wyeth, Mr. James Robert",26.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
-318,"Young, Mr. Francis James",30.0,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+0,"Abrams, Mr. William",33.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+1,"Adams, Mr. R.",26.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+2,"Allen, Mr. Henry",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+3,"Allen, Mr. Ernest Frederick",24.0,"Southampton, Hampshire, England",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
+4,"Allsop, Mr. Alfred Samuel",34.0,"Southampton, Hampshire, England",Belfast,Electrician,,False,50.90472085,-1.3587998082396187,0.0
+5,"Avery, Mr. James Frank",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,15,True,50.90472085,-1.3587998082396187,0.0
+6,"Bailey, Mr. George W.",46.0,"Woolston, Hampshire, England",Southampton,Fireman/Stoker,,False,51.3017496,-1.0535822,0.0
+7,"Baines, Mr. Richard",24.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+8,"Bannon, Mr. John",32.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+9,"Barlow, Mr. Charles",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+10,"Barnes, Mr. Charles",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+11,"Barnes, Mr. Frederick",29.0,"Woolston, Hampshire, England",Southampton,Fireman/Stoker,,False,51.3017496,-1.0535822,0.0
+12,"Barrett, Mr. Frederick",28.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,13,True,50.90472085,-1.3587998082396187,0.0
+13,"Barrett, Mr. Frederick William",33.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+14,"Beattie, Mr. Joseph",34.0,"Southampton, Hampshire, England",Belfast,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+15,"Beauchamp, Mr. George William",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,13,True,50.90472085,-1.3587998082396187,0.0
+16,"Bell, Mr. Joseph",50.0,"Southampton, Hampshire, England",Belfast,Chief Engineer,,False,50.90472085,-1.3587998082396187,0.0
+17,"Bendell, Mr. F.",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+18,"Bennett, Mr. George Alfred",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+19,"Benville, Mr. E.",42.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+20,"Bessant, Mr. William Edward",39.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+21,"Bevis, Mr. Joseph Henry",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+22,"Biddlecombe, Mr. Charles",33.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+23,"Biggs, Mr. Edward Charles",21.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+24,"Billow, Mr. J.",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+25,"Binstead, Mr. Walter",19.0,"Southampton, Hampshire, England",Southampton,Trimmer,3,True,50.90472085,-1.3587998082396187,0.0
+26,"Black, Mr. Alexander",28.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+27,"Black, Mr. D.",41.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+28,"Blackman, Mr. H.",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+29,"Blake, Mr. Percival Albert",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,15,True,50.90472085,-1.3587998082396187,0.0
+30,"Blake, Mr. Seaton",26.0,"Southampton, Hampshire, England",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
+31,"Blake, Mr. Thomas",36.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+32,"Blaney, Mr. James",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+33,"Blann, Mr. Eustace Horatius",21.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+34,"Bott, Mr. W.",44.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+35,"Bradley, Mr. Patrick Joseph",39.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+36,"Brewer, Mr. Henry ""Harry""",30.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+37,"Briant, Mr. Albert",34.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+38,"Brooks, Mr. J.",25.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+39,"Brown, Mr. John",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+40,"Brown, Mr. Joseph James",25.0,"Eastleigh, Hampshire, England",Southampton,Fireman/Stoker,,False,50.9202316,-1.299273639634381,0.0
+41,"Burroughs, Mr. Arthur",35.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+42,"Burton, Mr. Edward John",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+43,"Butt, Mr. William John",30.0,"Freemantle, Hampshire, England",Southampton,Fireman/Stoker,,False,51.144324299999994,-1.5956504842344639,0.0
+44,"Calderwood, Mr. Hugh",30.0,"Belfast, Ireland",Belfast,Trimmer,,False,54.5964411,-5.9302761,0.0
+45,"Canner, Mr. J.",40.0,"Woolston, Hampshire, England",Southampton,Fireman/Stoker,,False,51.3017496,-1.0535822,0.0
+46,"Carr, Mr. Richard Stephen",37.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+47,"Carter, Mr. James",46.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+48,"Casey, Mr. T.",28.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+49,"Castleman, Mr. Edward",37.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+50,"Cavell, Mr. George Henry",22.0,"Sholing Hampshire, England",Southampton,Trimmer,15,True,50.893264099999996,-1.338103450000002,0.0
+51,"Cherrett, Mr. William Victor",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+52,"Chisnall, Mr. George Alexander",36.0,"Itchen, Hampshire, England",Belfast,Boilermaker,,False,51.0893892,-1.2887593,0.0
+53,"Chorley, Mr. John",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+54,"Clark, Mr. William",39.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
+55,"Coe, Mr. Harry",21.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+56,"Coleman, Mr. John",57.0,"Southampton, Hampshire, England",Belfast,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
+57,"Collins, Mr. Samuel",35.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,1,True,50.90472085,-1.3587998082396187,0.0
+58,"Combes, Mr. George",21.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+59,"Cooper, Mr. Harry",26.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+60,"Cooper, Mr. James",25.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+61,"Copperthwaite, Mr. B.",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+62,"Corcoran, Mr. Dennis",33.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+63,"Cotton, Mr. A.",26.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+64,"Couch, Mr. Joseph Henry",45.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+65,"Couper, Mr. Robert",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+66,"Coy, Mr. Francis Ernest George",26.0,"Southampton, Hampshire, England",Southampton,Junior Assistant 3rd Engineer,,False,50.90472085,-1.3587998082396187,0.0
+67,"Crabb, Mr. H.",23.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+68,"Creese, Mr. Henry Philip",44.0,"Southampton, Hampshire, England",Belfast,Deck Engineer,,False,50.90472085,-1.3587998082396187,0.0
+69,"Crimmins, Mr. James",21.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,13,True,50.90472085,-1.3587998082396187,0.0
+70,"Cross, Mr. W.",39.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+71,"Cunningham, Mr. B.",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+72,"Curtis, Mr. Arthur",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+73,"Davies, Mr. Thomas",33.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+74,"Dawson, Mr. Joseph[17]",23.0,"Dublin, Ireland",Southampton,Trimmer,,False,53.3497645,-6.2602732,0.0
+75,"Diaper, Mr. J.",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+76,"Dickson, Mr. W.",36.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+77,"Dilley, Mr. John",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+78,"Dillon, Mr. Thomas Patrick",25.0,"Southampton, Hampshire, England",Southampton,Trimmer,4,True,50.90472085,-1.3587998082396187,0.0
+79,"Dodd, Mr. Edward Charles",38.0,"Southampton, Hampshire, England",Belfast,Junior 3rd Engineer,,False,50.90472085,-1.3587998082396187,0.0
+80,"Dodds, Mr. Henry Watson",27.0,"Southampton, Hampshire, England",Southampton,Junior Assistant 4th Engineer,,False,50.90472085,-1.3587998082396187,0.0
+81,"Doel, Mr. Frederick",22.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,C,True,50.90472085,-1.3587998082396187,0.0
+82,"Dore, Mr. A.",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+83,"Doyle, Mr. Laurence",27.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+84,"Duffy, Mr. William Luke",28.0,"Southampton, Hampshire, England",Belfast,Writer/Engineer's Clerk,,False,50.90472085,-1.3587998082396187,0.0
+85,"Dyer, Mr. Henry Ryland",24.0,"Southampton, Hampshire, England",Southampton,Senior Assistant 4th Engineer,,False,50.90472085,-1.3587998082396187,0.0
+86,"Dymond, Mr. Frank",25.0,"Itchen, Hampshire, England",Southampton,Fireman/Stoker,15,True,51.0893892,-1.2887593,0.0
+87,"Eagle, Mr. Alfred James",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+88,"Eastman, Mr. Charles",44.0,"Millbrook, Hampshire, England",Southampton,Greaser,,False,50.93096825,-1.5017017400404562,0.0
+89,"Elliott, Mr. Everett Edward",23.0,"Edmonton, London, England",London,Trimmer,,False,51.6267968,-0.0769118,0.0
+90,"Ervine, Mr. Albert George",18.0,"Belfast, Ireland",Belfast,Assistant Electrician,,False,54.5964411,-5.9302761,0.0
+91,"Evans, Mr. Williams",32.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+92,"Farquharson, Mr. William Edward",39.0,"Belfast, Ireland,",Southampton,Senior 2nd Engineer,,False,54.5964411,-5.9302761,0.0
+93,"Fay, Mr. Thomas",30.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+94,"Ferrary, Mr. Anton",33.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+95,"Ferris, Mr. William",38.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+96,"Fitzpatrick, Mr. Charles W.N.",30.0,"Southampton, Hampshire, England",Southampton,Mess Steward,B,True,50.90472085,-1.3587998082396187,0.0
+97,"Flarty, Mr. Edward",52.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
+98,Ford. Mr. H.,22.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+99,"Ford, Mr. Thomas",30.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+100,"Foster, Mr. A.",37.0,"Southampton, Hampshire, England",Southampton,Engineering Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
+101,"Fraser, Mr. James",29.0,"Southampton, Hampshire, England","Belfast, Ireland",Junior Assistant Third Engineer,,False,50.90472085,-1.3587998082396187,0.0
+102,"Fraser, Mr. James",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+103,"Fredricks, Mr. Walter Francis",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,15,True,50.90472085,-1.3587998082396187,0.0
+104,"Fryer, Mr. Albert Ernest",26.0,"Southampton, Hampshire, England",Southampton,Trimmer,13,True,50.90472085,-1.3587998082396187,0.0
+105,"Geer, Mr. Alfred Ernest",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+106,"Godley, Mr. George",38.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
+107,"Godwin, Mr. Frederick Charles",36.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+108,"Golder, Mr. Martin W.",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+109,"Gordon, Mr. J.",29.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+110,"Goree, Mr. Frank",28.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+111,"Gosling, Mr. Bertram James",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+112,"Gosling, S.",26.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+113,"Gradidge, Mr. Ernest E.",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+114,"Graham, Mr. Thomas Gibson",28.0,"Belfast, Ireland",Belfast,Fireman/Stoker,,False,54.5964411,-5.9302761,0.0
+115,"Green, Mr. George",41.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+116,"Gregory, Mr. David",43.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+117,"Gumery, Mr. George",24.0,"Birmingham, England",Southampton,Mess Steward,,False,52.4796992,-1.9026911,0.0
+118,"Hagan, Mr. John",30.0,"Southampton, Hampshire, England",Belfast,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+119,"Hall, Mr. Joseph",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+120,"Hallett, Mr. George",23.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+121,"Hands, Mr. Bernard",34.0,"Killeshandra, Cavan, Ireland",Southampton,Fireman/Stoker,,False,54.0146118,-7.5286568,0.0
+122,"Hannam, Mr. George",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+123,"Harris, Mr. Edward",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+124,"Harris, Mr. Frederick",34.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,14,True,50.90472085,-1.3587998082396187,0.0
+125,"Harrison, Mr. Norman",39.0,"Southampton, Hampshire, England",Belfast,Assistant Second Engineer,,False,50.90472085,-1.3587998082396187,0.0
+126,"Harvey, Mr. Herbert Gifford",34.0,"Belfast, Ireland",Southampton,Junior Assistant Second Engineer,,False,54.5964411,-5.9302761,0.0
+127,"Haslin, Mr. James",45.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+128,"Hart, Mr. James",58.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+129,"Head, Mr. Arthur",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+130,"Hebb, Mr. A.",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
+131,"Hendrickson, Mr. Charles Osker",29.0,"Northam, Southampton, Hampshire, England",Southampton,Leading Fireman,1,True,,,
+132,"Hesketh, Mr. John Henry",33.0,"Kirkdale, Liverpool, England",Belfast,Junior Second Engineer,,False,53.4407853,-2.9811665,0.0
+133,"Hill, Mr. James",25.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+134,"Hinton, Mr. Steven William",31.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+135,"Hosking, Mr. George Fox",36.0,"Southampton, England",Southampton,Senior Third Engineer,,False,50.9025349,-1.404189,0.0
+136,"Hunt, Mr. Albert",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,C,True,50.90472085,-1.3587998082396187,0.0
+137,"Hunt, Mr. T.",28.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+138,"Hurst, Mr. Charles",41.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+139,"Hurst, Walter",27.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,B,True,50.90472085,-1.3587998082396187,0.0
+140,"Ingram, Mr. Charles",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+141,"Instance, T.",33.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+142,"Jackopson, Mr. John Henry",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+143,"Jago, Mr. Joseph",59.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+144,"James, Mr. Thomas",27.0,"Cardiff, Glamorgan, Wales",Southampton,Fireman/Stoker,,False,51.397871550000005,-3.3445890119919994,0.0
+145,"Jarvis, Mr. William",37.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+146,"Joas, Mr. N.",38.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+147,"Judd, Mr. Charles E.",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,B,True,50.90472085,-1.3587998082396187,0.0
+148,"Jukes, Mr. James",35.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+149,"Jupe, Mr. Herbert",31.0,"Southampton, Hampshire, England",Southampton,Assistant Electrician,,False,50.90472085,-1.3587998082396187,0.0
+150,"Kaspar, Mr. Franz V.",40.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,9,True,50.90472085,-1.3587998082396187,0.0
+151,"Kearl, Mr. Charles H.",44.0,"Ventnor, Isle of Wight, Hampshire, England",Southampton,Greaser,,False,,,
+152,"Kearl, Mr. G.",24.0,"Hampshire, England",Southampton,Trimmer,,False,51.04483545,-1.2434093597173146,0.0
+153,"Keegan, Mr. James",38.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+154,"Kelly, Mr. James",44.0,"Co. Meath, Ireland",Southampton,Greaser,,False,53.649784350000004,-6.588529492009938,0.0
+155,"Kelly, Mr. William",23.0,"Dublin, Ireland",Belfast,Assistant Electrician,,False,53.3497645,-6.2602732,0.0
+156,"Kemish, Mr. George",22.0,"Shirley, Southampton, Hampshire, England",Southampton,Fireman/Stoker,9,True,,,
+157,"Kemp, Mr. Thomas Hulman",43.0,"Southampton, Hampshire, England",Southampton,Assistant Fourth Engineer,,False,50.90472085,-1.3587998082396187,0.0
+158,"Kenchenten, Mr. Frederick",37.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+159,"Kerr, Mr. Thomas",26.0,"Glasgow, Scotland",Southampton,Fireman/Stoker,,False,55.8609825,-4.2488787,0.0
+160,"Kinsella, Mr. Louis",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+161,"Kirkham, Mr. James",43.0,"Whittingham, Liverpool, Lancashire, England",Southampton,Greaser,,False,,,
+162,"Knowles, Mr. Thomas",39.0,"Lymington, England",Southampton,Fireman's Messman,C,True,50.7590864,-1.547571931693926,0.0
+163,"Lahy, Mr. Thomas E.",32.0,"London, England",Southampton,Fireman/Stoker,,False,51.5073219,-0.1276474,0.0
+164,Lee. Mr. Henry,18.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+165,"Light, Mr. Charles",23.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+166,"Light, Mr. W.",47.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+167,"Lindsay, Mr. William Charles",30.0,"Bristol, Avon, England",Southampton,Fireman/Stoker,B,True,52.1868871,-1.5995568,0.0
+168,"Loyd, Mr. W.",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+169,"Long, Mr. Frank",28.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+170,"Long, Mr. William",36.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+171,"Mackie, Mr. William Dickson",32.0,"London, England",Belfast,Junior Fifth Engineer,,False,51.5073219,-0.1276474,0.0
+172,"Major, Mr. William",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,13,True,50.90472085,-1.3587998082396187,0.0
+173,"Marett, Mr. George John",27.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+174,"Marsh, Mr. Frederick Charles",28.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+175,"Maskell, Mr. L.A.",25.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+176,"Mason, Mr. Frank Archibald Robert",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,B,True,50.90472085,-1.3587998082396187,0.0
+177,"Mason, Mr. James",39.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+178,"May Jr., Mr. Arthur William",23.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+179,"May Sr., Mr. Arthur William",60.0,"Southampton, Hampshire, England",Southampton,Fireman's Messman,,False,50.90472085,-1.3587998082396187,0.0
+180,"Mayo, Mr. William Peter",27.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+181,"Mayzes, Mr. Thomas",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+182,"McAndrew, Mr. Thomas Patrick",38.0,"Liverpool, Merseyside, England",Southampton,Fireman/Stoker,,False,,,
+183,"McAndrews, Mr. William",23.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+184,"McCastlen, Mr. William",38.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+185,"McCubbin, Mr. Lee",,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+186,"McGann, Mr. James",29.0,"Liverpool, Lancashire, England",Southampton,Trimmer,B,True,53.6326141,-2.8105631,0.0
+187,"McGarvey, Mr. Edward Joseph",34.0,"Liverpool, Lancashire, England",Southampton,Fireman/Stoker,,False,53.6326141,-2.8105631,0.0
+188,"McGaw, Mr. Errol Victor",30.0,"Aldershot, Hampshire, England",Southampton,Fireman/Stoker,,False,51.2494169,-0.7630148,0.0
+189,"McGregor, Mr. J. (John Brown Niven)",30.0,"Edinburgh, Midlothian, Scotland",Southampton,Fireman/Stoker,,False,55.795446350000006,-3.0662448525444046,0.0
+190,"McInerney, Mr. Thomas",38.0,"Bootle, Lancashire, England",Southampton,Greaser,,False,53.765146,-2.6801237,0.0
+191,"McInytre, Mr. William",22.0,"Southampton, Hampshire, England",Southampton,Trimmer,A,True,50.90472085,-1.3587998082396187,0.0
+192,"McQuillan, Mr. William",32.0,"Belfast, Ireland",Belfast,Fireman/Stoker,,False,54.5964411,-5.9302761,0.0
+193,"McRae, Mr. William Alexander",32.0,"Shirley, Hampshire, England",Southampton,Fireman/Stoker,,False,50.783826,-1.5735367,0.0
+194,"McReynolds, Mr. William",22.0,"Belfast, Ireland",Belfast,Junior Sixth Engineer,,False,54.5964411,-5.9302761,0.0
+195,"Middleton, Mr. Alfred Pirrie",17.0,"Belfast, Ireland",Belfast,Assistant Electrician,,False,54.5964411,-5.9302761,0.0
+196,"Milford, Mr. George",28.0,"Ryde, Isle of Wight, Hampshire, England",Southampton,Fireman/Stoker,,False,,,
+197,"Millar, Mr. Robert",27.0,"Southampton, Hampshire, England",Southampton,Extra Fifth Engineer,,False,50.90472085,-1.3587998082396187,0.0
+198,"Millar, Mr. Thomas",33.0,"Belfast, Ireland",Belfast,Assistant Deck Engineer,,False,54.5964411,-5.9302761,0.0
+199,"Mintram, Mr. William",46.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+200,"Mitchell, Mr. Lawrence (Lorenzo)",19.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+201,"Moore, Mr. John J.",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+202,"Moore, Mr. Ralph",21.0,"London, England",Southampton,Trimmer,,False,51.5073219,-0.1276474,0.0
+203,"Moores, Mr. Richard Henry",44.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+204,"Morgan, Mr. Arthur Herbert",27.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+205,"Morgan, Mr. Thomas A.",26.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+206,"Morrell, Mr. R. (Albert White)",21.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+207,"Morris, Mr. Arthur",30.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+208,"Morris, Mr. William Edward",23.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+209,"Moyes, Mr. William Young",23.0,"Stirling, Scotland",Belfast,Senior Sixth Engineer,,False,56.1181242,-3.9360012,0.0
+210,"Murdock, Mr. William",34.0,"Belfast, Ireland",Belfast,Fireman/Stoker,B,True,54.5964411,-5.9302761,0.0
+211,"Nettleton, Mr. George Walter",29.0,"St. Denys, Hampshire, England",Southampton,Fireman/Stoker,,False,50.9669509,-1.4224590499999992,0.0
+212,"Newman, Mr. Charles Thomas",32.0,"Southampton, Hampshire, England",Southampton,Engineering Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
+213,"Noon, Mr. John",35.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+214,"Norris, Mr. James",22.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+215,"Noss, Mr. Bertram Arthur",21.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+216,"Noss, Mr. Henry",31.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
+217,"Nutbean, Mr. William",31.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+218,"O'Connor, Mr. John",25.0,"Southampton, Hampshire, England",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
+219,"Olive, Mr. Charles",31.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+220,"Oliver, Mr. H.",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+221,"Othen, Mr. Charles",36.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,11,True,50.90472085,-1.3587998082396187,0.0
+222,"Paice, Mr. Richard Charles John",32.0,"Kingsclere, Hampshire, England",Southampton,Fireman/Stoker,,False,51.31734145,-1.244282195835814,0.0
+223,"Painter, Mr. Charles",31.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+224,"Painter, Mr. Frank",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+225,"Palles, Mr. Thomas Henry Michael",45.0,"Liverpool, England",Southampton,Greaser,,False,53.407154,-2.991665,0.0
+226,"Parsons, Mr. Frank Alfred",27.0,"Southampton, Hampshire, England",Belfast,Senior Fifth Engineer,,False,50.90472085,-1.3587998082396187,0.0
+227,"Pearce, Mr. John",28.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
+228,"Pelham, Mr. George",39.0,"Southampton, Hampshire, England",Southampton,Trimmer,16,True,50.90472085,-1.3587998082396187,0.0
+229,"Perry, Mr. Edgar Lionel",19.0,"Southampton, Hampshire, England",Southampton,Trimmer,?,True,50.90472085,-1.3587998082396187,0.0
+230,"Perry, Mr. Henry Frederick",23.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+231,"Phillips, Mr. G.",27.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+232,"Pitfield, Mr. William James",25.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+233,"Podesta, Mr. John",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+234,"Pond, Mr. George",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+235,"Prangnell, Mr. George",31.0,"Southampton, Hampshire, England",Southampton,Greaser,B,True,50.90472085,-1.3587998082396187,0.0
+236,"Preston, Mr. Thomas Charles Alfred",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+237,"Priest, Mr. Arthur J.",23.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
+238,"Proudfoot, Mr. Richard Royston",22.0,"Plymouth, Devon, England",Southampton,Trimmer,,False,50.33392715,-4.155682606473795,0.0
+239,"Pugh, Mr. Percy",31.0,"Hampshire, England",Southampton,Leading Fireman,,False,51.04483545,-1.2434093597173146,0.0
+240,"Pusey, Mr. William Robert Holland",24.0,"Hythe, Hampshire, England",Southampton,Fireman/Stoker,1,True,50.86981,-1.3990205,0.0
+241,"Ranger, Mr. Thomas G.",29.0,"Southampton, Hampshire, England",Southampton,Greaser,4,True,50.90472085,-1.3587998082396187,0.0
+242,"Read, Mr. Joseph",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+243,"Reed, Mr. Robert",30.0,"Gosport, Hampshire, England",Southampton,Trimmer,,False,50.7952074,-1.1210853,0.0
+244,"Reeves, Mr. Robert",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+245,"Rice, Mr. Charles",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,10,True,50.90472085,-1.3587998082396187,0.0
+246,"Richards, Mr. Joseph James",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+247,"Rickman, Mr. George Albert",36.0,"Milford, Hampshire, England",Southampton,Fireman/Stoker,,False,50.72505115,-1.5855744198861115,0.0
+248,"Roberts, Mr. Robert George",35.0,"Bransgore, Hampshire, England",Southampton,Fireman/Stoker,,False,50.77368955,-1.7157711428164197,0.0
+249,"Rous, Mr. Arthur John",26.0,"Southampton, Hampshire, England",Southampton,Plumber,,False,50.90472085,-1.3587998082396187,0.0
+250,"Rudd, Mr. Henry",23.0,"Southampton, Hampshire, England",Southampton,Engineering Storkeeper,,False,50.90472085,-1.3587998082396187,0.0
+251,"Rutter, Mr. Sidney",27.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+252,"Sangster, Mr. Charles Edward",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+253,"Saunders, Mr. Thomas",,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+254,"Saunders, Mr. W.",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+255,"Saunders, Mr. W.",23.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+256,"Scott, Mr. Archibald",40.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+257,"Scott, Mr. Frederick",28.0,"Southampton, Hampshire, England",Southampton,Greaser,4,True,50.90472085,-1.3587998082396187,0.0
+258,"Self, Mr. Alfred Henry",40.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+259,"Self, Mr. Edward",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
+260,"Senior, Mr. Henry",31.0,"London, England",Southampton,Fireman/Stoker,B,True,51.5073219,-0.1276474,0.0
+261,"Shea, Mr. Thomas",29.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+262,"Sheath, Mr. Frederick",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,1,True,50.90472085,-1.3587998082396187,0.0
+263,"Shepherd, Mr. Johnathan",32.0,"Southampton, Hampshire, England",Southampton,Junior Assistant Second Engineer,,False,50.90472085,-1.3587998082396187,0.0
+264,"Shiers, Mr. Alfred",24.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,5,True,50.90472085,-1.3587998082396187,0.0
+265,"Shillaber, Mr. Charles",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+266,"Skeates, Mr. William",26.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+267,"Sloan, Mr. Peter",31.0,"Southampton, Hampshire, England",Belfast,Chief Electrician,,False,50.90472085,-1.3587998082396187,0.0
+268,"Small, Mr. William",40.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+269,"Smith, Mr. Ernest George",27.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+270,"Smith, Mr. James Muil",35.0,"Southampton, Hampshire, England",Southampton,Junior Fourth Engineer,,False,50.90472085,-1.3587998082396187,0.0
+271,"Smither, Mr. Harry James",22.0,"Kilburn, Middlesex, England",Southampton,Fireman/Stoker,,False,,,
+272,"Snellgrove, Mr. George",41.0,"Millbrook, Hampshire, England",Southampton,Fireman/Stoker,,False,50.93096825,-1.5017017400404562,0.0
+273,"Snooks, Mr. W",26.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+274,"Snowberger, Mr. Eustace Philip",21.0,"Southampton, Hampshire, England",Southampton,Trimmer,B,True,50.90472085,-1.3587998082396187,0.0
+275,"Sparkman, Mr. Henry",36.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
+276,"Stafford, Mr. Michael (Albert Briant)",34.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+277,"Stanbrook, Mr. Augustus",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+278,"Steel, Mr. Robert Edward",30.0,"Guernsey, Channel Islands",Southampton,Trimmer,,False,49.4578405,-2.5349672,0.0
+279,"Stocker, Mr. Henry Dorey",20.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+280,"Street, Mr. Henry Albert",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,9,True,50.90472085,-1.3587998082396187,0.0
+281,"Stubbs, Mr. James Henry",28.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+282,Sullivan Mr. S.,25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+283,"Taylor, Mr. James",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,1,True,50.90472085,-1.3587998082396187,0.0
+284,"Taylor, Mr. John",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+285,"Taylor, Mr. T.",42.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+286,"Taylor, Mr. William Henry",28.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,15,True,50.90472085,-1.3587998082396187,0.0
+287,"Thomas, Mr. James",27.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+288,"Thompson, Mr. John William",42.0,"Liverpool, England",Southampton,Fireman/Stoker,A/14,True,53.407154,-2.991665,0.0
+289,"Threlfall, Mr. Thomas",38.0,"Liverpool, England",Southampton,Leading Fireman,14,True,53.407154,-2.991665,0.0
+290,"Thresher, Mr. George",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,?,True,50.90472085,-1.3587998082396187,0.0
+291,"Tizard, Mr. Arthur Leopold",31.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+292,"Tozer, Mr. James",32.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+293,"Triggs, Mr. Robert",41.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,3,True,50.90472085,-1.3587998082396187,0.0
+294,"Turley, Mr. Richard",37.0,"Newry, Down, Ireland",Southampton,Fireman/Stoker,,False,54.1775283,-6.337506,0.0
+295,"van der Brugge, Mr. Wessel Adrianus",42.0,"Delfshaven, Rotterdam, Netherlands",Southampton,Fireman/Stoker,,False,51.9099946,4.4457004,0.0
+296,"Veal, Mr. Arthur",36.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+297,"Vear, Mr. Henry",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+298,"Vear, Mr. W.",32.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+299,"Ward, Mr. Arthur",24.0,"Romsey, England",Southampton,Junior Assistant Fourth Engineer,,False,50.993266399999996,-1.4895057794851212,0.0
+300,"Ward, Mr. Joseph",31.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+301,"Wardner, Mr. Frederick Albert",39.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+302,"Wateridge, Mr. Edward Lewis",25.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+303,"Watson, Mr. W.",27.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+304,"Webb, Mr. Samuel Francis",28.0,"Salford, Manchester, Lancashire, England",Southampton,Trimmer,,False,,,
+305,"Webber, Mr. Francis Albert",31.0,"Southampton, Hampshire, England",Southampton,Leading Fireman,,False,50.90472085,-1.3587998082396187,0.0
+306,"White, Mr. Alfred",32.0,"Southampton, Hampshire, England",Southampton,Greaser,4,True,50.90472085,-1.3587998082396187,0.0
+307,"White, Mr. Frank Leonard",27.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+308,"White, Mr. William George",23.0,"Salisbury, Wiltshire, England",Southampton,Trimmer,15,True,51.0690613,-1.7954134,0.0
+309,"Williams, Mr. Samuel Solomon",26.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+310,"Wilson, Mr. Bertie",28.0,"Southampton, Hampshire, England",Southampton,Senior Assistant Second Engineer,,False,50.90472085,-1.3587998082396187,0.0
+311,"Wilton, Mr. William",45.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+312,"Witcher, Mr. Alfred",40.0,"Lymington, England",Southampton,Fireman/Stoker,,False,50.7590864,-1.547571931693926,0.0
+313,"Witt, Mr. F.",,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+314,"Witt, Mr. Henry Dennis",40.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+315,"Woodford, Mr. Frederick",41.0,"Southampton, Hampshire, England",Southampton,Greaser,,False,50.90472085,-1.3587998082396187,0.0
+316,"Wood, Mr. Henry",31.0,"Southampton, Hampshire, England",Southampton,Trimmer,,False,50.90472085,-1.3587998082396187,0.0
+317,"Wyeth, Mr. James Robert",26.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0
+318,"Young, Mr. Francis James",30.0,"Southampton, Hampshire, England",Southampton,Fireman/Stoker,,False,50.90472085,-1.3587998082396187,0.0

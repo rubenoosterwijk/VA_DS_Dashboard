@@ -1,9 +1,9 @@
 ,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude
-0,"Smith, Commander Edward John, RNR (Retd)",62,"Hanley Economic, Christchurch Way, Oultoncross, Stone, Stafford, Staffordshire, West Midlands, England, ST15 8AJ, United Kingdom",Southampton,Captain,,False,52.9024431,-2.146054429404625,0.0
-1,"Wilde, Lieutenant Henry Tingle, RNR",39,"Walton-le-Dale, South Ribble, Lancashire, North West England, England, PR5 4BA, United Kingdom",Southampton,Chief Officer,,False,53.7478395,-2.6720358,0.0
-2,"Murdoch, Lieutenant William McMaster, RNR",39,"Dalbeattie Reservoir, Dalbeattie, Dumfries and Galloway, Scotland, United Kingdom",Belfast,First Officer,,False,54.93287455,-3.8645659033147473,0.0
-3,"Lightoller, Sub-Lieutenant Charles Herbert, RNR",38,"Netley, Eastleigh, Hampshire, South East England, England, SO31 5JQ, United Kingdom",Belfast,Second Officer,B,True,50.8760682,-1.348719,0.0
-4,"Pitman, Mr. Herbert John",34,"Castle Cary, South Somerset, Somerset, South West England, England, BA7 7AX, United Kingdom",Belfast,Third Officer,5,True,51.0883482,-2.5105263,0.0
-5,"Boxhall, Sub-Lieutenant Joseph Groves, RNR",28,"Hull, Kingston upon Hull, Yorkshire and the Humber, England, HU1 3RA, United Kingdom",Belfast,Fourth Officer,2,True,53.7435722,-0.3394758,0.0
-6,"Lowe, Sub-Lieutenant Harold Godfrey, RNR",29,,Belfast,Fifth Officer,14,True,,,
-7,"Moody, Sub-Lieutenant James Paul, RNR",24,"Grimsby, North East Lincolnshire, Yorkshire and the Humber, England, DN32 9UT, United Kingdom",Belfast,Sixth Officer,,False,53.5677371,-0.0736289,0.0
+0,"Smith, Commander Edward John, RNR (Retd)",62,"Hanley, Staffordshire, England",Southampton,Captain,,False,52.9024431,-2.146054429404625,0.0
+1,"Wilde, Lieutenant Henry Tingle, RNR",39,"Walton, Lancashire, England",Southampton,Chief Officer,,False,53.7478395,-2.6720358,0.0
+2,"Murdoch, Lieutenant William McMaster, RNR",39,"Dalbeattie, Kirkcudbrightshire, Scotland",Belfast,First Officer,,False,54.93287455,-3.8645659033147473,0.0
+3,"Lightoller, Sub-Lieutenant Charles Herbert, RNR",38,"Netley, Hampshire, England",Belfast,Second Officer,B,True,50.8760682,-1.348719,0.0
+4,"Pitman, Mr. Herbert John",34,"Castle Cary, Somerset, England",Belfast,Third Officer,5,True,51.0883482,-2.5105263,0.0
+5,"Boxhall, Sub-Lieutenant Joseph Groves, RNR",28,"Hull, Yorkshire, England",Belfast,Fourth Officer,2,True,53.7435722,-0.3394758,0.0
+6,"Lowe, Sub-Lieutenant Harold Godfrey, RNR",29,"Barmouth, Merionethshire, Wales",Belfast,Fifth Officer,14,True,,,
+7,"Moody, Sub-Lieutenant James Paul, RNR",24,"Grimsby, Lincolnshire, England",Belfast,Sixth Officer,,False,53.5677371,-0.0736289,0.0

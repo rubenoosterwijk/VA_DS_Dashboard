@@ -1,390 +1,390 @@
 ,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude
-0,"Abbott, Mr. Ernest Owen",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Lounge Pantry Steward,,False,50.90472085,-1.3587998082396187,0.0
-1,"Ahier, Mr. Percy Snowden",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-2,"Akerman, Mr. Albert",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-3,"Akerman, Mr. Joseph Francis",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Asst. Pantry Steward,,False,50.90472085,-1.3587998082396187,0.0
-4,"Allan, Mr. Robert Spencer",36,"Shirley Holms, Sway, New Forest, Hampshire, South East England, England, SO41 8NL, United Kingdom",Southampton,First Class Bedroom Steward,,False,50.783826,-1.5735367,0.0
-5,"Allen, Mr. George",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-6,"Allen, Mr. Frederick",17,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Lift Steward,,False,50.90472085,-1.3587998082396187,0.0
-7,"Allsop, Mr. Frank Richard",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-8,"Anderson, Mr. Walter J.",48,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-9,"Andrews, Mr. Charles Edward",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Second Class Saloon Steward,16,True,50.90472085,-1.3587998082396187,0.0
-10,"Ashcroft, Mr. Austin Aloysius",26,"Seacombe Drive, Great Sutton, Ellesmere Port, Cheshire West and Chester, North West England, England, CH66 2QN, United Kingdom",Southampton,Clerk,,False,53.273176,-2.9256714,0.0
-11,"Ashe, Mr. Henry Wellesley",32,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Glory Hole Steward,,False,53.6326141,-2.8105631,0.0
-12,"Ayling, Mr. George Edwin",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Vegetable Cook,,False,50.90472085,-1.3587998082396187,0.0
-13,"Back, Mr. Charles Frederick",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Lounge Steward,,False,50.90472085,-1.3587998082396187,0.0
-14,"Baggott, Mr. Allen Marden",28,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Southampton,First Class Saloon Steward,9,True,51.0893892,-1.2887593,0.0
-15,"Bagley, Mr. Edward Ernest",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-16,"Bailey, Mr. George Francis",36,"Shepperton Road, Canonbury, London Borough of Islington, London, Greater London, England, N1 3DT, United Kingdom",Belfast,Second Class Saloon Steward,,False,51.5374584,-0.0867114,0.0
-17,"Ball, Mr. Percy",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Plate Steward,13,True,50.90472085,-1.3587998082396187,0.0
-18,"Barker, Mr. Albert Vale",19,"Winchester, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Baker,,False,51.0612766,-1.3131692,0.0
-19,"Barker, Mr. Ernest T.",37,"London, Greater London, England, United Kingdom",Southampton,First Class Saloon Steward,,False,51.5073219,-0.1276474,0.0
-20,"Barker, Mr. Reginald Lomond",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Purser,,False,50.90472085,-1.3587998082396187,0.0
-21,"Barlow, Mr. George",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-22,"Barnes, Mr. Frederick",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Baker,,False,50.90472085,-1.3587998082396187,0.0
-23,"Barratt, Mr. Arthur",15,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bell Boy,,False,50.90472085,-1.3587998082396187,0.0
-24,"Barringer, Mr. Arthur William",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-25,"Barrow, Mr. Harry",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Butcher,,False,50.90472085,-1.3587998082396187,0.0
-26,"Barrows, Mr. William",32,"London, Greater London, England, United Kingdom",Southampton,First Class Saloon Steward,,False,51.5073219,-0.1276474,0.0
-27,"Barton, Mr. Sidney John",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-28,"Baxter, Mr. Harry Ross",51,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-29,"Baxter, Mr. Thomas Ferguson",48,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Linen Steward,,False,50.90472085,-1.3587998082396187,0.0
-30,"Bedford, Mr. William Barnet",31,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Southampton,Assistant Roast Cook,,False,51.0893892,-1.2887593,0.0
-31,"Beedem, Mr. George Arthur",34,"London, Greater London, England, United Kingdom",Southampton,Second Class Bedroom Steward,,False,51.5073219,-0.1276474,0.0
-32,"Beere, Mr. William",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Kitchen Porter,,False,50.90472085,-1.3587998082396187,0.0
-33,"Benham, Mr. Frederick",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-34,"Bennett, Mrs. Mabel",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Stewardess,5,True,50.90472085,-1.3587998082396187,0.0
-35,"Bessant, Mr. Edward William",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Baggage Steward,,False,50.90472085,-1.3587998082396187,0.0
-36,"Best, Mr. Alfred",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-37,"Blake, Mr. Seaton",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
-38,"Bishop, Mr. Walter Alexander",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-39,"Bliss, Mrs. Emma (née Junod)",45,"London, Greater London, England, United Kingdom",Southampton,First Class Stewardess,15,True,51.5073219,-0.1276474,0.0
-40,"Bochatay, Mr. Alexis Joseph",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Chef,,False,50.90472085,-1.3587998082396187,0.0
-41,"Bogie, Mr. Norman Leslie",29,"Eastleigh, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Bedroom Steward,,False,50.9202316,-1.299273639634381,0.0
-42,"Bond, Mr. William John",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-43,"Boothby, Mr. W.",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-44,"Boston, Mr. William John",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
-45,"Boughton, Mr. B.",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-46,"Boyd, Mr. John",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-47,"Boyes, Mr. John Henry",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-48,"Bradshaw, Mr. J.A.",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
-49,"Brewster, Mr. George H.",48,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-50,"Bride, Mr. Harold Sydney",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Telegraphist,B,True,50.90472085,-1.3587998082396187,0.0
-51,"Bristow, Mr. Robert Charles",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-52,"Bristow, Mr. Harry",33,"Looe, Cornwall, South West England, England, PL13 2DT, United Kingdom",Southampton,First Class Saloon Steward,,False,50.3508088,-4.4548396,0.0
-53,"Brookman, Mr, John",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-54,"Broom, Mr. H.",33,"Cowes, Isle of Wight, South East England, England, United Kingdom",Belfast,Bath Steward,,False,50.757624750000005,-1.3035640666867363,0.0
-55,"Broome, Mr. Athol Frederick",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Verandah Steward,,False,50.90472085,-1.3587998082396187,0.0
-56,"Brown, Mr. Edward",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,A,True,50.90472085,-1.3587998082396187,0.0
-57,"Brown, Mr. Walter James",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-58,"Buckley, Mr. H.E.",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Vegetable Cook,,False,50.90472085,-1.3587998082396187,0.0
-59,"Bull, Mr. W.",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-60,"Bulley, Mr. Henry Ashburnham",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Boots,,False,50.90472085,-1.3587998082396187,0.0
-61,"Bunnell, Mr. Wilfred",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
-62,"Burgess, Mr. Charles Reginald",18,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Extra Third Baker,15,True,50.90472085,-1.3587998082396187,0.0
-63,"Burke, Mr. Richard Edward",30,"Chandler's Ford, Eastleigh, Hampshire, South East England, England, United Kingdom",Belfast,Lounge Steward,,False,50.9828402,-1.3833123,0.0
-64,"Burke, Mr. William",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,10,True,50.90472085,-1.3587998082396187,0.0
-65,"Burr, Mr. Ewart",29,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Saloon Steward,,False,51.3017496,-1.0535822,0.0
-66,"Burrage, Mr. Alfred",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Plate Steward,13,True,50.90472085,-1.3587998082396187,0.0
-67,"Butt, Mr. Robert Henry",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-68,"Butterworth, Mr. John",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-69,"Byrne, Mr. J.E.",31,"Ilford, London, Greater London, England, IG1 1DL, United Kingdom",Southampton,Bedroom Steward,,False,51.5582734,0.0711669,0.0
-70,"Campbell, Mr. Donald S.",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Clerk,,False,50.90472085,-1.3587998082396187,0.0
-71,"Carney, Mr. William",31,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Lift Steward,,False,53.6326141,-2.8105631,0.0
-72,"Cartwright, Mr. James Edward",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-73,"Casswill, Mr. Charles",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-74,"Caton, Miss Annie",50,"London, Greater London, England, United Kingdom",Southampton,Turkish Bath Stewardess,11,True,51.5073219,-0.1276474,0.0
-75,"Caunt, Mr. William Ewart",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Grill Cook,,False,50.90472085,-1.3587998082396187,0.0
-76,"Cave, Mr. Herbert",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-77,"Cecil, Mr. C.",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-78,"Chapman, Mr. Joseph Charles",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Boots,9,True,50.90472085,-1.3587998082396187,0.0
-79,"Charman, Mr. John",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-80,"Cheverton, Mr. William Edward",27,"Newport / Trefdraeth, Pembrokeshire, Cymru / Wales, SA42 0TJ, United Kingdom",Belfast,Saloon Steward,,False,52.0169568,-4.833143,0.0
-81,"Chitty, Mr. Archibald George",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-82,"Chitty, Mr. George Henry",52,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Baker,,False,50.90472085,-1.3587998082396187,0.0
-83,"Christmas, Mr. H.",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-84,"Coleman, Mr. Albert Edward",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-85,"Coleman, Mr. John",57,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Southampton,Mess Steward,,False,51.0893892,-1.2887593,0.0
-86,"Colgan, Mr. E. Joseph",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,13,True,50.90472085,-1.3587998082396187,0.0
-87,"Collins, Mr. John",17,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Southampton,Scullion,B,True,54.5964411,-5.9302761,0.0
-88,"Conway, Mr. P.W.",25,"London, Greater London, England, United Kingdom",Belfast,Saloon Steward,,False,51.5073219,-0.1276474,0.0
-89,"Cook, Mr. George",42,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-90,"Coombs, Mr. Augustus Charles",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Cook,,False,50.90472085,-1.3587998082396187,0.0
-91,"Corben, Mr. Ernest Theodore",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Printer Steward,,False,50.90472085,-1.3587998082396187,0.0
-92,"Coutin, Mr. Auguste Louis",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Entree Cook,,False,50.90472085,-1.3587998082396187,0.0
-93,"Cox, Mr. William Denton",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-94,"Crafter, Mr. Frederick",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,15,True,50.90472085,-1.3587998082396187,0.0
-95,"Crawford, Mr. Alfred",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,8,True,50.90472085,-1.3587998082396187,0.0
-96,"Crisp, Mr. Albert Hector",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-97,"Crispin, Mr. William",32,"Eastleigh, Hampshire, South East England, England, United Kingdom",Southampton,Glory Hole Steward,,False,50.9202316,-1.299273639634381,0.0
-98,"Crosby, Mr. J. Bertram",42,"London, Greater London, England, United Kingdom",Southampton,Turkish Bath Attendant,,False,51.5073219,-0.1276474,0.0
-99,"Crowe, Mr. George Frederick",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,14,True,50.90472085,-1.3587998082396187,0.0
-100,"Crumplin, Mr. Charles",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-101,"Cullen, Mr. Charles",45,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,11,True,50.90472085,-1.3587998082396187,0.0
-102,"Cunningham, Mr. Andrew",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,4,True,50.90472085,-1.3587998082396187,0.0
-103,"Daniels, Mr. Sidney Edward",18,,Southampton,Steward,B,True,,,
-104,"Dashwood, Mr. William George",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-105,"Davies, Mr. Gordon Raleigh",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-106,"Davies, Mr. John James",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Extra 2nd Baker,,False,50.90472085,-1.3587998082396187,0.0
-107,"Davies, Mr. Robert J.",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-108,"Dean, Mr. George H.",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-109,"Deeble, Mr. Alfred Arnold",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-110,"Derrett, Mr. Albert",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-111,"Deslands, Mr. Percival Stainer",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-112,"Desvernine, Mr. Louis Gabriel",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pastry Cook,,False,50.90472085,-1.3587998082396187,0.0
-113,"Dinenage, Mr. James Richard",47,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-114,"Dodd, Mr. George Charles",44,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Steward,,False,50.90472085,-1.3587998082396187,0.0
-115,"Dolby, Mr. Joseph",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Reception Room Steward,,False,50.90472085,-1.3587998082396187,0.0
-116,"Donoghue, Mr. Frank",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-117,"Doughty, Mr. W.",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-118,"Dunford, Mr. William",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Hospital Steward,,False,50.90472085,-1.3587998082396187,0.0
-119,"Dyer, Mr. William",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-120,"Edbrooke, Mr. F.",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-121,"Ede, Mr. George B.",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-122,"Edge, Mr. Frederick William",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
-123,"Edwards, Mr. Clement",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
-124,"Egg, Mr. W.H.",34,"London, Greater London, England, United Kingdom",Southampton,Steward,,False,51.5073219,-0.1276474,0.0
-125,"Ellis, Mr. John Bertram",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Vegetable Cook,2,True,50.90472085,-1.3587998082396187,0.0
-126,"Ennis, Mr. Walter",35,"Southport New Road, Tarleton, West Lancashire, Lancashire, North West England, England, PR4 6HX, United Kingdom",Southampton,Turkish Bath Attendant,,False,53.6707011,-2.8447537,0.0
-127,"Etches, Mr. Henry Samuel",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,5,True,50.90472085,-1.3587998082396187,0.0
-128,"Evans, Mr. George Richard",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-129,"Fairall, Mr. Henry",38,"Ryde, Isle of Wight, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.72414995,-1.1727622804957734,0.0
-130,"Farrenden, Mr. Ernest John",32,"Emsworth, Havant, Hampshire, South East England, England, United Kingdom",Belfast,Confectioner,,False,50.8473211,-0.9371343,0.0
-131,"Faulkner, Mr. William Stephen",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,11,True,50.90472085,-1.3587998082396187,0.0
-132,"Fellowes, Mr. Alfred J.",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Boots,,False,50.90472085,-1.3587998082396187,0.0
-133,"Feltham, Mr. G.",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Vienna Baker,,False,50.90472085,-1.3587998082396187,0.0
-134,"Finch, Mr. Harry",18,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-135,"Fletcher, Mr. Peter W.",26,"Sholing FC, Hound, Hedge End, Eastleigh, Hampshire, South East England, England, United Kingdom",Belfast,Bugler Steward,,False,50.893264099999996,-1.338103450000002,0.0
-136,"Foley, Mr. William C.",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,13,True,50.90472085,-1.3587998082396187,0.0
-137,"Ford, Mr. Ernest",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-138,"Ford, Mr. F.",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-139,"Fox, Mr. William Thomas",27,"Ealing, London, Greater London, England, W5 5DG, United Kingdom",Southampton,Steward,,False,51.5126553,-0.3051952,0.0
-140,"Franklin, Mr. Alan Vincent",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-141,"Freeman, Mr. Ernest Edward Samuel",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
-142,"Geddes, Mr. Richard Charles",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-143,"Gibbons, Mr. Jacob William",36,"Studland, Dorset, South West England, England, BH19 3BT, United Kingdom",Southampton,Saloon Steward,11,True,50.6423774,-1.9525845,0.0
-144,"Giles, Mr. John Robert",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Baker,,False,50.90472085,-1.3587998082396187,0.0
-145,"Gill, Mr. Joseph Stanley",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-146,"Gill, Mr. Patrick",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Ship's Cook,,False,50.90472085,-1.3587998082396187,0.0
-147,"Gold, Mrs. Katherine (née Cook)",42,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,11,True,50.90472085,-1.3587998082396187,0.0
-148,"Gollop, Mr. F.",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Passage Cook,,False,50.90472085,-1.3587998082396187,0.0
-149,"Goshawk, Mr. Arthur James",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Third Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-150,"Gregson, Miss Mary",44,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,16,True,50.90472085,-1.3587998082396187,0.0
-151,"Gunn, Mr. Joseph Alfred",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-152,"Guy, Mr. Edward John",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Boots,5,True,50.90472085,-1.3587998082396187,0.0
-153,"Halford, Mr. Richard",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,15,True,50.90472085,-1.3587998082396187,0.0
-154,"Hall, Mr. F.A.J.",38,"London, Greater London, England, United Kingdom",Southampton,Scullion,,False,51.5073219,-0.1276474,0.0
-155,"Hamblyn, Mr. Ernest William",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-156,"Hamilton, Mr. Ernest",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Smoke Room Steward,,False,50.90472085,-1.3587998082396187,0.0
-157,"Harding, Mr. A.",20,"Swaythling Road, Chartwell Green, West End, Eastleigh, Hampshire, South East England, England, SO18 3HT, United Kingdom",Southampton,Assistant Pantry Steward,,False,50.9347339,-1.3512604,0.0
-158,"Hardwick, Mr. Reginald",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Kitchen Porter,11,True,50.90472085,-1.3587998082396187,0.0
-159,"Hardy, Mr. John T.",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Chief 2nd Class Steward,D,True,50.90472085,-1.3587998082396187,0.0
-160,"Harris, Mr. Charles William",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-161,"Harris, Mr. Clifford Henry",16,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bell Boy,,False,50.90472085,-1.3587998082396187,0.0
-162,"Harris, Mr. Edward",18,"Winchester, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pantryman Steward,,False,51.0612766,-1.3131692,0.0
-163,"Harrison, Mr. Aragon D.",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
-164,"Hart, Mr. John Edward",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,15,True,50.90472085,-1.3587998082396187,0.0
-165,"Hartnell, Mr. Frederick",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
-166,"Hatch, Mr. Hugh",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-167,"Hawkesworth, Mr. James",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-168,"Hawkesworth, Mr. William Walter",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
-169,"Hayter, Mr. Arthur",44,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-170,"Heinen, Mr. Joseph",30,"Lewisham, London, Greater London, England, SE13 6BB, United Kingdom",Southampton,Saloon Steward,,False,51.4624325,-0.0101331,0.0
-171,"Hendy, Mr. Edward Martin",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-172,"Hensford, Mr. Herbert George",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Butcher,,False,50.90472085,-1.3587998082396187,0.0
-173,"Hewett, Mr. Thomas",37,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Belfast,Bedroom Steward,,False,53.6326141,-2.8105631,0.0
-174,"Hill, Mr. H.P.",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-175,"Hill, Mr. James Colston",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-176,"Hinckley, Mr. George",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bath Steward,,False,50.90472085,-1.3587998082396187,0.0
-177,"Hine, Mr. William Edward",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Baker,,False,50.90472085,-1.3587998082396187,0.0
-178,"Hiscock, Mr. S.",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
-179,"Hoare, Mr. Leonard James",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-180,"Hogg, Mr. Charles William",37,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Bedroom Steward,,False,53.6326141,-2.8105631,0.0
-181,"Hogue, Mr. E.",22,"London, Greater London, England, United Kingdom",Southampton,Plate Steward,,False,51.5073219,-0.1276474,0.0
-182,"Holland, Mr. Thomas",28,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Belfast,Reception Steward,,False,53.6326141,-2.8105631,0.0
-183,"Holloway, Mr. Sidney",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Clothes Presser,,False,50.90472085,-1.3587998082396187,0.0
-184,"Hopkins, Mr. F.",16,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
-185,"House, Mr. William",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-186,"Howell, Mr. Arthur Albert",31,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Belfast,Saloon Steward,,False,51.0893892,-1.2887593,0.0
-187,"Hughes, Mr. William Thomas",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-188,"Humby, Mr. Frederick",16,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
-189,"Humphreys, Mr. Thomas Humphrey",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-190,"Hutchinson, Mr. James",29,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Vegetable Cook,,False,53.6326141,-2.8105631,0.0
-191,"Hyland, Mr. Leo James",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,11,True,50.90472085,-1.3587998082396187,0.0
-192,"Ide, Mr. Harry John",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-193,"Ingrouille, Mr. Henry",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-194,"Ings, Mr. William Ernest",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-195,"Jackson, Mr. Cecil",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Boots,,False,50.90472085,-1.3587998082396187,0.0
-196,"Janaway, Mr. William Frank",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-197,"Jenner, Mr. Harry",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-198,"Jensen, Mr. Charles Valdemar",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-199,"Jessop, Miss Violet Constance",24,"London, Greater London, England, United Kingdom",Southampton,Stewardess,16,True,51.5073219,-0.1276474,0.0
-200,"Johnson Thorne, Mr. Harry",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Ship's Cook,,False,50.90472085,-1.3587998082396187,0.0
-201,"Johnston, Mr. James",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,2,True,50.90472085,-1.3587998082396187,0.0
-202,"Jones, Mr. Albert",17,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-203,"Jones, Mr. Arthur Ernest",38,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Plate Steward,,False,51.3017496,-1.0535822,0.0
-204,"Jones, Mr. H.",29,"Alresford, Tendring, Essex, East of England, England, CO7 8AT, United Kingdom",Southampton,Roast Cook,,False,51.8519359,1.0023071,0.0
-205,"Jones, Mr. Reginald V.",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-206,"Joughin, Mr. Charles John",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Chief Baker,B,True,50.90472085,-1.3587998082396187,0.0
-207,"Keen, Mr. Percy Edward",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,15,True,50.90472085,-1.3587998082396187,0.0
-208,"Kelland, Mr. Thomas",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Library Steward,,False,50.90472085,-1.3587998082396187,0.0
-209,"Kennell, Mr. Charles",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Hebrew Cook,,False,50.90472085,-1.3587998082396187,0.0
-210,"Kerley, Mr. William Thomas",28,"Salisbury, Wiltshire, South West England, England, United Kingdom",Southampton,Assistant Saloon Steward,A,True,51.0690613,-1.7954134,0.0
-211,"Ketchley, Mr. Henry",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-212,"Kieran, Mr. James W.",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Chief 3rd Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-213,"Kieran, Mr. Michael",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-214,"King, Mr. Alfred",18,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Lift Steward,,False,50.90472085,-1.3587998082396187,0.0
-215,"King, Mr. Ernest Waldron",28,"Clones, Ballybay-Clones Municipal District, County Monaghan, H23 FK29, Éire / Ireland",Southampton,Clerk,,False,54.1804028,-7.233439,0.0
-216,"King, Mr. G.",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-217,"Kingscote, Mr. William Ford",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-218,"Kirkaldy, Mr. Thomas",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-219,"Kitching, Mr. Arthur Alfred",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-220,"Klein, Mr. Herbert",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Barber,,False,50.90472085,-1.3587998082396187,0.0
-221,"Knight, Mr. George",44,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Saloon Steward,13,True,51.3017496,-1.0535822,0.0
-222,"Knight, Mr. Leonard George",21,"Bishopstoke, Eastleigh, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.9712758,-1.3273954372222223,0.0
-223,"Lacey, Mr. Bert W.",21,"Salisbury, Wiltshire, South West England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,51.0690613,-1.7954134,0.0
-224,"Lake, Mr. William",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-225,"Lane, Mr. Albert Edward",34,"Woolston Place, Sherfield Park, Basingstoke and Deane, Hampshire, South East England, England, RG27 0FH, United Kingdom",Southampton,Saloon Steward,,False,51.3017496,-1.0535822,0.0
-226,"Latimer, Mr. Andrew L.",55,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Belfast,Chief First Class Steward,,False,53.6326141,-2.8105631,0.0
-227,"Lavington, Miss Bessie",39,"Winchester, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,11,True,51.0612766,-1.3131692,0.0
-228,"Lawrence, Mr. Arthur",25,"Rochford, Essex, East of England, England, United Kingdom",Belfast,Saloon Steward,,False,51.5838691,0.7056174,0.0
-229,"Leader, Mr. Archie",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Confectioner,,False,50.90472085,-1.3587998082396187,0.0
-230,"Leather, Mrs Elizabeth May",41,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Southampton,Stewardess,16,True,53.6326141,-2.8105631,0.0
-231,"Lefebvre, Mr. Paul Georges",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-232,"Leonard, Mr. Matthew",26,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Belfast,Steward,,False,54.5964411,-5.9302761,0.0
-233,"Levett, Mr. George Alfred",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Pantryman,,False,50.90472085,-1.3587998082396187,0.0
-234,"Lewis, Mr. Arthur Ernest",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,15,True,50.90472085,-1.3587998082396187,0.0
-235,"Light, Mr. C.",23,"Christchurch, Burton, Bournemouth, Christchurch and Poole, South East England, England, United Kingdom",Southampton,Plate Steward,,False,50.7651261,-1.8145483592492209,0.0
-236,"Littlejohn, Mr. Alexander James",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,13,True,50.90472085,-1.3587998082396187,0.0
-237,"Lloyd, Mr. Humphrey",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-238,"Locke, Mr. A.",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-239,"Longmuir, Mr. John Dickson",19,"Eastleigh, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pantry Steward,,False,50.9202316,-1.299273639634381,0.0
-240,"Lovell, Mr. John",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Grill Cook,,False,50.90472085,-1.3587998082396187,0.0
-241,"Lucas, Mr. William",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,A,True,50.90472085,-1.3587998082396187,0.0
-242,"Lydiatt, Mr. Charles",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-243,"Mabey, Mr. J.",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-244,"Mackay, Mr. Charles Donald",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
-245,"Mackie, Mr. George William",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-246,"Major, Mr. Thomas Edgar",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bath Steward,,False,50.90472085,-1.3587998082396187,0.0
-247,"Mantle, Mr. Roland Frederick",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-248,"Marks, Mr. J.",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
-249,"Marriott, Mr. J.W.",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
-250,"Marsden, Miss Evelyn",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,16,True,50.90472085,-1.3587998082396187,0.0
-251,"Martin, Mrs. Annie",33,"Portsmouth, Havant, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,11,True,50.8221133,-1.0677602492961795,0.0
-252,"Martin, Mr. F.",29,"Fareham, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,13,True,50.8526637,-1.1783134,0.0
-253,"Maynard, Mr. Isaac Hiram",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Entre Cook,B,True,50.90472085,-1.3587998082396187,0.0
-254,"Maytum, Mr. Alfred",52,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Chief Butcher,,False,50.90472085,-1.3587998082396187,0.0
-255,"McCarthy, Mr. Frederick",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-256,"McCawley, Mr. Thomas W.",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Gymnasium Steward,,False,50.90472085,-1.3587998082396187,0.0
-257,"McElroy, Mr. Hugh Walter",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Purser,,False,50.90472085,-1.3587998082396187,0.0
-258,"McGrady, Mr. James",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-259,"McLaren, Mrs.",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,5,True,50.90472085,-1.3587998082396187,0.0
-260,"McMicken, Mr. Arthur",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
-261,"McMicken, Mr. Benjamin Tucker",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Second Pantry Steward,,False,50.90472085,-1.3587998082396187,0.0
-262,"McMullin, Mr. James",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-263,"McMurray, Mr. William Ernest",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-264,"Mellor, Mr. Arthur",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-265,"Middleton, Mr. M.V.",24,"London, Greater London, England, United Kingdom",Southampton,Saloon Steward,,False,51.5073219,-0.1276474,0.0
-266,"Mills, Mr. Christopher",51,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Butcher,C,True,50.90472085,-1.3587998082396187,0.0
-267,"Mishellamy, Mr. Abraham",52,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Printer Steward,,False,50.90472085,-1.3587998082396187,0.0
-268,"Moore, Mr. Alfred Ernest",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-269,"Morgan (Bird), Mr. Charles Frederick",42,"Birkenhead Street, Northwich, Cheshire West and Chester, North West England, England, CW9 7DE, United Kingdom",Southampton,Assistant Storekeeper,,False,53.2594958,-2.4897226,0.0
-270,"Morris, Mr. Frank Herbert",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bathroom Steward,14,True,50.90472085,-1.3587998082396187,0.0
-271,"Moss, Mr. William",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,First Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-272,"Mullen, Mr. Thomas A.",20,"Maxwelltown, Dumfries, Dumfries and Galloway, Scotland, DG2 9EE, United Kingdom",Southampton,Steward,,False,55.0676221,-3.6292681,0.0
-273,"Neal, Mr. Henry",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Baker,13,True,50.90472085,-1.3587998082396187,0.0
-274,"Nicholls, Mr. Sidney",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-275,"Nichols, Mr. A. D.",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-276,"Nichols, Mr. Walter Henry",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,15,True,50.90472085,-1.3587998082396187,0.0
-277,"O'Connor, Mr. Thomas Peter",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-278,"Olive, Mr. Ernest Roskelly",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Clothes Presser Steward,,False,50.90472085,-1.3587998082396187,0.0
-279,"Orpet, Mr. Walter Hayward",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-280,"Orr, Mr. J.",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Vegetable Cook,,False,50.90472085,-1.3587998082396187,0.0
-281,"Osbourne, Mr. William Edward",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-282,"Owen, Mr. Lewis",49,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-283,"Pacey, Mr. Reginald Ivan",17,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Lift Steward,,False,50.90472085,-1.3587998082396187,0.0
-284,"Paintin, Mr. James Arthur",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Captain's Steward,,False,50.90472085,-1.3587998082396187,0.0
-285,"Parsons, Mr. Edward",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Chief Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-286,"Parsons, Mr. Richard",18,"Ashbrittle, Somerset West and Taunton, Somerset, South West England, England, TA21 0LE, United Kingdom",Southampton,Saloon Steward,,False,50.9845602,-3.3506266,0.0
-287,"Pearce, Mr. Alfred Ernest",24,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-288,"Pearcey, Mr. Albert Victor",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,C,True,50.90472085,-1.3587998082396187,0.0
-289,"Pennal, Mr. Thomas Francis",33,"Shirley Holms, Sway, New Forest, Hampshire, South East England, England, SO41 8NL, United Kingdom",Southampton,Bath Steward,,False,50.783826,-1.5735367,0.0
-290,"Penny, Mr. William Far",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-291,"Penrose, Mr. John Poole",49,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-292,"Perkins, Mr. Laurence Alexander",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Telephone Steward,,False,50.90472085,-1.3587998082396187,0.0
-293,"Perrin, Mr. William Charles",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
-294,"Perriton, Mr. Hubert Prouse",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-295,"Petty, Mr. Edwin Henry",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-296,"Pfropper, Mr. Richard",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
-297,"Phillimore, Mr. Harold Charles William",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,14,True,50.90472085,-1.3587998082396187,0.0
-298,"Phillips, Mr. John George ""Jack""",25,"Godalming, Waverley, Surrey, South East England, England, United Kingdom",Belfast,Telegraphist,,False,51.1857892,-0.6149074,0.0
-299,"Platt, Mr. W.",18,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Scullion,,False,50.90472085,-1.3587998082396187,0.0
-300,"Pook, Mr. P.",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Pantry,,False,50.90472085,-1.3587998082396187,0.0
-301,"Port, Mr. Frank",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Steward,13,True,50.90472085,-1.3587998082396187,0.0
-302,"Porteus, Mr. Thomas",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Butcher,,False,50.90472085,-1.3587998082396187,0.0
-303,"Prentice, Mr. Frank Winnold",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Storekeeper,4,True,50.90472085,-1.3587998082396187,0.0
-304,"Prichard, Mrs. Alice",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Stewardess,11,True,50.90472085,-1.3587998082396187,0.0
-305,"Prideaux, Mr. John Arthur ""Jack""",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Steward,,False,50.90472085,-1.3587998082396187,0.0
-306,"Prior, Mr. Harold John",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Steward,11,True,50.90472085,-1.3587998082396187,0.0
-307,"Proctor, Mr. Charles",40,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Belfast,Chef,,False,53.6326141,-2.8105631,0.0
-308,"Pryce, Mr. Charles William",22,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-309,"Pugh, Mr. Alfred",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,14,True,50.90472085,-1.3587998082396187,0.0
-310,"Puzey, Mr. John E.",35,"Itchen, Kings Worthy, Winchester, Hampshire, South East England, England, SO23 7QL, United Kingdom",Belfast,Saloon Steward,,False,51.0893892,-1.2887593,0.0
-311,"Randall, Mr. Frank Henry",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-312,"Ransom, Mr. James",33,"Bristol Way, Wellesbourne CP, Wellesbourne, Stratford-on-Avon, Warwickshire, West Midlands, England, CV35 9TJ, United Kingdom",Belfast,Saloon Steward,,False,52.1868871,-1.5995568,0.0
-313,"Rattonbury, Mr. William Henry",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Assistant Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
-314,"Ray, Mr. Frederick Dent",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,13,True,50.90472085,-1.3587998082396187,0.0
-315,"Reed, Mr. Charles S.",43,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-316,"Revell, Mr. William",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-317,"Rice, Mr. John Reginald",25,"Crosby Place, Ingol, Ingol and Tanterton, Preston, Lancashire, North West England, England, PR2 3XS, United Kingdom",Southampton,Clerk,,False,53.7782794,-2.7423231,0.0
-318,"Rice, Mr. John Reginald",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-319,"Ricks, Mr. Cyril G.",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-320,"Ridout, Mr. W.",29,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-321,"Rimmer, Mr. Gilbert",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-322,"Roberton, Mr. George Edward",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-323,"Roberts, Mr. Frank John",36,"Farnborough, Rushmoor, Hampshire, South East England, England, GU14 7JT, United Kingdom",Belfast,Third Butcher,,False,51.2918693,-0.7539836,0.0
-324,"Roberts, Mr. Hugh H.",40,"Bootle Street, St. Matthew's, Fishwick, Preston, Lancashire, North West England, England, PR1 5NS, United Kingdom",Southampton,Bedroom Steward,,False,53.765146,-2.6801237,0.0
-325,"Roberts, Mrs. Mary Kezziah (née Humphrys)",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,16,True,50.90472085,-1.3587998082396187,0.0
-326,"Robinson, Mrs. Annie",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,11,True,50.90472085,-1.3587998082396187,0.0
-327,"Robinson, Mr. James William",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-328,"Rogers, Mr. Edward James William",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-329,"Rogers, Mr. Michael",27,"Winchester, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,51.0612766,-1.3131692,0.0
-330,"Ross, Mr. Horace Leopold",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Scullion,13,True,50.90472085,-1.3587998082396187,0.0
-331,"Rowe, Mr. Edward M.",31,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon 1st Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-332,"Rule, Mr. Samuel James",58,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Bathroom Steward,15,True,50.90472085,-1.3587998082396187,0.0
-333,"Russell, Mr. Boysie Richard",17,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-334,"Ryan, Mr. Tom",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-335,"Ryerson, Mr. William Edwy",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
-336,"Samuel, Mr. Owen Wilmore",41,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-337,"Saunders, Mr. D. E.",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-338,"Savage, Mr. Charles J.",23,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
-339,"Scott, Mr. John",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
-340,"Scovell, Mr. Robert",42,"Freemantle, King Lane, Over Wallop, Test Valley, Hampshire, South East England, England, SO20 8JG, United Kingdom",Southampton,Saloon Steward,,False,51.144324299999994,-1.5956504842344639,0.0
-341,"Sedunary, Mr. Sidney Francis",25,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-342,"Shea, Mr. John",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-343,"Slight, Mr. Harry John",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-344,"Sloan, Miss Mary",28,"Belfast, County Antrim, Northern Ireland, BT1 5GS, United Kingdom",Southampton,Stewardess,,False,54.5964411,-5.9302761,0.0
-345,"Slocombe, Mrs Maud (née Waldon)",30,"London, Greater London, England, United Kingdom",Southampton,Turkish Bath Stewardess,,False,51.5073219,-0.1276474,0.0
-346,"Smillie, Mr. John",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-347,"Smith, Mr. Charles Edward",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Bed Room Steward,,False,50.90472085,-1.3587998082396187,0.0
-348,"Smith, Mr. F",20,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
-349,"Smith, Miss Katherine E.",42,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,,False,50.90472085,-1.3587998082396187,0.0
-350,"Snape, Mrs Lucy Violet",22,"Witley, Waverley, Surrey, South East England, England, United Kingdom",Southampton,Stewardess,,False,51.14479835,-0.6568798115940656,0.0
-351,"Stap, Miss Sarah Agnes",47,"Birkenhead Street, Northwich, Cheshire West and Chester, North West England, England, CW9 7DE, United Kingdom",Southampton,Stewardess,,False,53.2594958,-2.4897226,0.0
-352,"Stone, Mr. Edmond J.",26,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-353,"Stone, Mr. Edward Thomas",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-354,"Talbot, Mr. George Frederick Charles.",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
-355,"Taylor, Mr. William",21,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
-356,"Teuton, Mr. Thomas Moore",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-357,"Toshack, Mr. James A.",30,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-358,"Turner, Mr. Leopold[25]",28,"Church Stretton, Shropshire, West Midlands, England, SY6 6DL, United Kingdom",Belfast,First Class Saloon Steward,,False,52.5390725,-2.8077658,0.0
-359,"Veal, Mr. Thomas H.E.",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-360,"Wake, Mr. T.",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Asst. Baker,,False,50.90472085,-1.3587998082396187,0.0
-361,"Wallis, Mrs Catherine Jane",35,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Matron,,False,50.90472085,-1.3587998082396187,0.0
-362,"Walpole, Mr. James",48,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Belfast,Chief Pantryman,,False,50.90472085,-1.3587998082396187,0.0
-363,"Walsh, Miss Catherine",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Stewardess,,False,50.90472085,-1.3587998082396187,0.0
-364,"Ward, Mr. Edward",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-365,"Ward, Mr. Percy T.",38,"Hampshire, England, United Kingdom",Southampton,First Class Bedroom Steward,,False,51.04483545,-1.2434093597173146,0.0
-366,"Ward, Mr. William",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
-367,"Wareham, Mr. Robert Arthur",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-368,"Warwick, Mr. Thomas",35,"Hampshire, England, United Kingdom",Southampton,First Class Bedroom Steward,,False,51.04483545,-1.2434093597173146,0.0
-369,"Weatherston, Mr. Thomas",24,"Leeds and Liverpool Canal (Rufford Branch), Rufford, West Lancashire, Lancashire, North West England, England, L40 1TA, United Kingdom",Belfast,First Class Bedroom Steward,,False,53.6326141,-2.8105631,0.0
-370,"Weikman, Mr. Augustus Henry",51,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Barber,A,True,50.90472085,-1.3587998082396187,0.0
-371,"White, Mr. Arthur",37,"Portsmouth, Havant, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Barber,,False,50.8221133,-1.0677602492961795,0.0
-372,"White, Mr Edward Joseph",27,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Glory Hole Steward,,False,50.90472085,-1.3587998082396187,0.0
-373,"White, Mr. L.",32,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-374,"Whiteley, Mr. Thomas",18,"London, Greater London, England, United Kingdom",Southampton,First Class Saloon Steward,B,True,51.5073219,-0.1276474,0.0
-375,"Whitford, Mr. A.H.",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-376,"Whittman, Mr. Henry",34,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
-377,"Widgery, Mr. James G.",37,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Bath Steward,9,True,50.90472085,-1.3587998082396187,0.0
-378,"Wildebank, Mr. Alfred E.",39,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Asst. Cook,13,True,50.90472085,-1.3587998082396187,0.0
-379,"Williams, Mr. Walter J.",28,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Second Class Saloon Steward,13,True,50.90472085,-1.3587998082396187,0.0
-380,"Willis, Mr. William",66,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
-381,"Wiltshire, Mr. W.",33,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Asst. Butcher,,False,50.90472085,-1.3587998082396187,0.0
-382,"Witter, Mr. James W.C.",31,"Hampshire, England, United Kingdom",Southampton,Second Class Smoking Room Steward,11,True,51.04483545,-1.2434093597173146,0.0
-383,"Wood, Mr. J.T.",40,"London, Greater London, England, United Kingdom",Southampton,Second Class Saloon Steward,,False,51.5073219,-0.1276474,0.0
-384,"Wormald, Mr. Frederick William",36,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
-385,"Wrapson, Mr. Frederick B.",19,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Asst. Pantryman,,False,50.90472085,-1.3587998082396187,0.0
-386,"Wright, Mr. Frederick",24,"London, Greater London, England, United Kingdom",Southampton,Squash Court Steward,,False,51.5073219,-0.1276474,0.0
-387,"Wright, Mr. William",40,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,Glory Hole Steward,13,True,50.90472085,-1.3587998082396187,0.0
-388,"Yearsley, Mr. Harry",38,"Southampton Itchen, Southampton, Hampshire, South East England, England, United Kingdom",Southampton,First Class Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
+0,"Abbott, Mr. Ernest Owen",21,"Southampton, Hampshire, England",Southampton,First Class Lounge Pantry Steward,,False,50.90472085,-1.3587998082396187,0.0
+1,"Ahier, Mr. Percy Snowden",20,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+2,"Akerman, Mr. Albert",28,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+3,"Akerman, Mr. Joseph Francis",35,"Southampton, Hampshire, England",Southampton,Asst. Pantry Steward,,False,50.90472085,-1.3587998082396187,0.0
+4,"Allan, Mr. Robert Spencer",36,"Shirley, Hampshire, England",Southampton,First Class Bedroom Steward,,False,50.783826,-1.5735367,0.0
+5,"Allen, Mr. George",26,"Southampton, Hampshire, England",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+6,"Allen, Mr. Frederick",17,"Southampton, Hampshire, England",Southampton,Lift Steward,,False,50.90472085,-1.3587998082396187,0.0
+7,"Allsop, Mr. Frank Richard",41,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+8,"Anderson, Mr. Walter J.",48,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+9,"Andrews, Mr. Charles Edward",19,"Southampton, Hampshire, England",Southampton,Assistant Second Class Saloon Steward,16,True,50.90472085,-1.3587998082396187,0.0
+10,"Ashcroft, Mr. Austin Aloysius",26,"Seacombe, Cheshire, England",Southampton,Clerk,,False,53.273176,-2.9256714,0.0
+11,"Ashe, Mr. Henry Wellesley",32,"Liverpool, Lancashire, England",Southampton,Glory Hole Steward,,False,53.6326141,-2.8105631,0.0
+12,"Ayling, Mr. George Edwin",22,"Southampton, Hampshire, England",Southampton,Assistant Vegetable Cook,,False,50.90472085,-1.3587998082396187,0.0
+13,"Back, Mr. Charles Frederick",32,"Southampton, Hampshire, England",Belfast,Assistant Lounge Steward,,False,50.90472085,-1.3587998082396187,0.0
+14,"Baggott, Mr. Allen Marden",28,"Itchen, Hampshire, England",Southampton,First Class Saloon Steward,9,True,51.0893892,-1.2887593,0.0
+15,"Bagley, Mr. Edward Ernest",31,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+16,"Bailey, Mr. George Francis",36,"Shepperton, London, England",Belfast,Second Class Saloon Steward,,False,51.5374584,-0.0867114,0.0
+17,"Ball, Mr. Percy",19,"Southampton, Hampshire, England",Southampton,First Class Plate Steward,13,True,50.90472085,-1.3587998082396187,0.0
+18,"Barker, Mr. Albert Vale",19,"Winchester, Hampshire, England",Southampton,Assistant Baker,,False,51.0612766,-1.3131692,0.0
+19,"Barker, Mr. Ernest T.",37,"London, England",Southampton,First Class Saloon Steward,,False,51.5073219,-0.1276474,0.0
+20,"Barker, Mr. Reginald Lomond",40,"Southampton, Hampshire, England",Belfast,Assistant Purser,,False,50.90472085,-1.3587998082396187,0.0
+21,"Barlow, Mr. George",36,"Southampton, Hampshire, England",Southampton,Second Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+22,"Barnes, Mr. Frederick",37,"Southampton, Hampshire, England",Southampton,Assistant Baker,,False,50.90472085,-1.3587998082396187,0.0
+23,"Barratt, Mr. Arthur",15,"Southampton, Hampshire, England",Southampton,Bell Boy,,False,50.90472085,-1.3587998082396187,0.0
+24,"Barringer, Mr. Arthur William",33,"Southampton, Hampshire, England",Belfast,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+25,"Barrow, Mr. Harry",35,"Southampton, Hampshire, England",Southampton,Assistant Butcher,,False,50.90472085,-1.3587998082396187,0.0
+26,"Barrows, Mr. William",32,"London, England",Southampton,First Class Saloon Steward,,False,51.5073219,-0.1276474,0.0
+27,"Barton, Mr. Sidney John",25,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+28,"Baxter, Mr. Harry Ross",51,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+29,"Baxter, Mr. Thomas Ferguson",48,"Southampton, Hampshire, England",Southampton,Linen Steward,,False,50.90472085,-1.3587998082396187,0.0
+30,"Bedford, Mr. William Barnet",31,"Itchen, Hampshire, England",Southampton,Assistant Roast Cook,,False,51.0893892,-1.2887593,0.0
+31,"Beedem, Mr. George Arthur",34,"London, England",Southampton,Second Class Bedroom Steward,,False,51.5073219,-0.1276474,0.0
+32,"Beere, Mr. William",19,"Southampton, Hampshire, England",Southampton,Kitchen Porter,,False,50.90472085,-1.3587998082396187,0.0
+33,"Benham, Mr. Frederick",29,"Southampton, Hampshire, England",Southampton,Second Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+34,"Bennett, Mrs. Mabel",30,"Southampton, Hampshire, England",Southampton,First Class Stewardess,5,True,50.90472085,-1.3587998082396187,0.0
+35,"Bessant, Mr. Edward William",31,"Southampton, Hampshire, England",Southampton,Baggage Steward,,False,50.90472085,-1.3587998082396187,0.0
+36,"Best, Mr. Alfred",38,"Southampton, Hampshire, England",Belfast,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+37,"Blake, Mr. Seaton",26,"Southampton, Hampshire, England",Belfast,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
+38,"Bishop, Mr. Walter Alexander",34,"Southampton, Hampshire, England",Belfast,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+39,"Bliss, Mrs. Emma (née Junod)",45,"London, England",Southampton,First Class Stewardess,15,True,51.5073219,-0.1276474,0.0
+40,"Bochatay, Mr. Alexis Joseph",30,"Southampton, Hampshire, England",Southampton,Assistant Chef,,False,50.90472085,-1.3587998082396187,0.0
+41,"Bogie, Mr. Norman Leslie",29,"Eastleigh, Hampshire, England",Southampton,Second Class Bedroom Steward,,False,50.9202316,-1.299273639634381,0.0
+42,"Bond, Mr. William John",40,"Southampton, Hampshire, England",Belfast,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+43,"Boothby, Mr. W.",36,"Southampton, Hampshire, England",Southampton,Second Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+44,"Boston, Mr. William John",30,"Southampton, Hampshire, England",Belfast,Assistant Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
+45,"Boughton, Mr. B.",24,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+46,"Boyd, Mr. John",35,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+47,"Boyes, Mr. John Henry",36,"Southampton, Hampshire, England",Belfast,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+48,"Bradshaw, Mr. J.A.",43,"Southampton, Hampshire, England",Southampton,First Class Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
+49,"Brewster, Mr. George H.",48,"Southampton, Hampshire, England",Belfast,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+50,"Bride, Mr. Harold Sydney",22,"Southampton, Hampshire, England",Belfast,Assistant Telegraphist,B,True,50.90472085,-1.3587998082396187,0.0
+51,"Bristow, Mr. Robert Charles",31,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+52,"Bristow, Mr. Harry",33,"Looe, Cornwall, England",Southampton,First Class Saloon Steward,,False,50.3508088,-4.4548396,0.0
+53,"Brookman, Mr, John",27,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+54,"Broom, Mr. H.",33,"Cowes, Isle of Wight, England",Belfast,Bath Steward,,False,50.757624750000005,-1.3035640666867363,0.0
+55,"Broome, Mr. Athol Frederick",30,"Southampton, Hampshire, England",Southampton,Verandah Steward,,False,50.90472085,-1.3587998082396187,0.0
+56,"Brown, Mr. Edward",34,"Southampton, Hampshire, England",Belfast,Saloon Steward,A,True,50.90472085,-1.3587998082396187,0.0
+57,"Brown, Mr. Walter James",28,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+58,"Buckley, Mr. H.E.",34,"Southampton, Hampshire, England",Southampton,Assistant Vegetable Cook,,False,50.90472085,-1.3587998082396187,0.0
+59,"Bull, Mr. W.",30,"Southampton, Hampshire, England",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+60,"Bulley, Mr. Henry Ashburnham",21,"Southampton, Hampshire, England",Southampton,Boots,,False,50.90472085,-1.3587998082396187,0.0
+61,"Bunnell, Mr. Wilfred",20,"Southampton, Hampshire, England",Belfast,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
+62,"Burgess, Mr. Charles Reginald",18,"Southampton, Hampshire, England",Southampton,Extra Third Baker,15,True,50.90472085,-1.3587998082396187,0.0
+63,"Burke, Mr. Richard Edward",30,"Chandler's Ford, Hampshire, England",Belfast,Lounge Steward,,False,50.9828402,-1.3833123,0.0
+64,"Burke, Mr. William",31,"Southampton, Hampshire, England",Belfast,Saloon Steward,10,True,50.90472085,-1.3587998082396187,0.0
+65,"Burr, Mr. Ewart",29,"Woolston, Hampshire, England",Southampton,Saloon Steward,,False,51.3017496,-1.0535822,0.0
+66,"Burrage, Mr. Alfred",20,"Southampton, Hampshire, England",Southampton,Plate Steward,13,True,50.90472085,-1.3587998082396187,0.0
+67,"Butt, Mr. Robert Henry",22,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+68,"Butterworth, Mr. John",23,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+69,"Byrne, Mr. J.E.",31,"Ilford, London, England",Southampton,Bedroom Steward,,False,51.5582734,0.0711669,0.0
+70,"Campbell, Mr. Donald S.",25,"Southampton, Hampshire, England",Southampton,Third Class Clerk,,False,50.90472085,-1.3587998082396187,0.0
+71,"Carney, Mr. William",31,"Liverpool, Lancashire, England",Southampton,Lift Steward,,False,53.6326141,-2.8105631,0.0
+72,"Cartwright, Mr. James Edward",32,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+73,"Casswill, Mr. Charles",32,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+74,"Caton, Miss Annie",50,"London, England",Southampton,Turkish Bath Stewardess,11,True,51.5073219,-0.1276474,0.0
+75,"Caunt, Mr. William Ewart",27,"Southampton, Hampshire, England",Southampton,Grill Cook,,False,50.90472085,-1.3587998082396187,0.0
+76,"Cave, Mr. Herbert",34,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+77,"Cecil, Mr. C.",20,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+78,"Chapman, Mr. Joseph Charles",32,"Southampton, Hampshire, England",Southampton,Boots,9,True,50.90472085,-1.3587998082396187,0.0
+79,"Charman, Mr. John",25,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+80,"Cheverton, Mr. William Edward",27,"Newport, Pembrokeshire, Wales",Belfast,Saloon Steward,,False,52.0169568,-4.833143,0.0
+81,"Chitty, Mr. Archibald George",28,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+82,"Chitty, Mr. George Henry",52,"Southampton, Hampshire, England",Southampton,Baker,,False,50.90472085,-1.3587998082396187,0.0
+83,"Christmas, Mr. H.",33,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+84,"Coleman, Mr. Albert Edward",28,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+85,"Coleman, Mr. John",57,"Itchen, Hampshire, England",Southampton,Mess Steward,,False,51.0893892,-1.2887593,0.0
+86,"Colgan, Mr. E. Joseph",33,"Southampton, Hampshire, England",Southampton,Scullion,13,True,50.90472085,-1.3587998082396187,0.0
+87,"Collins, Mr. John",17,"Belfast, Ireland",Southampton,Scullion,B,True,54.5964411,-5.9302761,0.0
+88,"Conway, Mr. P.W.",25,"London, England",Belfast,Saloon Steward,,False,51.5073219,-0.1276474,0.0
+89,"Cook, Mr. George",42,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+90,"Coombs, Mr. Augustus Charles",38,"Southampton, Hampshire, England",Southampton,Cook,,False,50.90472085,-1.3587998082396187,0.0
+91,"Corben, Mr. Ernest Theodore",27,"Southampton, Hampshire, England",Southampton,Assistant Printer Steward,,False,50.90472085,-1.3587998082396187,0.0
+92,"Coutin, Mr. Auguste Louis",28,"Southampton, Hampshire, England",Southampton,Entree Cook,,False,50.90472085,-1.3587998082396187,0.0
+93,"Cox, Mr. William Denton",29,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+94,"Crafter, Mr. Frederick",27,"Southampton, Hampshire, England",Southampton,Saloon Steward,15,True,50.90472085,-1.3587998082396187,0.0
+95,"Crawford, Mr. Alfred",36,"Southampton, Hampshire, England",Belfast,Bedroom Steward,8,True,50.90472085,-1.3587998082396187,0.0
+96,"Crisp, Mr. Albert Hector",35,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+97,"Crispin, Mr. William",32,"Eastleigh, Hampshire, England",Southampton,Glory Hole Steward,,False,50.9202316,-1.299273639634381,0.0
+98,"Crosby, Mr. J. Bertram",42,"London, England",Southampton,Turkish Bath Attendant,,False,51.5073219,-0.1276474,0.0
+99,"Crowe, Mr. George Frederick",30,"Southampton, Hampshire, England",Southampton,Saloon Steward,14,True,50.90472085,-1.3587998082396187,0.0
+100,"Crumplin, Mr. Charles",35,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+101,"Cullen, Mr. Charles",45,"Southampton, Hampshire, England",Belfast,Bedroom Steward,11,True,50.90472085,-1.3587998082396187,0.0
+102,"Cunningham, Mr. Andrew",35,"Southampton, Hampshire, England",Belfast,Bedroom Steward,4,True,50.90472085,-1.3587998082396187,0.0
+103,"Daniels, Mr. Sidney Edward",18,"Southsea, Hampshire, England",Southampton,Steward,B,True,,,
+104,"Dashwood, Mr. William George",19,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+105,"Davies, Mr. Gordon Raleigh",33,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+106,"Davies, Mr. John James",27,"Southampton, Hampshire, England",Belfast,Extra 2nd Baker,,False,50.90472085,-1.3587998082396187,0.0
+107,"Davies, Mr. Robert J.",26,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+108,"Dean, Mr. George H.",19,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+109,"Deeble, Mr. Alfred Arnold",29,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+110,"Derrett, Mr. Albert",26,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+111,"Deslands, Mr. Percival Stainer",36,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+112,"Desvernine, Mr. Louis Gabriel",20,"Southampton, Hampshire, England",Southampton,Assistant Pastry Cook,,False,50.90472085,-1.3587998082396187,0.0
+113,"Dinenage, Mr. James Richard",47,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+114,"Dodd, Mr. George Charles",44,"Southampton, Hampshire, England",Belfast,Steward,,False,50.90472085,-1.3587998082396187,0.0
+115,"Dolby, Mr. Joseph",36,"Southampton, Hampshire, England",Belfast,Reception Room Steward,,False,50.90472085,-1.3587998082396187,0.0
+116,"Donoghue, Mr. Frank",35,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+117,"Doughty, Mr. W.",22,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+118,"Dunford, Mr. William",41,"Southampton, Hampshire, England",Southampton,Hospital Steward,,False,50.90472085,-1.3587998082396187,0.0
+119,"Dyer, Mr. William",31,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+120,"Edbrooke, Mr. F.",24,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+121,"Ede, Mr. George B.",22,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+122,"Edge, Mr. Frederick William",37,"Southampton, Hampshire, England",Southampton,Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
+123,"Edwards, Mr. Clement",38,"Southampton, Hampshire, England",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
+124,"Egg, Mr. W.H.",34,"London, England",Southampton,Steward,,False,51.5073219,-0.1276474,0.0
+125,"Ellis, Mr. John Bertram",30,"Southampton, Hampshire, England",Southampton,Assistant Vegetable Cook,2,True,50.90472085,-1.3587998082396187,0.0
+126,"Ennis, Mr. Walter",35,"Southport, Lancashire, England",Southampton,Turkish Bath Attendant,,False,53.6707011,-2.8447537,0.0
+127,"Etches, Mr. Henry Samuel",41,"Southampton, Hampshire, England",Belfast,Bedroom Steward,5,True,50.90472085,-1.3587998082396187,0.0
+128,"Evans, Mr. George Richard",32,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+129,"Fairall, Mr. Henry",38,"Ryde, Isle of Wight, England",Belfast,Saloon Steward,,False,50.72414995,-1.1727622804957734,0.0
+130,"Farrenden, Mr. Ernest John",32,"Emsworth, Hampshire, England",Belfast,Confectioner,,False,50.8473211,-0.9371343,0.0
+131,"Faulkner, Mr. William Stephen",37,"Southampton, Hampshire, England",Belfast,Bedroom Steward,11,True,50.90472085,-1.3587998082396187,0.0
+132,"Fellowes, Mr. Alfred J.",29,"Southampton, Hampshire, England",Belfast,Boots,,False,50.90472085,-1.3587998082396187,0.0
+133,"Feltham, Mr. G.",36,"Southampton, Hampshire, England",Southampton,Vienna Baker,,False,50.90472085,-1.3587998082396187,0.0
+134,"Finch, Mr. Harry",18,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+135,"Fletcher, Mr. Peter W.",26,"Sholing, Hampshire, England",Belfast,Bugler Steward,,False,50.893264099999996,-1.338103450000002,0.0
+136,"Foley, Mr. William C.",26,"Southampton, Hampshire, England",Southampton,Steward,13,True,50.90472085,-1.3587998082396187,0.0
+137,"Ford, Mr. Ernest",32,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+138,"Ford, Mr. F.",37,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+139,"Fox, Mr. William Thomas",27,"Ealing, London, England",Southampton,Steward,,False,51.5126553,-0.3051952,0.0
+140,"Franklin, Mr. Alan Vincent",29,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+141,"Freeman, Mr. Ernest Edward Samuel",43,"Southampton, Hampshire, England",Belfast,Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
+142,"Geddes, Mr. Richard Charles",31,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+143,"Gibbons, Mr. Jacob William",36,"Studland, Dorset, England",Southampton,Saloon Steward,11,True,50.6423774,-1.9525845,0.0
+144,"Giles, Mr. John Robert",30,"Southampton, Hampshire, England",Southampton,Baker,,False,50.90472085,-1.3587998082396187,0.0
+145,"Gill, Mr. Joseph Stanley",34,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+146,"Gill, Mr. Patrick",38,"Southampton, Hampshire, England",Southampton,Ship's Cook,,False,50.90472085,-1.3587998082396187,0.0
+147,"Gold, Mrs. Katherine (née Cook)",42,"Southampton, Hampshire, England",Southampton,Stewardess,11,True,50.90472085,-1.3587998082396187,0.0
+148,"Gollop, Mr. F.",28,"Southampton, Hampshire, England",Southampton,Assistant Passage Cook,,False,50.90472085,-1.3587998082396187,0.0
+149,"Goshawk, Mr. Arthur James",31,"Southampton, Hampshire, England",Belfast,Third Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+150,"Gregson, Miss Mary",44,"Southampton, Hampshire, England",Southampton,Stewardess,16,True,50.90472085,-1.3587998082396187,0.0
+151,"Gunn, Mr. Joseph Alfred",28,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+152,"Guy, Mr. Edward John",28,"Southampton, Hampshire, England",Southampton,Boots,5,True,50.90472085,-1.3587998082396187,0.0
+153,"Halford, Mr. Richard",22,"Southampton, Hampshire, England",Southampton,Steward,15,True,50.90472085,-1.3587998082396187,0.0
+154,"Hall, Mr. F.A.J.",38,"London, England",Southampton,Scullion,,False,51.5073219,-0.1276474,0.0
+155,"Hamblyn, Mr. Ernest William",41,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+156,"Hamilton, Mr. Ernest",25,"Southampton, Hampshire, England",Belfast,Assistant Smoke Room Steward,,False,50.90472085,-1.3587998082396187,0.0
+157,"Harding, Mr. A.",20,"Swaythling, Hampshire, England",Southampton,Assistant Pantry Steward,,False,50.9347339,-1.3512604,0.0
+158,"Hardwick, Mr. Reginald",21,"Southampton, Hampshire, England",Southampton,Kitchen Porter,11,True,50.90472085,-1.3587998082396187,0.0
+159,"Hardy, Mr. John T.",37,"Southampton, Hampshire, England",Belfast,Chief 2nd Class Steward,D,True,50.90472085,-1.3587998082396187,0.0
+160,"Harris, Mr. Charles William",19,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+161,"Harris, Mr. Clifford Henry",16,"Southampton, Hampshire, England",Southampton,Bell Boy,,False,50.90472085,-1.3587998082396187,0.0
+162,"Harris, Mr. Edward",18,"Winchester, Hampshire, England",Southampton,Assistant Pantryman Steward,,False,51.0612766,-1.3131692,0.0
+163,"Harrison, Mr. Aragon D.",40,"Southampton, Hampshire, England",Southampton,Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
+164,"Hart, Mr. John Edward",31,"Southampton, Hampshire, England",Southampton,Third Class Steward,15,True,50.90472085,-1.3587998082396187,0.0
+165,"Hartnell, Mr. Frederick",21,"Southampton, Hampshire, England",Southampton,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
+166,"Hatch, Mr. Hugh",22,"Southampton, Hampshire, England",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+167,"Hawkesworth, Mr. James",38,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+168,"Hawkesworth, Mr. William Walter",38,"Southampton, Hampshire, England",Southampton,Deck Steward,,False,50.90472085,-1.3587998082396187,0.0
+169,"Hayter, Mr. Arthur",44,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+170,"Heinen, Mr. Joseph",30,"Lewisham, London, England",Southampton,Saloon Steward,,False,51.4624325,-0.0101331,0.0
+171,"Hendy, Mr. Edward Martin",38,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+172,"Hensford, Mr. Herbert George",29,"Southampton, Hampshire, England",Southampton,Butcher,,False,50.90472085,-1.3587998082396187,0.0
+173,"Hewett, Mr. Thomas",37,"Liverpool, Lancashire, England",Belfast,Bedroom Steward,,False,53.6326141,-2.8105631,0.0
+174,"Hill, Mr. H.P.",36,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+175,"Hill, Mr. James Colston",38,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+176,"Hinckley, Mr. George",35,"Southampton, Hampshire, England",Southampton,Bath Steward,,False,50.90472085,-1.3587998082396187,0.0
+177,"Hine, Mr. William Edward",36,"Southampton, Hampshire, England",Southampton,Baker,,False,50.90472085,-1.3587998082396187,0.0
+178,"Hiscock, Mr. S.",22,"Southampton, Hampshire, England",Southampton,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
+179,"Hoare, Mr. Leonard James",21,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+180,"Hogg, Mr. Charles William",37,"Liverpool, Lancashire, England",Southampton,Bedroom Steward,,False,53.6326141,-2.8105631,0.0
+181,"Hogue, Mr. E.",22,"London, England",Southampton,Plate Steward,,False,51.5073219,-0.1276474,0.0
+182,"Holland, Mr. Thomas",28,"Liverpool, Lancashire, England",Belfast,Reception Steward,,False,53.6326141,-2.8105631,0.0
+183,"Holloway, Mr. Sidney",20,"Southampton, Hampshire, England",Southampton,Clothes Presser,,False,50.90472085,-1.3587998082396187,0.0
+184,"Hopkins, Mr. F.",16,"Southampton, Hampshire, England",Southampton,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
+185,"House, Mr. William",38,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+186,"Howell, Mr. Arthur Albert",31,"Itchen, Hampshire, England",Belfast,Saloon Steward,,False,51.0893892,-1.2887593,0.0
+187,"Hughes, Mr. William Thomas",33,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+188,"Humby, Mr. Frederick",16,"Southampton, Hampshire, England",Southampton,Plate Steward,,False,50.90472085,-1.3587998082396187,0.0
+189,"Humphreys, Mr. Thomas Humphrey",31,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+190,"Hutchinson, Mr. James",29,"Liverpool, Lancashire, England",Southampton,Vegetable Cook,,False,53.6326141,-2.8105631,0.0
+191,"Hyland, Mr. Leo James",19,"Southampton, Hampshire, England",Southampton,Steward,11,True,50.90472085,-1.3587998082396187,0.0
+192,"Ide, Mr. Harry John",32,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+193,"Ingrouille, Mr. Henry",21,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+194,"Ings, Mr. William Ernest",20,"Southampton, Hampshire, England",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+195,"Jackson, Mr. Cecil",29,"Southampton, Hampshire, England",Belfast,Boots,,False,50.90472085,-1.3587998082396187,0.0
+196,"Janaway, Mr. William Frank",35,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+197,"Jenner, Mr. Harry",41,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+198,"Jensen, Mr. Charles Valdemar",25,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+199,"Jessop, Miss Violet Constance",24,"London, England",Southampton,Stewardess,16,True,51.5073219,-0.1276474,0.0
+200,"Johnson Thorne, Mr. Harry",25,"Southampton, Hampshire, England",Southampton,Assistant Ship's Cook,,False,50.90472085,-1.3587998082396187,0.0
+201,"Johnston, Mr. James",41,"Southampton, Hampshire, England",Belfast,Saloon Steward,2,True,50.90472085,-1.3587998082396187,0.0
+202,"Jones, Mr. Albert",17,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+203,"Jones, Mr. Arthur Ernest",38,"Woolston, Hampshire, England",Southampton,Plate Steward,,False,51.3017496,-1.0535822,0.0
+204,"Jones, Mr. H.",29,"Alresford, Essex, England",Southampton,Roast Cook,,False,51.8519359,1.0023071,0.0
+205,"Jones, Mr. Reginald V.",20,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+206,"Joughin, Mr. Charles John",32,"Southampton, Hampshire, England",Belfast,Chief Baker,B,True,50.90472085,-1.3587998082396187,0.0
+207,"Keen, Mr. Percy Edward",28,"Southampton, Hampshire, England",Southampton,Saloon Steward,15,True,50.90472085,-1.3587998082396187,0.0
+208,"Kelland, Mr. Thomas",21,"Southampton, Hampshire, England",Southampton,Library Steward,,False,50.90472085,-1.3587998082396187,0.0
+209,"Kennell, Mr. Charles",30,"Southampton, Hampshire, England",Southampton,Hebrew Cook,,False,50.90472085,-1.3587998082396187,0.0
+210,"Kerley, Mr. William Thomas",28,"Salisbury, Wiltshire, England",Southampton,Assistant Saloon Steward,A,True,51.0690613,-1.7954134,0.0
+211,"Ketchley, Mr. Henry",30,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+212,"Kieran, Mr. James W.",32,"Southampton, Hampshire, England",Southampton,Chief 3rd Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+213,"Kieran, Mr. Michael",31,"Southampton, Hampshire, England",Southampton,Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
+214,"King, Mr. Alfred",18,"Southampton, Hampshire, England",Southampton,Lift Steward,,False,50.90472085,-1.3587998082396187,0.0
+215,"King, Mr. Ernest Waldron",28,"Clones, Monaghan, Ireland",Southampton,Clerk,,False,54.1804028,-7.233439,0.0
+216,"King, Mr. G.",20,"Southampton, Hampshire, England",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+217,"Kingscote, Mr. William Ford",43,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+218,"Kirkaldy, Mr. Thomas",37,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+219,"Kitching, Mr. Arthur Alfred",30,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+220,"Klein, Mr. Herbert",33,"Southampton, Hampshire, England",Southampton,Second Class Barber,,False,50.90472085,-1.3587998082396187,0.0
+221,"Knight, Mr. George",44,"Woolston, Hampshire, England",Southampton,Saloon Steward,13,True,51.3017496,-1.0535822,0.0
+222,"Knight, Mr. Leonard George",21,"Bishopstoke, Hampshire, England",Southampton,Steward,,False,50.9712758,-1.3273954372222223,0.0
+223,"Lacey, Mr. Bert W.",21,"Salisbury, Wiltshire, England",Southampton,Assistant Saloon Steward,,False,51.0690613,-1.7954134,0.0
+224,"Lake, Mr. William",35,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+225,"Lane, Mr. Albert Edward",34,"Woolston, Hampshire, England",Southampton,Saloon Steward,,False,51.3017496,-1.0535822,0.0
+226,"Latimer, Mr. Andrew L.",55,"Liverpool, Lancashire, England",Belfast,Chief First Class Steward,,False,53.6326141,-2.8105631,0.0
+227,"Lavington, Miss Bessie",39,"Winchester, Hampshire, England",Southampton,Stewardess,11,True,51.0612766,-1.3131692,0.0
+228,"Lawrence, Mr. Arthur",25,"Rochford, Essex, England",Belfast,Saloon Steward,,False,51.5838691,0.7056174,0.0
+229,"Leader, Mr. Archie",22,"Southampton, Hampshire, England",Southampton,Confectioner,,False,50.90472085,-1.3587998082396187,0.0
+230,"Leather, Mrs Elizabeth May",41,"Liverpool, Lancashire, England",Southampton,Stewardess,16,True,53.6326141,-2.8105631,0.0
+231,"Lefebvre, Mr. Paul Georges",35,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+232,"Leonard, Mr. Matthew",26,"Belfast, Ireland",Belfast,Steward,,False,54.5964411,-5.9302761,0.0
+233,"Levett, Mr. George Alfred",21,"Southampton, Hampshire, England",Belfast,Assistant Pantryman,,False,50.90472085,-1.3587998082396187,0.0
+234,"Lewis, Mr. Arthur Ernest",27,"Southampton, Hampshire, England",Southampton,Steward,15,True,50.90472085,-1.3587998082396187,0.0
+235,"Light, Mr. C.",23,"Christchurch, Dorset, England",Southampton,Plate Steward,,False,50.7651261,-1.8145483592492209,0.0
+236,"Littlejohn, Mr. Alexander James",40,"Southampton, Hampshire, England",Belfast,Saloon Steward,13,True,50.90472085,-1.3587998082396187,0.0
+237,"Lloyd, Mr. Humphrey",32,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+238,"Locke, Mr. A.",33,"Southampton, Hampshire, England",Southampton,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+239,"Longmuir, Mr. John Dickson",19,"Eastleigh, Hampshire, England",Southampton,Assistant Pantry Steward,,False,50.9202316,-1.299273639634381,0.0
+240,"Lovell, Mr. John",38,"Southampton, Hampshire, England",Southampton,Grill Cook,,False,50.90472085,-1.3587998082396187,0.0
+241,"Lucas, Mr. William",34,"Southampton, Hampshire, England",Belfast,Saloon Steward,A,True,50.90472085,-1.3587998082396187,0.0
+242,"Lydiatt, Mr. Charles",38,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+243,"Mabey, Mr. J.",23,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+244,"Mackay, Mr. Charles Donald",34,"Southampton, Hampshire, England",Belfast,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
+245,"Mackie, Mr. George William",34,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+246,"Major, Mr. Thomas Edgar",35,"Southampton, Hampshire, England",Belfast,Bath Steward,,False,50.90472085,-1.3587998082396187,0.0
+247,"Mantle, Mr. Roland Frederick",36,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+248,"Marks, Mr. J.",26,"Southampton, Hampshire, England",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
+249,"Marriott, Mr. J.W.",20,"Southampton, Hampshire, England",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
+250,"Marsden, Miss Evelyn",28,"Southampton, Hampshire, England",Southampton,Stewardess,16,True,50.90472085,-1.3587998082396187,0.0
+251,"Martin, Mrs. Annie",33,"Portsmouth, Hampshire, England",Southampton,Stewardess,11,True,50.8221133,-1.0677602492961795,0.0
+252,"Martin, Mr. F.",29,"Fareham, Hampshire, England",Southampton,Scullion,13,True,50.8526637,-1.1783134,0.0
+253,"Maynard, Mr. Isaac Hiram",31,"Southampton, Hampshire, England",Belfast,Entre Cook,B,True,50.90472085,-1.3587998082396187,0.0
+254,"Maytum, Mr. Alfred",52,"Southampton, Hampshire, England",Belfast,Chief Butcher,,False,50.90472085,-1.3587998082396187,0.0
+255,"McCarthy, Mr. Frederick",36,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+256,"McCawley, Mr. Thomas W.",36,"Southampton, Hampshire, England",Belfast,Gymnasium Steward,,False,50.90472085,-1.3587998082396187,0.0
+257,"McElroy, Mr. Hugh Walter",37,"Southampton, Hampshire, England",Southampton,Purser,,False,50.90472085,-1.3587998082396187,0.0
+258,"McGrady, Mr. James",27,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+259,"McLaren, Mrs.",40,"Southampton, Hampshire, England",Southampton,Stewardess,5,True,50.90472085,-1.3587998082396187,0.0
+260,"McMicken, Mr. Arthur",23,"Southampton, Hampshire, England",Belfast,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
+261,"McMicken, Mr. Benjamin Tucker",21,"Southampton, Hampshire, England",Belfast,Second Pantry Steward,,False,50.90472085,-1.3587998082396187,0.0
+262,"McMullin, Mr. James",31,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+263,"McMurray, Mr. William Ernest",43,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+264,"Mellor, Mr. Arthur",34,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+265,"Middleton, Mr. M.V.",24,"London, England",Southampton,Saloon Steward,,False,51.5073219,-0.1276474,0.0
+266,"Mills, Mr. Christopher",51,"Southampton, Hampshire, England",Southampton,Butcher,C,True,50.90472085,-1.3587998082396187,0.0
+267,"Mishellamy, Mr. Abraham",52,"Southampton, Hampshire, England",Belfast,Printer Steward,,False,50.90472085,-1.3587998082396187,0.0
+268,"Moore, Mr. Alfred Ernest",39,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+269,"Morgan (Bird), Mr. Charles Frederick",42,"Birkenhead, Cheshire, England",Southampton,Assistant Storekeeper,,False,53.2594958,-2.4897226,0.0
+270,"Morris, Mr. Frank Herbert",28,"Southampton, Hampshire, England",Belfast,Bathroom Steward,14,True,50.90472085,-1.3587998082396187,0.0
+271,"Moss, Mr. William",34,"Southampton, Hampshire, England",Belfast,First Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+272,"Mullen, Mr. Thomas A.",20,"Maxwelltown, Dumfries, Scotland",Southampton,Steward,,False,55.0676221,-3.6292681,0.0
+273,"Neal, Mr. Henry",25,"Southampton, Hampshire, England",Southampton,Baker,13,True,50.90472085,-1.3587998082396187,0.0
+274,"Nicholls, Mr. Sidney",39,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+275,"Nichols, Mr. A. D.",34,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+276,"Nichols, Mr. Walter Henry",35,"Southampton, Hampshire, England",Southampton,Steward,15,True,50.90472085,-1.3587998082396187,0.0
+277,"O'Connor, Mr. Thomas Peter",39,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+278,"Olive, Mr. Ernest Roskelly",28,"Southampton, Hampshire, England",Southampton,Clothes Presser Steward,,False,50.90472085,-1.3587998082396187,0.0
+279,"Orpet, Mr. Walter Hayward",31,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+280,"Orr, Mr. J.",40,"Southampton, Hampshire, England",Southampton,Assistant Vegetable Cook,,False,50.90472085,-1.3587998082396187,0.0
+281,"Osbourne, Mr. William Edward",32,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+282,"Owen, Mr. Lewis",49,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+283,"Pacey, Mr. Reginald Ivan",17,"Southampton, Hampshire, England",Southampton,Lift Steward,,False,50.90472085,-1.3587998082396187,0.0
+284,"Paintin, Mr. James Arthur",29,"Southampton, Hampshire, England",Southampton,Captain's Steward,,False,50.90472085,-1.3587998082396187,0.0
+285,"Parsons, Mr. Edward",35,"Southampton, Hampshire, England",Southampton,Chief Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
+286,"Parsons, Mr. Richard",18,"Ashbrittle, Somerset, England",Southampton,Saloon Steward,,False,50.9845602,-3.3506266,0.0
+287,"Pearce, Mr. Alfred Ernest",24,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+288,"Pearcey, Mr. Albert Victor",32,"Southampton, Hampshire, England",Southampton,Steward,C,True,50.90472085,-1.3587998082396187,0.0
+289,"Pennal, Mr. Thomas Francis",33,"Shirley, Hampshire, Hampshire, England",Southampton,Bath Steward,,False,50.783826,-1.5735367,0.0
+290,"Penny, Mr. William Far",30,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+291,"Penrose, Mr. John Poole",49,"Southampton, Hampshire, England",Belfast,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+292,"Perkins, Mr. Laurence Alexander",22,"Southampton, Hampshire, England",Southampton,Telephone Steward,,False,50.90472085,-1.3587998082396187,0.0
+293,"Perrin, Mr. William Charles",39,"Southampton, Hampshire, England",Southampton,Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
+294,"Perriton, Mr. Hubert Prouse",31,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+295,"Petty, Mr. Edwin Henry",25,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+296,"Pfropper, Mr. Richard",30,"Southampton, Hampshire, England",Southampton,Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
+297,"Phillimore, Mr. Harold Charles William",23,"Southampton, Hampshire, England",Belfast,Saloon Steward,14,True,50.90472085,-1.3587998082396187,0.0
+298,"Phillips, Mr. John George ""Jack""",25,"Godalming, Surrey, England",Belfast,Telegraphist,,False,51.1857892,-0.6149074,0.0
+299,"Platt, Mr. W.",18,"Southampton, Hampshire, England",Belfast,Scullion,,False,50.90472085,-1.3587998082396187,0.0
+300,"Pook, Mr. P.",34,"Southampton, Hampshire, England",Belfast,Assistant Pantry,,False,50.90472085,-1.3587998082396187,0.0
+301,"Port, Mr. Frank",32,"Southampton, Hampshire, England",Belfast,Steward,13,True,50.90472085,-1.3587998082396187,0.0
+302,"Porteus, Mr. Thomas",32,"Southampton, Hampshire, England",Belfast,Butcher,,False,50.90472085,-1.3587998082396187,0.0
+303,"Prentice, Mr. Frank Winnold",22,"Southampton, Hampshire, England",Belfast,Storekeeper,4,True,50.90472085,-1.3587998082396187,0.0
+304,"Prichard, Mrs. Alice",33,"Southampton, Hampshire, England",Belfast,Stewardess,11,True,50.90472085,-1.3587998082396187,0.0
+305,"Prideaux, Mr. John Arthur ""Jack""",23,"Southampton, Hampshire, England",Belfast,Steward,,False,50.90472085,-1.3587998082396187,0.0
+306,"Prior, Mr. Harold John",21,"Southampton, Hampshire, England",Belfast,Steward,11,True,50.90472085,-1.3587998082396187,0.0
+307,"Proctor, Mr. Charles",40,"Liverpool, Lancashire, England",Belfast,Chef,,False,53.6326141,-2.8105631,0.0
+308,"Pryce, Mr. Charles William",22,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+309,"Pugh, Mr. Alfred",20,"Southampton, Hampshire, England",Southampton,Steward,14,True,50.90472085,-1.3587998082396187,0.0
+310,"Puzey, Mr. John E.",35,"Itchen, Hampshire, England",Belfast,Saloon Steward,,False,51.0893892,-1.2887593,0.0
+311,"Randall, Mr. Frank Henry",27,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+312,"Ransom, Mr. James",33,"Bristol, Avon, England",Belfast,Saloon Steward,,False,52.1868871,-1.5995568,0.0
+313,"Rattonbury, Mr. William Henry",36,"Southampton, Hampshire, England",Belfast,Assistant Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
+314,"Ray, Mr. Frederick Dent",32,"Southampton, Hampshire, England",Belfast,Saloon Steward,13,True,50.90472085,-1.3587998082396187,0.0
+315,"Reed, Mr. Charles S.",43,"Southampton, Hampshire, England",Southampton,Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+316,"Revell, Mr. William",31,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+317,"Rice, Mr. John Reginald",25,"Crosby, Lancashire, England",Southampton,Clerk,,False,53.7782794,-2.7423231,0.0
+318,"Rice, Mr. John Reginald",25,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+319,"Ricks, Mr. Cyril G.",23,"Southampton, Hampshire, England",Southampton,Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
+320,"Ridout, Mr. W.",29,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+321,"Rimmer, Mr. Gilbert",27,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+322,"Roberton, Mr. George Edward",19,"Southampton, Hampshire, England",Southampton,Assistant Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+323,"Roberts, Mr. Frank John",36,"Farnborough, Hampshire, England",Belfast,Third Butcher,,False,51.2918693,-0.7539836,0.0
+324,"Roberts, Mr. Hugh H.",40,"Bootle, Lancashire, England",Southampton,Bedroom Steward,,False,53.765146,-2.6801237,0.0
+325,"Roberts, Mrs. Mary Kezziah (née Humphrys)",41,"Southampton, Hampshire, England",Southampton,Saloon Steward,16,True,50.90472085,-1.3587998082396187,0.0
+326,"Robinson, Mrs. Annie",40,"Southampton, Hampshire, England",Southampton,Stewardess,11,True,50.90472085,-1.3587998082396187,0.0
+327,"Robinson, Mr. James William",30,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+328,"Rogers, Mr. Edward James William",32,"Southampton, Hampshire, England",Southampton,Assistant Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
+329,"Rogers, Mr. Michael",27,"Winchester, Hampshire, England",Southampton,Saloon Steward,,False,51.0612766,-1.3131692,0.0
+330,"Ross, Mr. Horace Leopold",36,"Southampton, Hampshire, England",Southampton,Scullion,13,True,50.90472085,-1.3587998082396187,0.0
+331,"Rowe, Mr. Edward M.",31,"Southampton, Hampshire, England",Belfast,Saloon 1st Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+332,"Rule, Mr. Samuel James",58,"Southampton, Hampshire, England",Belfast,Bathroom Steward,15,True,50.90472085,-1.3587998082396187,0.0
+333,"Russell, Mr. Boysie Richard",17,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+334,"Ryan, Mr. Tom",27,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+335,"Ryerson, Mr. William Edwy",32,"Southampton, Hampshire, England",Southampton,Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
+336,"Samuel, Mr. Owen Wilmore",41,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+337,"Saunders, Mr. D. E.",26,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+338,"Savage, Mr. Charles J.",23,"Southampton, Hampshire, England",Southampton,Saloon Steward,11,True,50.90472085,-1.3587998082396187,0.0
+339,"Scott, Mr. John",21,"Southampton, Hampshire, England",Southampton,Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
+340,"Scovell, Mr. Robert",42,"Freemantle, Hampshire, England",Southampton,Saloon Steward,,False,51.144324299999994,-1.5956504842344639,0.0
+341,"Sedunary, Mr. Sidney Francis",25,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+342,"Shea, Mr. John",39,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+343,"Slight, Mr. Harry John",35,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+344,"Sloan, Miss Mary",28,"Belfast, Northern Ireland",Southampton,Stewardess,,False,54.5964411,-5.9302761,0.0
+345,"Slocombe, Mrs Maud (née Waldon)",30,"London, England",Southampton,Turkish Bath Stewardess,,False,51.5073219,-0.1276474,0.0
+346,"Smillie, Mr. John",38,"Southampton, Hampshire, England",Belfast,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+347,"Smith, Mr. Charles Edward",38,"Southampton, Hampshire, England",Southampton,Bed Room Steward,,False,50.90472085,-1.3587998082396187,0.0
+348,"Smith, Mr. F",20,"Southampton, Hampshire, England",Southampton,Assistant Pantryman Steward,,False,50.90472085,-1.3587998082396187,0.0
+349,"Smith, Miss Katherine E.",42,"Southampton, Hampshire, England",Southampton,Stewardess,,False,50.90472085,-1.3587998082396187,0.0
+350,"Snape, Mrs Lucy Violet",22,"Witley, Surrey, England",Southampton,Stewardess,,False,51.14479835,-0.6568798115940656,0.0
+351,"Stap, Miss Sarah Agnes",47,"Birkenhead, Cheshire, England, England",Southampton,Stewardess,,False,53.2594958,-2.4897226,0.0
+352,"Stone, Mr. Edmond J.",26,"Southampton, Hampshire, England",Southampton,First class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+353,"Stone, Mr. Edward Thomas",30,"Southampton, Hampshire, England",Southampton,First class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+354,"Talbot, Mr. George Frederick Charles.",27,"Southampton, Hampshire, England",Southampton,Steward,,False,50.90472085,-1.3587998082396187,0.0
+355,"Taylor, Mr. William",21,"Southampton, Hampshire, England",Southampton,Boots Steward,,False,50.90472085,-1.3587998082396187,0.0
+356,"Teuton, Mr. Thomas Moore",32,"Southampton, Hampshire, England",Southampton,Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+357,"Toshack, Mr. James A.",30,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+358,"Turner, Mr. Leopold[25]",28,"Church Stretton, Shropshire, England",Belfast,First Class Saloon Steward,,False,52.5390725,-2.8077658,0.0
+359,"Veal, Mr. Thomas H.E.",38,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+360,"Wake, Mr. T.",32,"Southampton, Hampshire, England",Southampton,Asst. Baker,,False,50.90472085,-1.3587998082396187,0.0
+361,"Wallis, Mrs Catherine Jane",35,"Southampton, Hampshire, England",Southampton,Second Class Matron,,False,50.90472085,-1.3587998082396187,0.0
+362,"Walpole, Mr. James",48,"Southampton, Hampshire, England",Belfast,Chief Pantryman,,False,50.90472085,-1.3587998082396187,0.0
+363,"Walsh, Miss Catherine",32,"Southampton, Hampshire, England",Southampton,Stewardess,,False,50.90472085,-1.3587998082396187,0.0
+364,"Ward, Mr. Edward",34,"Southampton, Hampshire, England",Southampton,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+365,"Ward, Mr. Percy T.",38,"Hampshire, England",Southampton,First Class Bedroom Steward,,False,51.04483545,-1.2434093597173146,0.0
+366,"Ward, Mr. William",36,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
+367,"Wareham, Mr. Robert Arthur",36,"Southampton, Hampshire, England",Southampton,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+368,"Warwick, Mr. Thomas",35,"Hampshire, England",Southampton,First Class Bedroom Steward,,False,51.04483545,-1.2434093597173146,0.0
+369,"Weatherston, Mr. Thomas",24,"Liverpool, Lancashire, England",Belfast,First Class Bedroom Steward,,False,53.6326141,-2.8105631,0.0
+370,"Weikman, Mr. Augustus Henry",51,"Southampton, Hampshire, England",Southampton,First Class Barber,A,True,50.90472085,-1.3587998082396187,0.0
+371,"White, Mr. Arthur",37,"Portsmouth, Hampshire, England",Southampton,Third Class Barber,,False,50.8221133,-1.0677602492961795,0.0
+372,"White, Mr Edward Joseph",27,"Southampton, Hampshire, England",Southampton,Glory Hole Steward,,False,50.90472085,-1.3587998082396187,0.0
+373,"White, Mr. L.",32,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+374,"Whiteley, Mr. Thomas",18,"London, England",Southampton,First Class Saloon Steward,B,True,51.5073219,-0.1276474,0.0
+375,"Whitford, Mr. A.H.",37,"Southampton, Hampshire, England",Southampton,Second Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+376,"Whittman, Mr. Henry",34,"Southampton, Hampshire, England",Southampton,First Class Bedroom Steward,,False,50.90472085,-1.3587998082396187,0.0
+377,"Widgery, Mr. James G.",37,"Southampton, Hampshire, England",Southampton,Second Class Bath Steward,9,True,50.90472085,-1.3587998082396187,0.0
+378,"Wildebank, Mr. Alfred E.",39,"Southampton, Hampshire, England",Southampton,Asst. Cook,13,True,50.90472085,-1.3587998082396187,0.0
+379,"Williams, Mr. Walter J.",28,"Southampton, Hampshire, England",Southampton,Second Class Saloon Steward,13,True,50.90472085,-1.3587998082396187,0.0
+380,"Willis, Mr. William",66,"Southampton, Hampshire, England",Southampton,Third Class Steward,,False,50.90472085,-1.3587998082396187,0.0
+381,"Wiltshire, Mr. W.",33,"Southampton, Hampshire, England",Southampton,Asst. Butcher,,False,50.90472085,-1.3587998082396187,0.0
+382,"Witter, Mr. James W.C.",31,"Hampshire, England",Southampton,Second Class Smoking Room Steward,11,True,51.04483545,-1.2434093597173146,0.0
+383,"Wood, Mr. J.T.",40,"London, England",Southampton,Second Class Saloon Steward,,False,51.5073219,-0.1276474,0.0
+384,"Wormald, Mr. Frederick William",36,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,,False,50.90472085,-1.3587998082396187,0.0
+385,"Wrapson, Mr. Frederick B.",19,"Southampton, Hampshire, England",Southampton,Asst. Pantryman,,False,50.90472085,-1.3587998082396187,0.0
+386,"Wright, Mr. Frederick",24,"London, England",Southampton,Squash Court Steward,,False,51.5073219,-0.1276474,0.0
+387,"Wright, Mr. William",40,"Southampton, Hampshire, England",Southampton,Glory Hole Steward,13,True,50.90472085,-1.3587998082396187,0.0
+388,"Yearsley, Mr. Harry",38,"Southampton, Hampshire, England",Southampton,First Class Saloon Steward,9,True,50.90472085,-1.3587998082396187,0.0
