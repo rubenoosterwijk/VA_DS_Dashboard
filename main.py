@@ -15,13 +15,12 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-/*
-Inleiding
-- Importeren en weergeven Data
-- Visuele 1-D inspecties
-- Visuele 2-D inspecties
-- Geospatiale inspecties
-- Interactieve statische analyse
-- Bronverwijzing
-*/
+#Inleiding
+#- Importeren en weergeven Data
+#- Visuele 1-D inspecties
+#- Visuele 2-D inspecties
+#- Geospatiale inspecties
+#- Interactieve statische analyse
+#- Bronverwijzing
+
 
