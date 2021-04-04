@@ -3,8 +3,44 @@ from bokeh.io import curdoc
 import numpy as np
 import pandas as pd
 from bokeh.plotting import figure, output_file, show
+from bokeh.layouts import widgetbox, row, column
+from bokeh.models.widgets import Panel, Tabs, Paragraph, Div
+from bokeh.models.widgets import DataTable, DateFormatter, TableColumn
+from bokeh.models import ColumnDataSource
+from bokeh.plotting import figure
 
-# voeg de waardes aan een pandas Dataframe toe
+
+
+#Header en inleiding
+titel1 = Div(text = "<h1"">Hoofdpagina correlatie ticketprijzen titanic en gdp per regio""</h1>", width = 800, height = 50)
+text1 = Div(text = "<h4"">Op dit dashboard geven we weer wat de correlatie is tussen de consumenten van de ticketprijzen, en het gdp per regio""</h4>", width = 800, height = 50)
+
+
+
+#Hoofdstuk 1 Dataverzameling
+titel2 = Div(text = "<h2"">Hoofdstuk 1: Data-analyse en verzameling""</h2>", width = 800, height = 50)
+text2 = Div(text = "<h4"">Om dit weer te geven hebben we eerst het GDP per regio van het dichtsbijstaande jaar (1911) moeten vinden""</h4>", width = 800, height = 50)
+
+d = {'Region': ['London', 'Rest South East', 'East Anglia', 'South West', 'West Midlands',
+                'East Midlands', 'North West', 'Yorks & Humb', 'North', 'Wales', 'Scotland', 'Ireland'],
+     'GDP': [416.0, 313.8, 48.8, 120.9, 158.0, 130.2, 323.1, 185.9, 130.2, 116.5, 240.0, 146.8]}
+df = pd.DataFrame(data=d)
+source = ColumnDataSource(df)
+
+
+
+
+# Hoofdstuk 2 Histogram en 1-D visualisatie
+titel3 = Div(text = "<h2"">Hoofdstuk 2: Histogrammen en boxplots""</h2>", width = 800, height = 50)
+#h = figure(x_axis_label="Region", y_axis_label="GDP")
+#h.vbar(x='Region', y='GDP', source=source)
+
+
+
+
+
+
+# Extra voorbeeldcode
 cats = list("abcdef")
 yy = np.random.randn(2000)
 g = np.random.choice(cats, 2000)
@@ -61,7 +97,21 @@ p.ygrid.grid_line_color = "white"
 p.grid.grid_line_width = 2
 p.xaxis.major_label_text_font_size="16px"
 
+import numpy as np
+from bokeh.plotting import figure, curdoc
+
+bokeh_doc = curdoc()
+
+sample_plot = figure(plot_height=400,
+                     plot_width=400)
+sample_plot.circle(x=np.random.normal(size=(10,)),
+                   y=np.random.normal(size=(10,)))
+
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 
-show(p)
+
+dashboard = column(titel1, text1, titel2, text2, data_table, titel3, sample_plot, p, vplot(hplot(hist)))
+show(dashboard)
+
+
 
