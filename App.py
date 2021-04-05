@@ -43,9 +43,31 @@ data_table2 = DataTable(columns=Columns, source=ColumnDataSource(FirstClass)) # 
 
 
 # Hoofdstuk 2 Histogram en 1-D visualisatie
-titel3 = Div(text = "<h2"">Hoofdstuk 2: Histogrammen en boxplots""</h2>", width = 800, height = 50)
+titel3 = Div(text = "<h2"">Hoofdstuk 2: Barplots en boxplots""</h2>", width = 800, height = 50)
 #h = figure(x_axis_label="Region", y_axis_label="GDP")
 #h.vbar(x='Region', y='GDP', source=source)
+
+#inladen van de dataframes
+UKRegio = pd.read_csv('Data K\UKRegio.csv')
+
+# Barchart
+x_bar = UKRegio['Regio']
+y_bar = UKRegio['Regio'].value_counts()
+
+
+# plot
+bar_chart = figure(x_range=x_bar, title='Bar Plot', x_axis_label='x', y_axis_label='y', plot_height=300)
+bar_chart.vbar(x_bar, top=y_bar, color='blue', width=0.5)
+bar_chart.y_range.start = 0
+
+
+
+
+
+
+
+
+
 
 
 # Hoofdstuk 3 Scatter en 2-D visualisatie
@@ -105,6 +127,11 @@ select = Select(title="distribution", options=["All", "1e Klass", "2e Klass", "3
 
 # Attach the update_plot callback to the 'value' property of select
 select.on_change('value', update_plot)
+
+
+
+
+
 
 
 
@@ -185,7 +212,7 @@ output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 #Creeer de kolommen voor de layout
 Home = column(titel1, text1)
 h1 = column(titel2, text2, data_table, text3, data_table2)
-h2 = column(titel3,)
+h2 = column(titel3, bar_chart)
 h3 = column(titel4, text4, select, plot)
 
 
