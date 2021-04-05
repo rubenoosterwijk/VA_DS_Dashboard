@@ -1,6 +1,6 @@
 from bokeh.io import curdoc, show
 from bokeh.layouts import column
-from bokeh.models import Div, CheckboxGroup, CheckboxButtonGroup, Button, OpenURL, Dropdown
+from bokeh.models import Div, CheckboxGroup, CheckboxButtonGroup, Button, OpenURL, Dropdown, Select
 from functools import partial
 import folium
 import pandas as pd
@@ -265,14 +265,14 @@ d3.on_change('active', getBoth)
 # dropdown = Dropdown(label="Choose map type", menu=menu)
 #
 # dropdown.on_change('value', getType)
-dropdown = Dropdown(label='Choose map type', menu=['MarkerMap', 'ClusterMap', 'HeatMap'])
+dropdown = Select(title='Choose map type', options=['MarkerMap', 'ClusterMap', 'HeatMap'], value='MarkerMap')
 
 
-def handler(event):
+def handler(attr, old, new):
     global maptype
-    maptype = event.item
+    maptype = new
 
-dropdown.on_click(handler)
+dropdown.on_change('value', handler)
 
 button = Button(label="ShowMap", button_type="success")
 button.on_click(showMap)
