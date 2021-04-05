@@ -1,708 +1,614 @@
-,Name,Age,Hometown,Home country,Boarded,Destination,Lifeboat,Survived,latitude,longitude,altitude
-0,"Abbing, Mr. Anthony",40,"Cincinnati, Ohio ,US",US,Southampton,"Cincinnati, Ohio, US",,False,39.1014537,-84.5124602,0.0
-1,"Abbott, Mrs. Rhoda Mary (née Hunt)",39,"East Providence, Rhode Island ,US",US,Southampton,"East Providence, Rhode Island, US",A,True,41.8137116,-71.3700545,0.0
-2,"Abbott, Mr. Rossmore Edward",16,"East Providence, Rhode Island ,US",US,Southampton,"East Providence, Rhode Island, US",,False,41.8137116,-71.3700545,0.0
-3,"Abbott, Mr. Eugene Joseph",14,"East Providence, Rhode Island ,US",US,Southampton,"East Providence, Rhode Island, US",,False,41.8137116,-71.3700545,0.0
-4,"Abd al-Khaliq, Mr. Farid Qasim Husayn",18,"Shana ,Lebanon",Lebanon,Cherbourg,New York City,,False,,,
-5,"Abelseth, Miss Karen Marie",16,"Sunnmøre ,Norway",Norway,Southampton,"Los Angeles, California, US",16,True,62.34163785,5.890219084398547,0.0
-6,"Abelseth, Mr. Olaus Jørgensen",25,"Perkins County, South Dakota ,US",US,Southampton,"Perkins County, South Dakota, US",A,True,45.5288022,-102.5053545,0.0
-7,"Abrahamsson, Mr. Abraham August Johannes",20,"Dalsbruk ,Finland",Finland,Southampton,"Hoboken, New Jersey, US",15,True,60.0209926,22.5067673,0.0
-8,"Abrahim, Mrs. Mary Sophie Halaut (née Easu)",18,"Shwayhad ,Syria",Syria,Cherbourg,"Greensburg, Pennsylvania, US",C,True,,,
-9,"Adahl, Mr. Mauritz Nils Martin",30,"Asarum, Småland ,Sweden",Sweden,Southampton,"Brooklyn, New York, US",,False,,,
-10,"Adams, Mr. John",26,"Bournemouth, Dorset ,England",England,Southampton,"La Porte City, Iowa, US",,False,50.8497999,-2.1606832,0.0
-11,"Ahlin, Mrs. Johanna Persdotter (née Larsson)",40,"Göteborg, Västergötland ,Sweden",Sweden,Southampton,"Akeley, Minnesota, US",,False,,,
-12,"Aks, Mrs. Leah (née Rosen)",18,"London ,England",England,Southampton,"Norfolk, Virginia, US",13,True,51.5073219,-0.1276474,0.0
-13,"Aks, Master Frank Philip",10 mo.,"London ,England",England,Southampton,"Norfolk, Virginia, US",11,True,51.5073219,-0.1276474,0.0
-14,"Al-Muna, Mr. Nasif Qasim",26,"Fredericksburg, Virginia ,US",US,Cherbourg,"Fredericksburg, Virginia, US",15,True,38.3031837,-77.4605399,0.0
-15,"Alexander, Mr. William",23,"Great Yarmouth, Norfolk ,England",England,Southampton,"Albion, Michigan, US",,False,52.6072426,1.7310768,0.0
-16,"Alhomäki, Mr. Ilmari Rudolf",19,"Salo ,Finland",Finland,Southampton,"Astoria, Oregon, US",,False,60.3846716,23.1286377,0.0
-17,"Ali, Mr. Ahmed",24,"Buenos Aires ,Argentina",Argentina,Southampton,New York City,,False,-34.6075682,-58.4370894,0.0
-18,"Ali, Mr. William",25,"Buenos Aires ,Argentina",Argentina,Southampton,New York City,,False,-34.6075682,-58.4370894,0.0
-19,"Allen, Mr. William Henry",35,"Birmingham, West Midlands ,England",England,Southampton,New York City,,False,52.4796992,-1.9026911,0.0
-20,"Allum, Mr. Owen George",15,"Southall, London ,England",England,Southampton,New York City,,False,51.5111461,-0.3755169,0.0
-21,"Al-Zainni, Mr. Fahim Ruhanna",22,"Toula ,Lebanon",Lebanon,Cherbourg,"Dayton, Ohio, US",6,True,34.2018224,35.7237488,0.0
-22,"Andersen, Mr. Albert Karvin",33,"Bergen ,Norway",Norway,Southampton,New York City,,False,60.3943055,5.3259192,0.0
-23,"Andersen-Jensen, Miss Carla Christine",19,"Eskilstrup ,Denmark",Denmark,Southampton,"Portland, Oregon, US",16,True,54.855665450000004,11.881905259818325,0.0
-24,"Andersson, Mr. Anders Johan",39,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-25,"Andersson, Mrs. Alfrida Konstantia (née Brogren)",39,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-26,"Andersson, Miss Sigrid Elisabeth",11,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-27,"Andersson, Miss Ingeborg Constanzia",9,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-28,"Andersson, Miss Ebba Iris Alfrida",6,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-29,"Andersson, Master Sigvard Harald Elias",4,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-30,"Andersson, Miss Ellis Anna Maria",2,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,57.9875021,15.622841,0.0
-31,"Andersson, Miss Erna Alexandra",17,"Ruotsinpyhtää ,Finland",Finland,Southampton,New York City,D,True,60.5220579,26.4695781,0.0
-32,"Andersson, Miss Ida Augusta Margareta",38,"Vadsbro, Sörmland ,Sweden",Sweden,Southampton,"Manistee, Michigan, US",,False,,,
-33,"Andersson, Mr. Johan Samuel",26,"Hartford, Connecticut ,US",US,Southampton,"Hartford, Connecticut, US",,False,41.7655582,-72.69061276146614,0.0
-34,"Andreasson, Mr. Paul Edvin",20,"Kalfsnäs, Småland ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,,,
-35,"Angheloff, Mr. Minko",26,"Terziysko, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.8900425,24.6151436,0.0
-36,"Arnold-Franchi, Mr. Josef",25,"Altdorf, Uri ,Switzerland",Switzerland,Southampton,"New Glarus, Wisconsin, US",,False,46.8820732,8.6413922,0.0
-37,"Arnold-Franchi, Mrs. Josefine (née Franchi)",18,"Altdorf, Uri ,Switzerland",Switzerland,Southampton,"New Glarus, Wisconsin, US",,False,46.8820732,8.6413922,0.0
-38,"Aronsson, Mr. Ernst Axel Algot",24,"Horset, Småland ,Sweden",Sweden,Southampton,"Joliet, Illinois, US",,False,,,
-39,"Asim, Mr. Adola",35,"Buenos Aires ,Argentina",Argentina,Southampton,New York City,,False,-34.6075682,-58.4370894,0.0
-40,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",40,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",,False,,,
-41,"Asplund, Mrs. Selma Augusta Emilia (née Johansson)",38,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",15,True,,,
-42,"Asplund, Master Filip Oscar",13,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",,False,,,
-43,"Asplund, Master Clarence Gustaf Hugo",9,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",,False,,,
-44,"Asplund, Master Carl Edgar",5,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",,False,,,
-45,"Asplund, Miss Lillian Gertrud",5,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",15,True,,,
-46,"Asplund, Master Edvin Rojj Felix",3,"Alseda, Småland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",15,True,,,
-47,"Asplund, Mr. Johan Charles",23,"Oskarshamn, Kalmar ,Sweden",Sweden,Southampton,"Minneapolis, Minnesota, US",13,True,57.2632811,16.4443478,0.0
-48,"Assaf, Mrs. Mariyam (née Khalil)",45,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",C,True,,,
-49,"Assam, Mr. Ali",23,"Buenos Aires ,Argentina",Argentina,Southampton,New York City,,False,-34.6075682,-58.4370894,0.0
-50,"Attala, Mr. Sleiman",30,"Ottawa, Ontario ,Canada",Canada,Cherbourg,"Ottawa, Ontario, Canada",,False,45.421106,-75.690308,0.0
-51,"Atta Allah, Miss Malakah",17,"Beirut ,Lebanon",Lebanon,Cherbourg,New York City,,False,33.8959203,35.47843,0.0
-52,"Augustsson, Mr. Albert",23,"Krakoryd, Småland ,Sweden",Sweden,Southampton,"Bloomington, Indiana, US",,False,,,
-53,"Ayyub Dahir, Miss Bannurah",15,"Beirut ,Lebanon",Lebanon,Cherbourg,"Owen Sound, Ontario, Canada",C,True,33.8959203,35.47843,0.0
-54,"Bakus, Mr. Raful",20,"Unknown ,Lebanon",Lebanon,Cherbourg,New York City,,False,14.4787139,121.0324937,0.0
-55,"Backström, Mr. Karl Alfred",32,"Kotka ,Finland",Finland,Southampton,New York City,,False,60.4674228,26.9450844,0.0
-56,"Backström, Mrs. Maria Mathilda (née Gustafsson)[65][83]",33,"Kotka ,Finland",Finland,Southampton,New York City,D,True,60.4674228,26.9450844,0.0
-57,"Badman, Miss Emily Louisa",18,"Clevedon, North Somerset ,England",England,Southampton,"Skaneateles, New York, US",C,True,51.4360625,-2.8526531,0.0
-58,"Badt, Mr. Mohamed",40,"Tripoli ,Lebanon",Lebanon,Cherbourg,New York City,,False,34.4453581,35.8225116,0.0
-59,"Bakić, Mr. Kerim",26,"Bosanska Krupa ,Bosnia",Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,44.8824428,16.1577,0.0
-60,"Banski, Mrs. Mara (née Osman)",31,"Vagovina ,Croatia",Croatia,Southampton,"Steelton, Pennsylvania, US",?,True,45.7827498,16.6679888,0.0
-61,"Baqlini, Mrs. Mariyam Latifa (née Qurban)",24,"Ḑuhūr ash Shuwayr ,Lebanon",Lebanon,Cherbourg,"Brooklyn, New York, US",C,True,,,
-62,"Baqlini, Miss Mariya Katarin",5,"Ḑuhūr ash Shuwayr ,Lebanon",Lebanon,Cherbourg,"Brooklyn, New York, US",C,True,,,
-63,"Baqlini, Miss Eujini",4,"Ḑuhūr ash Shuwayr ,Lebanon",Lebanon,Cherbourg,"Brooklyn, New York, US",C,True,,,
-64,"Baqlini, Miss Hileni Barbarah",9 mo.,"Ḑuhūr ash Shuwayr ,Lebanon",Lebanon,Cherbourg,"Brooklyn, New York, US",C,True,,,
-65,"Barbarah, Mrs. Katarin Dawud",45,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-66,"Barbarah, Miss Saidah",18,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-67,"Barry, Miss Julia",26,"New York City, New York ,US",US,Queenstown,New York City,,False,40.7127281,-74.0060152,0.0
-68,"Barton, Mr. David John",22,"Cambridge, Cambridgeshire ,England",England,Southampton,New York City,,False,52.2034823,0.1235817,0.0
-69,"Beavan, Mr. William Thomas",18,"Fillingham, Lincolnshire ,England",England,Southampton,"Russell, US",,False,53.3608972,-0.5787147,0.0
-70,"Bengtsson, Mr. Johan Viktor",26,"Fridhemsberg, Halland ,Sweden",Sweden,Southampton,"Monee, Illinois, US",,False,57.1642403,12.7420228,0.0
-71,"Berglund, Mr. Karl Ivar Sven",22,"Firtby ,Finland",Finland,Southampton,New York City,,False,,,
-72,"Betros, Mr. Tannous",20,"Zgharta ,Lebanon",Lebanon,Cherbourg,"Waterbury, Connecticut, US",,False,34.3929847,35.8967113,0.0
-73,"Birkeland, Mr. Hans Martin Monsen",21,"Bremnes ,Norway",Norway,Southampton,New York City,,False,68.8375602,15.3789674,0.0
-74,"Björklund, Mr. Ernst Herbert",18,"Stockholm ,Sweden",Sweden,Southampton,New York City,,False,59.3251172,18.0710935,0.0
-75,"Bostandyeff, Mr. Guentcho",26,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-76,"Bourke, Mr. John",42,"Carrowskehine, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,,,
-77,"Bourke, Mrs. Catherine (née McHugh)",32,"Carrowskehine, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,,,
-78,"Bourke, Miss Mary",40,"Carrowskehine, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,,,
-79,"Bowen, Mr. David John ""Dai""",20,"Treherbert, Glamorgan ,Wales",Wales,Southampton,New York City,,False,,,
-80,"Bradley, Miss Bridget Delia",22,"Kingwilliamstown, Cork ,Ireland",Ireland,Queenstown,"Glen Falls, New York, US",13,True,52.183388550000004,-9.238338860920043,0.0
-81,"Braf, Miss Elin Ester Maria",20,"Medeltorp, Småland ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,,,
-82,"Braund, Mr. Lewis Richard",29,"Bridgerule, Devon ,England",England,Southampton,"Qu'Appelle Valley, Saskatchewan, Canada",,False,50.7993506,-4.4520148,0.0
-83,"Braund, Mr. Owen Harris",22,"Bridgerule, Devon ,England",England,Southampton,"Qu'Appelle Valley, Saskatchewan, Canada",,False,50.7993506,-4.4520148,0.0
-84,"Brobeck, Mr. Karl Rudolf",22,"Norrköping, Östergötland ,Sweden",Sweden,Southampton,"Worcester, Massachusetts, US",,False,58.5909124,16.1903511,0.0
-85,"Brocklebank, Mr. William Alfred",35,"Broomfield, Essex ,England",England,Southampton,New York City,,False,51.7684223,0.4712666,0.0
-86,"Buckley, Mr. Daniel",21,"Kingwilliamstown, Cork ,Ireland",Ireland,Queenstown,New York City,13,True,52.183388550000004,-9.238338860920043,0.0
-87,"Buckley, Miss Catherine",22,"Ovens, Cork ,Ireland",Ireland,Queenstown,"Roxbury, Massachusetts, US",,False,51.8869169,-8.667948481623021,0.0
-88,"Bulus, Mrs. Sultanah (née Rizq)",40,"Unknown ,Lebanon",Lebanon,Cherbourg,"Kent, British Columbia, Canada",,False,14.4787139,121.0324937,0.0
-89,"Bulus, Master Akar",9,"Unknown ,Lebanon",Lebanon,Cherbourg,"Kent, British Columbia, Canada",,False,14.4787139,121.0324937,0.0
-90,"Bulus, Miss Nur-al-Ayn",7,"Unknown ,Lebanon",Lebanon,Cherbourg,"Kent, British Columbia, Canada",,False,14.4787139,121.0324937,0.0
-91,"Burke, Mr. Jeremiah",19,"Glanmire, Cork ,Ireland",Ireland,Queenstown,"Charlestown, US",,False,51.9196904,-8.3960403,0.0
-92,"Burns, Miss Mary Delia",17,"Kilmacowen, Sligo ,Ireland",Ireland,Queenstown,New York City,,False,54.22787365,-8.517652861692177,0.0
-93,"Butrus-Youssef, Mrs. Katarin (née Rizk)",24,"Sar'al ,Syria",Syria[84],Cherbourg,"Detroit, Michigan, US",C,True,,,
-94,"Butrus-Youssef, Master Makhkhul",4,"Sar'al ,Syria",Syria[84],Cherbourg,"Detroit, Michigan, US",D,True,,,
-95,"Butrus-Youssef, Miss Marianna",2,"Sar'al ,Syria",Syria[84],Cherbourg,"Detroit, Michigan, US",C,True,,,
-96,"Čačić, Mr. Jego Grga",18,"Široka Kula ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6154137,15.4559555,0.0
-97,"Čačić, Mr. Luka",38,"Široka Kula ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6154137,15.4559555,0.0
-98,"Čačić, Miss Marija",30,"Široka Kula ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6154137,15.4559555,0.0
-99,"Čačić, Miss Manda",21,"Široka Kula ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6154137,15.4559555,0.0
-100,"Čalić, Mr. Jovo",17,"Brezik ,Croatia",Croatia,Southampton,"Sault Ste. Marie, Michigan, US",,False,45.8637726,17.407137,0.0
-101,"Čalić, Mr. Petar",17,"Brezik ,Croatia",Croatia,Southampton,"Sault Ste. Marie, Michigan, US",,False,45.8637726,17.407137,0.0
-102,"Canavan, Miss Mary",22,"Tonacrick, Clare ,Ireland",Ireland,Queenstown,"Philadelphia, Pennsylvania, US",,False,,,
-103,"Canavan, Mr. Patrick ""Peter""",21,"Knockmaria, Mayo ,Ireland",Ireland,Queenstown,"Philadelphia, Pennsylvania, US",,False,54.0319457,-9.291605726673986,0.0
-104,"Cann, Mr. Ernest Charles",21,"Penwithick, Cornwall ,England",England,Southampton,New York City,,False,50.3732974,-4.7806413,0.0
-105,"Caram, Mr. Joseph",28,"Kfar Mechi ,Syria",Syria,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-106,"Caram, Mrs. Maria (née Elias)",18,"Kfar Mechi ,Syria",Syria,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-107,"Carlsson, Mr. Carl Robert",24,"Göteborg, Västergötland ,Sweden",Sweden,Southampton,"Huntley, Illinois, US",,False,,,
-108,"Carlsson, Mr. August Sigfrid",24,"Dagsås, Halland ,Sweden",Sweden,Southampton,"Tower, Minnesota, US",,False,57.0640541,12.4867117,0.0
-109,"Carr, Miss Jane",47,"Aclare, Sligo ,Ireland",Ireland,Queenstown,"Hartford, Connecticut, US",,False,54.0364394,-8.8985892,0.0
-110,"Carver, Mr. Alfred John",28,"Southampton, Hampshire ,England",England,Southampton,New York City,,False,50.90472085,-1.3587998082396187,0.0
-111,"Celotti, Mr. Francesco",24,"Milan ,Italy",Italy,Southampton,,,False,45.4668,9.1905,0.0
-112,"Chang, Mr. Chip",32,"Hong Kong ,China",China,Southampton,New York City,C,True,22.2793278,114.1628131,0.0
-113,"Charters, Mr. David",28,"Ballinalee, Longford ,Ireland",Ireland,Queenstown,New York City,,False,53.7755877,-7.6580453,0.0
-114,"Cheong, Mr. Foo",32,"Hong Kong ,China",China,Southampton,New York City,C,True,22.2793278,114.1628131,0.0
-115,"Christmann, Mr. Emil",29,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-116,"Chronopoulos, Mr. Apostolos",26,"Agios Sostis, Peloponnese ,Greece",Greece,Cherbourg,New York City,,False,37.7136112,20.8652663672324,0.0
-117,"Chronopoulos, Mr. Dimitrios",18,"Agios Sostis, Peloponnese ,Greece",Greece,Cherbourg,New York City,,False,37.7136112,20.8652663672324,0.0
-118,"Coelho, Mr. Domingos Fernandes",20,"Funchal, Madeira Islands ,Portugal",Portugal,Southampton,New York City,,False,,,
-119,"Cohen, Mr. Gershon ""Gus""",18,"London ,England",England,Southampton,"Brooklyn, New York, US",12,True,51.5073219,-0.1276474,0.0
-120,"Colbert, Mr. Patrick",24,"Kilkinlea, Limerick ,Ireland",Ireland,Queenstown,"Sherbrooke, Quebec, Canada",,False,52.3722739,-9.2993655,0.0
-121,"Coleff, Mr. Fotio",24,"Debnevo, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.96,24.84513,0.0
-122,"Coltcheff, Mr. Peju",36,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-123,"Conlon, Mr. Thomas Henry",31,"Philadelphia, Pennsylvania ,US",US,Queenstown,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-124,"Connaghton, Mr. Michael",31,"Brooklyn, New York ,US",US,Queenstown,"Brooklyn, New York, US",,False,40.6501038,-73.9495823,0.0
-125,"Connolly, Miss Catherine ""Kate""",35,"Bank Place, Tipperary ,Ireland",Ireland,Queenstown,"Dobbs Ferry, New York, US",,False,52.98707745,-8.167120763077055,0.0
-126,"Connolly, Miss Katherine ""Kate""",22,"Cortrasna, Cavan ,Ireland",Ireland,Queenstown,New York City,13,True,53.8243573,-7.3850715,0.0
-127,"Connors, Mr. Patrick John",61,"Charleville, Cork ,Ireland",Ireland,Queenstown,New York City,,False,52.3546432,-8.6828833,0.0
-128,"Cook, Mr. Jacob(Kukk, Mr. Jakob?)",43,"Unknown(Estonia?) ,Russia(Estonia?)",Russia(Estonia?),Southampton,New York City,,False,,,
-129,"Čor, Mr. Bartol",35,"Kricina ,Croatia",Croatia,Southampton,"Great Falls, Montana, US",,False,45.1789716,14.7394347,0.0
-130,"Čor, Mr. Ivan",27,"Kricina ,Croatia",Croatia,Southampton,"Great Falls, Montana, US",,False,45.1789716,14.7394347,0.0
-131,"Čor, Mr. Liudevit",19,"Kricina ,Croatia",Croatia,Southampton,"Great Falls, Montana, US",,False,45.1789716,14.7394347,0.0
-132,"Corn, Mr. Henry ""Harry""",30,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-133,"Corr, Miss Helen",16,"Corglass, Longford ,Ireland",Ireland,Queenstown,New York City,16,True,53.9068135,-7.6805566,0.0
-134,"Coutts, Mrs. Mary Winnie (née Trainer)",36,"London ,England",England,Southampton,"Brooklyn, New York, US",2,True,51.5073219,-0.1276474,0.0
-135,"Coutts, Master William Loch ""Willie""",9,"London ,England",England,Southampton,"Brooklyn, New York, US",2,True,51.5073219,-0.1276474,0.0
-136,"Coutts, Master Neville Leslie",3,"London ,England",England,Southampton,"Brooklyn, New York, US",2,True,51.5073219,-0.1276474,0.0
-137,"Coxon, Mr. Daniel",59,"London ,England",England,Southampton,"Merrill, Wisconsin, US",,False,51.5073219,-0.1276474,0.0
-138,"Crease, Mr. Ernest James",19,"Bristol, Avon ,England",England,Southampton,"Cleveland, Ohio, US",,False,52.1868871,-1.5995568,0.0
-139,"Cribb, Mr. John Hatfield",44,"Bournemouth, Dorset ,England",England,Southampton,"Newark, New Jersey, US",,False,50.8497999,-2.1606832,0.0
-140,"Cribb, Miss Laura Mae",16,"Bournemouth, Dorset ,England",England,Southampton,"Newark, New Jersey, US",12,True,50.8497999,-2.1606832,0.0
-141,"Čulumović, Mr. Jeso",17,"Lipova Glavica ,Croatia",Croatia,Southampton,"Hammond, Indiana, US",,False,45.3542795,15.5967017,0.0
-142,"Dahir, Mr. Tannous",28,"Beirut ,Lebanon",Lebanon,Cherbourg,"Youngstown, Ohio, US",,False,33.8959203,35.47843,0.0
-143,"Dahl, Mr. Charles Edwart",45,"Adelaide, South Australia ,Australia",Australia,Southampton,"Fingal, North Dakota, US",15,True,-34.9281805,138.5999312,0.0
-144,"Dahlberg, Miss Gerda Ulrika",22,"Stockholm ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,59.3251172,18.0710935,0.0
-145,"Dakić, Mr. Branko",19,"Gornji Miholjac ,Croatia",Croatia,Southampton,New York City,,False,45.7622809,17.6607945,0.0
-146,"Daly, Miss Margaret ""Maggie""",30,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,New York City,15,True,53.4230832,-7.942705,0.0
-147,"Daly, Mr. Eugene Patrick",29,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,New York City,B,True,53.4230832,-7.942705,0.0
-148,"Danbom, Mr. Ernst Gilbert",34,"Göteborg, Västergötland ,Sweden",Sweden,Southampton,"Stanton, Iowa, US",,False,,,
-149,"Danbom, Mrs. Anna Sigrid Maria (née Brogren)",28,"Göteborg, Västergötland ,Sweden",Sweden,Southampton,"Stanton, Iowa, US",,False,,,
-150,"Danbom, Master Gilbert Sigvard Emanuel",4 mo.,"Göteborg, Västergötland ,Sweden",Sweden,Southampton,"Stanton, Iowa, US",,False,,,
-151,"Danoff, Mr. Yoto",27,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-152,"Dantcheff, Mr. Ristju",25,"Terziysko, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.8900425,24.6151436,0.0
-153,"Davies, Mr. Evan",22,"Pontardawe, West Glamorgan ,Wales",Wales,Southampton,"Pontiac, Michigan, US",,False,,,
-154,"Davies, Mr. Alfred John",24,"West Bromwich, Staffordshire ,England",England,Southampton,"Pontiac, Michigan, US",,False,52.7214174,-1.7680194,0.0
-155,"Davies, Mr. John Samuel",21,"West Bromwich, Staffordshire ,England",England,Southampton,"Pontiac, Michigan, US",,False,52.7214174,-1.7680194,0.0
-156,"Davies, Mr. Joseph",17,"West Bromwich, Staffordshire ,England",England,Southampton,"Pontiac, Michigan, US",,False,52.7214174,-1.7680194,0.0
-157,"Davison, Mr. Thomas Henry ""Harry""",32,"Liverpool, Merseyside ,England",England,Southampton,"Bedford, Indiana, US",,False,,,
-158,"Davison, Mrs. Mary Elizabeth",34,"Liverpool, Merseyside ,England",England,Southampson,"Bedford, Indiana, US",16,True,,,
-159,"De Messemaeker, Mr. Guillaume Joseph",36,"Tampico, Montana ,US",US,Southampton,"Tampico, Montana, US",15,True,48.3047384,-106.8270002,0.0
-160,"De Messemaeker, Mrs. Anna (née de Becker)",36,"Tampico, Montana ,US",US,Southampton,"Tampico, Montana, US",13,True,48.3047384,-106.8270002,0.0
-161,"de Mulder, Mr. Theodoor",36,"Aspelare, East Flanders ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",11,True,50.8421637,3.9584406,0.0
-162,"de Pelsmaeker, Mr. Alfons",16,"Heldergem, Haaltert, East Flanders ,Belgium",Belgium,Southampton,"Gladstone, Michigan, US",,False,50.8816742,3.9548012,0.0
-163,"Dean, Mr. Bertram Frank",25,"Bartley Farm, Hampshire ,England",England,Southampton,"Wichita, Kansas, US",,False,50.9145321,-1.5650331,0.0
-164,"Dean, Mrs. Eva Georgetta (née Light)",32,"Bartley Farm, Hampshire ,England",England,Southampton,"Wichita, Kansas, US",10,True,50.9145321,-1.5650331,0.0
-165,"Dean, Master Bertram Vere",1,"Bartley Farm, Hampshire ,England",England,Southampton,"Wichita, Kansas, US",10,True,50.9145321,-1.5650331,0.0
-166,"Dean, Miss Elizabeth Gladys ""Millvina""",2 mo.,"Bartley Farm, Hampshire ,England",England,Southampton,"Wichita, Kansas, US",10,True,50.9145321,-1.5650331,0.0
-167,"Delalić, Mr. Redjo",25,"Bakić ,Bosnia",Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,43.4401421,18.8470351,0.0
-168,"Denkoff, Mr. Mitto",30,"Unknown ,Bulgaria",Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,42.6963514,23.3315161,0.0
-169,"Dennis, Mr. William",26,"Week St Mary, Cornwall ,England",England,Southampton,"Saskatoon, Saskatchewan, Canada",,False,50.750848,-4.5011168,0.0
-170,"Dennis, Mr. Samuel",22,"Week St Mary, Cornwall ,England",England,Southampton,"Saskatoon, Saskatchewan, Canada",,False,50.750848,-4.5011168,0.0
-171,"Devaney, Miss Margaret Delia",19,"Kilmacowen, Sligo ,Ireland",Ireland,Queenstown,New York City,C,True,54.22787365,-8.517652861692177,0.0
-172,"Dika, Mr. Mirko",17,"Podgora ,Croatia",Croatia,Southampton,"Vancouver, British Columbia, Canada",,False,43.2433472,17.0750713,0.0
-173,"Dimić, Mr. Jovan",42,"Ostrovica ,Croatia",Croatia,Southampton,"Red Lodge, Montana, US",,False,43.9599729,15.7957197,0.0
-174,"Dintcheff, Mr. Valtcho",43,"Unknown ,Bulgaria",Bulgaria,Southampton,"Tulsa, Oklahoma, US",,False,42.6963514,23.3315161,0.0
-175,"Donohoe, Miss Bridget",21,"Cum, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,54.036741500000005,-9.322648774799099,0.0
-176,"Dooley, Mr. Patrick J.",43,"Patrickswell, Limerick ,Ireland",Ireland,Queenstown,New York City,,False,52.597222,-8.708889,0.0
-177,"Dorking, Mr. Edward Arthur",18,"Liss, Hampshire ,England",England,Southampton,"Oglesby, Illinois, US",B,True,51.0415389,-0.8994549640083951,0.0
-178,"Doherty, Mr. William John (aka ""James Moran"")",22,"Cork ,Ireland",Ireland,Queenstown,New York City,,False,51.898627,-8.4705942,0.0
-179,"Dowdell, Miss Elizabeth",31,"New York City, New York ,US",US,Southampton,New York City,13,True,40.7127281,-74.0060152,0.0
-180,"Doyle, Miss Elizabeth",24,"Bree, Wexford ,Ireland",Ireland,Queenstown,New York City,,False,52.4349526,-6.6089264,0.0
-181,"Draženović, Mr. Jozef",33,"Hrastelnica ,Croatia",Croatia,Cherbourg,New York City,,False,45.5069222,16.419523,0.0
-182,"Dropkin, Miss Jennie",24,"Mogilev ,Belarus",Belarus,Southampton,New York City,13,True,53.60664785,31.954191372509115,0.0
-183,"Duquemin, Mr. Joseph Pierre",19,"Saint Sampson, Guernsey, Channel Islands ,England",England,Southampton,"Albion, New York, US",D,True,,,
-184,"Dwan, Mr. Frank",65,"Bunmahon, Waterford ,Ireland",Ireland,Queenstown,"Morris Plains, New Jersey, US",,False,52.1398615,-7.3708525,0.0
-185,"Dyker, Mr. Adolf Fredrik",23,"New Haven, Connecticut ,US",US,Southampton,"New Haven, Connecticut, US",,False,41.298434349999994,-72.93102342707913,0.0
-186,"Dyker, Mrs. Anna Elisabeth Judith (née Andersson)",22,"New Haven, Connecticut ,US",US,Southampton,"New Haven, Connecticut, US",16,True,41.298434349999994,-72.93102342707913,0.0
-187,"Edvardsson, Mr. Gustaf Hjalmar",18,"Tofta, Uppland ,Sweden",Sweden,Southampton,"Joliet, Illinois, US",,False,,,
-188,"Eklund, Mr. Hans Linus",16,"Kårberg, Örebro ,Sweden",Sweden,Southampton,"Jerome Junction, Arizona, US",,False,58.9568817,14.9559243,0.0
-189,"Ekström, Mr. Johan",45,"Effington Rut, South Dakota ,US",US,Southampton,"Effington Rut, South Dakota, US",,False,,,
-190,"Elias, Mr. Dibo",29,"Unknown ,Lebanon",Lebanon,Cherbourg,New York City,,False,14.4787139,121.0324937,0.0
-191,"Elias, Mr. Joseph Jr.",15,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-192,"Elias Nasrallah, Mr. Tannous",17,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-193,"Elsbury, Mr. William James",47,"Taunton, Somerset ,England",England,Southampton,"Gurnee, Illinois, US",,False,51.0147895,-3.1029086,0.0
-194,"Emanuel, Miss Virginia Ethel",6,"New York City, New York ,US",US,Southampton,New York City,13,True,40.7127281,-74.0060152,0.0
-195,"Estanislau, Mr. Manuel Gonçalves",37,"Calheta, Madeira ,Portugal",Portugal,Southampton,New York City,,False,32.7219412,-17.1782577,0.0
-196,"Everett, Mr. Thomas James",39,"Bristol, Avon ,England",England,Southampton,"Troy, New York, US",,False,52.1868871,-1.5995568,0.0
-197,"Fardon, Mr. Charles R.(alias Charles Franklin)",38,"Wellingborough, Northamptonshire ,England",England,Cherbourg,Canada,,False,52.30189,-0.6937309,0.0
-198,"Farrell, Mr. James ""Jim""",25,"Killoe, Longford ,Ireland",Ireland,Queenstown,New York City,,False,53.82048295,-7.729237165768248,0.0
-199,"Finoli, Mr. Luigi",34,"Philadelphia, Pennsylvania ,US",US,Southampton,"Philadelphia, Pennsylvania, US",15,True,39.9527237,-75.1635262,0.0
-200,"Fischer, Mr. Eberhard Thelander",18,"Björkeberga, Skåne ,Sweden",Sweden,Southampton,New York City,,False,56.3522431,13.8884259,0.0
-201,"Fleming, Miss Honora ""Nora""",22,"Carrowskehine, Mayo ,Ireland",Ireland,Queenstown,New York City,,False,,,
-202,"Flynn, Mr. James",28,"Cuilkillew, Mayo ,Ireland",Ireland,Queenstown,New York City,,False,54.019722,-9.278611,0.0
-203,"Flynn, Mr. John",42,"Clonbur, Galway ,Ireland",Ireland,Queenstown,"Pittsburgh, Pennsylvania, US",,False,53.5445942,-9.3636096,0.0
-204,"Foley, Mr. Joseph",19,"Broadford, Limerick ,Ireland",Ireland,Queenstown,"Larchmont, New York, US",,False,52.3463495,-8.9749829,0.0
-205,"Foley, Mr. William",20,"Donoughmore, Cork ,Ireland",Ireland,Queenstown,New York City,,False,51.9890689,-8.7452997,0.0
-206,"Ford, Mr. Arthur",22,"Bridgwater, Somerset ,England",England,Southampton,"Elmira, New York, US",,False,51.1283378,-3.0037046,0.0
-207,"Ford, Mrs. Margaret Ann (née Watson)",48,"Rotherfield, East Sussex ,England",England,Southampton,"Essex County, New Jersey, US",,False,51.0459837,0.2192646,0.0
-208,"Ford, Miss Dollina Margaret",20,"Rotherfield, East Sussex ,England",England,Southampton,"Essex County, New Jersey, US",,False,51.0459837,0.2192646,0.0
-209,"Ford, Mr. Edward Watson",18,"Rotherfield, East Sussex ,England",England,Southampton,"Essex County, New Jersey, US",,False,51.0459837,0.2192646,0.0
-210,"Ford, Mr. William Neal Thomas",16,"Rotherfield, East Sussex ,England",England,Southampton,"Essex County, New Jersey, US",,False,51.0459837,0.2192646,0.0
-211,"Ford, Miss Robina Maggie",7,"Rotherfield, East Sussex ,England",England,Southampton,"Essex County, New Jersey, US",,False,51.0459837,0.2192646,0.0
-212,"Fox, Mr. Patrick",28,"Mullingar, Westmeath ,Ireland",Ireland,Queenstown,New York City,,False,53.5263035,-7.3415454,0.0
-213,"Gallagher, Mr. Martin",29,"Caltra, Galway ,Ireland",Ireland,Queenstown,New York City,,False,53.4355055,-8.4369796,0.0
-214,"Garfirth, Mr. John",21,"Wollaston, Northamptonshire ,England",England,Southampton,"Kitchener, Ontario, Canada",,False,52.2543819,-0.6710134,0.0
-215,"Gerios Thamah, Mr. Assaf",21,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-216,"Gheorgheff, Mr. Stanio",–,"Unknown ,Bulgaria",Bulgaria,Cherbourg,"Butte, Montana, US",,False,42.6963514,23.3315161,0.0
-217,"Gilinski, Mr. Eliezer",22,"Abercynon, Glamorgan ,Wales",Wales,Southampton,"Chicago, Illinois, US",,False,,,
-218,"Gilnagh, Miss Mary Katherine ""Katie""",17,"Esker, Longford ,Ireland",Ireland,Queenstown,New York City,16,True,53.7880047,-7.702743601100536,0.0
-219,"Glynn, Miss Mary Agatha",19,"Killaloe, Clare ,Ireland",Ireland,Queenstown,"Washington, DC, US",13,True,52.8067603,-8.4405427,0.0
-220,"Goldsmith, Mr. Frank John",33,"Strood, Kent ,England",England,Southampton,"Detroit, Michigan, US",,False,51.0586069,0.6470163,0.0
-221,"Goldsmith, Mrs. Emily Alice (née Brown)",31,"Strood, Kent ,England",England,Southampton,"Detroit, Michigan, US",C,True,51.0586069,0.6470163,0.0
-222,"Goldsmith, Master Frank John William",9,"Strood, Kent ,England",England,Southampton,"Detroit, Michigan, US",C,True,51.0586069,0.6470163,0.0
-223,"Goldsmith, Mr. Nathan",41,"Unknown ,Russia",Russia,Southampton,"Philadelphia, Pennsylvania, US",,False,59.8954596,30.5175965,0.0
-224,"Goodwin, Mr. Frederick Joseph",42,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-225,"Goodwin, Mrs. Augusta (née Tyler)",43,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-226,"Goodwin, Miss Lillian Amy",16,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-227,"Goodwin, Mr. Charles Edward",14,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-228,"Goodwin, Master William Frederick",13,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-229,"Goodwin, Miss Jessie Allis Mary",12,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-230,"Goodwin, Master Harold Victor",10,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-231,"Goodwin, Master Sidney Leslie",1,"Fulham ,England",England,Southampton,"Niagara Falls, New York, US",,False,51.4744221,-0.2060772,0.0
-232,"Green, Mr. George Henry",40,"Dorking, Surrey ,England",England,Southampton,"Lead, South Dakota, US",,False,51.2325184,-0.3306724,0.0
-233,"Grønnestad, Mr. Daniel Danielsen",32,"Bokn ,Norway",Norway,Southampton,"Portland, North Dakota, US",,False,59.19252415,5.475702645238316,0.0
-234,"Guest, Mr. Robert",32,"London ,England",England,Southampton,"Clinton, New York, US",,False,51.5073219,-0.1276474,0.0
-235,"Gustafsson, Mr. Alfred Ossian",19,"Kokkola ,Finland",Finland,Southampton,"Waukegan, Illinois, US",,False,63.8391421,23.1336845,0.0
-236,"Gustafsson, Mr. Anders Vilhelm",37,"Ruotsinpyhtää ,Finland",Finland,Southampton,New York City,,False,60.5220579,26.4695781,0.0
-237,"Gustafsson, Mr. Johan Birger",28,"Ruotsinpyhtää ,Finland",Finland,Southampton,New York City,,False,60.5220579,26.4695781,0.0
-238,"Gustafsson, Mr. Karl Gideon",19,"Myren, Synnerby, Västergötland ,Sweden",Sweden,Southampton,"Aberdeen, South Dakota, US",,False,,,
-239,"Haas, Miss Aloisia",24,"Altdorf, Uri ,Switzerland",Switzerland,Southampton,"Chicago, Illinois, US",,False,46.8820732,8.6413922,0.0
-240,"Hagland, Mr. Ingvald Olai Olsen",28,"Skåre, Haugesund ,Norway",Norway,Southampton,"Belmar, New Jersey, US",,False,59.419509149999996,5.26340360539375,0.0
-241,"Hagland, Mr. Konrad Mathias Reiersen",19,"Skåre, Haugesund ,Norway",Norway,Southampton,"Belmar, New Jersey, US",,False,59.419509149999996,5.26340360539375,0.0
-242,"Hakkarainen, Mr Pekka Pietari",28,"Helsinki ,Finland",Finland,Southampton,"Monessen, Pennsylvania, US",,False,60.1674881,24.9427473,0.0
-243,"Hakkarainen, Mrs. Elin Matilda (née Dolck)",24,"Helsinki ,Finland",Finland,Southampton,"Monessen, Pennsylvania, US",15,True,60.1674881,24.9427473,0.0
-244,"Hampe, Mr. Léon Jérome",19,"Westrozebeke ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.9310188,3.0121528,0.0
-245,"Hanna, Mr. Borak Suleiman",27,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",15,True,34.2351368,35.857964,0.0
-246,"Hanna, Mr. Bulus",18,"Kfar Mechi ,Syria",Syria,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-247,"Hanna, Mr. Mansur",35,"Kfar Mechi ,Syria",Syria,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-248,"Hansen, Mr. Claus Peter",41,"Racine, Wisconsin ,US",US,Southampton,"Racine, Wisconsin, US",,False,42.7260523,-87.7825242,0.0
-249,"Hansen, Mrs. Jennie Louise (née Howard)",45,"Racine, Wisconsin ,US",US,Southampton,"Racine, Wisconsin, US",11,True,42.7260523,-87.7825242,0.0
-250,"Hansen, Mr. Henrik Juul",26,"Holeby, Storstrøm ,Denmark",Denmark,Southampton,"Racine, Wisconsin, US",,False,,,
-251,"Hansen, Mr. Henry Damsgaard",21,"Copenhagen ,Denmark",Denmark,Southampton,"Racine, Wisconsin, US",,False,55.6867243,12.5700724,0.0
-252,"Hargadon, Miss Catherine ""Kate""",17,"Ballysadare, Sligo ,Ireland",Ireland,Queenstown,New York City,,False,54.2098884,-8.509265,0.0
-253,"Harknett, Miss Alice Phoebe",21,"Thornton Heath, London ,England",England,Southampton,"New London, Connecticut, US",,False,51.3988709,-0.099602,0.0
-254,"Hart, Mr. Henry John",27,"Ballysadare, Sligo ,Ireland",Ireland,Queenstown,"Boston, Massachusetts, US",,False,54.2098884,-8.509265,0.0
-255,"Healy, Miss Hanora (Nora)",29,"Athenry, Galway ,Ireland",Ireland,Queenstown,New York City,16,True,53.2991901,-8.7468297,0.0
-256,"Hedman, Mr. Oskar Arvid",27,"St. Paul, Minnesota ,US",US,Southampton,"St. Paul, Minnesota, US",15,True,44.9504037,-93.1015026,0.0
-257,"Hegarty, Miss Hanora",18,"Whitechurch, Cork ,Ireland",Ireland,Queenstown,"Charlestown, US",,False,51.958525,-8.528147505240696,0.0
-258,"Heikkinen, Miss Laina",26,"Jyväskylä ,Finland",Finland,Southampton,New York City,14?,True,62.2393002,25.745951,0.0
-259,"Heininen, Miss Wendla Maria",23,"Turku ,Finland",Finland,Southampton,New York City,,False,60.4517531,22.2670522,0.0
-260,"Hellström, Miss Hilda Maria",22,"Stora Tuna ,Sweden",Sweden,Southampton,"Evanston, Illinois, US",C,True,60.4414762,15.4976055,0.0
-261,"Hendeković, Mr. Ignjac",28,"Vagovina ,Croatia",Croatia,Southampton,"Harrisburg, Pennsylvania, US",,False,45.7827498,16.6679888,0.0
-262,"Henriksson, Miss Jenny Lovisa",28,"Stockholm ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,59.3251172,18.0710935,0.0
-263,"Henry, Miss Bridget Delia",23,"Clonown, Roscommon ,Ireland",Ireland,Queenstown,"Boston, Massachusetts, US",,False,53.4106211,-7.9471947,0.0
-264,"Hirvonen, Mrs. Helga Elisabeth (née Lindqvist)",22,"Dalsbruk ,Finland",Finland,Southampton,"Monessen, Pennsylvania, US",15,True,60.0209926,22.5067673,0.0
-265,"Hirvonen, Miss Hildur Elisabeth",2,"Dalsbruk ,Finland",Finland,Southampton,"Monessen, Pennsylvania, US",15,True,60.0209926,22.5067673,0.0
-266,"Holm, Mr. Johan Fredrik Alexander",43,"Karlshamn, Blekinge ,Sweden",Sweden,Southampton,New York City,,False,56.1701723,14.8631279,0.0
-267,"Holten, Mr. Johan Martin",28,"Bergen ,Norway",Norway,Southampton,New York City,,False,60.3943055,5.3259192,0.0
-268,"Honkanen, Miss Eliina",27,"Saarijärvi ,Finland",Finland,Southampton,New York City,?,True,62.7050975,25.2582688,0.0
-269,"Horgan, Mr. John",22,"Unknown ,Ireland",Ireland,Queenstown,New York City,,False,54.2418034,-8.2080803,0.0
-270,"Howard, Miss May Elizabeth",27,"North Walsham, Norfolk ,England",England,Southampton,"Albion, Michigan, US",C,True,52.8213308,1.3861979,0.0
-271,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42,"Borgund, Møre og Romsdal ,Norway",Norway,Southampton,"Milwaukee, Wisconsin, US",,False,62.46627115,6.233920098358294,0.0
-272,"Husayn, Master Husayn Mahumud",11,"Fredericksburg, Virginia ,US",US,Cherbourg,"Fredericksburg, Virginia, US",,False,38.3031837,-77.4605399,0.0
-273,"Hyman, Mr. Solomon Abraham",34,"Manchester ,England",England,Southampton,"Springfield, Massachusetts, US",C,True,53.4794892,-2.2451148,0.0
-274,"Ilmakangas, Miss Ida Livija",27,"New York City, New York ,US",US,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-275,"Ilmakangas, Miss Pieta Sofia",25,"Paavola, Northern Ostrobothnia ,Finland",Finland,Southampton,New York City,,False,64.6063404,25.2042701,0.0
-276,"Ivanoff, Mr. Kanio",20,"Malka Ribnya, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-277,"Jabbour, Miss Hileni",16,"Unknown ,Syria",Syria,Cherbourg,New York City,,False,33.5259875,36.2547713,0.0
-278,"Jabbour, Miss Tamini",19,"Unknown ,Syria",Syria,Cherbourg,New York City,,False,33.5259875,36.2547713,0.0
-279,"Jalševac, Mr. Ivan",29,"Topolovac ,Croatia",Croatia,Cherbourg,"Galesburg, Illinois, US",15,True,45.4594541,16.4371339,0.0
-280,"Jansson, Mr. Carl Olof",21,"Örebro ,Sweden",Sweden,Southampton,"Swedeburg, Nebraska, US",A,True,59.2747287,15.2151181,0.0
-281,"Jardim, Mr. José Neto",21,"Calheta, Madeira ,Portugal",Portugal,Southampton,New York City,,False,32.7219412,-17.1782577,0.0
-282,"Jensen, Mr. Hans Peder",20,"Eskilstrup ,Denmark",Denmark,Southampton,"Portland, Oregon, US",,False,54.855665450000004,11.881905259818325,0.0
-283,"Jensen, Mr. Niels Peder ""Rasmus""",48,"Portland, Oregon ,US",US,Southampton,"Portland, Oregon, US",,False,45.5202471,-122.6741949,0.0
-284,"Jensen, Mr. Svend Lauritz",17,"Eskilstrup ,Denmark",Denmark,Southampton,"Portland, Oregon, US",,False,54.855665450000004,11.881905259818325,0.0
-285,"Jermyn, Miss Annie Jane",26,"Ballydehob, Cork ,Ireland",Ireland,Queenstown,"East Lynn, Massachusetts, US",D,True,51.5626308,-9.4604371,0.0
-286,"Jirjis, Mrs. Shaniini (née Whabee Abi-Saab)",22,"Youngstown, Ohio ,US",US,Cherbourg,"Youngstown, Ohio, US",C,True,41.1035786,-80.6520161,0.0
-287,"Johannesen, Mr. Bernt Johannes",29,"Avaldsnes, Stavanger ,Norway",Norway,Southampton,New York City,13,True,58.9684365,5.7540047,0.0
-288,"Johanson, Mr. Jakob Alfred",34,"Munsala ,Finland",Finland,Southampton,"Vancouver, British Columbia, Canada",,False,63.4529666,22.4347597,0.0
-289,"Johansson, Mr. Erik",22,"Frostensmåla, Småland ,Sweden",Sweden,Southampton,"St. Paul, Minnesota, US",,False,,,
-290,"Johansson, Mr. Gustaf Joel",33,"Bäckebo, Småland ,Sweden",Sweden,Southampton,"Cheyenne, North Dakota, US",,False,,,
-291,"Johansson, Mr. Karl Johan",31,"Duluth, Minnesota ,US",US,Southampton,"Duluth, Minnesota, US",,False,46.7729322,-92.1251218,0.0
-292,"Johansson, Mr. Nils",29,"Chicago, Illinois ,US",US,Southampton,"Chicago, Illinois, US",,False,41.8755616,-87.6244212,0.0
-293,"Johansson Palmquist, Mr. Oskar Leander",26,"Kvarnaryd, Småland ,Sweden",Sweden,Southampton,"New Haven, Connecticut, US",15,True,,,
-294,"Johnson, Mr. Alfred",49,"Millwood ,England",England,Southampton,New York City,,False,54.6599415,-1.5625171,0.0
-295,"Johnson, Mrs. Elisabeth Vilhelmina (née Berg)",26,"St. Charles, Illinois ,US",US,Southampton,"St. Charles, Illinois, US",15,True,41.9139808,-88.3128183,0.0
-296,"Johnson, Master Harold Theodor",4,"St. Charles, Illinois ,US",US,Southampton,"St. Charles, Illinois, US",15,True,41.9139808,-88.3128183,0.0
-297,"Johnson, Miss Eleanor Ileen",1,"St. Charles, Illinois ,US",US,Southampton,"St. Charles, Illinois, US",15,True,41.9139808,-88.3128183,0.0
-298,"Johnson, Mr. Malkolm Joackim",33,"Minneapolis, Minnesota ,US",US,Southampton,"Minneapolis, Minnesota, US",,False,44.9772995,-93.2654692,0.0
-299,"Johnson, Mr. William Cahoone Jr.",19,"Hawthorne, New Jersey ,US",US,Southampton,New York City,,False,40.9492649,-74.1537549,0.0
-300,"Johnston, Mr. Andrew Emslie",35,"Thornton Heath, London ,England",England,Southampton,"New London, Connecticut, US",,False,51.3988709,-0.099602,0.0
-301,"Johnston, Mrs. Elizabeth (née Watson) ""Eliza""",34,"Thornton Heath, London ,England",England,Southampton,"New London, Connecticut, US",,False,51.3988709,-0.099602,0.0
-302,"Johnston, Master William Andrew",8,"Thornton Heath, London ,England",England,Southampton,"New London, Connecticut, US",,False,51.3988709,-0.099602,0.0
-303,"Johnston, Miss Catherine Nellie",7,"Thornton Heath, London ,England",England,Southampton,"New London, Connecticut, US",,False,51.3988709,-0.099602,0.0
-304,"Jonkoff, Mr. Lalju",23,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-305,"Jonsson, Mr. Carl",32,"Kalfsnäs, Småland ,Sweden",Sweden,Southampton,"Huntley, Illinois, US",15,True,,,
-306,"Jönsson, Mr. Nils Hilding",27,"Tågarp, Skåne ,Sweden",Sweden,Southampton,New York City,,False,55.9247727,12.9548931,0.0
-307,"Jussila, Mr. Eiriik",32,"Elimäki ,Finland",Finland,Southampton,"Monessen, Pennsylvania, US",15,True,60.7200611,26.4449324,0.0
-308,"Jussila, Miss Katriina",20,"Paavola, Northern Ostrobothnia ,Finland",Finland,Southampton,New York City,,False,64.6063404,25.2042701,0.0
-309,"Jussila, Miss Mari Aina",21,"Paavola, Northern Ostrobothnia ,Finland",Finland,Southampton,New York City,,False,64.6063404,25.2042701,0.0
-310,"Kallio, Mr. Nikolai Erlantti",17,"Kauhajoki ,Finland",Finland,Southampton,"Sudbury, Ontario, Canada",,False,62.431748,22.1841988,0.0
-311,"Kalvik, Mr. Johannes Halvorsen",21,"Etnesjøen, Hordaland ,Norway",Norway,Southampton,"Story City, Iowa, US",,False,,,
-312,"Karajić, Mr. Milan",30,"Vagovina ,Croatia",Croatia,Southampton,"Youngstown, Ohio, US",,False,45.7827498,16.6679888,0.0
-313,"Karlsson, Mr. Einar Gervasius",21,"Oskarshamn, Kalmar ,Sweden",Sweden,Southampton,"Brooklyn, New York, US",13,True,57.2632811,16.4443478,0.0
-314,"Karlsson, Mr. Julius Konrad Eugen",33,"Göteborg, Västergötland ,Sweden",Sweden,Southampton,New York City,,False,,,
-315,"Karlsson, Mr. Nils August",22,"Örebro ,Sweden",Sweden,Southampton,"Palmer, Massachusetts, US",,False,59.2747287,15.2151181,0.0
-316,"Karun, Mr. Franz",39,"Milje ,Slovenia",Slovenia,Southampton,"Galesburg, Illinois, US",15,True,46.2674292,14.4050039,0.0
-317,"Karun, Miss Manca (""Anna"")",4,"Milje ,Slovenia",Slovenia,Southampton,"Galesburg, Illinois, US",15,True,46.2674292,14.4050039,0.0
-318,"Katavelos, Mr. Vassilios G.",19,"Agios Sostis ,Greece",Greece,Cherbourg,"Milwaukee, Wisconsin, US",,False,38.31146445,25.955737595340533,0.0
-319,"Keane, Mr. Andrew ""Andy""",23,"Athenry, Galway ,Ireland",Ireland,Queenstown,"Auburndale, Florida, US",,False,53.2991901,-8.7468297,0.0
-320,"Keefe, Mr. Arthur",39,"Rahway, New Jersey ,US",US,Southampton,"Rahway, New Jersey, US",A,True,40.6081591,-74.2776468,0.0
-321,"Kelly, Mr. James",19,"Unknown ,Ireland",Ireland,Southampton,New York City,,False,54.2418034,-8.2080803,0.0
-322,"Kelly, Mr. James",44,"Leixlip, Kildare ,Ireland",Ireland,Queenstown,"New Haven, Connecticut, US",,False,53.3644766,-6.4897438,0.0
-323,"Kelly, Miss Anna Katherine",20,"Cuilmullagh, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",16,True,53.95803965,-9.332359504279879,0.0
-324,"Kelly, Miss Mary",22,"Castlepollard, Westmeath ,Ireland",Ireland,Queenstown,New York City,D,True,53.6796939,-7.2981856,0.0
-325,"Kennedy, Mr. John Joseph",24,"Watergate, Limerick ,Ireland",Ireland,Queenstown,New York City,15?,True,52.6645393,-8.62171067665746,0.0
-326,"Khalil-Khoury, Mr. Butrus",25,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-327,"Khalil-Khoury, Mrs. Zahie ""Maria""",20,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-328,"Kiernan, Mr. John Joseph",24,"Jersey City, New Jersey ,US",US,Queenstown,"Jersey City, New Jersey, US",,False,40.7281575,-74.0776417,0.0
-329,"Kiernan, Mr. Philip",22,"Aughnacliffe, Longford ,Ireland",Ireland,Queenstown,"Jersey City, New Jersey, US",,False,53.850985,-7.6040301,0.0
-330,"Kilgannon, Mr. Thomas",22,"Currafarry, Galway ,Ireland",Ireland,Queenstown,New York City,,False,53.466661849999994,-8.381393191381274,0.0
-331,"Kink, Mr. Anton",29,"Zürich ,Switzerland",Switzerland,Southampton,"Milwaukee, Wisconsin",2,True,47.3744489,8.5410422,0.0
-332,"Kink, Mrs. Luise (née Heilmann)",26,"Zürich ,Switzerland",Switzerland,Southampton,"Milwaukee, Wisconsin",2,True,47.3744489,8.5410422,0.0
-333,"Kink, Miss Luise Gretchen",4,"Zürich ,Switzerland",Switzerland,Southampton,"Milwaukee, Wisconsin",2,True,47.3744489,8.5410422,0.0
-334,"Kink, Miss Maria",22,"Zürich ,Switzerland",Switzerland,Southampton,"Milwaukee, Wisconsin, US",,False,47.3744489,8.5410422,0.0
-335,"Kink, Mr. Vincenz",26,"Zürich ,Switzerland",Switzerland,Southampton,"Milwaukee, Wisconsin, US",,False,47.3744489,8.5410422,0.0
-336,"Klasén, Mrs. Hulda Kristina Eugenia (née Lofqvist)",36,"Salmunds, Gotland ,Sweden",Sweden,Southampton,"Los Angeles, US",,False,,,
-337,"Klasén, Mr. Klas Albin",18,"Grimshut, Småland ,Sweden",Sweden,Southampton,New York City,,False,,,
-338,"Klasén, Miss Gertrud Emilia",1,"Grimshut, Småland ,Sweden",Sweden,Southampton,New York City,,False,,,
-339,"Kraeff, Mr. Theodor",–,"Vetren ,Bulgaria",Bulgaria,Cherbourg,"Madison, Wisconsin, US",,False,42.28236,24.04463,0.0
-340,"Krekorian, Mr. Neshan",25,"Kiğı ,Turkey",Turkey,Cherbourg,"Brantford, Ontario, Canada",10,True,39.2762597,40.27099417716855,0.0
-341,"Kutscher, Mr. Simon",26,"Edinburgh ,Scotland",Scotland,Southampton,New York City,,False,55.9533456,-3.1883749,0.0
-342,"Lahoud Ishaq Mowad, Mr. Sarkis",30,"Zgharta ,Lebanon",Lebanon,Cherbourg,"Waterbury, Connecticut, US",,False,34.3929847,35.8967113,0.0
-343,"Laitinen, Miss Kristiina Sofia",37,"Helsinki ,Finland",Finland,Southampton,New York City,,False,60.1674881,24.9427473,0.0
-344,"Laleff, Mr. Kristo",23,"Knezhni Lak, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-345,"Lam, Mr. Ali",37,"Hong Kong ,China",China,Southampton,New York City,C,True,22.2793278,114.1628131,0.0
-346,"Lam, Mr. Len",23,"Hong Kong ,China",China,Southampton,New York City,,False,22.2793278,114.1628131,0.0
-347,"Landergren, Miss Aurora Adelia",22,"Karlshamn, Blekinge ,Sweden",Sweden,Southampton,New York City,13,True,56.1701723,14.8631279,0.0
-348,"Lane, Mr. Patrick",16,"Limerick, Limerick ,Ireland",Ireland,Queenstown,New York City,,False,52.661252,-8.6301239,0.0
-349,"Lang, Mr. Fang",26,"Hong Kong ,China",China,Southampton,New York City,14,True,22.2793278,114.1628131,0.0
-350,"Larsson, Mr. August Viktor",29,"Stamford, Connecticut ,US",US,Southampton,"Stamford, Connecticut, US",,False,41.072089,-73.54443614832871,0.0
-351,"Larsson, Mr. Bengt Edvin",29,"Nyköping, Södermanland ,Sweden",Sweden,Southampton,"Hartford, Connecticut, US",,False,58.7545409,17.0120656,0.0
-352,"Larsson-Rondberg, Mr. Edvard A.",22,"Lysvik, Värmland ,Sweden",Sweden,Southampton,"Missoula, Montana, US",,False,60.0152729,13.132996,0.0
-353,"Lee, Mr. Bing",32,"Hong Kong ,China",China,Southampton,New York City,C,True,22.2793278,114.1628131,0.0
-354,"Lee, Mr. Ling",28,"Hong Kong ,China",China,Southampton,New York City,,False,22.2793278,114.1628131,0.0
-355,"Lefebvre, Mrs. Frances Marie-Anselme (née Daumont)",40,"Liévin, Pas-de-Calais ,France",France,Southampton,"Mystic, Iowa, US",,False,50.4245,2.7738,0.0
-356,"Lefebvre, Miss Mathilde Franck-Marie-Joseph",12,"Liévin, Pas-de-Calais ,France",France,Southampton,"Mystic, Iowa, US",,False,50.4245,2.7738,0.0
-357,"Lefebvre, Miss Jeannie Franck-Marie-Joseph",8,"Liévin, Pas-de-Calais ,France",France,Southampton,"Mystic, Iowa, US",,False,50.4245,2.7738,0.0
-358,"Lefebvre, Master Henri Franck-Marie-Joseph",5,"Liévin, Pas-de-Calais ,France",France,Southampton,"Mystic, Iowa, US",,False,50.4245,2.7738,0.0
-359,"Lefebvre, Miss Ida Franck-Marie-Joseph",3,"Liévin, Pas-de-Calais ,France",France,Southampton,"Mystic, Iowa, US",,False,50.4245,2.7738,0.0
-360,"Leinonen, Mr. Antti Gustaf",32,"Välitaipale ,Finland",Finland,Southampton,New York City,,False,65.1193481,25.3364119,0.0
-361,"Lennon, Mr. Denis",20,"Ballymahon, Longford ,Ireland",Ireland,Queenstown,New York City,,False,53.5617282,-7.7617266,0.0
-362,"Lennon, Miss Mary",18,"Ballymahon, Longford ,Ireland",Ireland,Queenstown,New York City,,False,53.5617282,-7.7617266,0.0
-363,"Leonard, Mr. Lionel",36,"New York City, New York ,US",US,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-364,"Lester, Mr. James",39,"West Bromwich, Staffordshire ,England",England,Southampton,"Pontiac, Michigan, US",,False,52.7214174,-1.7680194,0.0
-365,"Lievens, Mr. René Gustave Aimé",24,"Haaltert ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.887393349999996,3.9904300285117014,0.0
-366,"Lindahl, Miss Agda Thorilda Viktoria",25,"Stockholm ,Sweden",Sweden,Southampton,"Saranac Lake, New York, US",,False,59.3251172,18.0710935,0.0
-367,"Lindblom, Miss Augusta Charlotta",45,"Stockholm ,Sweden",Sweden,Southampton,"Stratford, Connecticut, US",,False,59.3251172,18.0710935,0.0
-368,"Lindell, Mr. Edvard Bengtsson",36,"Helsingborg, Skåne ,Sweden",Sweden,Southampton,"Hartford, Connecticut, US",A,True,56.0441984,12.7040684,0.0
-369,"Lindell, Mrs. Elin Gerda (née Persson)",30,"Helsingborg, Skåne ,Sweden",Sweden,Southampton,"Hartford, Connecticut, US",A,True,56.0441984,12.7040684,0.0
-370,"Lindqvist, Mr. Eino William",20,"Dalsbruk ,Finland",Finland,Southampton,"Monessen, Pennsylvania, US",15,True,60.0209926,22.5067673,0.0
-371,"Linehan, Mr. Michael",21,"Boherbue, Cork ,Ireland",Ireland,Queenstown,New York City,,False,52.15816785,-9.072094847439335,0.0
-372,"Ling, Mr. Lee",24,"Hong Kong ,China",China,Southampton,New York City,,False,22.2793278,114.1628131,0.0
-373,"Linhart, Mr. Wenzel H.",27,"Vienna ,Austria",Austria,Southampton,New York City,,False,48.2083537,16.3725042,0.0
-374,"Livshin, Mr. David (""Abraham Harmer"")",25,"Manchester ,England",England,Southampton,"Montreal, Quebec, Canada",,False,53.4794892,-2.2451148,0.0
-375,"Lobb, Mr. William Arthur",30,"Scranton, Pennsylvania ,US",US,Southampton,"Scranton, Pennsylvania, US",,False,41.4086874,-75.6621294,0.0
-376,"Lobb, Mrs. Cordelia K. (née Stanlick)",26,"Scranton, Pennsylvania ,US",US,Southampton,"Scranton, Pennsylvania, US",,False,41.4086874,-75.6621294,0.0
-377,"Lockyer, Mr. Edward Thomas",21,"Sandhurst, Kent ,England",England,Southampton,"Ontario, New York, US",,False,51.0264861,0.5627378,0.0
-378,"Lovell, Mr. John Hall (""Henry"")",20,"Northlew, Devon ,England",England,Southampton,New York City,,False,50.7724148,-4.1229676,0.0
-379,"Lulić, Mr. Nikola",29,"Konjsko Brdo ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",15,True,44.6673519,15.4044628,0.0
-380,"Lundahl, Mr. Johan Svensson",51,"Fyrnan, Småland ,Sweden",Sweden,Southampton,"Spokane, Washington, US",,False,,,
-381,"Lundström, Mr. Thure Edvin",32,"Simrishamn, Skåne ,Sweden",Sweden,Southampton,"Los Angeles, US",15,True,55.566667,14.3,0.0
-382,"Lymperopoulus, Mr. Panagiotis K.",30,"Áyios Sóstis ,Greece",Greece,Cherbourg,"Stamford, Connecticut US",,False,37.9555609,23.71594125265149,0.0
-383,"Lyntakoff, Mr. Stanko",44,"Unknown ,Bulgaria",Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,42.6963514,23.3315161,0.0
-384,"Mackay, Mr. George William",20,"London ,England",England,Southampton,"Rochester, New York, US",,False,51.5073219,-0.1276474,0.0
-385,"Madigan, Miss Margaret ""Maggie""",21,"Askeaton, Limerick ,Ireland",Ireland,Queenstown,New York City,15,True,52.599722,-8.975556,0.0
-386,"Madsen, Mr. Fridtjof Arne",24,"Trondheim ,Norway",Norway,Southampton,"Brooklyn, New York, US",13,True,63.4305658,10.3951929,0.0
-387,"Mäenpää, Mr. Matti Alexanteri",22,"Kauhajoki ,Finland",Finland,Southampton,"Sudbury, Ontario, Canada",,False,62.431748,22.1841988,0.0
-388,"Mahon, Miss Bridget Delia",20,"Derrymartin, Mayo ,Ireland",Ireland,Queenstown,New York City,,False,53.992962399999996,-9.371164048650234,0.0
-389,"Maisner, Mr. Simon",34,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-390,"Mäkinen, Mr. Kalle Edvard",29,"Ikaalinen, Pirkanmaa ,Finland",Finland,Southampton,"Glassport, Pennsylvania, US",,False,61.7701493,23.0633777,0.0
-391,"Mamee, Mr. Hanna",20,"Tripoli ,Lebanon",Lebanon,Cherbourg,"Philadelphia, Pennsylvania, US",15,True,34.4453581,35.8225116,0.0
-392,"Mangan, Miss Mary",32,"Carrowkehine, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,,,
-393,"Mannion, Miss Margaret",28,"Caltra, Galway ,Ireland",Ireland,Queenstown,New York City,16,True,53.4355055,-8.4369796,0.0
-394,"Mardirosian, Mr. Sarkis",25,"Kiğı ,Turkey",Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,39.2762597,40.27099417716855,0.0
-395,"Marinko, Mr. Dmitri",23,"Unknown ,Macedonia",Macedonia,Southampton,New York City,,False,41.5007515,26.5313081,0.0
-396,"Markoff, Mr. Marin",35,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-397,"Markun, Mr. Johann",33,"Milje ,Slovenia",Slovenia,Cherbourg,New York City,,False,46.2674292,14.4050039,0.0
-398,"Matinoff, Mr. Nicola",30,"Gabrovo ,Bulgaria",Bulgaria,Cherbourg,"Madison, Wisconsin, US",,False,42.96597,25.21308065823368,0.0
-399,"McCarthy, Miss Catherine ""Katie""",24,"Tipperary ,Ireland",Ireland,Queenstown,"Bayonne, New Jersey, US",?,True,52.68477435,-7.898080410303971,0.0
-400,"McCormack, Mr. Thomas Joseph",19,"Bayonne, New Jersey ,US",US,Queenstown,"Guttenberg, New Jersey, US",15,True,40.6687141,-74.1143091,0.0
-401,"McCoy, Miss Catherine Agnes",29,"Carrickatane, Tyrone ,Ireland",Ireland,Queenstown,"Brooklyn, New York, US",16,True,54.9025908,-7.3157645,0.0
-402,"McCoy, Miss Alice",26,"Carrickatane, Tyrone ,Ireland",Ireland,Queenstown,"Brooklyn, New York, US",16,True,54.9025908,-7.3157645,0.0
-403,"McCoy, Mr. Bernard",24,"Carrickatane, Tyrone ,Ireland",Ireland,Queenstown,"Brooklyn, New York, US",16,True,54.9025908,-7.3157645,0.0
-404,"McDermott, Miss Bridget Delia",31,"Lahardane, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",13,True,54.0282478,-9.3216581,0.0
-405,"McEvoy, Mr. Michael",19,"Dublin ,Ireland",Ireland,Queenstown,New York City,,False,53.3497645,-6.2602732,0.0
-406,"McGovern, Miss Mary",22,"Corlough, Cavan ,Ireland",Ireland,Queenstown,New York City,13,True,54.1263352,-7.7727603,0.0
-407,"McGowan, Miss Anna F. ""Annie""",14,"Massbrook, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",13,True,53.986667,-9.284167,0.0
-408,"McGowan, Miss Catherine",42,"Terry, Mayo ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,,,
-409,"McMahon, Mr. Martin",20,"Craghbrien, Clare ,Ireland",Ireland,Queenstown,New York City,,False,,,
-410,"McNamee, Mr. Neal",27,"Convoy, Donegal, Ireland ,England",England,Southampton,"Philadelphia, Pennsylvania, US",,False,,,
-411,"McNamee, Mrs. Eileen (née O'Leary)",19,"Salisbury, Wiltshire ,England",England,Southampton,"Philadelphia, Pennsylvania, US",,False,51.0690613,-1.7954134,0.0
-412,"McNeill, Miss Bridget",27,"Trien, Roscommon ,Ireland",Ireland,Queenstown,New York City,,False,53.729438349999995,-8.555108838348016,0.0
-413,"Meanwell, Mrs. Mary Ann",63,"Eastbourne, East Sussex ,England",England,Southampton,New York City,,False,50.7685761,0.2957854,0.0
-414,"Meehan, Mr. John",22,"Currowhunane, Sligo ,Ireland",Ireland,Queenstown,"Patterson, New Jersey, US",,False,,,
-415,"Meek, Mrs. Anna ""Annie"" Louise Rowley",31,"Penarth, Glamorgan ,Wales",Wales,Southampton,New York City,,False,51.435968,-3.1733023,0.0
-416,"Miesnere, Mr. Simon",34,"London, England ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-417,"Meo-Martino, Mr. Alfonzo",48,"Bournemouth, Dorset ,England",England,Southampton,"Washington, DC, US",,False,50.8497999,-2.1606832,0.0
-418,"Mernagh, Mr. John Robert",26,"Ballywilliam, Wexford ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,52.4479192,-6.8647066,0.0
-419,"Midtsjø, Mr. Karl Albert",21,"Kråkstad, Ski ,Norway",Norway,Southampton,"Chicago, Illinois, US",15,True,59.7099144,10.8415645,0.0
-420,"Mihoff, Mr. Stoytcho",28,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-421,"Miles, Mr. Frank",23,"Greenwich, London ,England",England,Southampton,New York City,,False,51.4820845,-0.0045417,0.0
-422,"Mineff, Mr. Ivan",24,"Unknown ,Bulgaria",Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,42.6963514,23.3315161,0.0
-423,"Minkoff, Mr. Lazar",21,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-424,"Mitkoff, Mr. Mito",23,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-425,"Mockler, Miss Ellen Mary",23,"Currafarry, Galway ,Ireland",Ireland,Queenstown,New York City,16,True,53.466661849999994,-8.381393191381274,0.0
-426,"Moen, Mr. Sigurd Hansen",25,"Bergen ,Norway",Norway,Southampton,"Minneapolis, Minnesota, US",,False,60.3943055,5.3259192,0.0
-427,"Moor, Mrs. Beila",29,"Unknown ,Russia",Russia,Southampton,"Chicago, Illinois, US",14,True,59.8954596,30.5175965,0.0
-428,"Moor, Master Meier",7,"Unknown ,Russia",Russia,Southampton,"Chicago, Illinois, US",14,True,59.8954596,30.5175965,0.0
-429,"Moore, Mr. Leonard Charles",19,"Kingston upon Thames, London ,England",England,Southampton,"Hoboken, New Jersey, US",,False,51.4096275,-0.3062621,0.0
-430,"Moran, Miss Bertha Bridget",28,"Askeaton, Limerick ,Ireland",Ireland,Queenstown,"Brooklyn, New York, US",16,True,52.599722,-8.975556,0.0
-431,"Moran, Mr. Daniel James",27,"Askeaton, Limerick ,Ireland",Ireland,Queenstown,"Brooklyn, New York, US",,False,52.599722,-8.975556,0.0
-432,"Morley, Mr. William",34,"Petworth, West Sussex ,England",England,Southampton,New York City,,False,50.9862857,-0.6101088,0.0
-433,"Morrow, Mr. Thomas Rowan",30,"Rathfriland, Down ,Ireland",Ireland,Queenstown,"Gleichen, Alberta, Canada",,False,54.2381785,-6.1603136,0.0
-434,"Moss, Mr. Albert Johan",29,"Bergen ,Norway",Norway,Southampton,New York City,B,True,60.3943055,5.3259192,0.0
-435,"Moussa, Mrs. Mantoura",35,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",?,True,34.2351368,35.857964,0.0
-436,"Moutal, Mr. Rahamin Haim",28,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-437,"Mubarik, Mrs. Amanah Fa'ud (née Iskandar)",24,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Houtzdale, Pennsylvania, US",C,True,34.2351368,35.857964,0.0
-438,"Mubarik, Master Gerios",7,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Houtzdale, Pennsylvania, US",C,True,34.2351368,35.857964,0.0
-439,"Mubarik, Master Halim Gonios",4,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Houtzdale, Pennsylvania, US",C,True,34.2351368,35.857964,0.0
-440,"Mullen, Miss Katherine ""Katie""",19,"Esker, Longford ,Ireland",Ireland,Queenstown,New York City,16,True,53.7880047,-7.702743601100536,0.0
-441,"Mulvihill, Miss Bridget Elizabeth ""Bertha""",25,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Providence, Rhode Island, US",15,True,53.4230832,-7.942705,0.0
-442,"Murdlin, Mr. Joseph",22,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-443,"Murphy, Miss Catherine ""Kate""",18,"Aghnacliffe, Longford ,Ireland",Ireland,Queenstown,"Philadelphia, Pennsylvania, US",16,True,,,
-444,"Murphy, Miss Margaret Jane ""Maggie/Mary""",25,"Fostragh, Longford ,Ireland",Ireland,Queenstown,"Philadelphia, Pennsylvania, US",16,True,53.8481325,-7.6359516,0.0
-445,"Murphy, Miss Nora",34,"Dublin ,Ireland",Ireland,Queenstown,New York City,16,True,53.3497645,-6.2602732,0.0
-446,"Muslamani, Mrs. Fatimah",22,"Tebnine ,Lebanon",Lebanon,Cherbourg,"Michigan City, Indiana, US",C,True,33.1932575,35.4117998,0.0
-447,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18,"Kristinehamn, Värmland ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,59.3113619,14.11176,0.0
-448,"Nackid, Mr. Sahid",20,"Zgharta ,Lebanon",Lebanon,Cherbourg,"Waterbury, Connecticut, US",C,True,34.3929847,35.8967113,0.0
-449,"Nackid, Miss Waika ""Mary"" (née Mowad)",19,"Zgharta ,Lebanon",Lebanon,Cherbourg,"Waterbury, Connecticut, US",C,True,34.3929847,35.8967113,0.0
-450,"Nackid, Miss Maria",1,"Zgharta ,Lebanon",Lebanon,Cherbourg,"Waterbury, Connecticut, US",C,True,34.3929847,35.8967113,0.0
-451,"Naidenoff, Mr. Penko",22,"Gumostnik, Lovech ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-452,"Nakli-Khoury, Mr. Toufik",17,"Hardîne ,Lebanon",Lebanon,Cherbourg,New York City,,False,34.2351368,35.857964,0.0
-453,"Nancarrow, Mr. William Henry",33,"St Austell, Cornwall ,England",England,Southampton,"Yonkers, New York, US",,False,50.338466,-4.7882104,0.0
-454,"Nankoff, Mr. Minko",32,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-455,"Nasr Alma, Mr. Mustafa",20,"Tebnine ,Lebanon",Lebanon,Cherbourg,New York City,,False,33.1932575,35.4117998,0.0
-456,"Nassr Rizq, Mr. Saade",20,"Sir'Al ,Lebanon",Lebanon,Cherbourg,New York City,,False,,,
-457,"Naughton, Miss Hannah",21,"Donoughmore ,Ireland",Ireland,Queenstown,New York City,,False,51.9890689,-8.7452997,0.0
-458,"Nenkoff, Mr. Christo",22,"Unknown ,Bulgaria",Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,42.6963514,23.3315161,0.0
-459,"Nieminen, Miss Manta Josefiina",29,"Karinainen ,Finland",Finland,Southampton,"Aberdeen, Washington, US",,False,60.6779568,22.7681203,0.0
-460,"Niklasson, Mr. Samuel",28,"Västra Bogane, Orust Island ,Sweden",Sweden,Southampton,New York City,,False,58.2189959,11.7862159,0.0
-461,"Nilsson, Mr. August Ferdinand",21,"Hörby, Skåne ,Sweden",Sweden,Southampton,"St. Paul, Minnesota, US",,False,55.8504666,13.6486019,0.0
-462,"Nilsson, Miss Berta Olivia",18,"Lysvik, Värmland ,Sweden",Sweden,Southampton,"Missoula, Montana, US",D,True,60.0152729,13.132996,0.0
-463,"Nilsson, Miss Helmina Josefina",26,"Ramkvilla, Småland ,Sweden",Sweden,Southampton,"Joliet, Illinois, US",13,True,,,
-464,"Niqula-Yarid, Miss Jamilah",14,"El-Hakour ,Lebanon",Lebanon,Cherbourg,"Jacksonville, Florida, US",C,True,,,
-465,"Niqula-Yarid, Master Ilyas",12,"El-Hakour ,Lebanon",Lebanon,Cherbourg,"Jacksonville, Florida, US",C,True,,,
-466,"Nirva, Mr. Iisakki Antino Äijö",41,"Kauhajoki ,Finland",Finland,Southampton,"Sudbury, Ontario, Canada",,False,62.431748,22.1841988,0.0
-467,"Niskanen, Mr. Juha",39,"Kivijärvi ,Finland",Finland,Southampton,"Boston, Massachusetts, US",9,True,63.1223025,25.0725469,0.0
-468,"Nofal, Mr. Mansur",20,"Kafr Mishki ,Lebanon",Lebanon,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-469,"Nosworthy, Mr. Richard Cater",21,"Newton Abbot, Devon ,England",England,Southampton,"Buffalo, New York, US",,False,50.5301513,-3.5992265,0.0
-470,"Nysten, Miss Anna Sofia",22,"Kisa, Östergötland ,Sweden",Sweden,Southampton,"Hackensack, New Jersey, US",13,True,57.9875021,15.622841,0.0
-471,"Nysveen, Mr. Johan Hansen",61,"Øyer ,Norway",Norway,Southampton,"Grand Forks, North Dakota, US",,False,61.3273517,10.504001742069814,0.0
-472,"O'Brien, Mr. Thomas",27,"Pallasgreen, Limerick ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",,False,52.5685257,-8.3372169,0.0
-473,"O'Brien, Mrs. Johanna ""Hannah"" (née Godfrey)",26,"Pallasgreen,  Limerick ,Ireland",Ireland,Queenstown,"Chicago, Illinois, US",?,True,52.5685257,-8.3372169,0.0
-474,"O'Brien, Mr. Timothy",21,"Drimoleague, Cork ,Ireland",Ireland,Queenstown,New York City,,False,51.6608411,-9.2599584,0.0
-475,"O'Connell, Mr. Patrick Denis",17,"Kingwilliamstown, Cork ,Ireland",Ireland,Queenstown,New York City,,False,52.183388550000004,-9.238338860920043,0.0
-476,"O'Connor, Mr. Maurice",16,"Boherbue, Cork ,Ireland",Ireland,Queenstown,New York City,,False,52.15816785,-9.072094847439335,0.0
-477,"O'Connor, Mr. Patrick",23,"Kingwilliamstown, Cork ,Ireland",Ireland,Queenstown,New York City,,False,52.183388550000004,-9.238338860920043,0.0
-478,"O'Driscoll, Miss Bridget",24,"Ballydehob, Cork ,Ireland",Ireland,Queenstown,"Jersey City, New Jersey, US",D,True,51.5626308,-9.4604371,0.0
-479,"O'Dwyer, Miss Ellen ""Nellie""",25,"Limerick, Limerick ,Ireland",Ireland,Queenstown,New York City,?,True,52.661252,-8.6301239,0.0
-480,"O'Keefe, Mr. Patrick",22,"Waterford, Waterford ,Ireland",Ireland,Queenstown,New York City,B,True,52.2609997,-7.1119081,0.0
-481,"O'Leary, Miss Hanora ""Nora""",16,"Kingwilliamstown, Cork ,Ireland",Ireland,Queenstown,New York City,13,True,52.183388550000004,-9.238338860920043,0.0
-482,"O'Sullivan, Miss Bridget Mary",21,"Glenduff, Kerry ,Ireland",Ireland,Queenstown,New York City,,False,52.2926158,-9.6061466,0.0
-483,"Ödahl, Mr. Nils Martin",23,"Örsjö, Kalmar ,Sweden",Sweden,Southampton,"Peoria, Illinois, US",,False,56.7008028,15.7480275,0.0
-484,"Öhman, Miss Velin",22,"Mariestad, Västergötland ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",C,True,,,
-485,"Olsen, Mr. Henry Margido",28,"Bergen ,Norway",Norway,Southampton,New York City,,False,60.3943055,5.3259192,0.0
-486,"Olsen, Mr. Karl Siegwart Andreas",42,"Trondheim ,Norway",Norway,Southampton,"Brooklyn, New York, US",,False,63.4305658,10.3951929,0.0
-487,"Olsen, Master Arthur Carl",9,"Trondheim ,Norway",Norway,Southampton,"Brooklyn, New York, US",13,True,63.4305658,10.3951929,0.0
-488,"Olsen, Mr. Ole Martin",27,"Sunnhordland ,Norway",Norway,Southampton,"Broderick, Canada",,False,59.833821,5.7123861,0.0
-489,"Olsson, Miss Elina",31,"Södra Brantevik ,Sweden",Sweden,Southampton,"St. Paul, Minnesota, US",,False,55.5151992,14.345963,0.0
-490,"Olsson, Mr. Nils Johan Göransson",28,"Eslöv, Skåne ,Sweden",Sweden,Southampton,New York City,,False,55.85,13.316667,0.0
-491,"Olsson, Mr. Oskar Wilhelm",32,"Lunna, Orust Island ,Sweden",Sweden,Southampton,"Manitowoc, Wisconsin, US",A,True,58.2441588,11.8025517,0.0
-492,"Olsvingen, Mr. Thor Andersen",20,"Vikersund ,Norway",Norway,Southampton,"Carneron, US",,False,59.969149,9.9982696,0.0
-493,"Orešković, Miss Jelka",23,"Konjsko Brdo ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6673519,15.4044628,0.0
-494,"Orešković, Mr. Luka",20,"Konjsko Brdo ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6673519,15.4044628,0.0
-495,"Orešković, Miss Marija",20,"Konjsko Brdo ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6673519,15.4044628,0.0
-496,"Osén, Mr. Olaf Elon",16,"Hedesunda, Gävleborg ,Sweden",Sweden,Southampton,"Mitchell, South Dakota, US",,False,60.3940251,17.006446,0.0
-497,"Pålsson, Mrs. Alma Cornelia (née Berglund)",29,"Bjuv, Skåne ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,56.0856449,12.9139805,0.0
-498,"Pålsson, Miss Torborg Danira",8,"Bjuv, Skåne ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,56.0856449,12.9139805,0.0
-499,"Pålsson, Master Paul Folke",6,"Bjuv, Skåne ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,56.0856449,12.9139805,0.0
-500,"Pålsson, Miss Stina Viola",3,"Bjuv, Skåne ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,56.0856449,12.9139805,0.0
-501,"Pålsson, Master Gösta Leonard",2,"Bjuv, Skåne ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,56.0856449,12.9139805,0.0
-502,"Panula, Mrs. Maija Emelia Abrahamintytar (née Ketola-Ojala)",41,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-503,"Panula, Mr. Ernesti Arvid",16,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-504,"Panula, Mr. Jaakko Arnold",15,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-505,"Panula, Master Juha Niilo",7,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-506,"Panula, Master Urho Abraham",2,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-507,"Panula, Master Eino Viljami",1,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-508,"Pašič, Mr. Jakov",21,"Streklevac ,Slovenia",Slovenia,Southampton,"Aurora, Illinois, US",,False,,,
-509,"Patchett, Mr. George",19,"Wollaston, Northamptonshire ,England",England,Southampton,"Kitchener, Ontario, Canada",,False,52.2543819,-0.6710134,0.0
-510,"Pavlović, Mr. Štefo",32,"Vagovina ,Croatia",Croatia,Southampton,"Harrisburg, Pennsylvania, US",,False,45.7827498,16.6679888,0.0
-511,"Peacock, Mrs. Edith (née Nile)",26,"Southampton, Hampshire ,England",England,Southampton,"Elizabeth, New Jersey, US",,False,50.90472085,-1.3587998082396187,0.0
-512,"Peacock, Miss Treasteall",4,"Southampton, Hampshire ,England",England,Southampton,"Elizabeth, New Jersey, US",,False,50.90472085,-1.3587998082396187,0.0
-513,"Peacock, Master Albert Edward",7 mo.,"Southampton, Hampshire ,England",England,Southampton,"Elizabeth, New Jersey, US",,False,50.90472085,-1.3587998082396187,0.0
-514,"Pearce, Mr. Ernest",32,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-515,"Pedersen, Mr. Olaf",28,"Sandefjord ,Norway",Norway,Southampton,"Seattle, Washington, US",,False,59.1300112,10.2255602,0.0
-516,"Peduzzi, Mr. Giuseppe",24,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-517,"Pekoniemi, Mr. Edvard Johannes",21,"Heinola ,Finland",Finland,Southampton,New York City,,False,61.2027188,26.031371,0.0
-518,"Peltomäki, Mr. Nikolai Johannes",25,"Helsinki ,Finland",Finland,Southampton,New York City,,False,60.1674881,24.9427473,0.0
-519,"Perkin, Mr. John Henry",22,"Holsworthy, Devon ,England",England,Southampton,"Saskatoon, Saskatchewan, Canada",,False,50.8123783,-4.3526341,0.0
-520,"Persson, Mr. Ernst Ulrik",25,"Stockholm, Uppland ,Sweden",Sweden,Southampton,"Indianapolis, Indiana, US",15,True,59.3247259,18.0699988,0.0
-521,"Peters, Miss Catherine ""Katie""",26,"Cahir, Tipperary ,Ireland",Ireland,Queenstown,New York City,,False,52.3749129,-7.9251412,0.0
-522,"Petranec, Miss Matilda",28,"Vagovina ,Croatia",Croatia,Southampton,"Harrisburg, Pennsylvania, US",,False,45.7827498,16.6679888,0.0
-523,"Petroff, Mr. Nadjalko",19,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-524,"Petroff, Mr. Pastcho",29,"Belish, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.9344278,24.7328867,0.0
-525,"Pettersson, Miss Ellen Natalia",18,"Stockholm, Uppland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,59.3247259,18.0699988,0.0
-526,"Pettersson, Mr. Johan Emil",25,"Västermo, Södermanland ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",,False,59.2900341,16.0794111,0.0
-527,"Pickard, Mr. Berk (Trembisky)",32,"Warsaw ,Poland",Poland,Southampton,"San Francisco, US",9,True,52.2319581,21.0067249,0.0
-528,"Plotcharsky, Mr. Vasil",27,"Unknown ,Bulgaria",Bulgaria,Southampton,"Tulsa, Oklahoma, US",,False,42.6963514,23.3315161,0.0
-529,"Pocrnić, Mr. Mate",17,"Bukovac ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,45.0900706,14.9184765,0.0
-530,"Pocrnić, Mr. Tome",24,"Bukovac ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,45.0900706,14.9184765,0.0
-531,"Pullner, Mr. Uscher",16,"Unknown ,Unknown",Unknown,Cherbourg,New York City,,False,29.7240421,79.2087114,0.0
-532,"Radeff, Mr. Alexander",27,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-533,"Rasmussen, Mrs. Lena Jakobsen (née Solvang)",62,"Haugesund, Hordaland ,Norway",Norway,Southampton,"Centerville, South Dakota, US",,False,59.4187381,5.2727902,0.0
-534,"Razi, Mr. Raihed",30,"Tebnine ,Lebanon",Lebanon,Southampton,New York City,,False,33.1932575,35.4117998,0.0
-535,"Reed, Mr. James George",19,"Penarth, Glamorgan ,Wales",Wales,Southampton,New York City,,False,51.435968,-3.1733023,0.0
-536,"Rekić, Mr. Tido",38,"Bosanska Krupa ,Bosnia",Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,44.8824428,16.1577,0.0
-537,"Reynolds, Mr. Harold J.",21,"London ,England",England,Southampton,"Toronto, Ontario, Canada",,False,51.5073219,-0.1276474,0.0
-538,"Rice, Mrs. Margaret (née Norton)",39,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Spokane, Washington, US",,False,53.4230832,-7.942705,0.0
-539,"Rice, Master Albert",10,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Spokane, Washington, US",,False,53.4230832,-7.942705,0.0
-540,"Rice, Master George Hugh",8,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Spokane, Washington, US",,False,53.4230832,-7.942705,0.0
-541,"Rice, Master Frederick Thomas ""Eric""",7,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Spokane, Washington, US",,False,53.4230832,-7.942705,0.0
-542,"Rice, Master Arthur",4,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Spokane, Washington, US",,False,53.4230832,-7.942705,0.0
-543,"Rice, Master Eugene Francis",2,"Athlone, Westmeath ,Ireland",Ireland,Queenstown,"Spokane, Washington, US",,False,53.4230832,-7.942705,0.0
-544,"Riihivuori, Miss Susanna Juhantytär ""Sanni""",22,"Ylihärmä, South Ostrobothnia ,Finland",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,63.1441197,22.7956213,0.0
-545,"Rintamäki, Mr. Matti",35,"Kyyny ,Finland",Finland,Southampton,"Sudbury, Ontario, Canada",,False,62.3725863,22.0796212,0.0
-546,"Riordan, Miss Hannah",18,"Glenlougha, Cork ,Ireland",Ireland,Queenstown,New York City,13,True,,,
-547,"Risien, Mr. Samuel Beard",69,"Deal, Kent ,England",England,Southampton,"Groesbeck, Texas, US",,False,51.2239544,1.4027344,0.0
-548,"Risien, Mrs. Emma Jane (née Lellyet)",58,"Durban ,South Africa",South Africa,Southampton,"Groesbeck, Texas, US",,False,-29.861825,31.009909,0.0
-549,"Robins, Mr. Alexander A.",50,"St Austell, Cornwall ,England",England,Southampton,"Yonkers, New York, US",,False,50.338466,-4.7882104,0.0
-550,"Robins, Mrs. Grace Charity (née Laury)",47,"St Austell, Cornwall ,England",England,Southampton,"Yonkers, New York, US",,False,50.338466,-4.7882104,0.0
-551,"Rogers, Mr. William John",29,"Pontardawe, West Glamorgan ,Wales",Wales,Southampton,New York City,,False,,,
-552,"Rommetvedt, Mr. Knud Paust",49,"Hogstad ,Norway",Norway,Southampton,New York City,,False,59.3213381,9.657241542089926,0.0
-553,"Rosblom, Mrs. Helena Wilhelmina",41,"Rauma ,Finland",Finland,Southampton,"Astoria, Oregon, US",,False,61.1289148,21.5039401,0.0
-554,"Rosblom, Mr. Viktor Rickard",18,"Rauma ,Finland",Finland,Southampton,"Astoria, Oregon, US",,False,61.1289148,21.5039401,0.0
-555,"Rosblom, Miss Salli Helena",2,"Rauma ,Finland",Finland,Southampton,"Astoria, Oregon, US",,False,61.1289148,21.5039401,0.0
-556,"Roth, Miss Sarah A.",26,"London ,England",England,Southampton,New York City,C,True,51.5073219,-0.1276474,0.0
-557,"Rouse, Mr. Richard Henry",50,"Sittingbourne, Kent ,England",England,Southampton,"Cleveland, Ohio, US",,False,51.3397366,0.7342319,0.0
-558,"Rush, Mr. Alfred George John",16,"Strood, Kent ,England",England,Southampton,"Detroit, Michigan, US",,False,51.0586069,0.6470163,0.0
-559,"Ryan, Mr. Edward",24,"Ballinascreen, Tipperary ,Ireland",Ireland,Queenstown,"Troy, New York, US",14,True,,,
-560,"Ryan, Mr. Patrick",29,"Askeaton, Limerick ,Ireland",Ireland,Queenstown,"Bronx, New York, US",,False,52.599722,-8.975556,0.0
-561,"Sæther, Mr. Simon Sivertsen",43,"Skaun, Sør-Trøndelag ,Norway",Norway,Southampton,US,,False,63.3013569,9.9129304,0.0
-562,"Saad, Mr. Amin",30,"Tebnine ,Lebanon",Lebanon,Cherbourg,New York City,,False,33.1932575,35.4117998,0.0
-563,"Saad, Mr. Khalil",25,"Kfar Mechi ,Syria",Syria,Cherbourg,"Ottawa, Ontario, Canada",,False,,,
-564,"Sadlier, Mr. Matthew",20,"Mohill, Leitrim ,Ireland",Ireland,Queenstown,"Lakewood Township, New Jersey, US",,False,53.9210146,-7.862083366571108,0.0
-565,"Sadowitz, Mr. Harry",17,"London ,England",England,Southampton,"Providence, Rhode Island, US",,False,51.5073219,-0.1276474,0.0
-566,"Sage, Mr. John George",44,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-567,"Sage, Mrs. Annie Elizabeth (née Cazaly)",44,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-568,"Sage, Miss Stella Anne",20,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-569,"Sage, Mr. George John",19,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-570,"Sage, Mr. Douglas Bullen",18,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-571,"Sage, Mr. Frederick",16,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-572,"Sage, Miss Dorothy Florence ""Dolly""",14,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-573,"Sage, Master Anthony William ""Will""",13,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-574,"Sage, Miss Elizabeth Ada",10,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-575,"Sage, Miss Constance Gladys",7,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-576,"Sage, Master Thomas Henry",4,"Peterborough, Cambridgeshire ,England",England,Southampton,"Jacksonville, Florida, US",,False,52.5725769,-0.2427336,0.0
-577,"Salander, Mr. Karl Johan",24,"Genevad, Halland ,Sweden",Sweden,Southampton,"Red Wing, Minnesota, US",,False,56.5690841,13.0328835,0.0
-578,"Salkjelsvik, Miss Anna Kristine",21,"Ålesund, Møre og Romsdal ,Norway",Norway,Southampton,"Proctor, Minnesota, US",C,True,62.4728781,6.1492684,0.0
-579,"Salonen, Mr. Johan Verner",39,"Aberdeen, Washington ,US",US,Southampton,"Aberdeen, Washington, US",,False,46.975371,-123.815722,0.0
-580,"Sa'maan, Master Butrus",10,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-581,"Sa'maan, Mr. Hanna Ilyas",40,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-582,"Sa'maan, Mr. Ilyas",17,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-583,"Sa'maan, Mr. Youssef Omar ""Joseph""",16,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-584,"Sandström, Mrs. Agnes Charlotta (née Bengtsson)",24,"Motala, Östergötland ,Sweden",Sweden,Southampton,"San Francisco, US",13,True,58.5420395,15.041261,0.0
-585,"Sandström, Miss Marguerite Rut",4,"Motala, Östergötland ,Sweden",Sweden,Southampton,"San Francisco, US",13,True,58.5420395,15.041261,0.0
-586,"Sandström, Miss Beatrice Irene",1,"Motala, Östergötland ,Sweden",Sweden,Southampton,"San Francisco, US",13,True,58.5420395,15.041261,0.0
-587,"Sap, Mr. Julius (Jules)",21,"Zwevezele ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",11,True,51.0361481,3.2106957,0.0
-588,"Saundercock, Mr. William Henry",19,"St Austell, Cornwall ,England",England,Southampton,New York City,,False,50.338466,-4.7882104,0.0
-589,"Sawyer, Mr. Frederick Charles",33,"Basingstoke, Hampshire ,England",England,Southampton,"Halley, Michigan, US",,False,51.262826,-1.0861976,0.0
-590,"Scanlan, Mr. James",22,"Rathkeale, Limerick ,Ireland",Ireland,Queenstown,New York City,,False,52.5236119,-8.9377374,0.0
-591,"Scheerlinck, Mr. Jean Baptiste",29,"Haaltert, East Flanders ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",11,True,50.887393349999996,3.9904300285117014,0.0
-592,"Sdycoff, Mr. Theodor",42,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-593,"Shaughnessy, Mr. Patrick",24,"Tynagh, Galway ,Ireland",Ireland,Queenstown,New York City,,False,53.1502226,-8.3743502,0.0
-594,"Shawah, Mr. Yousseff Ibrahim",33,"Beirut ,Lebanon",Lebanon,Cherbourg,New York City,,False,33.8959203,35.47843,0.0
-595,"Shadid, Mr. Dahir Abu",19,"Ibrin ,Syria or Lebanon",Syria or Lebanon,Cherbourg,"Kulpmont, Pennsylvania, US",,False,,,
-596,"Shellard, Mr. Frederick William Blainey",55,"Bristol, Avon ,England",England,Southampton,"Troy, New York, US",,False,52.1868871,-1.5995568,0.0
-597,"Shihab, Mr. Amir Faris",25,"Hadath ,Lebanon",Lebanon,Cherbourg,New York City,,False,33.8349983,35.5363297,0.0
-598,"Shine, Miss Ellen Natalia",20,"Cork, Cork ,Ireland",Ireland,Queenstown,New York City,?,True,51.898627,-8.4705942,0.0
-599,"Shorney, Mr. Charles Joseph",22,"Heron's Ghyll, East Sussex ,England",England,Southampton,"New York, US",,False,51.0224339,0.1108387,0.0
-600,"Simmons, Mr. John",39,"Leigh, Kent ,England",England,Southampton,New York City,,False,51.1939929,0.2112588,0.0
-601,"Sirkanian, Mr. Arsun",22,"Kiğı ,Turkey",Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,39.2762597,40.27099417716855,0.0
-602,"Sirota, Mr. Maurice",20,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-603,"Sivić, Mr. Husein",40,"Bosanska Krupa ,Bosnia",Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,44.8824428,16.1577,0.0
-604,"Sivola, Mr. Antti Vilhelmi",21,"Mountain Home, Idaho ,US",US,Southampton,"Mountain Home, Idaho, US",,False,43.1329504,-115.6911975,0.0
-605,"Sjöblom, Miss Anna Sofiia",18,"Munsala ,Finland",Finland,Southampton,"Olympia, Washington, US",16,True,63.4529666,22.4347597,0.0
-606,"Skoog, Mr. Wilhelm Johansson",40,"Hällekis, Västergötland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,,,
-607,"Skoog, Mrs. Anna Bernhardina (née Karlsson)",43,"Hällekis, Västergötland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,,,
-608,"Skoog, Master Karl Thorsten",11,"Hällekis, Västergötland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,,,
-609,"Skoog, Miss Mabel",9,"Hällekis, Västergötland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,,,
-610,"Skoog, Master Harald",5,"Hällekis, Västergötland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,,,
-611,"Skoog, Miss Margit Elizabeth",2,"Hällekis, Västergötland ,Sweden",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,,,
-612,"Slabenoff, Mr. Peko",42,"Unknown ,Bulgaria",Bulgaria,Southampton,New York City,,False,42.6963514,23.3315161,0.0
-613,"Slocovski, Mr. Selman Francis",20,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-614,"Smiljanić, Mr. Jakob Mile",37,"Pisac ,Croatia",Croatia,Southampton,New York City,,False,45.4138064,17.1600114,0.0
-615,"Smyth, Mr. Thomas",26,"Caltra, Galway ,Ireland",Ireland,Queenstown,"Hammond, Indiana, US",,False,53.4355055,-8.4369796,0.0
-616,"Smyth, Miss Julia",17,"Kilcogy, Cavan ,Ireland",Ireland,Queenstown,New York City,13,True,53.8280361,-7.424689,0.0
-617,"Søholt, Mr. Peter Andreas Lauritz Andersen",19,"Ålesund, Møre og Romsdal ,Norway",Norway,Southampton,"Minneapolis, Minnesota, US",,False,62.4728781,6.1492684,0.0
-618,"Somerton, Mr. Francis William",30,"Greatfield, Cheltenham ,England",England,Southampton,"Canastota, New York, US",,False,51.8806916,-2.1076690488904735,0.0
-619,"Spector, Mr. Woolf",23,"London ,England",England,Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-620,"Spinner, Mr. Henry John",32,"Arboretum, Worcestershire ,England",England,Southampton,"Gloversville, New York, US",,False,52.3377858,-2.2867918,0.0
-621,"Staneff, Mr. Ivan",23,"Debnevo, Troyan ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.96,24.84513,0.0
-622,"Stanković, Mr. Ivan",33,"Galdovo ,Croatia",Croatia,Cherbourg,New York City,,False,45.4785933,16.4041011,0.0
-623,"Stanley, Miss Amy Zillah Elsie",24,"Wallingford, Oxfordshire ,England",England,Southampton,"New Haven, Connecticut, US",C,True,51.5982316,-1.1252158,0.0
-624,"Stanley, Mr. Edward Rowland",21,"Swanage ,England",England,Southampton,"Cleveland, Ohio, US",,False,50.6086976,-1.9571971,0.0
-625,"Storey, Mr. Thomas",51,"Liverpool, Merseyside ,England",England,Southampton,New York City,,False,,,
-626,"Stoytcheff, Mr. Ilia",19,"Gumostnik, Lovec ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,,,
-627,"Strandberg, Miss Ida Sofia",22,"Turku ,Finland",Finland,Southampton,New York City,,False,60.4517531,22.2670522,0.0
-628,"Strandén, Mr. Juho Niilonpoika",31,"Muljula, Kitee ,Finland",Finland,Southampton,"Duluth, Minnesota, US",9,True,,,
-629,"Strilić, Mr. Ivan",27,"Široka Kula ,Croatia",Croatia,Southampton,"Chicago, Illinois, US",,False,44.6154137,15.4559555,0.0
-630,"Ström, Mrs. Elna Matilda (née Persson)",29,"Indiana Harbor, Indiana ,US",US,Southampton,"Indiana Harbor, Indiana, US",,False,41.6720844,-87.4395307,0.0
-631,"Ström, Miss Thelma Matilda Wilhelmina",2,"Indiana Harbor, Indiana ,US",US,Southampton,"Indiana Harbor, Indiana, US",,False,41.6720844,-87.4395307,0.0
-632,"Sunderland, Mr. Victor Francis",20,"London ,England",England,Southampton,"Cleveland, Ohio, US",B,True,51.5073219,-0.1276474,0.0
-633,"Sundman, Mr. Johan Julian",44,"Munsala ,Finland",Finland,Southampton,"Cheyenne, Wyoming, US",15,True,63.4529666,22.4347597,0.0
-634,"Sutehall Jr., Mr. Henry",25,"London ,England",England,Southampton,"Buffalo, New York, US",,False,51.5073219,-0.1276474,0.0
-635,"Svensson, Mr. Johan",74,"Reftele, Småland ,Sweden",Sweden,Southampton,"Effington Rut, South Dakota, US",,False,,,
-636,"Svensson, Mr. Johan Cervin",14,"Knäred, Halland ,Sweden",Sweden,Southampton,"Beresford, South Dakota, US",13,True,56.5202391,13.3166881,0.0
-637,"Svensson, Mr. Olof",24,"Björkeberga, Skåne ,Sweden",Sweden,Southampton,New York City,,False,56.3522431,13.8884259,0.0
-638,"Tenglin, Mr. Gunnar Isidor",25,"Stockholm, Uppland ,Sweden",Sweden,Southampton,"Burlington, Iowa, US",13,True,59.3247259,18.0699988,0.0
-639,"Theobald, Mr. Thomas Leonard",34,"Strood, Kent ,England",England,Southampton,"Detroit, Michigan, US",,False,51.0586069,0.6470163,0.0
-640,"Tannous, Mr. Bashir (Charles)",31,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-641,"Tannous, Mrs. Thamini Khoury Fa'ud ""Thelma""",16,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",14,True,34.2351368,35.857964,0.0
-642,"Tannous, Master As'ad Iskandar Fa'ud",5 mo.,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",16,True,34.2351368,35.857964,0.0
-643,"Thomas, Mr. John",34,"Unknown ,Unknown",Unknown,Cherbourg,"Columbus, Ohio, US",,False,29.7240421,79.2087114,0.0
-644,"Thomas, Mr. Tannous John",16,"Unknown ,Lebanon",Lebanon,Cherbourg,"Columbus, Ohio, US",,False,14.4787139,121.0324937,0.0
-645,"Thompson, Mr. Alexander Morrison",36,"Unknown ,Scotland",Scotland,Southampton,New York City,,False,58.4947325,-4.2924288,0.0
-646,"Thorneycroft, Mr. Percival Thomas",36,"Maidstone, Kent ,England",England,Southampton,"Clinton, New York, US",,False,51.2748258,0.5231646,0.0
-647,"Thorneycroft, Mrs. Florence Kate (née Stears)",32,"Maidstone, Kent ,England",England,Southampton,"Clinton, New York, US",10,True,51.2748258,0.5231646,0.0
-648,"Tikkanen, Mr. Juho",32,"Pielavesi ,Finland",Finland,Southampton,New York City,,False,63.2333327,26.7500075,0.0
-649,"Tobin, Mr. Roger",20,"Cahir, Tipperary ,Ireland",Ireland,Queenstown,New York City,,False,52.3749129,-7.9251412,0.0
-650,"Todoroff, Mr. Lalio",23,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-651,"Tomlin, Mr. Ernest Portage",22,"Portage la Prairie, Manitoba ,Canada",Canada,Southampton,"Des Moines, Iowa, US",,False,49.972422,-98.289185,0.0
-652,"Törber, Mr. Ernst Wilhelm",44,"Unknown ,Germany",Germany,Southampton,New York City,,False,48.0989741,7.6303132,0.0
-653,"Torfa, Mr. Assad",20,"Unknown ,Syria",Syria,Cherbourg,New York City,,False,33.5259875,36.2547713,0.0
-654,"Törnquist, Mr. William Henry",25,"Sundbyberg ,Sweden",Sweden,Southampton,New York City,15,True,59.3628802,17.9681359,0.0
-655,"Touma, Mrs. Hanna Youssef (née Razi)",27,"Tibnin ,Lebanon",Lebanon,Cherbourg,"Dowagiac, Michigan, US",C,True,33.1932575,35.4117998,0.0
-656,"Touma, Miss Marianna Youssef",9,"Tibnin ,Lebanon",Lebanon,Cherbourg,"Dowagiac, Michigan, US",C,True,33.1932575,35.4117998,0.0
-657,"Touma, Master Gerios (George) Youssef",8,"Tibnin ,Lebanon",Lebanon,Cherbourg,"Dowagiac, Michigan, US",C,True,33.1932575,35.4117998,0.0
-658,"Turčin, Mr. Stjepan",36,"Bratina ,Croatia",Croatia,Southampton,"Youngstown, Ohio, US",,False,45.6224057,15.8256055,0.0
-659,"Turja, Miss Anna Sofiia",18,"Oulainen, Oulu ,Finland",Finland,Southampton,"Ashtabula, Ohio, US",15,True,,,
-660,"Turkula, Mrs. Hedvig",63,"Jalasjärvi, Southern Ostrobothnia ,Finland",Finland,Southampton,"Hibbing, Minnesota, US",15,True,,,
-661,"Van Billiard, Mr. Austin Blyler",35,"London ,England",England,Southampton,"North Wales, Pennsylvania, US",,False,51.5073219,-0.1276474,0.0
-662,"Van Billiard, Master James William",10,"London ,England",England,Southampton,"North Wales, Pennsylvania, US",,False,51.5073219,-0.1276474,0.0
-663,"Van Billiard, Master Walter John",9,"London ,England",England,Southampton,"North Wales, Pennsylvania, US",,False,51.5073219,-0.1276474,0.0
-664,"Van de Velde, Mr. Johannes Josef",35,"Denderhoutem ,Belgium",Belgium,Southampton,New York City,,False,50.8717796,4.0180839,0.0
-665,"Van den Steen, Mr. Leo Peter",28,"Haaltert ,Belgium",Belgium,Southampton,New York City,,False,50.887393349999996,3.9904300285117014,0.0
-666,"Van Impe, Mr. Jean-Baptiste",36,"Kerksken ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.8894722,3.9935955,0.0
-667,"Van Impe, Mrs. Rosalie Paula (née Govaert)",30,"Kerksken ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.8894722,3.9935955,0.0
-668,"Van Impe, Miss Catharina",10,"Kerksken ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.8894722,3.9935955,0.0
-669,"Van Melkebeke, Mr. Philemon Edmund",23,"Haaltert, East Flanders ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.887393349999996,3.9904300285117014,0.0
-670,"Vandercruyssen, Mr. Victor",46,"Zwevezele ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,51.0361481,3.2106957,0.0
-671,"Vanderplancke, Mr. Julius",31,"Zwevezele ,Belgium",Belgium,Southampton,"Fremont, Ohio, US",,False,51.0361481,3.2106957,0.0
-672,"Vanderplancke, Mrs. Emelie Maria (née Vandemoortele)",31,"Pittem ,Belgium",Belgium,Southampton,"Fremont, Ohio, US",,False,50.999964750000004,3.262273003445322,0.0
-673,"Vanderplancke, Miss Augusta Maria",18,"Zwevezele ,Belgium",Belgium,Southampton,"Fremont, Ohio, US",,False,51.0361481,3.2106957,0.0
-674,"Vanderplancke, Mr. Leo Edmondus",15,"Zwevezele ,Belgium",Belgium,Southampton,"Fremont, Ohio, US",,False,51.0361481,3.2106957,0.0
-675,"Van de Walle, Mr. Nestor Cyriel",28,"Westrozebeke ,Belgium",Belgium,Southampton,New York City,,False,50.9310188,3.0121528,0.0
-676,"Vartanian, Mr. Dawud",22,"Kiğı ,Turkey",Turkey,Cherbourg,"Brantford, Ontario, Canada",13,True,39.2762597,40.27099417716855,0.0
-677,"Vendel, Mr. Olof Edvin",29,"Östra Sallerup, Skåne ,Sweden",Sweden,Southampton,"St. Paul, Minnesota, US",,False,55.8006688,13.7297017,0.0
-678,"Veström, Miss Hulda Amanda Adolfina",14,"Salmunds, Gotland ,Sweden",Sweden,Southampton,"Los Angeles, US",,False,,,
-679,"Vovk, Mr. Janko",21,"Jesenice ,Slovenia",Slovenia,Southampton,"St. Joseph, Minnesota, US",,False,46.4323791,14.0623337,0.0
-680,"Waelens, Mr. Achille",22,"Ruiselede, West Flanders ,Belgium",Belgium,Southampton,"Stanton, Ohio, US",,False,51.0630592,3.3787805823544046,0.0
-681,"Ware, Mr. Frederick William",34,"Greenwich, London ,England",England,Southampton,New York City,,False,51.4820845,-0.0045417,0.0
-682,"Warren, Mr. Charles William",30,"Portsmouth, Hampshire ,England",England,Southampton,New York City,,False,50.8221133,-1.0677602492961795,0.0
-683,"Wazni, Mr. Yousif Ahmed",25,"Tebnin ,Lebanon",Lebanon,Cherbourg,New York City,,False,,,
-684,"Webber, Mr. James",66,"San Francisco ,US",US,Southampton,"San Francisco, US",,False,37.7790262,-122.4199061,0.0
-685,"Wennerström, Mr. August Edvard Andersson",27,"Malmö, Skåne ,Sweden",Sweden,Southampton,"Chicago, Illinois, US",A,True,55.6052931,13.0001566,0.0
-686,"Widegren, Mr. Carl Peter",51,"Algutsrum, Kalmar ,Sweden",Sweden,Southampton,New York City,,False,56.6794265,16.5297957,0.0
-687,"Wiklund, Mr. Jakob Alfred",18,"Nikolaistad ,Finland",Finland,Southampton,"Montreal, Quebec, Canada",,False,,,
-688,"Wiklund, Mr. Karl Johan",21,"Nikolaistad ,Finland",Finland,Southampton,"Montreal, Quebec, Canada",,False,,,
-689,"Wilkes, Mrs. Ellen",47,"Penzance, Cornwall ,England",England,Southampton,"Akron, Ohio, US",16,True,50.1213173,-5.5329266,0.0
-690,"Willer, Mr. Aaron",37,"Unknown ,Russia",Russia,Cherbourg,"Chicago, Illinois, US",,False,59.8954596,30.5175965,0.0
-691,"Willey, Mr. Edward",18,"Market Drayton, Shropshire ,England",England,Southampton,"Schenectady, New York, US",,False,52.9042417,-2.4838589,0.0
-692,"Williams, Mr. Howard Hugh ""Harry""",28,"Guernsey, Channel Islands ,Channel Islands",Channel Islands,Southampton,New York City,,False,,,
-693,"Williams, Mr. Leslie",28,"Tonypandy, Glamorgan ,Wales",Wales,Southampton,New York City,,False,,,
-694,"Windeløv, Mr. Einar",21,"Cape Town ,South Africa",South Africa,Southampton,New York City,,False,-33.928992,18.417396,0.0
-695,"Wirz, Mr. Albert",27,"Uster ,Switzerland",Switzerland,Southampton,"Beloit, Wisconsin, US",,False,47.3512065,8.7179221,0.0
-696,"Wiseman, Mr. Phillippe",54,"London ,England",England,Southampton,"Quebec City, Quebec, Canada",,False,51.5073219,-0.1276474,0.0
-697,"Wittevrongel, Mr. Camilius Aloysius",36,"Westrozebeke ,Belgium",Belgium,Southampton,"Detroit, Michigan, US",,False,50.9310188,3.0121528,0.0
-698,"Yasbak, Mr. Antun",27,"Unknown ,Lebanon",Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",,False,14.4787139,121.0324937,0.0
-699,"Yasbak, Mrs. Silanah Fa'ud (née Iskandar)",15,"Unknown ,Lebanon",Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",C,True,14.4787139,121.0324937,0.0
-700,"Ylieff, Mr. Ylio",32,"Unknown ,Bulgaria",Bulgaria,Southampton,"Chicago, Illinois, US",,False,42.6963514,23.3315161,0.0
-701,"Youssef, Mr. Gerios (Abi Saab)",26,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Youngstown, Ohio, US",,False,34.2351368,35.857964,0.0
-702,"Youssef, Mr. Gerios (Sam'aan)",45,"Hardîne ,Lebanon",Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",,False,34.2351368,35.857964,0.0
-703,"Zajib Qiyamah, Miss Adal ""Jane""",15,"El Shweir ,Lebanon",Lebanon,Cherbourg,"Brooklyn, New York, US",C,True,33.9104884,35.7119179,0.0
-704,"Zakarian, Mr. Haroutyun Der",27,"Kiğı ,Turkey",Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,39.2762597,40.27099417716855,0.0
-705,"Zakarian, Mr. Mapri Der",22,"Kiğı ,Turkey",Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,39.2762597,40.27099417716855,0.0
-706,"Zimmermann, Mr. Leo",29,"Todtmoos ,Germany",Germany,Southampton,"Saskatoon, Saskatchewan, Canada",,False,47.7387447,8.0013624,0.0
+,Name,Age,Hometown,Home country,Boarded,Destination,Lifeboat,Survived,Position,latitude,longitude,altitude,country
+0,"Abbing, Mr. Anthony",40,"Cincinnati, Ohio",US,Southampton,"Cincinnati, Ohio, US",,False,ThirdClass,39.1014537,-84.5124602,0.0,United States
+1,"Abbott, Mrs. Rhoda Mary (née Hunt)",39,"East Providence, Rhode Island",US,Southampton,"East Providence, Rhode Island, US",A,True,ThirdClass,41.8137116,-71.3700545,0.0,United States
+2,"Abbott, Mr. Rossmore Edward",16,"East Providence, Rhode Island",US,Southampton,"East Providence, Rhode Island, US",,False,ThirdClass,41.8137116,-71.3700545,0.0,United States
+3,"Abbott, Mr. Eugene Joseph",14,"East Providence, Rhode Island",US,Southampton,"East Providence, Rhode Island, US",,False,ThirdClass,41.8137116,-71.3700545,0.0,United States
+4,"Abd al-Khaliq, Mr. Farid Qasim Husayn",18,Shana,Lebanon,Cherbourg,New York City,,False,ThirdClass,11.533774,10.9705,0.0,Nigeria
+5,"Abelseth, Miss Karen Marie",16,Sunnmøre,Norway,Southampton,"Los Angeles, California, US",16,True,ThirdClass,62.34163785,5.890219084398547,0.0,Norge
+6,"Abelseth, Mr. Olaus Jørgensen",25,"Perkins County, South Dakota",US,Southampton,"Perkins County, South Dakota, US",A,True,ThirdClass,45.5288022,-102.5053545,0.0,United States
+7,"Abrahamsson, Mr. Abraham August Johannes",20,Dalsbruk,Finland,Southampton,"Hoboken, New Jersey, US",15,True,ThirdClass,60.0209926,22.5067673,0.0,Suomi / Finland
+10,"Adams, Mr. John",26,"Bournemouth, Dorset",England,Southampton,"La Porte City, Iowa, US",,False,ThirdClass,50.7269716,-1.9001239,0.0,United Kingdom
+12,"Aks, Mrs. Leah (née Rosen)",18,London,England,Southampton,"Norfolk, Virginia, US",13,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+13,"Aks, Master Frank Philip",10 mo.,London,England,Southampton,"Norfolk, Virginia, US",11,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+14,"Al-Muna, Mr. Nasif Qasim",26,"Fredericksburg, Virginia",US,Cherbourg,"Fredericksburg, Virginia, US",15,True,ThirdClass,38.3031837,-77.4605399,0.0,United States
+15,"Alexander, Mr. William",23,"Great Yarmouth, Norfolk",England,Southampton,"Albion, Michigan, US",,False,ThirdClass,52.6072426,1.7310768,0.0,United Kingdom
+16,"Alhomäki, Mr. Ilmari Rudolf",19,Salo,Finland,Southampton,"Astoria, Oregon, US",,False,ThirdClass,60.3846716,23.1286377,0.0,Suomi / Finland
+17,"Ali, Mr. Ahmed",24,Buenos Aires,Argentina,Southampton,New York City,,False,ThirdClass,-34.6075682,-58.4370894,0.0,Argentina
+18,"Ali, Mr. William",25,Buenos Aires,Argentina,Southampton,New York City,,False,ThirdClass,-34.6075682,-58.4370894,0.0,Argentina
+19,"Allen, Mr. William Henry",35,"Birmingham, West Midlands",England,Southampton,New York City,,False,ThirdClass,52.4796992,-1.9026911,0.0,United Kingdom
+20,"Allum, Mr. Owen George",15,"Southall, London",England,Southampton,New York City,,False,ThirdClass,51.5111461,-0.3755169,0.0,United Kingdom
+21,"Al-Zainni, Mr. Fahim Ruhanna",22,Toula,Lebanon,Cherbourg,"Dayton, Ohio, US",6,True,ThirdClass,54.1930321,37.61754,0.0,Россия
+22,"Andersen, Mr. Albert Karvin",33,Bergen,Norway,Southampton,New York City,,False,ThirdClass,60.3943055,5.3259192,0.0,Norge
+23,"Andersen-Jensen, Miss Carla Christine",19,Eskilstrup,Denmark,Southampton,"Portland, Oregon, US",16,True,ThirdClass,54.855665450000004,11.881905259818325,0.0,Danmark
+24,"Andersson, Mr. Anders Johan",39,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+25,"Andersson, Mrs. Alfrida Konstantia (née Brogren)",39,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+26,"Andersson, Miss Sigrid Elisabeth",11,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+27,"Andersson, Miss Ingeborg Constanzia",9,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+28,"Andersson, Miss Ebba Iris Alfrida",6,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+29,"Andersson, Master Sigvard Harald Elias",4,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+30,"Andersson, Miss Ellis Anna Maria",2,"Kisa, Östergötland",Sweden,Southampton,"Winnipeg, Manitoba, Canada",,False,ThirdClass,57.9875021,15.622841,0.0,Sverige
+31,"Andersson, Miss Erna Alexandra",17,Ruotsinpyhtää,Finland,Southampton,New York City,D,True,ThirdClass,60.5220579,26.4695781,0.0,Suomi / Finland
+33,"Andersson, Mr. Johan Samuel",26,"Hartford, Connecticut",US,Southampton,"Hartford, Connecticut, US",,False,ThirdClass,41.7655582,-72.69061276146614,0.0,United States
+35,"Angheloff, Mr. Minko",26,"Terziysko, Troyan",Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.8900425,24.6151436,0.0,Бългaрия
+36,"Arnold-Franchi, Mr. Josef",25,"Altdorf, Uri",Switzerland,Southampton,"New Glarus, Wisconsin, US",,False,ThirdClass,46.8820732,8.6413922,0.0,Schweiz/Suisse/Svizzera/Svizra
+37,"Arnold-Franchi, Mrs. Josefine (née Franchi)",18,"Altdorf, Uri",Switzerland,Southampton,"New Glarus, Wisconsin, US",,False,ThirdClass,46.8820732,8.6413922,0.0,Schweiz/Suisse/Svizzera/Svizra
+39,"Asim, Mr. Adola",35,Buenos Aires,Argentina,Southampton,New York City,,False,ThirdClass,-34.6075682,-58.4370894,0.0,Argentina
+47,"Asplund, Mr. Johan Charles",23,"Oskarshamn, Kalmar",Sweden,Southampton,"Minneapolis, Minnesota, US",13,True,ThirdClass,57.2632811,16.4443478,0.0,Sverige
+49,"Assam, Mr. Ali",23,Buenos Aires,Argentina,Southampton,New York City,,False,ThirdClass,-34.6075682,-58.4370894,0.0,Argentina
+50,"Attala, Mr. Sleiman",30,"Ottawa, Ontario",Canada,Cherbourg,"Ottawa, Ontario, Canada",,False,ThirdClass,45.421106,-75.690308,0.0,Canada
+51,"Atta Allah, Miss Malakah",17,Beirut,Lebanon,Cherbourg,New York City,,False,ThirdClass,33.8959203,35.47843,0.0,لبنان
+53,"Ayyub Dahir, Miss Bannurah",15,Beirut,Lebanon,Cherbourg,"Owen Sound, Ontario, Canada",C,True,ThirdClass,33.8959203,35.47843,0.0,لبنان
+54,"Bakus, Mr. Raful",20,Unknown,Lebanon,Cherbourg,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+55,"Backström, Mr. Karl Alfred",32,Kotka,Finland,Southampton,New York City,,False,ThirdClass,60.4674228,26.9450844,0.0,Suomi / Finland
+56,"Backström, Mrs. Maria Mathilda (née Gustafsson)[65][83]",33,Kotka,Finland,Southampton,New York City,D,True,ThirdClass,60.4674228,26.9450844,0.0,Suomi / Finland
+57,"Badman, Miss Emily Louisa",18,"Clevedon, North Somerset",England,Southampton,"Skaneateles, New York, US",C,True,ThirdClass,51.4360625,-2.8526531,0.0,United Kingdom
+58,"Badt, Mr. Mohamed",40,Tripoli,Lebanon,Cherbourg,New York City,,False,ThirdClass,32.896672,13.1777923,0.0,ليبيا
+59,"Bakić, Mr. Kerim",26,Bosanska Krupa,Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,44.8824428,16.1577,0.0,Bosna i Hercegovina / Босна и Херцеговина
+60,"Banski, Mrs. Mara (née Osman)",31,Vagovina,Croatia,Southampton,"Steelton, Pennsylvania, US",?,True,ThirdClass,45.7827498,16.6679888,0.0,Hrvatska
+67,"Barry, Miss Julia",26,"New York City, New York",US,Queenstown,New York City,,False,ThirdClass,40.7127281,-74.0060152,0.0,United States
+68,"Barton, Mr. David John",22,"Cambridge, Cambridgeshire",England,Southampton,New York City,,False,ThirdClass,52.2034823,0.1235817,0.0,United Kingdom
+69,"Beavan, Mr. William Thomas",18,"Fillingham, Lincolnshire",England,Southampton,"Russell, US",,False,ThirdClass,53.3608972,-0.5787147,0.0,United Kingdom
+70,"Bengtsson, Mr. Johan Viktor",26,"Fridhemsberg, Halland",Sweden,Southampton,"Monee, Illinois, US",,False,ThirdClass,57.1642403,12.7420228,0.0,Sverige
+72,"Betros, Mr. Tannous",20,Zgharta,Lebanon,Cherbourg,"Waterbury, Connecticut, US",,False,ThirdClass,34.3929847,35.8967113,0.0,لبنان
+73,"Birkeland, Mr. Hans Martin Monsen",21,Bremnes,Norway,Southampton,New York City,,False,ThirdClass,59.7945188,5.1781334,0.0,Norge
+74,"Björklund, Mr. Ernst Herbert",18,Stockholm,Sweden,Southampton,New York City,,False,ThirdClass,59.3251172,18.0710935,0.0,Sverige
+75,"Bostandyeff, Mr. Guentcho",26,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+80,"Bradley, Miss Bridget Delia",22,"Kingwilliamstown, Cork",Ireland,Queenstown,"Glen Falls, New York, US",13,True,ThirdClass,52.183388550000004,-9.238338860920043,0.0,Éire / Ireland
+82,"Braund, Mr. Lewis Richard",29,"Bridgerule, Devon",England,Southampton,"Qu'Appelle Valley, Saskatchewan, Canada",,False,ThirdClass,50.7993506,-4.4520148,0.0,United Kingdom
+83,"Braund, Mr. Owen Harris",22,"Bridgerule, Devon",England,Southampton,"Qu'Appelle Valley, Saskatchewan, Canada",,False,ThirdClass,50.7993506,-4.4520148,0.0,United Kingdom
+84,"Brobeck, Mr. Karl Rudolf",22,"Norrköping, Östergötland",Sweden,Southampton,"Worcester, Massachusetts, US",,False,ThirdClass,58.5909124,16.1903511,0.0,Sverige
+85,"Brocklebank, Mr. William Alfred",35,"Broomfield, Essex",England,Southampton,New York City,,False,ThirdClass,51.7684223,0.4712666,0.0,United Kingdom
+86,"Buckley, Mr. Daniel",21,"Kingwilliamstown, Cork",Ireland,Queenstown,New York City,13,True,ThirdClass,52.183388550000004,-9.238338860920043,0.0,Éire / Ireland
+87,"Buckley, Miss Catherine",22,"Ovens, Cork",Ireland,Queenstown,"Roxbury, Massachusetts, US",,False,ThirdClass,51.8869169,-8.667948481623021,0.0,Éire / Ireland
+88,"Bulus, Mrs. Sultanah (née Rizq)",40,Unknown,Lebanon,Cherbourg,"Kent, British Columbia, Canada",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+89,"Bulus, Master Akar",9,Unknown,Lebanon,Cherbourg,"Kent, British Columbia, Canada",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+90,"Bulus, Miss Nur-al-Ayn",7,Unknown,Lebanon,Cherbourg,"Kent, British Columbia, Canada",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+91,"Burke, Mr. Jeremiah",19,"Glanmire, Cork",Ireland,Queenstown,"Charlestown, US",,False,ThirdClass,51.9196904,-8.3960403,0.0,Éire / Ireland
+92,"Burns, Miss Mary Delia",17,"Kilmacowen, Sligo",Ireland,Queenstown,New York City,,False,ThirdClass,54.22787365,-8.517652861692177,0.0,Éire / Ireland
+93,"Butrus-Youssef, Mrs. Katarin (née Rizk)",24,Sar'al,Syria[84],Cherbourg,"Detroit, Michigan, US",C,True,ThirdClass,31.3718495,77.2703433,0.0,India
+94,"Butrus-Youssef, Master Makhkhul",4,Sar'al,Syria[84],Cherbourg,"Detroit, Michigan, US",D,True,ThirdClass,31.3718495,77.2703433,0.0,India
+95,"Butrus-Youssef, Miss Marianna",2,Sar'al,Syria[84],Cherbourg,"Detroit, Michigan, US",C,True,ThirdClass,31.3718495,77.2703433,0.0,India
+96,"Čačić, Mr. Jego Grga",18,Široka Kula,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6154137,15.4559555,0.0,Hrvatska
+97,"Čačić, Mr. Luka",38,Široka Kula,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6154137,15.4559555,0.0,Hrvatska
+98,"Čačić, Miss Marija",30,Široka Kula,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6154137,15.4559555,0.0,Hrvatska
+99,"Čačić, Miss Manda",21,Široka Kula,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6154137,15.4559555,0.0,Hrvatska
+100,"Čalić, Mr. Jovo",17,Brezik,Croatia,Southampton,"Sault Ste. Marie, Michigan, US",,False,ThirdClass,45.8637726,17.407137,0.0,Hrvatska
+101,"Čalić, Mr. Petar",17,Brezik,Croatia,Southampton,"Sault Ste. Marie, Michigan, US",,False,ThirdClass,45.8637726,17.407137,0.0,Hrvatska
+103,"Canavan, Mr. Patrick ""Peter""",21,"Knockmaria, Mayo",Ireland,Queenstown,"Philadelphia, Pennsylvania, US",,False,ThirdClass,54.0319457,-9.291605726673986,0.0,Éire / Ireland
+104,"Cann, Mr. Ernest Charles",21,"Penwithick, Cornwall",England,Southampton,New York City,,False,ThirdClass,50.3732974,-4.7806413,0.0,United Kingdom
+108,"Carlsson, Mr. August Sigfrid",24,"Dagsås, Halland",Sweden,Southampton,"Tower, Minnesota, US",,False,ThirdClass,57.0640541,12.4867117,0.0,Sverige
+109,"Carr, Miss Jane",47,"Aclare, Sligo",Ireland,Queenstown,"Hartford, Connecticut, US",,False,ThirdClass,54.0364394,-8.8985892,0.0,Éire / Ireland
+110,"Carver, Mr. Alfred John",28,"Southampton, Hampshire",England,Southampton,New York City,,False,ThirdClass,42.2307547,-72.7405267,0.0,United States
+111,"Celotti, Mr. Francesco",24,Milan,Italy,Southampton,,,False,ThirdClass,45.4668,9.1905,0.0,Italia
+112,"Chang, Mr. Chip",32,Hong Kong,China,Southampton,New York City,C,True,ThirdClass,22.2793278,114.1628131,0.0,中国
+113,"Charters, Mr. David",28,"Ballinalee, Longford",Ireland,Queenstown,New York City,,False,ThirdClass,53.7755877,-7.6580453,0.0,Éire / Ireland
+114,"Cheong, Mr. Foo",32,Hong Kong,China,Southampton,New York City,C,True,ThirdClass,22.2793278,114.1628131,0.0,中国
+115,"Christmann, Mr. Emil",29,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+116,"Chronopoulos, Mr. Apostolos",26,"Agios Sostis, Peloponnese",Greece,Cherbourg,New York City,,False,ThirdClass,37.7136112,20.8652663672324,0.0,Ελλάς
+117,"Chronopoulos, Mr. Dimitrios",18,"Agios Sostis, Peloponnese",Greece,Cherbourg,New York City,,False,ThirdClass,37.7136112,20.8652663672324,0.0,Ελλάς
+118,"Coelho, Mr. Domingos Fernandes",20,"Funchal, Madeira Islands",Portugal,Southampton,New York City,,False,ThirdClass,30.146254149999997,-15.866860663342404,0.0,Portugal
+119,"Cohen, Mr. Gershon ""Gus""",18,London,England,Southampton,"Brooklyn, New York, US",12,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+120,"Colbert, Mr. Patrick",24,"Kilkinlea, Limerick",Ireland,Queenstown,"Sherbrooke, Quebec, Canada",,False,ThirdClass,52.3722739,-9.2993655,0.0,Éire / Ireland
+121,"Coleff, Mr. Fotio",24,"Debnevo, Troyan",Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.96,24.84513,0.0,Бългaрия
+123,"Conlon, Mr. Thomas Henry",31,"Philadelphia, Pennsylvania",US,Queenstown,"Philadelphia, Pennsylvania, US",,False,ThirdClass,39.9527237,-75.1635262,0.0,United States
+124,"Connaghton, Mr. Michael",31,"Brooklyn, New York",US,Queenstown,"Brooklyn, New York, US",,False,ThirdClass,40.6501038,-73.9495823,0.0,United States
+125,"Connolly, Miss Catherine ""Kate""",35,"Bank Place, Tipperary",Ireland,Queenstown,"Dobbs Ferry, New York, US",,False,ThirdClass,52.68477435,-7.898080410303971,0.0,Éire / Ireland
+126,"Connolly, Miss Katherine ""Kate""",22,"Cortrasna, Cavan",Ireland,Queenstown,New York City,13,True,ThirdClass,53.8243573,-7.3850715,0.0,Éire / Ireland
+127,"Connors, Mr. Patrick John",61,"Charleville, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,52.3546432,-8.6828833,0.0,Éire / Ireland
+129,"Čor, Mr. Bartol",35,Kricina,Croatia,Southampton,"Great Falls, Montana, US",,False,ThirdClass,45.1789716,14.7394347,0.0,Hrvatska
+130,"Čor, Mr. Ivan",27,Kricina,Croatia,Southampton,"Great Falls, Montana, US",,False,ThirdClass,45.1789716,14.7394347,0.0,Hrvatska
+131,"Čor, Mr. Liudevit",19,Kricina,Croatia,Southampton,"Great Falls, Montana, US",,False,ThirdClass,45.1789716,14.7394347,0.0,Hrvatska
+132,"Corn, Mr. Henry ""Harry""",30,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+133,"Corr, Miss Helen",16,"Corglass, Longford",Ireland,Queenstown,New York City,16,True,ThirdClass,53.9068135,-7.6805566,0.0,Éire / Ireland
+134,"Coutts, Mrs. Mary Winnie (née Trainer)",36,London,England,Southampton,"Brooklyn, New York, US",2,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+135,"Coutts, Master William Loch ""Willie""",9,London,England,Southampton,"Brooklyn, New York, US",2,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+136,"Coutts, Master Neville Leslie",3,London,England,Southampton,"Brooklyn, New York, US",2,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+137,"Coxon, Mr. Daniel",59,London,England,Southampton,"Merrill, Wisconsin, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+138,"Crease, Mr. Ernest James",19,"Bristol, Avon",England,Southampton,"Cleveland, Ohio, US",,False,ThirdClass,51.4027521,-2.3114386,0.0,United Kingdom
+139,"Cribb, Mr. John Hatfield",44,"Bournemouth, Dorset",England,Southampton,"Newark, New Jersey, US",,False,ThirdClass,50.7269716,-1.9001239,0.0,United Kingdom
+140,"Cribb, Miss Laura Mae",16,"Bournemouth, Dorset",England,Southampton,"Newark, New Jersey, US",12,True,ThirdClass,50.7269716,-1.9001239,0.0,United Kingdom
+141,"Čulumović, Mr. Jeso",17,Lipova Glavica,Croatia,Southampton,"Hammond, Indiana, US",,False,ThirdClass,45.3542795,15.5967017,0.0,Hrvatska
+142,"Dahir, Mr. Tannous",28,Beirut,Lebanon,Cherbourg,"Youngstown, Ohio, US",,False,ThirdClass,33.8959203,35.47843,0.0,لبنان
+143,"Dahl, Mr. Charles Edwart",45,"Adelaide, South Australia",Australia,Southampton,"Fingal, North Dakota, US",15,True,ThirdClass,-34.9281805,138.5999312,0.0,Australia
+144,"Dahlberg, Miss Gerda Ulrika",22,Stockholm,Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,59.3251172,18.0710935,0.0,Sverige
+145,"Dakić, Mr. Branko",19,Gornji Miholjac,Croatia,Southampton,New York City,,False,ThirdClass,45.7622809,17.6607945,0.0,Hrvatska
+146,"Daly, Miss Margaret ""Maggie""",30,"Athlone, Westmeath",Ireland,Queenstown,New York City,15,True,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+147,"Daly, Mr. Eugene Patrick",29,"Athlone, Westmeath",Ireland,Queenstown,New York City,B,True,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+151,"Danoff, Mr. Yoto",27,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+152,"Dantcheff, Mr. Ristju",25,"Terziysko, Troyan",Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.8900425,24.6151436,0.0,Бългaрия
+154,"Davies, Mr. Alfred John",24,"West Bromwich, Staffordshire",England,Southampton,"Pontiac, Michigan, US",,False,ThirdClass,52.7214174,-1.7680194,0.0,United Kingdom
+155,"Davies, Mr. John Samuel",21,"West Bromwich, Staffordshire",England,Southampton,"Pontiac, Michigan, US",,False,ThirdClass,52.7214174,-1.7680194,0.0,United Kingdom
+156,"Davies, Mr. Joseph",17,"West Bromwich, Staffordshire",England,Southampton,"Pontiac, Michigan, US",,False,ThirdClass,52.7214174,-1.7680194,0.0,United Kingdom
+157,"Davison, Mr. Thomas Henry ""Harry""",32,"Liverpool, Merseyside",England,Southampton,"Bedford, Indiana, US",,False,ThirdClass,53.4013379,-2.9927496,0.0,United Kingdom
+158,"Davison, Mrs. Mary Elizabeth",34,"Liverpool, Merseyside",England,Southampson,"Bedford, Indiana, US",16,True,ThirdClass,53.4013379,-2.9927496,0.0,United Kingdom
+159,"De Messemaeker, Mr. Guillaume Joseph",36,"Tampico, Montana",US,Southampton,"Tampico, Montana, US",15,True,ThirdClass,48.3047384,-106.8270002,0.0,United States
+160,"De Messemaeker, Mrs. Anna (née de Becker)",36,"Tampico, Montana",US,Southampton,"Tampico, Montana, US",13,True,ThirdClass,48.3047384,-106.8270002,0.0,United States
+161,"de Mulder, Mr. Theodoor",36,"Aspelare, East Flanders",Belgium,Southampton,"Detroit, Michigan, US",11,True,ThirdClass,50.8421637,3.9584406,0.0,België / Belgique / Belgien
+162,"de Pelsmaeker, Mr. Alfons",16,"Heldergem, Haaltert, East Flanders",Belgium,Southampton,"Gladstone, Michigan, US",,False,ThirdClass,50.8816742,3.9548012,0.0,België / Belgique / Belgien
+163,"Dean, Mr. Bertram Frank",25,"Bartley Farm, Hampshire",England,Southampton,"Wichita, Kansas, US",,False,ThirdClass,50.9145321,-1.5650331,0.0,United Kingdom
+164,"Dean, Mrs. Eva Georgetta (née Light)",32,"Bartley Farm, Hampshire",England,Southampton,"Wichita, Kansas, US",10,True,ThirdClass,50.9145321,-1.5650331,0.0,United Kingdom
+165,"Dean, Master Bertram Vere",1,"Bartley Farm, Hampshire",England,Southampton,"Wichita, Kansas, US",10,True,ThirdClass,50.9145321,-1.5650331,0.0,United Kingdom
+166,"Dean, Miss Elizabeth Gladys ""Millvina""",2 mo.,"Bartley Farm, Hampshire",England,Southampton,"Wichita, Kansas, US",10,True,ThirdClass,50.9145321,-1.5650331,0.0,United Kingdom
+167,"Delalić, Mr. Redjo",25,Bakić,Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,45.7442395,17.6916506,0.0,Hrvatska
+168,"Denkoff, Mr. Mitto",30,Unknown,Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+169,"Dennis, Mr. William",26,"Week St Mary, Cornwall",England,Southampton,"Saskatoon, Saskatchewan, Canada",,False,ThirdClass,50.750848,-4.5011168,0.0,United Kingdom
+170,"Dennis, Mr. Samuel",22,"Week St Mary, Cornwall",England,Southampton,"Saskatoon, Saskatchewan, Canada",,False,ThirdClass,50.750848,-4.5011168,0.0,United Kingdom
+171,"Devaney, Miss Margaret Delia",19,"Kilmacowen, Sligo",Ireland,Queenstown,New York City,C,True,ThirdClass,54.22787365,-8.517652861692177,0.0,Éire / Ireland
+172,"Dika, Mr. Mirko",17,Podgora,Croatia,Southampton,"Vancouver, British Columbia, Canada",,False,ThirdClass,43.2433472,17.0750713,0.0,Hrvatska
+173,"Dimić, Mr. Jovan",42,Ostrovica,Croatia,Southampton,"Red Lodge, Montana, US",,False,ThirdClass,43.0192664,20.3022811,0.0,Србија
+174,"Dintcheff, Mr. Valtcho",43,Unknown,Bulgaria,Southampton,"Tulsa, Oklahoma, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+175,"Donohoe, Miss Bridget",21,"Cum, Mayo",Ireland,Queenstown,"Chicago, Illinois, US",,False,ThirdClass,54.036741500000005,-9.322648774799099,0.0,Éire / Ireland
+176,"Dooley, Mr. Patrick J.",43,"Patrickswell, Limerick",Ireland,Queenstown,New York City,,False,ThirdClass,52.597222,-8.708889,0.0,Éire / Ireland
+177,"Dorking, Mr. Edward Arthur",18,"Liss, Hampshire",England,Southampton,"Oglesby, Illinois, US",B,True,ThirdClass,51.0415389,-0.8994549640083951,0.0,United Kingdom
+178,"Doherty, Mr. William John (aka ""James Moran"")",22,Cork,Ireland,Queenstown,New York City,,False,ThirdClass,51.898627,-8.4705942,0.0,Éire / Ireland
+179,"Dowdell, Miss Elizabeth",31,"New York City, New York",US,Southampton,New York City,13,True,ThirdClass,40.7127281,-74.0060152,0.0,United States
+180,"Doyle, Miss Elizabeth",24,"Bree, Wexford",Ireland,Queenstown,New York City,,False,ThirdClass,52.4349526,-6.6089264,0.0,Éire / Ireland
+181,"Draženović, Mr. Jozef",33,Hrastelnica,Croatia,Cherbourg,New York City,,False,ThirdClass,45.5069222,16.419523,0.0,Hrvatska
+182,"Dropkin, Miss Jennie",24,Mogilev,Belarus,Southampton,New York City,13,True,ThirdClass,53.7254147,30.3863145,0.0,Беларусь
+184,"Dwan, Mr. Frank",65,"Bunmahon, Waterford",Ireland,Queenstown,"Morris Plains, New Jersey, US",,False,ThirdClass,52.1398615,-7.3708525,0.0,Éire / Ireland
+185,"Dyker, Mr. Adolf Fredrik",23,"New Haven, Connecticut",US,Southampton,"New Haven, Connecticut, US",,False,ThirdClass,41.298434349999994,-72.93102342707913,0.0,United States
+186,"Dyker, Mrs. Anna Elisabeth Judith (née Andersson)",22,"New Haven, Connecticut",US,Southampton,"New Haven, Connecticut, US",16,True,ThirdClass,41.298434349999994,-72.93102342707913,0.0,United States
+188,"Eklund, Mr. Hans Linus",16,"Kårberg, Örebro",Sweden,Southampton,"Jerome Junction, Arizona, US",,False,ThirdClass,58.9568817,14.9559243,0.0,Sverige
+190,"Elias, Mr. Dibo",29,Unknown,Lebanon,Cherbourg,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+193,"Elsbury, Mr. William James",47,"Taunton, Somerset",England,Southampton,"Gurnee, Illinois, US",,False,ThirdClass,51.0147895,-3.1029086,0.0,United Kingdom
+194,"Emanuel, Miss Virginia Ethel",6,"New York City, New York",US,Southampton,New York City,13,True,ThirdClass,40.7127281,-74.0060152,0.0,United States
+195,"Estanislau, Mr. Manuel Gonçalves",37,"Calheta, Madeira",Portugal,Southampton,New York City,,False,ThirdClass,32.7219412,-17.1782577,0.0,Portugal
+196,"Everett, Mr. Thomas James",39,"Bristol, Avon",England,Southampton,"Troy, New York, US",,False,ThirdClass,51.4027521,-2.3114386,0.0,United Kingdom
+197,"Fardon, Mr. Charles R.(alias Charles Franklin)",38,"Wellingborough, Northamptonshire",England,Cherbourg,Canada,,False,ThirdClass,52.30189,-0.6937309,0.0,United Kingdom
+198,"Farrell, Mr. James ""Jim""",25,"Killoe, Longford",Ireland,Queenstown,New York City,,False,ThirdClass,53.82048295,-7.729237165768248,0.0,Éire / Ireland
+199,"Finoli, Mr. Luigi",34,"Philadelphia, Pennsylvania",US,Southampton,"Philadelphia, Pennsylvania, US",15,True,ThirdClass,39.9527237,-75.1635262,0.0,United States
+200,"Fischer, Mr. Eberhard Thelander",18,"Björkeberga, Skåne",Sweden,Southampton,New York City,,False,ThirdClass,56.3522431,13.8884259,0.0,Sverige
+202,"Flynn, Mr. James",28,"Cuilkillew, Mayo",Ireland,Queenstown,New York City,,False,ThirdClass,54.019722,-9.278611,0.0,Éire / Ireland
+203,"Flynn, Mr. John",42,"Clonbur, Galway",Ireland,Queenstown,"Pittsburgh, Pennsylvania, US",,False,ThirdClass,53.5445942,-9.3636096,0.0,Éire / Ireland
+204,"Foley, Mr. Joseph",19,"Broadford, Limerick",Ireland,Queenstown,"Larchmont, New York, US",,False,ThirdClass,52.3463495,-8.9749829,0.0,Éire / Ireland
+205,"Foley, Mr. William",20,"Donoughmore, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,51.9890689,-8.7452997,0.0,Éire / Ireland
+206,"Ford, Mr. Arthur",22,"Bridgwater, Somerset",England,Southampton,"Elmira, New York, US",,False,ThirdClass,51.1283378,-3.0037046,0.0,United Kingdom
+207,"Ford, Mrs. Margaret Ann (née Watson)",48,"Rotherfield, East Sussex",England,Southampton,"Essex County, New Jersey, US",,False,ThirdClass,51.0459837,0.2192646,0.0,United Kingdom
+208,"Ford, Miss Dollina Margaret",20,"Rotherfield, East Sussex",England,Southampton,"Essex County, New Jersey, US",,False,ThirdClass,51.0459837,0.2192646,0.0,United Kingdom
+209,"Ford, Mr. Edward Watson",18,"Rotherfield, East Sussex",England,Southampton,"Essex County, New Jersey, US",,False,ThirdClass,51.0459837,0.2192646,0.0,United Kingdom
+210,"Ford, Mr. William Neal Thomas",16,"Rotherfield, East Sussex",England,Southampton,"Essex County, New Jersey, US",,False,ThirdClass,51.0459837,0.2192646,0.0,United Kingdom
+211,"Ford, Miss Robina Maggie",7,"Rotherfield, East Sussex",England,Southampton,"Essex County, New Jersey, US",,False,ThirdClass,51.0459837,0.2192646,0.0,United Kingdom
+212,"Fox, Mr. Patrick",28,"Mullingar, Westmeath",Ireland,Queenstown,New York City,,False,ThirdClass,53.5263035,-7.3415454,0.0,Éire / Ireland
+213,"Gallagher, Mr. Martin",29,"Caltra, Galway",Ireland,Queenstown,New York City,,False,ThirdClass,53.4355055,-8.4369796,0.0,Éire / Ireland
+214,"Garfirth, Mr. John",21,"Wollaston, Northamptonshire",England,Southampton,"Kitchener, Ontario, Canada",,False,ThirdClass,52.2543819,-0.6710134,0.0,United Kingdom
+216,"Gheorgheff, Mr. Stanio",–,Unknown,Bulgaria,Cherbourg,"Butte, Montana, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+217,"Gilinski, Mr. Eliezer",22,"Abercynon, Glamorgan",Wales,Southampton,"Chicago, Illinois, US",,False,ThirdClass,51.6651631,-3.363471,0.0,United Kingdom
+218,"Gilnagh, Miss Mary Katherine ""Katie""",17,"Esker, Longford",Ireland,Queenstown,New York City,16,True,ThirdClass,53.7880047,-7.702743601100536,0.0,Éire / Ireland
+219,"Glynn, Miss Mary Agatha",19,"Killaloe, Clare",Ireland,Queenstown,"Washington, DC, US",13,True,ThirdClass,52.8067603,-8.4405427,0.0,Éire / Ireland
+220,"Goldsmith, Mr. Frank John",33,"Strood, Kent",England,Southampton,"Detroit, Michigan, US",,False,ThirdClass,51.0586069,0.6470163,0.0,United Kingdom
+221,"Goldsmith, Mrs. Emily Alice (née Brown)",31,"Strood, Kent",England,Southampton,"Detroit, Michigan, US",C,True,ThirdClass,51.0586069,0.6470163,0.0,United Kingdom
+222,"Goldsmith, Master Frank John William",9,"Strood, Kent",England,Southampton,"Detroit, Michigan, US",C,True,ThirdClass,51.0586069,0.6470163,0.0,United Kingdom
+223,"Goldsmith, Mr. Nathan",41,Unknown,Russia,Southampton,"Philadelphia, Pennsylvania, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+224,"Goodwin, Mr. Frederick Joseph",42,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+225,"Goodwin, Mrs. Augusta (née Tyler)",43,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+226,"Goodwin, Miss Lillian Amy",16,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+227,"Goodwin, Mr. Charles Edward",14,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+228,"Goodwin, Master William Frederick",13,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+229,"Goodwin, Miss Jessie Allis Mary",12,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+230,"Goodwin, Master Harold Victor",10,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+231,"Goodwin, Master Sidney Leslie",1,Fulham,England,Southampton,"Niagara Falls, New York, US",,False,ThirdClass,51.4744221,-0.2060772,0.0,United Kingdom
+232,"Green, Mr. George Henry",40,"Dorking, Surrey",England,Southampton,"Lead, South Dakota, US",,False,ThirdClass,51.2325184,-0.3306724,0.0,United Kingdom
+233,"Grønnestad, Mr. Daniel Danielsen",32,Bokn,Norway,Southampton,"Portland, North Dakota, US",,False,ThirdClass,59.19252415,5.475702645238316,0.0,Norge
+234,"Guest, Mr. Robert",32,London,England,Southampton,"Clinton, New York, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+235,"Gustafsson, Mr. Alfred Ossian",19,Kokkola,Finland,Southampton,"Waukegan, Illinois, US",,False,ThirdClass,63.8391421,23.1336845,0.0,Suomi / Finland
+236,"Gustafsson, Mr. Anders Vilhelm",37,Ruotsinpyhtää,Finland,Southampton,New York City,,False,ThirdClass,60.5220579,26.4695781,0.0,Suomi / Finland
+237,"Gustafsson, Mr. Johan Birger",28,Ruotsinpyhtää,Finland,Southampton,New York City,,False,ThirdClass,60.5220579,26.4695781,0.0,Suomi / Finland
+239,"Haas, Miss Aloisia",24,"Altdorf, Uri",Switzerland,Southampton,"Chicago, Illinois, US",,False,ThirdClass,46.8820732,8.6413922,0.0,Schweiz/Suisse/Svizzera/Svizra
+240,"Hagland, Mr. Ingvald Olai Olsen",28,"Skåre, Haugesund",Norway,Southampton,"Belmar, New Jersey, US",,False,ThirdClass,59.419509149999996,5.26340360539375,0.0,Norge
+241,"Hagland, Mr. Konrad Mathias Reiersen",19,"Skåre, Haugesund",Norway,Southampton,"Belmar, New Jersey, US",,False,ThirdClass,59.419509149999996,5.26340360539375,0.0,Norge
+242,"Hakkarainen, Mr Pekka Pietari",28,Helsinki,Finland,Southampton,"Monessen, Pennsylvania, US",,False,ThirdClass,60.1674881,24.9427473,0.0,Suomi / Finland
+243,"Hakkarainen, Mrs. Elin Matilda (née Dolck)",24,Helsinki,Finland,Southampton,"Monessen, Pennsylvania, US",15,True,ThirdClass,60.1674881,24.9427473,0.0,Suomi / Finland
+244,"Hampe, Mr. Léon Jérome",19,Westrozebeke,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.9310188,3.0121528,0.0,België / Belgique / Belgien
+245,"Hanna, Mr. Borak Suleiman",27,Hardîne,Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",15,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+248,"Hansen, Mr. Claus Peter",41,"Racine, Wisconsin",US,Southampton,"Racine, Wisconsin, US",,False,ThirdClass,42.7260523,-87.7825242,0.0,United States
+249,"Hansen, Mrs. Jennie Louise (née Howard)",45,"Racine, Wisconsin",US,Southampton,"Racine, Wisconsin, US",11,True,ThirdClass,42.7260523,-87.7825242,0.0,United States
+251,"Hansen, Mr. Henry Damsgaard",21,Copenhagen,Denmark,Southampton,"Racine, Wisconsin, US",,False,ThirdClass,55.6867243,12.5700724,0.0,Danmark
+252,"Hargadon, Miss Catherine ""Kate""",17,"Ballysadare, Sligo",Ireland,Queenstown,New York City,,False,ThirdClass,54.2098884,-8.509265,0.0,Éire / Ireland
+253,"Harknett, Miss Alice Phoebe",21,"Thornton Heath, London",England,Southampton,"New London, Connecticut, US",,False,ThirdClass,51.3988709,-0.099602,0.0,United Kingdom
+254,"Hart, Mr. Henry John",27,"Ballysadare, Sligo",Ireland,Queenstown,"Boston, Massachusetts, US",,False,ThirdClass,54.2098884,-8.509265,0.0,Éire / Ireland
+255,"Healy, Miss Hanora (Nora)",29,"Athenry, Galway",Ireland,Queenstown,New York City,16,True,ThirdClass,53.2991901,-8.7468297,0.0,Éire / Ireland
+256,"Hedman, Mr. Oskar Arvid",27,"St. Paul, Minnesota",US,Southampton,"St. Paul, Minnesota, US",15,True,ThirdClass,44.9504037,-93.1015026,0.0,United States
+257,"Hegarty, Miss Hanora",18,"Whitechurch, Cork",Ireland,Queenstown,"Charlestown, US",,False,ThirdClass,51.958525,-8.528147505240696,0.0,Éire / Ireland
+258,"Heikkinen, Miss Laina",26,Jyväskylä,Finland,Southampton,New York City,14?,True,ThirdClass,62.2393002,25.745951,0.0,Suomi / Finland
+259,"Heininen, Miss Wendla Maria",23,Turku,Finland,Southampton,New York City,,False,ThirdClass,60.4517531,22.2670522,0.0,Suomi / Finland
+260,"Hellström, Miss Hilda Maria",22,Stora Tuna,Sweden,Southampton,"Evanston, Illinois, US",C,True,ThirdClass,60.4414762,15.4976055,0.0,Sverige
+261,"Hendeković, Mr. Ignjac",28,Vagovina,Croatia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,45.7827498,16.6679888,0.0,Hrvatska
+262,"Henriksson, Miss Jenny Lovisa",28,Stockholm,Sweden,Southampton,"Iron Mountain, Michigan, US",,False,ThirdClass,59.3251172,18.0710935,0.0,Sverige
+263,"Henry, Miss Bridget Delia",23,"Clonown, Roscommon",Ireland,Queenstown,"Boston, Massachusetts, US",,False,ThirdClass,53.4106211,-7.9471947,0.0,Éire / Ireland
+264,"Hirvonen, Mrs. Helga Elisabeth (née Lindqvist)",22,Dalsbruk,Finland,Southampton,"Monessen, Pennsylvania, US",15,True,ThirdClass,60.0209926,22.5067673,0.0,Suomi / Finland
+265,"Hirvonen, Miss Hildur Elisabeth",2,Dalsbruk,Finland,Southampton,"Monessen, Pennsylvania, US",15,True,ThirdClass,60.0209926,22.5067673,0.0,Suomi / Finland
+266,"Holm, Mr. Johan Fredrik Alexander",43,"Karlshamn, Blekinge",Sweden,Southampton,New York City,,False,ThirdClass,56.1701723,14.8631279,0.0,Sverige
+267,"Holten, Mr. Johan Martin",28,Bergen,Norway,Southampton,New York City,,False,ThirdClass,60.3943055,5.3259192,0.0,Norge
+268,"Honkanen, Miss Eliina",27,Saarijärvi,Finland,Southampton,New York City,?,True,ThirdClass,62.7050975,25.2582688,0.0,Suomi / Finland
+269,"Horgan, Mr. John",22,Unknown,Ireland,Queenstown,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+270,"Howard, Miss May Elizabeth",27,"North Walsham, Norfolk",England,Southampton,"Albion, Michigan, US",C,True,ThirdClass,52.8213308,1.3861979,0.0,United Kingdom
+271,"Humblen, Mr. Adolf Mathias Nicolai Olsen",42,"Borgund, Møre og Romsdal",Norway,Southampton,"Milwaukee, Wisconsin, US",,False,ThirdClass,62.46627115,6.233920098358294,0.0,Norge
+272,"Husayn, Master Husayn Mahumud",11,"Fredericksburg, Virginia",US,Cherbourg,"Fredericksburg, Virginia, US",,False,ThirdClass,38.3031837,-77.4605399,0.0,United States
+273,"Hyman, Mr. Solomon Abraham",34,Manchester,England,Southampton,"Springfield, Massachusetts, US",C,True,ThirdClass,53.4794892,-2.2451148,0.0,United Kingdom
+274,"Ilmakangas, Miss Ida Livija",27,"New York City, New York",US,Southampton,New York City,,False,ThirdClass,40.7127281,-74.0060152,0.0,United States
+275,"Ilmakangas, Miss Pieta Sofia",25,"Paavola, Northern Ostrobothnia",Finland,Southampton,New York City,,False,ThirdClass,64.6063404,25.2042701,0.0,Suomi / Finland
+277,"Jabbour, Miss Hileni",16,Unknown,Syria,Cherbourg,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+278,"Jabbour, Miss Tamini",19,Unknown,Syria,Cherbourg,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+279,"Jalševac, Mr. Ivan",29,Topolovac,Croatia,Cherbourg,"Galesburg, Illinois, US",15,True,ThirdClass,45.4594541,16.4371339,0.0,Hrvatska
+280,"Jansson, Mr. Carl Olof",21,Örebro,Sweden,Southampton,"Swedeburg, Nebraska, US",A,True,ThirdClass,59.2747287,15.2151181,0.0,Sverige
+281,"Jardim, Mr. José Neto",21,"Calheta, Madeira",Portugal,Southampton,New York City,,False,ThirdClass,32.7219412,-17.1782577,0.0,Portugal
+282,"Jensen, Mr. Hans Peder",20,Eskilstrup,Denmark,Southampton,"Portland, Oregon, US",,False,ThirdClass,54.855665450000004,11.881905259818325,0.0,Danmark
+283,"Jensen, Mr. Niels Peder ""Rasmus""",48,"Portland, Oregon",US,Southampton,"Portland, Oregon, US",,False,ThirdClass,45.5202471,-122.6741949,0.0,United States
+284,"Jensen, Mr. Svend Lauritz",17,Eskilstrup,Denmark,Southampton,"Portland, Oregon, US",,False,ThirdClass,54.855665450000004,11.881905259818325,0.0,Danmark
+285,"Jermyn, Miss Annie Jane",26,"Ballydehob, Cork",Ireland,Queenstown,"East Lynn, Massachusetts, US",D,True,ThirdClass,51.5626308,-9.4604371,0.0,Éire / Ireland
+286,"Jirjis, Mrs. Shaniini (née Whabee Abi-Saab)",22,"Youngstown, Ohio",US,Cherbourg,"Youngstown, Ohio, US",C,True,ThirdClass,41.1035786,-80.6520161,0.0,United States
+287,"Johannesen, Mr. Bernt Johannes",29,"Avaldsnes, Stavanger",Norway,Southampton,New York City,13,True,ThirdClass,58.9631072,5.7430024,0.0,Norge
+288,"Johanson, Mr. Jakob Alfred",34,Munsala,Finland,Southampton,"Vancouver, British Columbia, Canada",,False,ThirdClass,63.4529666,22.4347597,0.0,Suomi / Finland
+291,"Johansson, Mr. Karl Johan",31,"Duluth, Minnesota",US,Southampton,"Duluth, Minnesota, US",,False,ThirdClass,46.7729322,-92.1251218,0.0,United States
+292,"Johansson, Mr. Nils",29,"Chicago, Illinois",US,Southampton,"Chicago, Illinois, US",,False,ThirdClass,41.8755616,-87.6244212,0.0,United States
+294,"Johnson, Mr. Alfred",49,Millwood,England,Southampton,New York City,,False,ThirdClass,31.2657632,-82.660419,0.0,United States
+295,"Johnson, Mrs. Elisabeth Vilhelmina (née Berg)",26,"St. Charles, Illinois",US,Southampton,"St. Charles, Illinois, US",15,True,ThirdClass,41.9139808,-88.3128183,0.0,United States
+296,"Johnson, Master Harold Theodor",4,"St. Charles, Illinois",US,Southampton,"St. Charles, Illinois, US",15,True,ThirdClass,41.9139808,-88.3128183,0.0,United States
+297,"Johnson, Miss Eleanor Ileen",1,"St. Charles, Illinois",US,Southampton,"St. Charles, Illinois, US",15,True,ThirdClass,41.9139808,-88.3128183,0.0,United States
+298,"Johnson, Mr. Malkolm Joackim",33,"Minneapolis, Minnesota",US,Southampton,"Minneapolis, Minnesota, US",,False,ThirdClass,44.9772995,-93.2654692,0.0,United States
+299,"Johnson, Mr. William Cahoone Jr.",19,"Hawthorne, New Jersey",US,Southampton,New York City,,False,ThirdClass,40.9492649,-74.1537549,0.0,United States
+300,"Johnston, Mr. Andrew Emslie",35,"Thornton Heath, London",England,Southampton,"New London, Connecticut, US",,False,ThirdClass,51.3988709,-0.099602,0.0,United Kingdom
+301,"Johnston, Mrs. Elizabeth (née Watson) ""Eliza""",34,"Thornton Heath, London",England,Southampton,"New London, Connecticut, US",,False,ThirdClass,51.3988709,-0.099602,0.0,United Kingdom
+302,"Johnston, Master William Andrew",8,"Thornton Heath, London",England,Southampton,"New London, Connecticut, US",,False,ThirdClass,51.3988709,-0.099602,0.0,United Kingdom
+303,"Johnston, Miss Catherine Nellie",7,"Thornton Heath, London",England,Southampton,"New London, Connecticut, US",,False,ThirdClass,51.3988709,-0.099602,0.0,United Kingdom
+306,"Jönsson, Mr. Nils Hilding",27,"Tågarp, Skåne",Sweden,Southampton,New York City,,False,ThirdClass,55.9247727,12.9548931,0.0,Sverige
+307,"Jussila, Mr. Eiriik",32,Elimäki,Finland,Southampton,"Monessen, Pennsylvania, US",15,True,ThirdClass,60.7200611,26.4449324,0.0,Suomi / Finland
+308,"Jussila, Miss Katriina",20,"Paavola, Northern Ostrobothnia",Finland,Southampton,New York City,,False,ThirdClass,64.6063404,25.2042701,0.0,Suomi / Finland
+309,"Jussila, Miss Mari Aina",21,"Paavola, Northern Ostrobothnia",Finland,Southampton,New York City,,False,ThirdClass,64.6063404,25.2042701,0.0,Suomi / Finland
+310,"Kallio, Mr. Nikolai Erlantti",17,Kauhajoki,Finland,Southampton,"Sudbury, Ontario, Canada",,False,ThirdClass,62.431748,22.1841988,0.0,Suomi / Finland
+312,"Karajić, Mr. Milan",30,Vagovina,Croatia,Southampton,"Youngstown, Ohio, US",,False,ThirdClass,45.7827498,16.6679888,0.0,Hrvatska
+313,"Karlsson, Mr. Einar Gervasius",21,"Oskarshamn, Kalmar",Sweden,Southampton,"Brooklyn, New York, US",13,True,ThirdClass,57.2632811,16.4443478,0.0,Sverige
+315,"Karlsson, Mr. Nils August",22,Örebro,Sweden,Southampton,"Palmer, Massachusetts, US",,False,ThirdClass,59.2747287,15.2151181,0.0,Sverige
+316,"Karun, Mr. Franz",39,Milje,Slovenia,Southampton,"Galesburg, Illinois, US",15,True,ThirdClass,45.59584785,13.7828563829059,0.0,Italia
+317,"Karun, Miss Manca (""Anna"")",4,Milje,Slovenia,Southampton,"Galesburg, Illinois, US",15,True,ThirdClass,45.59584785,13.7828563829059,0.0,Italia
+318,"Katavelos, Mr. Vassilios G.",19,Agios Sostis,Greece,Cherbourg,"Milwaukee, Wisconsin, US",,False,ThirdClass,38.31146445,25.955737595340533,0.0,Ελλάς
+319,"Keane, Mr. Andrew ""Andy""",23,"Athenry, Galway",Ireland,Queenstown,"Auburndale, Florida, US",,False,ThirdClass,53.2991901,-8.7468297,0.0,Éire / Ireland
+320,"Keefe, Mr. Arthur",39,"Rahway, New Jersey",US,Southampton,"Rahway, New Jersey, US",A,True,ThirdClass,40.6081591,-74.2776468,0.0,United States
+321,"Kelly, Mr. James",19,Unknown,Ireland,Southampton,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+322,"Kelly, Mr. James",44,"Leixlip, Kildare",Ireland,Queenstown,"New Haven, Connecticut, US",,False,ThirdClass,53.3644766,-6.4897438,0.0,Éire / Ireland
+323,"Kelly, Miss Anna Katherine",20,"Cuilmullagh, Mayo",Ireland,Queenstown,"Chicago, Illinois, US",16,True,ThirdClass,53.95803965,-9.332359504279879,0.0,Éire / Ireland
+324,"Kelly, Miss Mary",22,"Castlepollard, Westmeath",Ireland,Queenstown,New York City,D,True,ThirdClass,53.6796939,-7.2981856,0.0,Éire / Ireland
+325,"Kennedy, Mr. John Joseph",24,"Watergate, Limerick",Ireland,Queenstown,New York City,15?,True,ThirdClass,43.6591858,-70.785551,0.0,United States
+326,"Khalil-Khoury, Mr. Butrus",25,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+327,"Khalil-Khoury, Mrs. Zahie ""Maria""",20,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+328,"Kiernan, Mr. John Joseph",24,"Jersey City, New Jersey",US,Queenstown,"Jersey City, New Jersey, US",,False,ThirdClass,40.7281575,-74.0776417,0.0,United States
+329,"Kiernan, Mr. Philip",22,"Aughnacliffe, Longford",Ireland,Queenstown,"Jersey City, New Jersey, US",,False,ThirdClass,53.850985,-7.6040301,0.0,Éire / Ireland
+330,"Kilgannon, Mr. Thomas",22,"Currafarry, Galway",Ireland,Queenstown,New York City,,False,ThirdClass,53.466661849999994,-8.381393191381274,0.0,Éire / Ireland
+331,"Kink, Mr. Anton",29,Zürich,Switzerland,Southampton,"Milwaukee, Wisconsin",2,True,ThirdClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+332,"Kink, Mrs. Luise (née Heilmann)",26,Zürich,Switzerland,Southampton,"Milwaukee, Wisconsin",2,True,ThirdClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+333,"Kink, Miss Luise Gretchen",4,Zürich,Switzerland,Southampton,"Milwaukee, Wisconsin",2,True,ThirdClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+334,"Kink, Miss Maria",22,Zürich,Switzerland,Southampton,"Milwaukee, Wisconsin, US",,False,ThirdClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+335,"Kink, Mr. Vincenz",26,Zürich,Switzerland,Southampton,"Milwaukee, Wisconsin, US",,False,ThirdClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+339,"Kraeff, Mr. Theodor",–,Vetren,Bulgaria,Cherbourg,"Madison, Wisconsin, US",,False,ThirdClass,42.28236,24.04463,0.0,Бългaрия
+340,"Krekorian, Mr. Neshan",25,Kiğı,Turkey,Cherbourg,"Brantford, Ontario, Canada",10,True,ThirdClass,39.2762597,40.27099417716855,0.0,Türkiye
+341,"Kutscher, Mr. Simon",26,Edinburgh,Scotland,Southampton,New York City,,False,ThirdClass,55.9533456,-3.1883749,0.0,United Kingdom
+342,"Lahoud Ishaq Mowad, Mr. Sarkis",30,Zgharta,Lebanon,Cherbourg,"Waterbury, Connecticut, US",,False,ThirdClass,34.3929847,35.8967113,0.0,لبنان
+343,"Laitinen, Miss Kristiina Sofia",37,Helsinki,Finland,Southampton,New York City,,False,ThirdClass,60.1674881,24.9427473,0.0,Suomi / Finland
+345,"Lam, Mr. Ali",37,Hong Kong,China,Southampton,New York City,C,True,ThirdClass,22.2793278,114.1628131,0.0,中国
+346,"Lam, Mr. Len",23,Hong Kong,China,Southampton,New York City,,False,ThirdClass,22.2793278,114.1628131,0.0,中国
+347,"Landergren, Miss Aurora Adelia",22,"Karlshamn, Blekinge",Sweden,Southampton,New York City,13,True,ThirdClass,56.1701723,14.8631279,0.0,Sverige
+348,"Lane, Mr. Patrick",16,"Limerick, Limerick",Ireland,Queenstown,New York City,,False,ThirdClass,52.661252,-8.6301239,0.0,Éire / Ireland
+349,"Lang, Mr. Fang",26,Hong Kong,China,Southampton,New York City,14,True,ThirdClass,22.2793278,114.1628131,0.0,中国
+350,"Larsson, Mr. August Viktor",29,"Stamford, Connecticut",US,Southampton,"Stamford, Connecticut, US",,False,ThirdClass,41.072089,-73.54443614832871,0.0,United States
+351,"Larsson, Mr. Bengt Edvin",29,"Nyköping, Södermanland",Sweden,Southampton,"Hartford, Connecticut, US",,False,ThirdClass,58.7545409,17.0120656,0.0,Sverige
+352,"Larsson-Rondberg, Mr. Edvard A.",22,"Lysvik, Värmland",Sweden,Southampton,"Missoula, Montana, US",,False,ThirdClass,60.0152729,13.132996,0.0,Sverige
+353,"Lee, Mr. Bing",32,Hong Kong,China,Southampton,New York City,C,True,ThirdClass,22.2793278,114.1628131,0.0,中国
+354,"Lee, Mr. Ling",28,Hong Kong,China,Southampton,New York City,,False,ThirdClass,22.2793278,114.1628131,0.0,中国
+355,"Lefebvre, Mrs. Frances Marie-Anselme (née Daumont)",40,"Liévin, Pas-de-Calais",France,Southampton,"Mystic, Iowa, US",,False,ThirdClass,50.4245,2.7738,0.0,France
+356,"Lefebvre, Miss Mathilde Franck-Marie-Joseph",12,"Liévin, Pas-de-Calais",France,Southampton,"Mystic, Iowa, US",,False,ThirdClass,50.4245,2.7738,0.0,France
+357,"Lefebvre, Miss Jeannie Franck-Marie-Joseph",8,"Liévin, Pas-de-Calais",France,Southampton,"Mystic, Iowa, US",,False,ThirdClass,50.4245,2.7738,0.0,France
+358,"Lefebvre, Master Henri Franck-Marie-Joseph",5,"Liévin, Pas-de-Calais",France,Southampton,"Mystic, Iowa, US",,False,ThirdClass,50.4245,2.7738,0.0,France
+359,"Lefebvre, Miss Ida Franck-Marie-Joseph",3,"Liévin, Pas-de-Calais",France,Southampton,"Mystic, Iowa, US",,False,ThirdClass,50.4245,2.7738,0.0,France
+360,"Leinonen, Mr. Antti Gustaf",32,Välitaipale,Finland,Southampton,New York City,,False,ThirdClass,65.1193481,25.3364119,0.0,Suomi / Finland
+361,"Lennon, Mr. Denis",20,"Ballymahon, Longford",Ireland,Queenstown,New York City,,False,ThirdClass,53.5617282,-7.7617266,0.0,Éire / Ireland
+362,"Lennon, Miss Mary",18,"Ballymahon, Longford",Ireland,Queenstown,New York City,,False,ThirdClass,53.5617282,-7.7617266,0.0,Éire / Ireland
+363,"Leonard, Mr. Lionel",36,"New York City, New York",US,Southampton,New York City,,False,ThirdClass,40.7127281,-74.0060152,0.0,United States
+364,"Lester, Mr. James",39,"West Bromwich, Staffordshire",England,Southampton,"Pontiac, Michigan, US",,False,ThirdClass,52.7214174,-1.7680194,0.0,United Kingdom
+365,"Lievens, Mr. René Gustave Aimé",24,Haaltert,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.887393349999996,3.9904300285117014,0.0,België / Belgique / Belgien
+366,"Lindahl, Miss Agda Thorilda Viktoria",25,Stockholm,Sweden,Southampton,"Saranac Lake, New York, US",,False,ThirdClass,59.3251172,18.0710935,0.0,Sverige
+367,"Lindblom, Miss Augusta Charlotta",45,Stockholm,Sweden,Southampton,"Stratford, Connecticut, US",,False,ThirdClass,59.3251172,18.0710935,0.0,Sverige
+368,"Lindell, Mr. Edvard Bengtsson",36,"Helsingborg, Skåne",Sweden,Southampton,"Hartford, Connecticut, US",A,True,ThirdClass,56.0441984,12.7040684,0.0,Sverige
+369,"Lindell, Mrs. Elin Gerda (née Persson)",30,"Helsingborg, Skåne",Sweden,Southampton,"Hartford, Connecticut, US",A,True,ThirdClass,56.0441984,12.7040684,0.0,Sverige
+370,"Lindqvist, Mr. Eino William",20,Dalsbruk,Finland,Southampton,"Monessen, Pennsylvania, US",15,True,ThirdClass,60.0209926,22.5067673,0.0,Suomi / Finland
+371,"Linehan, Mr. Michael",21,"Boherbue, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,52.15816785,-9.072094847439335,0.0,Éire / Ireland
+372,"Ling, Mr. Lee",24,Hong Kong,China,Southampton,New York City,,False,ThirdClass,22.2793278,114.1628131,0.0,中国
+373,"Linhart, Mr. Wenzel H.",27,Vienna,Austria,Southampton,New York City,,False,ThirdClass,48.2083537,16.3725042,0.0,Österreich
+374,"Livshin, Mr. David (""Abraham Harmer"")",25,Manchester,England,Southampton,"Montreal, Quebec, Canada",,False,ThirdClass,53.4794892,-2.2451148,0.0,United Kingdom
+375,"Lobb, Mr. William Arthur",30,"Scranton, Pennsylvania",US,Southampton,"Scranton, Pennsylvania, US",,False,ThirdClass,41.4086874,-75.6621294,0.0,United States
+376,"Lobb, Mrs. Cordelia K. (née Stanlick)",26,"Scranton, Pennsylvania",US,Southampton,"Scranton, Pennsylvania, US",,False,ThirdClass,41.4086874,-75.6621294,0.0,United States
+377,"Lockyer, Mr. Edward Thomas",21,"Sandhurst, Kent",England,Southampton,"Ontario, New York, US",,False,ThirdClass,51.0264861,0.5627378,0.0,United Kingdom
+378,"Lovell, Mr. John Hall (""Henry"")",20,"Northlew, Devon",England,Southampton,New York City,,False,ThirdClass,50.7724148,-4.1229676,0.0,United Kingdom
+379,"Lulić, Mr. Nikola",29,Konjsko Brdo,Croatia,Southampton,"Chicago, Illinois, US",15,True,ThirdClass,44.6673519,15.4044628,0.0,Hrvatska
+381,"Lundström, Mr. Thure Edvin",32,"Simrishamn, Skåne",Sweden,Southampton,"Los Angeles, US",15,True,ThirdClass,55.566667,14.3,0.0,Sverige
+382,"Lymperopoulus, Mr. Panagiotis K.",30,Áyios Sóstis,Greece,Cherbourg,"Stamford, Connecticut US",,False,ThirdClass,37.9555609,23.71594125265149,0.0,Ελλάς
+383,"Lyntakoff, Mr. Stanko",44,Unknown,Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+384,"Mackay, Mr. George William",20,London,England,Southampton,"Rochester, New York, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+385,"Madigan, Miss Margaret ""Maggie""",21,"Askeaton, Limerick",Ireland,Queenstown,New York City,15,True,ThirdClass,52.599722,-8.975556,0.0,Éire / Ireland
+386,"Madsen, Mr. Fridtjof Arne",24,Trondheim,Norway,Southampton,"Brooklyn, New York, US",13,True,ThirdClass,63.4305658,10.3951929,0.0,Norge
+387,"Mäenpää, Mr. Matti Alexanteri",22,Kauhajoki,Finland,Southampton,"Sudbury, Ontario, Canada",,False,ThirdClass,62.431748,22.1841988,0.0,Suomi / Finland
+388,"Mahon, Miss Bridget Delia",20,"Derrymartin, Mayo",Ireland,Queenstown,New York City,,False,ThirdClass,53.992962399999996,-9.371164048650234,0.0,Éire / Ireland
+389,"Maisner, Mr. Simon",34,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+390,"Mäkinen, Mr. Kalle Edvard",29,"Ikaalinen, Pirkanmaa",Finland,Southampton,"Glassport, Pennsylvania, US",,False,ThirdClass,61.7701493,23.0633777,0.0,Suomi / Finland
+391,"Mamee, Mr. Hanna",20,Tripoli,Lebanon,Cherbourg,"Philadelphia, Pennsylvania, US",15,True,ThirdClass,32.896672,13.1777923,0.0,ليبيا
+393,"Mannion, Miss Margaret",28,"Caltra, Galway",Ireland,Queenstown,New York City,16,True,ThirdClass,53.4355055,-8.4369796,0.0,Éire / Ireland
+394,"Mardirosian, Mr. Sarkis",25,Kiğı,Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,ThirdClass,39.2762597,40.27099417716855,0.0,Türkiye
+395,"Marinko, Mr. Dmitri",23,Unknown,Macedonia,Southampton,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+397,"Markun, Mr. Johann",33,Milje,Slovenia,Cherbourg,New York City,,False,ThirdClass,45.59584785,13.7828563829059,0.0,Italia
+398,"Matinoff, Mr. Nicola",30,Gabrovo,Bulgaria,Cherbourg,"Madison, Wisconsin, US",,False,ThirdClass,42.96597,25.21308065823368,0.0,Бългaрия
+399,"McCarthy, Miss Catherine ""Katie""",24,Tipperary,Ireland,Queenstown,"Bayonne, New Jersey, US",?,True,ThirdClass,52.68477435,-7.898080410303971,0.0,Éire / Ireland
+400,"McCormack, Mr. Thomas Joseph",19,"Bayonne, New Jersey",US,Queenstown,"Guttenberg, New Jersey, US",15,True,ThirdClass,40.6687141,-74.1143091,0.0,United States
+401,"McCoy, Miss Catherine Agnes",29,"Carrickatane, Tyrone",Ireland,Queenstown,"Brooklyn, New York, US",16,True,ThirdClass,54.9025908,-7.3157645,0.0,United Kingdom
+402,"McCoy, Miss Alice",26,"Carrickatane, Tyrone",Ireland,Queenstown,"Brooklyn, New York, US",16,True,ThirdClass,54.9025908,-7.3157645,0.0,United Kingdom
+403,"McCoy, Mr. Bernard",24,"Carrickatane, Tyrone",Ireland,Queenstown,"Brooklyn, New York, US",16,True,ThirdClass,54.9025908,-7.3157645,0.0,United Kingdom
+404,"McDermott, Miss Bridget Delia",31,"Lahardane, Mayo",Ireland,Queenstown,"Chicago, Illinois, US",13,True,ThirdClass,54.0282478,-9.3216581,0.0,Éire / Ireland
+405,"McEvoy, Mr. Michael",19,Dublin,Ireland,Queenstown,New York City,,False,ThirdClass,53.3497645,-6.2602732,0.0,Éire / Ireland
+406,"McGovern, Miss Mary",22,"Corlough, Cavan",Ireland,Queenstown,New York City,13,True,ThirdClass,54.1263352,-7.7727603,0.0,Éire / Ireland
+407,"McGowan, Miss Anna F. ""Annie""",14,"Massbrook, Mayo",Ireland,Queenstown,"Chicago, Illinois, US",13,True,ThirdClass,53.986667,-9.284167,0.0,Éire / Ireland
+408,"McGowan, Miss Catherine",42,"Terry, Mayo",Ireland,Queenstown,"Chicago, Illinois, US",,False,ThirdClass,-8.9569721,-76.0993376,0.0,Perú
+410,"McNamee, Mr. Neal",27,"Convoy, Donegal, Ireland",England,Southampton,"Philadelphia, Pennsylvania, US",,False,ThirdClass,54.8602564,-7.664132,0.0,Éire / Ireland
+411,"McNamee, Mrs. Eileen (née O'Leary)",19,"Salisbury, Wiltshire",England,Southampton,"Philadelphia, Pennsylvania, US",,False,ThirdClass,51.0690613,-1.7954134,0.0,United Kingdom
+412,"McNeill, Miss Bridget",27,"Trien, Roscommon",Ireland,Queenstown,New York City,,False,ThirdClass,53.729438349999995,-8.555108838348016,0.0,Éire / Ireland
+413,"Meanwell, Mrs. Mary Ann",63,"Eastbourne, East Sussex",England,Southampton,New York City,,False,ThirdClass,50.7685761,0.2957854,0.0,United Kingdom
+415,"Meek, Mrs. Anna ""Annie"" Louise Rowley",31,"Penarth, Glamorgan",Wales,Southampton,New York City,,False,ThirdClass,51.435968,-3.1733023,0.0,United Kingdom
+416,"Miesnere, Mr. Simon",34,"London, England",England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+417,"Meo-Martino, Mr. Alfonzo",48,"Bournemouth, Dorset",England,Southampton,"Washington, DC, US",,False,ThirdClass,50.7269716,-1.9001239,0.0,United Kingdom
+418,"Mernagh, Mr. John Robert",26,"Ballywilliam, Wexford",Ireland,Queenstown,"Chicago, Illinois, US",,False,ThirdClass,52.4479192,-6.8647066,0.0,Éire / Ireland
+419,"Midtsjø, Mr. Karl Albert",21,"Kråkstad, Ski",Norway,Southampton,"Chicago, Illinois, US",15,True,ThirdClass,59.7099144,10.8415645,0.0,Norge
+421,"Miles, Mr. Frank",23,"Greenwich, London",England,Southampton,New York City,,False,ThirdClass,51.4820845,-0.0045417,0.0,United Kingdom
+422,"Mineff, Mr. Ivan",24,Unknown,Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+424,"Mitkoff, Mr. Mito",23,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+425,"Mockler, Miss Ellen Mary",23,"Currafarry, Galway",Ireland,Queenstown,New York City,16,True,ThirdClass,53.466661849999994,-8.381393191381274,0.0,Éire / Ireland
+426,"Moen, Mr. Sigurd Hansen",25,Bergen,Norway,Southampton,"Minneapolis, Minnesota, US",,False,ThirdClass,60.3943055,5.3259192,0.0,Norge
+427,"Moor, Mrs. Beila",29,Unknown,Russia,Southampton,"Chicago, Illinois, US",14,True,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+428,"Moor, Master Meier",7,Unknown,Russia,Southampton,"Chicago, Illinois, US",14,True,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+429,"Moore, Mr. Leonard Charles",19,"Kingston upon Thames, London",England,Southampton,"Hoboken, New Jersey, US",,False,ThirdClass,51.4096275,-0.3062621,0.0,United Kingdom
+430,"Moran, Miss Bertha Bridget",28,"Askeaton, Limerick",Ireland,Queenstown,"Brooklyn, New York, US",16,True,ThirdClass,52.599722,-8.975556,0.0,Éire / Ireland
+431,"Moran, Mr. Daniel James",27,"Askeaton, Limerick",Ireland,Queenstown,"Brooklyn, New York, US",,False,ThirdClass,52.599722,-8.975556,0.0,Éire / Ireland
+432,"Morley, Mr. William",34,"Petworth, West Sussex",England,Southampton,New York City,,False,ThirdClass,50.9862857,-0.6101088,0.0,United Kingdom
+433,"Morrow, Mr. Thomas Rowan",30,"Rathfriland, Down",Ireland,Queenstown,"Gleichen, Alberta, Canada",,False,ThirdClass,54.2381785,-6.1603136,0.0,United Kingdom
+434,"Moss, Mr. Albert Johan",29,Bergen,Norway,Southampton,New York City,B,True,ThirdClass,60.3943055,5.3259192,0.0,Norge
+435,"Moussa, Mrs. Mantoura",35,Hardîne,Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",?,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+436,"Moutal, Mr. Rahamin Haim",28,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+437,"Mubarik, Mrs. Amanah Fa'ud (née Iskandar)",24,Hardîne,Lebanon,Cherbourg,"Houtzdale, Pennsylvania, US",C,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+438,"Mubarik, Master Gerios",7,Hardîne,Lebanon,Cherbourg,"Houtzdale, Pennsylvania, US",C,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+439,"Mubarik, Master Halim Gonios",4,Hardîne,Lebanon,Cherbourg,"Houtzdale, Pennsylvania, US",C,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+440,"Mullen, Miss Katherine ""Katie""",19,"Esker, Longford",Ireland,Queenstown,New York City,16,True,ThirdClass,53.7880047,-7.702743601100536,0.0,Éire / Ireland
+441,"Mulvihill, Miss Bridget Elizabeth ""Bertha""",25,"Athlone, Westmeath",Ireland,Queenstown,"Providence, Rhode Island, US",15,True,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+442,"Murdlin, Mr. Joseph",22,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+444,"Murphy, Miss Margaret Jane ""Maggie/Mary""",25,"Fostragh, Longford",Ireland,Queenstown,"Philadelphia, Pennsylvania, US",16,True,ThirdClass,53.8481325,-7.6359516,0.0,Éire / Ireland
+445,"Murphy, Miss Nora",34,Dublin,Ireland,Queenstown,New York City,16,True,ThirdClass,53.3497645,-6.2602732,0.0,Éire / Ireland
+446,"Muslamani, Mrs. Fatimah",22,Tebnine,Lebanon,Cherbourg,"Michigan City, Indiana, US",C,True,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+447,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",18,"Kristinehamn, Värmland",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,59.3113619,14.11176,0.0,Sverige
+448,"Nackid, Mr. Sahid",20,Zgharta,Lebanon,Cherbourg,"Waterbury, Connecticut, US",C,True,ThirdClass,34.3929847,35.8967113,0.0,لبنان
+449,"Nackid, Miss Waika ""Mary"" (née Mowad)",19,Zgharta,Lebanon,Cherbourg,"Waterbury, Connecticut, US",C,True,ThirdClass,34.3929847,35.8967113,0.0,لبنان
+450,"Nackid, Miss Maria",1,Zgharta,Lebanon,Cherbourg,"Waterbury, Connecticut, US",C,True,ThirdClass,34.3929847,35.8967113,0.0,لبنان
+452,"Nakli-Khoury, Mr. Toufik",17,Hardîne,Lebanon,Cherbourg,New York City,,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+453,"Nancarrow, Mr. William Henry",33,"St Austell, Cornwall",England,Southampton,"Yonkers, New York, US",,False,ThirdClass,50.338466,-4.7882104,0.0,United Kingdom
+454,"Nankoff, Mr. Minko",32,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+455,"Nasr Alma, Mr. Mustafa",20,Tebnine,Lebanon,Cherbourg,New York City,,False,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+456,"Nassr Rizq, Mr. Saade",20,Sir'Al,Lebanon,Cherbourg,New York City,,False,ThirdClass,29.6199434,79.2298955,0.0,India
+457,"Naughton, Miss Hannah",21,Donoughmore,Ireland,Queenstown,New York City,,False,ThirdClass,51.9890689,-8.7452997,0.0,Éire / Ireland
+458,"Nenkoff, Mr. Christo",22,Unknown,Bulgaria,Southampton,"Coon Rapids, Iowa, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+459,"Nieminen, Miss Manta Josefiina",29,Karinainen,Finland,Southampton,"Aberdeen, Washington, US",,False,ThirdClass,60.6779568,22.7681203,0.0,Suomi / Finland
+460,"Niklasson, Mr. Samuel",28,"Västra Bogane, Orust Island",Sweden,Southampton,New York City,,False,ThirdClass,58.2189959,11.7862159,0.0,Sverige
+461,"Nilsson, Mr. August Ferdinand",21,"Hörby, Skåne",Sweden,Southampton,"St. Paul, Minnesota, US",,False,ThirdClass,55.8504666,13.6486019,0.0,Sverige
+462,"Nilsson, Miss Berta Olivia",18,"Lysvik, Värmland",Sweden,Southampton,"Missoula, Montana, US",D,True,ThirdClass,60.0152729,13.132996,0.0,Sverige
+464,"Niqula-Yarid, Miss Jamilah",14,El-Hakour,Lebanon,Cherbourg,"Jacksonville, Florida, US",C,True,ThirdClass,35.7669202,36.1597385,0.0,سوريا
+465,"Niqula-Yarid, Master Ilyas",12,El-Hakour,Lebanon,Cherbourg,"Jacksonville, Florida, US",C,True,ThirdClass,35.7669202,36.1597385,0.0,سوريا
+466,"Nirva, Mr. Iisakki Antino Äijö",41,Kauhajoki,Finland,Southampton,"Sudbury, Ontario, Canada",,False,ThirdClass,62.431748,22.1841988,0.0,Suomi / Finland
+467,"Niskanen, Mr. Juha",39,Kivijärvi,Finland,Southampton,"Boston, Massachusetts, US",9,True,ThirdClass,63.1223025,25.0725469,0.0,Suomi / Finland
+469,"Nosworthy, Mr. Richard Cater",21,"Newton Abbot, Devon",England,Southampton,"Buffalo, New York, US",,False,ThirdClass,50.5301513,-3.5992265,0.0,United Kingdom
+470,"Nysten, Miss Anna Sofia",22,"Kisa, Östergötland",Sweden,Southampton,"Hackensack, New Jersey, US",13,True,ThirdClass,57.9875021,15.622841,0.0,Sverige
+471,"Nysveen, Mr. Johan Hansen",61,Øyer,Norway,Southampton,"Grand Forks, North Dakota, US",,False,ThirdClass,61.3273517,10.504001742069814,0.0,Norge
+472,"O'Brien, Mr. Thomas",27,"Pallasgreen, Limerick",Ireland,Queenstown,"Chicago, Illinois, US",,False,ThirdClass,52.5685257,-8.3372169,0.0,Éire / Ireland
+473,"O'Brien, Mrs. Johanna ""Hannah"" (née Godfrey)",26,"Pallasgreen,  Limerick",Ireland,Queenstown,"Chicago, Illinois, US",?,True,ThirdClass,52.5685257,-8.3372169,0.0,Éire / Ireland
+474,"O'Brien, Mr. Timothy",21,"Drimoleague, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,51.6608411,-9.2599584,0.0,Éire / Ireland
+475,"O'Connell, Mr. Patrick Denis",17,"Kingwilliamstown, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,52.183388550000004,-9.238338860920043,0.0,Éire / Ireland
+476,"O'Connor, Mr. Maurice",16,"Boherbue, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,52.15816785,-9.072094847439335,0.0,Éire / Ireland
+477,"O'Connor, Mr. Patrick",23,"Kingwilliamstown, Cork",Ireland,Queenstown,New York City,,False,ThirdClass,52.183388550000004,-9.238338860920043,0.0,Éire / Ireland
+478,"O'Driscoll, Miss Bridget",24,"Ballydehob, Cork",Ireland,Queenstown,"Jersey City, New Jersey, US",D,True,ThirdClass,51.5626308,-9.4604371,0.0,Éire / Ireland
+479,"O'Dwyer, Miss Ellen ""Nellie""",25,"Limerick, Limerick",Ireland,Queenstown,New York City,?,True,ThirdClass,52.661252,-8.6301239,0.0,Éire / Ireland
+480,"O'Keefe, Mr. Patrick",22,"Waterford, Waterford",Ireland,Queenstown,New York City,B,True,ThirdClass,52.2609997,-7.1119081,0.0,Éire / Ireland
+481,"O'Leary, Miss Hanora ""Nora""",16,"Kingwilliamstown, Cork",Ireland,Queenstown,New York City,13,True,ThirdClass,52.183388550000004,-9.238338860920043,0.0,Éire / Ireland
+482,"O'Sullivan, Miss Bridget Mary",21,"Glenduff, Kerry",Ireland,Queenstown,New York City,,False,ThirdClass,52.2926158,-9.6061466,0.0,Éire / Ireland
+483,"Ödahl, Mr. Nils Martin",23,"Örsjö, Kalmar",Sweden,Southampton,"Peoria, Illinois, US",,False,ThirdClass,56.7008028,15.7480275,0.0,Sverige
+485,"Olsen, Mr. Henry Margido",28,Bergen,Norway,Southampton,New York City,,False,ThirdClass,60.3943055,5.3259192,0.0,Norge
+486,"Olsen, Mr. Karl Siegwart Andreas",42,Trondheim,Norway,Southampton,"Brooklyn, New York, US",,False,ThirdClass,63.4305658,10.3951929,0.0,Norge
+487,"Olsen, Master Arthur Carl",9,Trondheim,Norway,Southampton,"Brooklyn, New York, US",13,True,ThirdClass,63.4305658,10.3951929,0.0,Norge
+488,"Olsen, Mr. Ole Martin",27,Sunnhordland,Norway,Southampton,"Broderick, Canada",,False,ThirdClass,59.833821,5.7123861,0.0,Norge
+489,"Olsson, Miss Elina",31,Södra Brantevik,Sweden,Southampton,"St. Paul, Minnesota, US",,False,ThirdClass,55.5151992,14.345963,0.0,Sverige
+490,"Olsson, Mr. Nils Johan Göransson",28,"Eslöv, Skåne",Sweden,Southampton,New York City,,False,ThirdClass,55.85,13.316667,0.0,Sverige
+491,"Olsson, Mr. Oskar Wilhelm",32,"Lunna, Orust Island",Sweden,Southampton,"Manitowoc, Wisconsin, US",A,True,ThirdClass,58.2441588,11.8025517,0.0,Sverige
+492,"Olsvingen, Mr. Thor Andersen",20,Vikersund,Norway,Southampton,"Carneron, US",,False,ThirdClass,59.969149,9.9982696,0.0,Norge
+493,"Orešković, Miss Jelka",23,Konjsko Brdo,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6673519,15.4044628,0.0,Hrvatska
+494,"Orešković, Mr. Luka",20,Konjsko Brdo,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6673519,15.4044628,0.0,Hrvatska
+495,"Orešković, Miss Marija",20,Konjsko Brdo,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6673519,15.4044628,0.0,Hrvatska
+496,"Osén, Mr. Olaf Elon",16,"Hedesunda, Gävleborg",Sweden,Southampton,"Mitchell, South Dakota, US",,False,ThirdClass,60.3940251,17.006446,0.0,Sverige
+497,"Pålsson, Mrs. Alma Cornelia (née Berglund)",29,"Bjuv, Skåne",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,56.0856449,12.9139805,0.0,Sverige
+498,"Pålsson, Miss Torborg Danira",8,"Bjuv, Skåne",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,56.0856449,12.9139805,0.0,Sverige
+499,"Pålsson, Master Paul Folke",6,"Bjuv, Skåne",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,56.0856449,12.9139805,0.0,Sverige
+500,"Pålsson, Miss Stina Viola",3,"Bjuv, Skåne",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,56.0856449,12.9139805,0.0,Sverige
+501,"Pålsson, Master Gösta Leonard",2,"Bjuv, Skåne",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,56.0856449,12.9139805,0.0,Sverige
+502,"Panula, Mrs. Maija Emelia Abrahamintytar (née Ketola-Ojala)",41,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+503,"Panula, Mr. Ernesti Arvid",16,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+504,"Panula, Mr. Jaakko Arnold",15,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+505,"Panula, Master Juha Niilo",7,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+506,"Panula, Master Urho Abraham",2,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+507,"Panula, Master Eino Viljami",1,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+509,"Patchett, Mr. George",19,"Wollaston, Northamptonshire",England,Southampton,"Kitchener, Ontario, Canada",,False,ThirdClass,52.2543819,-0.6710134,0.0,United Kingdom
+510,"Pavlović, Mr. Štefo",32,Vagovina,Croatia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,45.7827498,16.6679888,0.0,Hrvatska
+511,"Peacock, Mrs. Edith (née Nile)",26,"Southampton, Hampshire",England,Southampton,"Elizabeth, New Jersey, US",,False,ThirdClass,42.2307547,-72.7405267,0.0,United States
+512,"Peacock, Miss Treasteall",4,"Southampton, Hampshire",England,Southampton,"Elizabeth, New Jersey, US",,False,ThirdClass,42.2307547,-72.7405267,0.0,United States
+513,"Peacock, Master Albert Edward",7 mo.,"Southampton, Hampshire",England,Southampton,"Elizabeth, New Jersey, US",,False,ThirdClass,42.2307547,-72.7405267,0.0,United States
+514,"Pearce, Mr. Ernest",32,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+515,"Pedersen, Mr. Olaf",28,Sandefjord,Norway,Southampton,"Seattle, Washington, US",,False,ThirdClass,59.1300112,10.2255602,0.0,Norge
+516,"Peduzzi, Mr. Giuseppe",24,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+517,"Pekoniemi, Mr. Edvard Johannes",21,Heinola,Finland,Southampton,New York City,,False,ThirdClass,61.2027188,26.031371,0.0,Suomi / Finland
+518,"Peltomäki, Mr. Nikolai Johannes",25,Helsinki,Finland,Southampton,New York City,,False,ThirdClass,60.1674881,24.9427473,0.0,Suomi / Finland
+519,"Perkin, Mr. John Henry",22,"Holsworthy, Devon",England,Southampton,"Saskatoon, Saskatchewan, Canada",,False,ThirdClass,50.8123783,-4.3526341,0.0,United Kingdom
+520,"Persson, Mr. Ernst Ulrik",25,"Stockholm, Uppland",Sweden,Southampton,"Indianapolis, Indiana, US",15,True,ThirdClass,59.3247259,18.0699988,0.0,Sverige
+521,"Peters, Miss Catherine ""Katie""",26,"Cahir, Tipperary",Ireland,Queenstown,New York City,,False,ThirdClass,52.3749129,-7.9251412,0.0,Éire / Ireland
+522,"Petranec, Miss Matilda",28,Vagovina,Croatia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,45.7827498,16.6679888,0.0,Hrvatska
+524,"Petroff, Mr. Pastcho",29,"Belish, Troyan",Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.9344278,24.7328867,0.0,Бългaрия
+525,"Pettersson, Miss Ellen Natalia",18,"Stockholm, Uppland",Sweden,Southampton,"Iron Mountain, Michigan, US",,False,ThirdClass,59.3247259,18.0699988,0.0,Sverige
+526,"Pettersson, Mr. Johan Emil",25,"Västermo, Södermanland",Sweden,Southampton,"Chicago, Illinois, US",,False,ThirdClass,59.2900341,16.0794111,0.0,Sverige
+527,"Pickard, Mr. Berk (Trembisky)",32,Warsaw,Poland,Southampton,"San Francisco, US",9,True,ThirdClass,52.2319581,21.0067249,0.0,Polska
+528,"Plotcharsky, Mr. Vasil",27,Unknown,Bulgaria,Southampton,"Tulsa, Oklahoma, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+529,"Pocrnić, Mr. Mate",17,Bukovac,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.360476,21.64837,0.0,Србија
+530,"Pocrnić, Mr. Tome",24,Bukovac,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.360476,21.64837,0.0,Србија
+531,"Pullner, Mr. Uscher",16,Unknown,Unknown,Cherbourg,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+532,"Radeff, Mr. Alexander",27,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+533,"Rasmussen, Mrs. Lena Jakobsen (née Solvang)",62,"Haugesund, Hordaland",Norway,Southampton,"Centerville, South Dakota, US",,False,ThirdClass,59.4187381,5.2727902,0.0,Norge
+534,"Razi, Mr. Raihed",30,Tebnine,Lebanon,Southampton,New York City,,False,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+535,"Reed, Mr. James George",19,"Penarth, Glamorgan",Wales,Southampton,New York City,,False,ThirdClass,51.435968,-3.1733023,0.0,United Kingdom
+536,"Rekić, Mr. Tido",38,Bosanska Krupa,Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,44.8824428,16.1577,0.0,Bosna i Hercegovina / Босна и Херцеговина
+537,"Reynolds, Mr. Harold J.",21,London,England,Southampton,"Toronto, Ontario, Canada",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+538,"Rice, Mrs. Margaret (née Norton)",39,"Athlone, Westmeath",Ireland,Queenstown,"Spokane, Washington, US",,False,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+539,"Rice, Master Albert",10,"Athlone, Westmeath",Ireland,Queenstown,"Spokane, Washington, US",,False,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+540,"Rice, Master George Hugh",8,"Athlone, Westmeath",Ireland,Queenstown,"Spokane, Washington, US",,False,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+541,"Rice, Master Frederick Thomas ""Eric""",7,"Athlone, Westmeath",Ireland,Queenstown,"Spokane, Washington, US",,False,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+542,"Rice, Master Arthur",4,"Athlone, Westmeath",Ireland,Queenstown,"Spokane, Washington, US",,False,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+543,"Rice, Master Eugene Francis",2,"Athlone, Westmeath",Ireland,Queenstown,"Spokane, Washington, US",,False,ThirdClass,53.4230832,-7.942705,0.0,Éire / Ireland
+544,"Riihivuori, Miss Susanna Juhantytär ""Sanni""",22,"Ylihärmä, South Ostrobothnia",Finland,Southampton,"Coal Center, Pennsylvania, US",,False,ThirdClass,63.1441197,22.7956213,0.0,Suomi / Finland
+545,"Rintamäki, Mr. Matti",35,Kyyny,Finland,Southampton,"Sudbury, Ontario, Canada",,False,ThirdClass,62.3725863,22.0796212,0.0,Suomi / Finland
+547,"Risien, Mr. Samuel Beard",69,"Deal, Kent",England,Southampton,"Groesbeck, Texas, US",,False,ThirdClass,51.2239544,1.4027344,0.0,United Kingdom
+548,"Risien, Mrs. Emma Jane (née Lellyet)",58,Durban,South Africa,Southampton,"Groesbeck, Texas, US",,False,ThirdClass,-29.861825,31.009909,0.0,South Africa
+549,"Robins, Mr. Alexander A.",50,"St Austell, Cornwall",England,Southampton,"Yonkers, New York, US",,False,ThirdClass,50.338466,-4.7882104,0.0,United Kingdom
+550,"Robins, Mrs. Grace Charity (née Laury)",47,"St Austell, Cornwall",England,Southampton,"Yonkers, New York, US",,False,ThirdClass,50.338466,-4.7882104,0.0,United Kingdom
+552,"Rommetvedt, Mr. Knud Paust",49,Hogstad,Norway,Southampton,New York City,,False,ThirdClass,59.3213381,9.657241542089926,0.0,Norge
+553,"Rosblom, Mrs. Helena Wilhelmina",41,Rauma,Finland,Southampton,"Astoria, Oregon, US",,False,ThirdClass,61.1289148,21.5039401,0.0,Suomi / Finland
+554,"Rosblom, Mr. Viktor Rickard",18,Rauma,Finland,Southampton,"Astoria, Oregon, US",,False,ThirdClass,61.1289148,21.5039401,0.0,Suomi / Finland
+555,"Rosblom, Miss Salli Helena",2,Rauma,Finland,Southampton,"Astoria, Oregon, US",,False,ThirdClass,61.1289148,21.5039401,0.0,Suomi / Finland
+556,"Roth, Miss Sarah A.",26,London,England,Southampton,New York City,C,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+557,"Rouse, Mr. Richard Henry",50,"Sittingbourne, Kent",England,Southampton,"Cleveland, Ohio, US",,False,ThirdClass,51.3397366,0.7342319,0.0,United Kingdom
+558,"Rush, Mr. Alfred George John",16,"Strood, Kent",England,Southampton,"Detroit, Michigan, US",,False,ThirdClass,51.0586069,0.6470163,0.0,United Kingdom
+560,"Ryan, Mr. Patrick",29,"Askeaton, Limerick",Ireland,Queenstown,"Bronx, New York, US",,False,ThirdClass,52.599722,-8.975556,0.0,Éire / Ireland
+562,"Saad, Mr. Amin",30,Tebnine,Lebanon,Cherbourg,New York City,,False,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+564,"Sadlier, Mr. Matthew",20,"Mohill, Leitrim",Ireland,Queenstown,"Lakewood Township, New Jersey, US",,False,ThirdClass,53.9210146,-7.862083366571108,0.0,Éire / Ireland
+565,"Sadowitz, Mr. Harry",17,London,England,Southampton,"Providence, Rhode Island, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+566,"Sage, Mr. John George",44,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+567,"Sage, Mrs. Annie Elizabeth (née Cazaly)",44,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+568,"Sage, Miss Stella Anne",20,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+569,"Sage, Mr. George John",19,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+570,"Sage, Mr. Douglas Bullen",18,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+571,"Sage, Mr. Frederick",16,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+572,"Sage, Miss Dorothy Florence ""Dolly""",14,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+573,"Sage, Master Anthony William ""Will""",13,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+574,"Sage, Miss Elizabeth Ada",10,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+575,"Sage, Miss Constance Gladys",7,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+576,"Sage, Master Thomas Henry",4,"Peterborough, Cambridgeshire",England,Southampton,"Jacksonville, Florida, US",,False,ThirdClass,52.5725769,-0.2427336,0.0,United Kingdom
+577,"Salander, Mr. Karl Johan",24,"Genevad, Halland",Sweden,Southampton,"Red Wing, Minnesota, US",,False,ThirdClass,56.5690841,13.0328835,0.0,Sverige
+578,"Salkjelsvik, Miss Anna Kristine",21,"Ålesund, Møre og Romsdal",Norway,Southampton,"Proctor, Minnesota, US",C,True,ThirdClass,62.4728781,6.1492684,0.0,Norge
+579,"Salonen, Mr. Johan Verner",39,"Aberdeen, Washington",US,Southampton,"Aberdeen, Washington, US",,False,ThirdClass,46.975371,-123.815722,0.0,United States
+580,"Sa'maan, Master Butrus",10,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+581,"Sa'maan, Mr. Hanna Ilyas",40,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+582,"Sa'maan, Mr. Ilyas",17,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+583,"Sa'maan, Mr. Youssef Omar ""Joseph""",16,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+584,"Sandström, Mrs. Agnes Charlotta (née Bengtsson)",24,"Motala, Östergötland",Sweden,Southampton,"San Francisco, US",13,True,ThirdClass,58.5420395,15.041261,0.0,Sverige
+585,"Sandström, Miss Marguerite Rut",4,"Motala, Östergötland",Sweden,Southampton,"San Francisco, US",13,True,ThirdClass,58.5420395,15.041261,0.0,Sverige
+586,"Sandström, Miss Beatrice Irene",1,"Motala, Östergötland",Sweden,Southampton,"San Francisco, US",13,True,ThirdClass,58.5420395,15.041261,0.0,Sverige
+587,"Sap, Mr. Julius (Jules)",21,Zwevezele,Belgium,Southampton,"Detroit, Michigan, US",11,True,ThirdClass,51.0361481,3.2106957,0.0,België / Belgique / Belgien
+588,"Saundercock, Mr. William Henry",19,"St Austell, Cornwall",England,Southampton,New York City,,False,ThirdClass,50.338466,-4.7882104,0.0,United Kingdom
+589,"Sawyer, Mr. Frederick Charles",33,"Basingstoke, Hampshire",England,Southampton,"Halley, Michigan, US",,False,ThirdClass,51.262826,-1.0861976,0.0,United Kingdom
+590,"Scanlan, Mr. James",22,"Rathkeale, Limerick",Ireland,Queenstown,New York City,,False,ThirdClass,52.5236119,-8.9377374,0.0,Éire / Ireland
+591,"Scheerlinck, Mr. Jean Baptiste",29,"Haaltert, East Flanders",Belgium,Southampton,"Detroit, Michigan, US",11,True,ThirdClass,50.887393349999996,3.9904300285117014,0.0,België / Belgique / Belgien
+592,"Sdycoff, Mr. Theodor",42,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+593,"Shaughnessy, Mr. Patrick",24,"Tynagh, Galway",Ireland,Queenstown,New York City,,False,ThirdClass,53.1502226,-8.3743502,0.0,Éire / Ireland
+594,"Shawah, Mr. Yousseff Ibrahim",33,Beirut,Lebanon,Cherbourg,New York City,,False,ThirdClass,33.8959203,35.47843,0.0,لبنان
+595,"Shadid, Mr. Dahir Abu",19,Ibrin,Syria or Lebanon,Cherbourg,"Kulpmont, Pennsylvania, US",,False,ThirdClass,11.094722,42.866667,0.0,Djibouti جيبوتي
+596,"Shellard, Mr. Frederick William Blainey",55,"Bristol, Avon",England,Southampton,"Troy, New York, US",,False,ThirdClass,51.4027521,-2.3114386,0.0,United Kingdom
+597,"Shihab, Mr. Amir Faris",25,Hadath,Lebanon,Cherbourg,New York City,,False,ThirdClass,33.8349983,35.5363297,0.0,لبنان
+598,"Shine, Miss Ellen Natalia",20,"Cork, Cork",Ireland,Queenstown,New York City,?,True,ThirdClass,51.898627,-8.4705942,0.0,Éire / Ireland
+599,"Shorney, Mr. Charles Joseph",22,"Heron's Ghyll, East Sussex",England,Southampton,"New York, US",,False,ThirdClass,51.0224339,0.1108387,0.0,United Kingdom
+600,"Simmons, Mr. John",39,"Leigh, Kent",England,Southampton,New York City,,False,ThirdClass,51.1939929,0.2112588,0.0,United Kingdom
+601,"Sirkanian, Mr. Arsun",22,Kiğı,Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,ThirdClass,39.2762597,40.27099417716855,0.0,Türkiye
+602,"Sirota, Mr. Maurice",20,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+603,"Sivić, Mr. Husein",40,Bosanska Krupa,Bosnia,Southampton,"Harrisburg, Pennsylvania, US",,False,ThirdClass,44.8824428,16.1577,0.0,Bosna i Hercegovina / Босна и Херцеговина
+604,"Sivola, Mr. Antti Vilhelmi",21,"Mountain Home, Idaho",US,Southampton,"Mountain Home, Idaho, US",,False,ThirdClass,43.1329504,-115.6911975,0.0,United States
+605,"Sjöblom, Miss Anna Sofiia",18,Munsala,Finland,Southampton,"Olympia, Washington, US",16,True,ThirdClass,63.4529666,22.4347597,0.0,Suomi / Finland
+612,"Slabenoff, Mr. Peko",42,Unknown,Bulgaria,Southampton,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+613,"Slocovski, Mr. Selman Francis",20,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+614,"Smiljanić, Mr. Jakob Mile",37,Pisac,Croatia,Southampton,New York City,,False,ThirdClass,-13.388384599999998,-71.82641963771002,0.0,Perú
+615,"Smyth, Mr. Thomas",26,"Caltra, Galway",Ireland,Queenstown,"Hammond, Indiana, US",,False,ThirdClass,53.4355055,-8.4369796,0.0,Éire / Ireland
+616,"Smyth, Miss Julia",17,"Kilcogy, Cavan",Ireland,Queenstown,New York City,13,True,ThirdClass,53.8280361,-7.424689,0.0,Éire / Ireland
+617,"Søholt, Mr. Peter Andreas Lauritz Andersen",19,"Ålesund, Møre og Romsdal",Norway,Southampton,"Minneapolis, Minnesota, US",,False,ThirdClass,62.4728781,6.1492684,0.0,Norge
+618,"Somerton, Mr. Francis William",30,"Greatfield, Cheltenham",England,Southampton,"Canastota, New York, US",,False,ThirdClass,51.8806916,-2.1076690488904735,0.0,United Kingdom
+619,"Spector, Mr. Woolf",23,London,England,Southampton,New York City,,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+620,"Spinner, Mr. Henry John",32,"Arboretum, Worcestershire",England,Southampton,"Gloversville, New York, US",,False,ThirdClass,52.3377858,-2.2867918,0.0,United Kingdom
+621,"Staneff, Mr. Ivan",23,"Debnevo, Troyan",Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,42.96,24.84513,0.0,Бългaрия
+622,"Stanković, Mr. Ivan",33,Galdovo,Croatia,Cherbourg,New York City,,False,ThirdClass,45.4785933,16.4041011,0.0,Hrvatska
+623,"Stanley, Miss Amy Zillah Elsie",24,"Wallingford, Oxfordshire",England,Southampton,"New Haven, Connecticut, US",C,True,ThirdClass,51.5982316,-1.1252158,0.0,United Kingdom
+624,"Stanley, Mr. Edward Rowland",21,Swanage,England,Southampton,"Cleveland, Ohio, US",,False,ThirdClass,50.6086976,-1.9571971,0.0,United Kingdom
+625,"Storey, Mr. Thomas",51,"Liverpool, Merseyside",England,Southampton,New York City,,False,ThirdClass,53.4013379,-2.9927496,0.0,United Kingdom
+627,"Strandberg, Miss Ida Sofia",22,Turku,Finland,Southampton,New York City,,False,ThirdClass,60.4517531,22.2670522,0.0,Suomi / Finland
+629,"Strilić, Mr. Ivan",27,Široka Kula,Croatia,Southampton,"Chicago, Illinois, US",,False,ThirdClass,44.6154137,15.4559555,0.0,Hrvatska
+630,"Ström, Mrs. Elna Matilda (née Persson)",29,"Indiana Harbor, Indiana",US,Southampton,"Indiana Harbor, Indiana, US",,False,ThirdClass,41.6720844,-87.4395307,0.0,United States
+631,"Ström, Miss Thelma Matilda Wilhelmina",2,"Indiana Harbor, Indiana",US,Southampton,"Indiana Harbor, Indiana, US",,False,ThirdClass,41.6720844,-87.4395307,0.0,United States
+632,"Sunderland, Mr. Victor Francis",20,London,England,Southampton,"Cleveland, Ohio, US",B,True,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+633,"Sundman, Mr. Johan Julian",44,Munsala,Finland,Southampton,"Cheyenne, Wyoming, US",15,True,ThirdClass,63.4529666,22.4347597,0.0,Suomi / Finland
+634,"Sutehall Jr., Mr. Henry",25,London,England,Southampton,"Buffalo, New York, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+636,"Svensson, Mr. Johan Cervin",14,"Knäred, Halland",Sweden,Southampton,"Beresford, South Dakota, US",13,True,ThirdClass,56.5202391,13.3166881,0.0,Sverige
+637,"Svensson, Mr. Olof",24,"Björkeberga, Skåne",Sweden,Southampton,New York City,,False,ThirdClass,56.3522431,13.8884259,0.0,Sverige
+638,"Tenglin, Mr. Gunnar Isidor",25,"Stockholm, Uppland",Sweden,Southampton,"Burlington, Iowa, US",13,True,ThirdClass,59.3247259,18.0699988,0.0,Sverige
+639,"Theobald, Mr. Thomas Leonard",34,"Strood, Kent",England,Southampton,"Detroit, Michigan, US",,False,ThirdClass,51.0586069,0.6470163,0.0,United Kingdom
+640,"Tannous, Mr. Bashir (Charles)",31,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+641,"Tannous, Mrs. Thamini Khoury Fa'ud ""Thelma""",16,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",14,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+642,"Tannous, Master As'ad Iskandar Fa'ud",5 mo.,Hardîne,Lebanon,Cherbourg,"Wilkes Barre, Pennsylvania, US",16,True,ThirdClass,34.2351368,35.857964,0.0,لبنان
+643,"Thomas, Mr. John",34,Unknown,Unknown,Cherbourg,"Columbus, Ohio, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+644,"Thomas, Mr. Tannous John",16,Unknown,Lebanon,Cherbourg,"Columbus, Ohio, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+645,"Thompson, Mr. Alexander Morrison",36,Unknown,Scotland,Southampton,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+646,"Thorneycroft, Mr. Percival Thomas",36,"Maidstone, Kent",England,Southampton,"Clinton, New York, US",,False,ThirdClass,51.2748258,0.5231646,0.0,United Kingdom
+647,"Thorneycroft, Mrs. Florence Kate (née Stears)",32,"Maidstone, Kent",England,Southampton,"Clinton, New York, US",10,True,ThirdClass,51.2748258,0.5231646,0.0,United Kingdom
+648,"Tikkanen, Mr. Juho",32,Pielavesi,Finland,Southampton,New York City,,False,ThirdClass,63.2333327,26.7500075,0.0,Suomi / Finland
+649,"Tobin, Mr. Roger",20,"Cahir, Tipperary",Ireland,Queenstown,New York City,,False,ThirdClass,52.3749129,-7.9251412,0.0,Éire / Ireland
+650,"Todoroff, Mr. Lalio",23,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+651,"Tomlin, Mr. Ernest Portage",22,"Portage la Prairie, Manitoba",Canada,Southampton,"Des Moines, Iowa, US",,False,ThirdClass,49.972422,-98.289185,0.0,Canada
+652,"Törber, Mr. Ernst Wilhelm",44,Unknown,Germany,Southampton,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+653,"Torfa, Mr. Assad",20,Unknown,Syria,Cherbourg,New York City,,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+654,"Törnquist, Mr. William Henry",25,Sundbyberg,Sweden,Southampton,New York City,15,True,ThirdClass,59.3628802,17.9681359,0.0,Sverige
+655,"Touma, Mrs. Hanna Youssef (née Razi)",27,Tibnin,Lebanon,Cherbourg,"Dowagiac, Michigan, US",C,True,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+656,"Touma, Miss Marianna Youssef",9,Tibnin,Lebanon,Cherbourg,"Dowagiac, Michigan, US",C,True,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+657,"Touma, Master Gerios (George) Youssef",8,Tibnin,Lebanon,Cherbourg,"Dowagiac, Michigan, US",C,True,ThirdClass,33.1932575,35.4117998,0.0,لبنان
+658,"Turčin, Mr. Stjepan",36,Bratina,Croatia,Southampton,"Youngstown, Ohio, US",,False,ThirdClass,45.6224057,15.8256055,0.0,Hrvatska
+661,"Van Billiard, Mr. Austin Blyler",35,London,England,Southampton,"North Wales, Pennsylvania, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+662,"Van Billiard, Master James William",10,London,England,Southampton,"North Wales, Pennsylvania, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+663,"Van Billiard, Master Walter John",9,London,England,Southampton,"North Wales, Pennsylvania, US",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+664,"Van de Velde, Mr. Johannes Josef",35,Denderhoutem,Belgium,Southampton,New York City,,False,ThirdClass,50.8717796,4.0180839,0.0,België / Belgique / Belgien
+665,"Van den Steen, Mr. Leo Peter",28,Haaltert,Belgium,Southampton,New York City,,False,ThirdClass,50.887393349999996,3.9904300285117014,0.0,België / Belgique / Belgien
+666,"Van Impe, Mr. Jean-Baptiste",36,Kerksken,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.8894722,3.9935955,0.0,België / Belgique / Belgien
+667,"Van Impe, Mrs. Rosalie Paula (née Govaert)",30,Kerksken,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.8894722,3.9935955,0.0,België / Belgique / Belgien
+668,"Van Impe, Miss Catharina",10,Kerksken,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.8894722,3.9935955,0.0,België / Belgique / Belgien
+669,"Van Melkebeke, Mr. Philemon Edmund",23,"Haaltert, East Flanders",Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.887393349999996,3.9904300285117014,0.0,België / Belgique / Belgien
+670,"Vandercruyssen, Mr. Victor",46,Zwevezele,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,51.0361481,3.2106957,0.0,België / Belgique / Belgien
+671,"Vanderplancke, Mr. Julius",31,Zwevezele,Belgium,Southampton,"Fremont, Ohio, US",,False,ThirdClass,51.0361481,3.2106957,0.0,België / Belgique / Belgien
+672,"Vanderplancke, Mrs. Emelie Maria (née Vandemoortele)",31,Pittem,Belgium,Southampton,"Fremont, Ohio, US",,False,ThirdClass,50.999964750000004,3.262273003445322,0.0,België / Belgique / Belgien
+673,"Vanderplancke, Miss Augusta Maria",18,Zwevezele,Belgium,Southampton,"Fremont, Ohio, US",,False,ThirdClass,51.0361481,3.2106957,0.0,België / Belgique / Belgien
+674,"Vanderplancke, Mr. Leo Edmondus",15,Zwevezele,Belgium,Southampton,"Fremont, Ohio, US",,False,ThirdClass,51.0361481,3.2106957,0.0,België / Belgique / Belgien
+675,"Van de Walle, Mr. Nestor Cyriel",28,Westrozebeke,Belgium,Southampton,New York City,,False,ThirdClass,50.9310188,3.0121528,0.0,België / Belgique / Belgien
+676,"Vartanian, Mr. Dawud",22,Kiğı,Turkey,Cherbourg,"Brantford, Ontario, Canada",13,True,ThirdClass,39.2762597,40.27099417716855,0.0,Türkiye
+677,"Vendel, Mr. Olof Edvin",29,"Östra Sallerup, Skåne",Sweden,Southampton,"St. Paul, Minnesota, US",,False,ThirdClass,55.8006688,13.7297017,0.0,Sverige
+679,"Vovk, Mr. Janko",21,Jesenice,Slovenia,Southampton,"St. Joseph, Minnesota, US",,False,ThirdClass,46.4323791,14.0623337,0.0,Slovenija
+680,"Waelens, Mr. Achille",22,"Ruiselede, West Flanders",Belgium,Southampton,"Stanton, Ohio, US",,False,ThirdClass,51.0630592,3.3787805823544046,0.0,België / Belgique / Belgien
+681,"Ware, Mr. Frederick William",34,"Greenwich, London",England,Southampton,New York City,,False,ThirdClass,51.4820845,-0.0045417,0.0,United Kingdom
+682,"Warren, Mr. Charles William",30,"Portsmouth, Hampshire",England,Southampton,New York City,,False,ThirdClass,43.0702223,-70.7548621,0.0,United States
+684,"Webber, Mr. James",66,San Francisco,US,Southampton,"San Francisco, US",,False,ThirdClass,37.7790262,-122.4199061,0.0,United States
+685,"Wennerström, Mr. August Edvard Andersson",27,"Malmö, Skåne",Sweden,Southampton,"Chicago, Illinois, US",A,True,ThirdClass,55.6052931,13.0001566,0.0,Sverige
+686,"Widegren, Mr. Carl Peter",51,"Algutsrum, Kalmar",Sweden,Southampton,New York City,,False,ThirdClass,56.6794265,16.5297957,0.0,Sverige
+689,"Wilkes, Mrs. Ellen",47,"Penzance, Cornwall",England,Southampton,"Akron, Ohio, US",16,True,ThirdClass,50.1213173,-5.5329266,0.0,United Kingdom
+690,"Willer, Mr. Aaron",37,Unknown,Russia,Cherbourg,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+691,"Willey, Mr. Edward",18,"Market Drayton, Shropshire",England,Southampton,"Schenectady, New York, US",,False,ThirdClass,52.9042417,-2.4838589,0.0,United Kingdom
+692,"Williams, Mr. Howard Hugh ""Harry""",28,"Guernsey, Channel Islands",Channel Islands,Southampton,New York City,,False,ThirdClass,49.4578405,-2.5349672,0.0,Guernsey
+693,"Williams, Mr. Leslie",28,"Tonypandy, Glamorgan",Wales,Southampton,New York City,,False,ThirdClass,51.6076829,-3.4430216,0.0,United Kingdom
+694,"Windeløv, Mr. Einar",21,Cape Town,South Africa,Southampton,New York City,,False,ThirdClass,-33.928992,18.417396,0.0,South Africa
+695,"Wirz, Mr. Albert",27,Uster,Switzerland,Southampton,"Beloit, Wisconsin, US",,False,ThirdClass,47.3512065,8.7179221,0.0,Schweiz/Suisse/Svizzera/Svizra
+696,"Wiseman, Mr. Phillippe",54,London,England,Southampton,"Quebec City, Quebec, Canada",,False,ThirdClass,51.5073219,-0.1276474,0.0,United Kingdom
+697,"Wittevrongel, Mr. Camilius Aloysius",36,Westrozebeke,Belgium,Southampton,"Detroit, Michigan, US",,False,ThirdClass,50.9310188,3.0121528,0.0,België / Belgique / Belgien
+698,"Yasbak, Mr. Antun",27,Unknown,Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+699,"Yasbak, Mrs. Silanah Fa'ud (née Iskandar)",15,Unknown,Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",C,True,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+700,"Ylieff, Mr. Ylio",32,Unknown,Bulgaria,Southampton,"Chicago, Illinois, US",,False,ThirdClass,25.029422,-77.36195598496681,0.0,The Bahamas
+701,"Youssef, Mr. Gerios (Abi Saab)",26,Hardîne,Lebanon,Cherbourg,"Youngstown, Ohio, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+702,"Youssef, Mr. Gerios (Sam'aan)",45,Hardîne,Lebanon,Cherbourg,"Wilkes-Barre, Pennsylvania, US",,False,ThirdClass,34.2351368,35.857964,0.0,لبنان
+703,"Zajib Qiyamah, Miss Adal ""Jane""",15,El Shweir,Lebanon,Cherbourg,"Brooklyn, New York, US",C,True,ThirdClass,33.9104884,35.7119179,0.0,لبنان
+704,"Zakarian, Mr. Haroutyun Der",27,Kiğı,Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,ThirdClass,39.2762597,40.27099417716855,0.0,Türkiye
+705,"Zakarian, Mr. Mapri Der",22,Kiğı,Turkey,Cherbourg,"Brantford, Ontario, Canada",,False,ThirdClass,39.2762597,40.27099417716855,0.0,Türkiye
+706,"Zimmermann, Mr. Leo",29,Todtmoos,Germany,Southampton,"Saskatoon, Saskatchewan, Canada",,False,ThirdClass,47.7387447,8.0013624,0.0,Deutschland

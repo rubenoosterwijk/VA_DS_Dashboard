@@ -1,279 +1,249 @@
-,Name,Age,Hometown,Boarded,Destination,Lifeboat,Survived,latitude,longitude,altitude
-0,"Abelson, Mr. Samuel",30,Russia,Cherbourg,"New York, New York, US",,False,64.6863136,97.7453061,0.0
-1,"Abelson, Mrs. Anna (née Wizosky?)",28,Russia,Cherbourg,"New York, New York, US",10,True,64.6863136,97.7453061,0.0
-2,"Andrew, Mr. Edgar Samuel",17,"San Ambrosio, Córdoba, Argentina",Southampton,"Trenton, New Jersey, US",,False,-31.1363635,-64.3172157,0.0
-3,"Andrew, Mr. Frank Thomas",30,"Redruth, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,50.2331065,-5.2259402,0.0
-4,"Angle, Mr. William A.",32,"Warwick, Warwickshire, England",Southampton,New York City,,False,52.2814519,-1.5815742,0.0
-5,"Angle, Mrs. Florence Agnes ""Mary"" (née Hughes)",36,"Warwick, Warwickshire, England",Southampton,New York City,11,True,52.2814519,-1.5815742,0.0
-6,"Ashby, Mr. John",57,"West Hoboken, New Jersey, US",Southampton,"West Hoboken, New Jersey, US",,False,40.7433066,-74.0323752,0.0
-7,"Bailey, Mr. Percy Andrew",18,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",,False,50.1213173,-5.5329266,0.0
-8,"Bainbrigge, Mr. Charles Robert",23,"Saint Peter Port, Guernsey, Channel Islands",Southampton,New York City,,False,49.4578405,-2.5349672,0.0
-9,"Ball, Mrs. Ada E. (née Hall)",36,"Bristol, Avon, England",Southampton,"Jacksonville, Florida, US",10,True,52.1868871,-1.5995568,0.0
-10,"Banfield, Mr. Frederick James",28,"Plymouth, Devon, England",Southampton,"Houghton, Michigan, US",,False,50.33392715,-4.155682606473795,0.0
-11,"Bateman, Reverend Robert James",51,"Jacksonville, Florida, US",Southampton,"Jacksonville, Florida, US",,False,30.3321838,-81.655651,0.0
-12,"Beane, Mr. Edward",32,New York City,Southampton,New York City,13,True,40.7127281,-74.0060152,0.0
-13,Beane. Mrs. Ethel (née Clarke),19,"Norwich, Norfolk, England",Southampton,New York City,13,True,52.628606,1.29227,0.0
-14,"Beauchamp, Mr. Henry James",28,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-15,"Becker, Mrs. Nellie E. (née Baumgardner)",35,"Guntur, Madras Province, British India",Southampton,"Benton Harbor, Michigan, US",11,True,,,
-16,"Becker, Miss Ruth Elizabeth",12,"Guntur, Madras Province, British India",Southampton,"Benton Harbor, Michigan, US",13,True,,,
-17,"Becker, Miss Marion Louise",4,"Guntur, Madras Province, British India",Southampton,"Benton Harbor, Michigan, US",11,True,,,
-18,"Becker, Master Richard Frederick",1,"Guntur, Madras Province, British India",Southampton,"Benton Harbor, Michigan, US",11,True,,,
-19,"Beesley, Mr. Lawrence",34,"London, England, UK",Southampton,"Toronto, Ontario, Canada",13,True,51.5073219,-0.1276474,0.0
-20,"Bentham, Miss Lillian W.",19,"Rochester, New York, US",Southampton,"Rochester, New York, US",12,True,43.157285,-77.615214,0.0
-21,"Berriman, Mr. William John",23,"St. Ives, Cornwall, England",Southampton,"Calumet, Michigan, US",,False,50.2148928,-5.4795574,0.0
-22,"Botsford, Mr. William Hull",25,"Orange, New Jersey, US",Southampton,"Orange, New Jersey, US",,False,40.77117355,-74.23102475098881,0.0
-23,"Bowenur, Mr. Solomon",42,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-24,"Bracken, Mr. James H.",29,"Lake Arthur, New Mexico, US",Southampton,"Lake Arthur, New Mexico, US",,False,32.9981657,-104.3666291,0.0
-25,"Brailey, Mr. W. Theodore Ronald[63]",24,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-26,"Bricoux, Mr. Roger Marie[63]",20,"Monte Carlo, Monaco",Southampton,New York City,,False,43.7402961,7.426559,0.0
-27,"Brito, Mr. José Joaquim",32,"Madeira, Portugal",Southampton,"São Paulo, Brazil",,False,32.751748750000004,-16.981752048847362,0.0
-28,"Brown, Mr. Thomas William Solomon",60,"Cape Town, South Africa, UK",Southampton,"Seattle, Washington, US",,False,,,
-29,"Brown, Mrs. Elizabeth Catherine (née Ford)",40,"Cape Town, South Africa, UK",Southampton,"Seattle, Washington, US",14,True,,,
-30,"Brown, Miss Edith Eileen",15,"Cape Town, South Africa, UK",Southampton,"Seattle, Washington, US",14,True,,,
-31,"Bryhl, Mr. Kurt Arnold Gottfrid",25,"Skara, Västergötland, Sweden",Southampton,"Rockford, Illinois, US",,False,58.3830787,13.4375428,0.0
-32,"Bryhl, Miss Dagmar Jenny Ingeborg",20,"Skara, Västergötland, Sweden",Southampton,"Rockford, Illinois, US",12,True,58.3830787,13.4375428,0.0
-33,"Buss, Miss Kate",36,"Sittingbourne, Kent, England",Southampton,"San Francisco, US",9,True,51.3397366,0.7342319,0.0
-34,"Butler, Mr. Reginald Fenton",25,"Southsea, Hampshire, England",Southampton,New York City,,False,,,
-35,"Byles, Father Thomas Roussel Davids",42,"London, England",Southampton,"Jacksonville, Florida, US",,False,51.5073219,-0.1276474,0.0
-36,"Byström, Miss Karolina",42,New York City,Southampton,New York City,?,True,40.7127281,-74.0060152,0.0
-37,"Caldwell, Mr. Albert Francis",26,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,True,13.7456236,100.5342199,0.0
-38,"Caldwell, Mrs. Sylvia Mae (née Harbaugh)",28,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,True,13.7456236,100.5342199,0.0
-39,"Caldwell, Master Alden Gates",10 mo.,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,True,13.7456236,100.5342199,0.0
-40,"Cameron, Miss Clear Annie",35,"London, England, UK",Southampton,"Mamaronek, New York, US",14,True,51.5073219,-0.1276474,0.0
-41,"Campbell, Mr. William Henry[63]",21,"Belfast, Ireland",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-42,"Carbines, Mr. William",19,"St. Ives, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,50.2148928,-5.4795574,0.0
-43,"Carter, Father Ernest Courtenay",54,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-44,"Carter, Mrs. Lilian (née Hughes)",45,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-45,"Chapman, Mr. Charles Henry",52,"Bronx, New York, US",Southampton,"Bronx, New York, US",,False,40.8466508,-73.8785937,0.0
-46,"Chapman, Mr. John Henry",36,"Liskeard, Cornwall, England",Southampton,"Spokane, Washington, US",,False,50.4468194,-4.4695293,0.0
-47,"Chapman, Mrs. Sara Elizabeth (née Lawry)",28,"Liskeard, Cornwall, England",Southampton,"Spokane, Washington, US",,False,50.4468194,-4.4695293,0.0
-48,"Christy, Mrs. Alice Frances",45,"London, England, UK",Southampton,"Montreal, Quebec, Canada",12,True,51.5073219,-0.1276474,0.0
-49,"Christy, Miss Rachel Julie Cohen",25,"London, England, UK",Southampton,"Montreal, Quebec, Canada",12,True,51.5073219,-0.1276474,0.0
-50,"Clarke, Mr. Charles Valentine",29,"Netley Abbey, Hampshire, England",Southampton,"San Francisco, California, US",,False,50.878496150000004,-1.3570166676442152,0.0
-51,"Clarke, Mrs. Ada Maria",28,"Netley Abbey, Hampshire, England",Southampton,"San Francisco, California, US",14,True,50.878496150000004,-1.3570166676442152,0.0
-52,"Clarke, Mr. John Frederick Preston[63]",30,"Liverpool, Merseyside, England",Southampton,New York City,,False,,,
-53,"Coleridge, Mr. Reginald Charles",29,"London, England",Southampton,"Detroit, Michigan, US",,False,51.5073219,-0.1276474,0.0
-54,"Collander, Mr. Erik Gustaf",27,"Helsinki, Grand Duchy of Finland",Southampton,"Ashtabula, Ohio, US",,False,,,
-55,"Collett, Mr. Sidney Clarence Stuart",25,"London, England",Southampton,"Port Byron, New York, US",9,True,51.5073219,-0.1276474,0.0
-56,"Collyer, Mr. Harvey",31,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",,False,50.9712758,-1.3273954372222223,0.0
-57,"Collyer, Mrs. Charlotte Annie (née Tate)",31,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",14,True,50.9712758,-1.3273954372222223,0.0
-58,"Collyer, Miss Marjorie Charlotte ""Lottie""",8,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",14,True,50.9712758,-1.3273954372222223,0.0
-59,"Cook, Mrs. Selena (née Rogers)",22,"Oxford, Oxfordshire, England",Southampton,New York City,14,True,51.7520131,-1.2578499,0.0
-60,"Corbett, Mrs. Irene (née Colvin)",30,"Provo, Utah, US",Southampton,"Provo, Utah, US",,False,40.2338438,-111.6585337,0.0
-61,"Corey, Mrs. Mary Phyllis Elizabeth (née Miller)",30,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",,False,40.4416941,-79.9900861,0.0
-62,"Cotterill, Mr. Henry ""Harry""",20,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",,False,50.1213173,-5.5329266,0.0
-63,"Cunningham, Mr. Alfred Fleming[63]",21,"Belfast, Ireland",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-64,"Davies, Mr. Charles Henry",21,"Lyndhurst, Hampshire, England",Southampton,"Eden, Manitoba, Canada",,False,50.8727657,-1.5748436,0.0
-65,"Davies, Mrs. Elizabeth Agnes Mary (née White)",48,"St. Ives, Cornwall, England UK",Southampton,"Houghton, Michigan, US",14,True,50.2148928,-5.4795574,0.0
-66,"Davies, Master John Morgan Jr.",8,"St. Ives, Cornwall, England UK",Southampton,"Houghton, Michigan, US",14,True,50.2148928,-5.4795574,0.0
-67,"Davis, Miss Mary",28,"London, England, UK",Southampton,"Tottenville, New York, US",13,True,51.5073219,-0.1276474,0.0
-68,"Deacon, Mr. Percy William",20,"Fritham, Hampshire, England, UK",Southampton,"Boston, Massachusetts, US",,False,50.9254957,-1.6655501,0.0
-69,"del Carlo, Mr. Sebastiano",29,"Montecarlo, Lucca, Tuscany, Italy",Cherbourg,"Chicago, Illinois, US",,False,43.8511862,10.6676214,0.0
-70,"del Carlo, Mrs. Argene (née Genovesi)[65][77]",24,"Montecarlo, Lucca, Tuscany, Italy",Cherbourg,"Chicago, Illinois, US",11,True,43.8511862,10.6676214,0.0
-71,"Denbuoy, Mr. Albert ""Herbert""",25,"Guernsey, Channel Islands, UK",Southampton,"Elizabeth, New Jersey, US",,False,,,
-72,"Dibden, Mr. William",18,"Lyndhurst, Hampshire, England",Southampton,"Eden, Manitoba, Canada",,False,50.8727657,-1.5748436,0.0
-73,"Doling, Mrs. Ada Julia (née Bone)",34,"Southampton, Hampshire, England, UK",Southampton,New York City,?,True,50.90472085,-1.3587998082396187,0.0
-74,"Doling, Miss Elsie",19,"Southampton, Hampshire, England, UK",Southampton,New York City,?,True,50.90472085,-1.3587998082396187,0.0
-75,"Douton, Mr. William Joseph",55,"Rochester, New York, US",Southampton,"Rochester, New York, US",,False,43.157285,-77.615214,0.0
-76,"Drew, Mr. James Vivian",42,"Greenport, New York, US",Southampton,"Greenport, New York, US",,False,41.1024654,-72.3591221,0.0
-77,"Drew, Mrs. Lulu Thorne (née Christian)",34,"Greenport, New York, US",Southampton,"Greenport, New York, US",10,True,41.1024654,-72.3591221,0.0
-78,"Drew, Master Marshall Brines",8,"Greenport, New York, US",Southampton,"Greenport, New York, US",10,True,41.1024654,-72.3591221,0.0
-79,"Duran y More, Miss Florentina",30,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",12,True,41.3828939,2.1774322,0.0
-80,"Duran y More, Miss Asunción",27,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",12,True,41.3828939,2.1774322,0.0
-81,"Fahlstrøm, Mr. Arne Joma",18,"Oslo, Norway","Bayonne, New Jersey, US",,,False,59.9133301,10.7389701,0.0
-82,"Faunthorpe, Mr. Harry Bartram",40,"Liverpool, Merseyside, England, UK","Philadelphia, Pennsylvania, US",286MB,,False,,,
-83,"Fillbrook, Mr. Joseph Charles",18,"Truro, Cornwall, England, UK","Houghton, Michigan, US",,,False,50.2627515,-5.0520467,0.0
-84,"Fox, Mr. Stanley Hubert",38,"Rochester, New York, US","Rochester, New York, US",236MB,,False,43.157285,-77.615214,0.0
-85,"Frost, Mr. Anthony Wood ""Artie""[63]",37,"Belfast, Northern Ireland, UK",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-86,"Funk, Miss Annie Clemmer",38,"Janjgir-Champa, British India, UK",Southampton,"Bally, Pennsylvania, US",,False,,,
-87,"Fynney, Mr. Joseph J.",35,"Liverpool, Merseyside, England, UK",Southampton,"Montreal, Quebec, Canada",322M,True,,,
-88,"Gale, Mr. Harry",38,"Harrowbarrow, Cornwall, England, UK",Southampton,"Clear Creek, Colorado, US",,False,50.5095754,-4.2623108,0.0
-89,"Gale, Mr. Shadrach",33,"Harrowbarrow, Cornwall, England, UK",Southampton,"Clear Creek, Colorado, US",,False,50.5095754,-4.2623108,0.0
-90,"Garside, Miss Ethel",34,"Liverpool, Merseyside, England",Southampton,"Brooklyn, New York, US",12,True,,,
-91,"Gaskell, Mr. William Alfred",18,"Liverpool, Merseyside, England",Southampton,"Montreal, Quebec, Canada",,False,,,
-92,"Gavey, Mr. Laurence",26,"Guernsey, Channel Islands",Southampton,"Elizabeth, New Jersey, US",,False,49.4578405,-2.5349672,0.0
-93,"Gilbert, Mr. William",47,"Carleens, Cornwall, England",Southampton,"Butte, Montana, US",,False,,,
-94,"Giles, Mr. Edgar",21,"Porthleven, Cornwall, England",Southampton,"Camden, New Jersey, US",,False,50.0849174,-5.3166558,0.0
-95,"Giles, Mr. Frederick Edward",20,"Porthleven, Cornwall, England",Southampton,"Camden, New Jersey, US",,False,50.0849174,-5.3166558,0.0
-96,"Giles, Mr. Ralph",25,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-97,"Gill, Mr. John William",24,"Clevedon, North Somerset, England",Southampton,New York City,,False,51.4360625,-2.8526531,0.0
-98,"Gillespie, Mr. William Henry",34,"Abbeyleix, Laois, Ireland",Southampton,"Vancouver, British Columbia, Canada",,False,52.9144763,-7.3482153,0.0
-99,"Givard, Mr. Hans Kristensen",30,"Kølsen, Vorde Sogn, Denmark",Southampton,"San Francisco, California, US",,False,,,
-100,"Greenberg, Mr. Samuel",52,"Bronx, New York, US",Southampton,"Bronx, New York, US",,False,40.8466508,-73.8785937,0.0
-101,"Hale, Mr. Reginald",30,"Auburn, New York, US",Southampton,"Auburn, New York, US",,False,42.9320202,-76.5672029,0.0
-102,"Hämäläinen, Mrs. Anna (Anna Hamlin)",24,"Detroit, Michigan, US",Southampton,"Detroit, Michigan, US",4,True,42.3315509,-83.0466403,0.0
-103,"Hämäläinen, Master Viljo Unto Johannes (William Hamlin)",1,"Detroit, Michigan, US",Southampton,"Detroit, Michigan, US",4,True,42.3315509,-83.0466403,0.0
-104,"Harbeck, Mr. William H.",44,"Toledo, Ohio, US",Southampton,"Montreal, Quebec, Canada",,False,41.6529143,-83.5378173,0.0
-105,"Harper, The Reverend John",39,"London, England",Southampton,"Chicago, Illinois, US",,False,51.5073219,-0.1276474,0.0
-106,"Harper, Miss Annie Jessie ""Nina""",6,"London, England",Southampton,"Chicago, Illinois, US",11,True,51.5073219,-0.1276474,0.0
-107,"Harris, Mr. George",62,"London, England",Southampton,New York City,15,True,51.5073219,-0.1276474,0.0
-108,"Harris, Mr. Walter",30,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-109,"Hart, Mr. Benjamin",47,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",,False,51.8149948,1.1540333336121313,0.0
-110,"Hart, Mrs. Esther Ada (née Bloomfield)",48,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",14,True,51.8149948,1.1540333336121313,0.0
-111,"Hart, Miss Eva Miriam",7,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",14,True,51.8149948,1.1540333336121313,0.0
-112,"Hartley, Mr. Wallace Henry[63]",33,"Dewsbury, West Yorkshire, England",Southampton,New York City,,False,53.6909103,-1.6302142,0.0
-113,"Herman, Mr. Samuel",49,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",,False,50.9420451,-2.6318629,0.0
-114,"Herman, Mrs. Jane (née Laver)",48,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,True,50.9420451,-2.6318629,0.0
-115,"Herman, Miss Alice",24,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,True,50.9420451,-2.6318629,0.0
-116,"Herman, Miss Kate",24,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,True,50.9420451,-2.6318629,0.0
-117,"Hewlett, Mrs. Mary Dunbar (née Kingcome)",56,"Lucknow, British India, UK",Southampton,"Rapid City, South Dakota, US",13,True,,,
-118,"Hickman, Mr. Lewis",30,"Fritham, Hampshire, England",Southampton,"The Pas, Manitoba, Canada",,False,50.9254957,-1.6655501,0.0
-119,"Hickman, Mr. Leonard Mark",24,"Fritham, Hampshire, England",Southampton,"Eden, Manitoba, Canada",,False,50.9254957,-1.6655501,0.0
-120,"Hickman, Mr. Stanley George",20,"Fritham, Hampshire, England",Southampton,"The Pas, Manitoba, Canada",,False,50.9254957,-1.6655501,0.0
-121,"Hiltunen, Miss Martta",18,"Joensuu, Grand Duchy of Finland",Southampton,"Detroit, Michigan, US",,False,,,
-122,"Hocking, Mrs. Elizabeth ""Eliza"" (née Neads)",54,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,50.1213173,-5.5329266,0.0
-123,"Hocking, Mr. Richard George",23,"Akron, Ohio, US",Southampton,"Akron, Ohio, US",,False,41.083064,-81.518485,0.0
-124,"Hocking, Miss Ellen ""Nellie""",20,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,50.1213173,-5.5329266,0.0
-125,"Hocking, Mr. Samuel James Metcalfe",36,"Devonport, Devon, England",Southampton,"Middletown, Connecticut, US",,False,50.4964389,-4.0447413,0.0
-126,"Hodges, Mr. Henry Price",50,"Southampton, Hampshire, England",Southampton,"Boston, Massachusetts, US",,False,50.90472085,-1.3587998082396187,0.0
-127,"Hold, Mr. Stephen",44,"Porthoustock, Cornwall, England",Southampton,"Sacramento, California, US",,False,50.0562982,-5.0661298,0.0
-128,"Hold, Mrs. Annie Margaret (née Hill)",29,"Porthoustock, Cornwall, England",Southampton,"Sacramento, California, US",10,True,50.0562982,-5.0661298,0.0
-129,"Hood, Mr. Ambrose Jr.",21,"Fritham, Hampshire, England",Southampton,"Manitoba, Canada",,False,50.9254957,-1.6655501,0.0
-130,"Hosono, Mr. Masabumi",41,"Tokyo, Japan",Southampton,"Tokyo, Japan",10,True,35.6828387,139.7594549,0.0
-131,"Howard, Mr. Benjamin",63,"Swindon, Wiltshire, England",Southampton,"Idaho, US",,False,51.5443427,-1.8615057,0.0
-132,"Howard, Mrs. Ellen Truelove (née Arman)",60,"Swindon, Wiltshire, England",Southampton,"Idaho, US",,False,51.5443427,-1.8615057,0.0
-133,"Hume, Mr. John Law ""Jock""[63]",21,"Dumfries, Scotland",Southampton,New York City,,False,55.069836,-3.6092292,0.0
-134,"Hunt, Mr. George Henry",33,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-135,"Ilett, Miss Bertha",17,"Jersey, Channel Islands",Southampton,"Atlanta, Georgia, US",?,True,49.1852165,-2.109048,0.0
-136,"Jacobsohn, Mr. Sidney Samuel",40,"London, England",Southampton,"Montreal, Quebec, Canada",,False,51.5073219,-0.1276474,0.0
-137,"Jacobsohn, Mrs. Amy Frances Christy (née Cohen)",24,"London, England",Southampton,"Montreal, Quebec, Canada",12,True,51.5073219,-0.1276474,0.0
-138,"Jarvis, Mr. Denzil John",47,"Stoneygate, Leicestershire, England",Southampton,New York City,,False,52.54215465,-1.2738783286394217,0.0
-139,"Jefferys, Mr. Clifford Thomas",24,"Guernsey, Channel Islands",Southampton,"Elizabeth, New Jersey, US",,False,49.4578405,-2.5349672,0.0
-140,"Jefferys, Mr. Ernest Wilifred",22,"Guernsey, Channel Islands",Southampton,"Elizabeth, New Jersey, US",,False,49.4578405,-2.5349672,0.0
-141,"Jenkin, Mr. Stephen Curnow",32,"St. Ives, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,50.2148928,-5.4795574,0.0
-142,"Jerwan, Mrs. Marie Marthe (née Thuillard)",23,New York City,Southampton,New York City,11,True,40.7127281,-74.0060152,0.0
-143,"Kantor, Mr. Sinai",34,"Vitebsk, Russian Empire",Southampton,"Bronx, New York, US",,False,,,
-144,"Kantor, Mrs. Miriam (née Sternin)",24,"Vitebsk, Russian Empire",Southampton,"Bronx, New York, US",12,True,,,
-145,"Karnes, Mrs. Claire (née Bennett)",28,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",,False,40.4416941,-79.9900861,0.0
-146,"Keane, Mr. Daniel",35,"Limerick, Ireland",Queenstown,"St Louis, Missouri, US",,False,52.661252,-8.6301239,0.0
-147,"Keane, Miss Nora Agnes",46,"Castleconnell, Limerick, Ireland",Queenstown,"Harrisburg, Pennsylvania, US",10,True,52.714126199999995,-8.486851985787938,0.0
-148,"Kelly, Miss Florence ""Fannie""",45,"London, England",Southampton,New York City,9,True,51.5073219,-0.1276474,0.0
-149,"Kirkland, Reverend Charles Leonard",52,"Glasgow, Scotland",Queenstown,"Tuxford, Saskatchewan, Canada",,False,55.8609825,-4.2488787,0.0
-150,"Knight, Mr. Robert J.[63]",39,"Belfast, Ireland",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-151,"Krins, Mr. Georges Alexandré[63]",23,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-152,"Kvillner, Mr. Johan Henrik Johannesson",31,"Trollhättan, Västergötland, Sweden",Southampton,"Arlington, Virginia, US",,False,,,
-153,"Lahtinen, Reverend William",35,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",,False,44.9772995,-93.2654692,0.0
-154,"Lahtinen, Mrs. Anna Amelia (née Sylfvén)",26,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",,False,44.9772995,-93.2654692,0.0
-155,"Lamb, Mr. John Joseph",30,"Glencree, Ireland",Queenstown,"Providence, Rhode Island, US",,False,53.1996982,-6.2937745,0.0
-156,"Laroche, Mr. Joseph Philippe Lemercier",25,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",,False,48.8566969,2.3514616,0.0
-157,"Laroche, Mrs. Juliette Marie Louise (née Lafargue)[65][78]",22,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,True,48.8566969,2.3514616,0.0
-158,"Laroche, Miss Simoné Marie Anne Andrée",3,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,True,48.8566969,2.3514616,0.0
-159,"Laroche, Miss Louise Marguerite",1,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,True,48.8566969,2.3514616,0.0
-160,"Lehmann, Miss Bertha",17,"Lotzwil, Switzerland",Cherbourg,"Central City, Iowa, US",12,True,47.1903503,7.7896055,0.0
-161,"Leitch, Miss Jessie Wills",31,"London, England",Southampton,"Chicago, Illinois, US",11,True,51.5073219,-0.1276474,0.0
-162,"Lemore, Mrs. Amelia ""Milley"" (née Hunt)",34,"Chicago, Illinois, US",Southampton,"Chicago, Illinois, US",14,True,41.8755616,-87.6244212,0.0
-163,"Levy, Mr. René Jacques",36,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-164,"Leyson, Mr. Robert William Norman",25,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-165,"Lingane, Mr. John",61,"Chelsea, Michigan, US",Southampton,"Chelsea, Michigan, US",,False,42.3180163,-84.020224,0.0
-166,"Louch, Mr. Charles Alexander",50,"Weston-super-Mare, North Somerset, England",Southampton,New York City,,False,51.3471927,-2.9778916,0.0
-167,"Louch, Mrs. Alice Adelaide (née Slow)",42,"Weston-super-Mare, North Somerset, England",Southampton,New York City,14,True,51.3471927,-2.9778916,0.0
-168,"Mack, Mrs. Mary (née Lacy)",57,"Southampton, Hampshire, England",Southampton,New York City,,False,50.90472085,-1.3587998082396187,0.0
-169,"Malachard, Mr. Jean-Noël",25,"Paris, France",Cherbourg,New York City,,False,48.8566969,2.3514616,0.0
-170,"Mallet, Mr. Albert",31,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-171,"Mallet, Mrs. Antoinette Marie (née Magnin)",24,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",10,True,45.4972159,-73.6103642,0.0
-172,"Mallet, Master André Clément",1,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",10,True,45.4972159,-73.6103642,0.0
-173,"Mangiavacchi, Mr. Serafino Emilio",30,"Paris, France",Cherbourg,New York City,,False,48.8566969,2.3514616,0.0
-174,"Matthews, Mr. William John",30,"St Austell, Cornwall, England",Southampton,"La Salle, Illinois, US",,False,50.338466,-4.7882104,0.0
-175,"Maybery, Mr. Frank Hubert",36,"Weston-super-Mare, North Somerset, England",Southampton,"Moose Jaw, Saskatchewan, Canada",,False,51.3471927,-2.9778916,0.0
-176,"McCrae, Mr. Arthur Gordon",32,"Sydney, New South Wales, Australia",Southampton,Canada,,False,-33.8548157,151.2164539,0.0
-177,"McCrie, Mr. James Matthew",32,"Sarnia, Ontario, Canada",Southampton,"Sarnia, Ontario, Canada",,False,42.9746137,-82.4065585,0.0
-178,"McKane, Mr. Peter David",46,"Guernsey, Channel Islands",Southampton,"Rochester, New York, US",,False,49.4578405,-2.5349672,0.0
-179,"Mellinger, Mrs. Elizabeth Anne (née Maidment)",41,"Wimbledon, London, England",Southampton,"Bennington, Vermont, US",14,True,51.4214787,-0.2064027,0.0
-180,"Mellinger, Miss Madeleine Violet",13,"Wimbledon, London, England",Southampton,"Bennington, Vermont, US",14,True,51.4214787,-0.2064027,0.0
-181,"Mellors, Mr. William John",19,"Chelsea, London, England",Southampton,"Long Island, New York, US",B,True,51.4875167,-0.1687007,0.0
-182,"Meyer, Mr. August",31,"Harrow, London, England",Southampton,New York City,,False,51.596827149999996,-0.33731605402671094,0.0
-183,"Milling, Mr. Jacob Christian",48,"Odense, Denmark",Southampton,"Oregon, Wisconsin, US",,False,55.3997225,10.3852104,0.0
-184,"Mitchell, Mr. Henry Michael",71,"Guernsey, Channel Islands",Southampton,"Toledo, Ohio, US",,False,49.4578405,-2.5349672,0.0
-185,"Montvila, Father Juozas",27,"Gudinė, Lithuania",Southampton,"Worcester, Massachusetts, US",,False,54.5596312,23.476043,0.0
-186,"Moraweck, Dr. Ernest",54,"Frankfort, Kentucky, US",Southampton,"Frankfort, Kentucky, US",,False,38.2009055,-84.8732836,0.0
-187,"Morley, Mr. Henry Samuel (alias Mr. Henry Marshall)",38,"Birmingham, Worcester, England",Southampton,"Los Angeles, US",,False,52.1830396,-2.220642,0.0
-188,"Mudd, Mr. Thomas Charles",16,"Huntingfield, Suffolk, England",Southampton,New York City,,False,52.3168312,1.4273852,0.0
-189,"Myles, Mr. Thomas Francis",63,"Fermoy, Ireland",Queenstown,"Waban, Massachusetts, US",,False,52.1381665,-8.275223,0.0
-190,"Nassr Allah, Mr. Niqula Khalil",28,"Zahlé, Lebanon, Ottoman Empire",Cherbourg,"Cleveland, Ohio, US",,False,,,
-191,"Nassr Allah, Mrs. Adal (née Akim)[65][80]",14,"Zahlé, Lebanon, Ottoman Empire",Cherbourg,"Cleveland, Ohio, US",?,True,,,
-192,"Navratil, Mr. Michel (alias Louis M. Hoffman)",32,"Nice, France",Southampton,New York City,,False,43.7009358,7.2683912,0.0
-193,"Navratil, Master Michel Marcel",3,"Nice, France",Southampton,New York City,D,True,43.7009358,7.2683912,0.0
-194,"Navratil, Master Edmond Roger",2,"Nice, France",Southampton,New York City,D,True,43.7009358,7.2683912,0.0
-195,"Nesson, Mr. Israel",26,"London, England",Southampton,"Boston, Massachusetts, US",,False,51.5073219,-0.1276474,0.0
-196,"Nicholls, Mr. Joseph Charles ""Joe""",19,"St. Ives, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,50.2148928,-5.4795574,0.0
-197,"Norman, Mr. Robert Douglas",28,"Glasgow, Scotland",Southampton,"Houghton, Michigan, US",,False,55.8609825,-4.2488787,0.0
-198,"Nye, Mrs. Elizabeth (née Ramell)",29,"East Orange, New Jersey, US",Southampton,"East Orange, New Jersey, US",11,True,40.767323,-74.2048677,0.0
-199,"Otter, Mr. Richard",39,"Middleburg Heights, Ohio, US",Southampton,"Middleburg Heights, Ohio, US",,False,41.3614401,-81.812912,0.0
-200,"Oxenham, Mr. Percy Thomas",22,"London, England",Southampton,"North Bergen, New Jersey, US",13,True,51.5073219,-0.1276474,0.0
-201,"Padron Manent, Mr. Julian",26,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",9,True,41.3828939,2.1774322,0.0
-202,"Pain, Dr. Alfred ""Alf""",23,"Hamilton, Ontario, Canada",Southampton,"Hamilton, Ontario, Canada",,False,43.2560802,-79.8728583,0.0
-203,"Pallas y Castello, Mr. Emilio",29,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",9,True,41.3828939,2.1774322,0.0
-204,"Parker, Mr. Clifford Richard",28,"Guernsey, Channel Islands",Southampton,New York City,,False,49.4578405,-2.5349672,0.0
-205,"Parkes, Mr. Francis ""Frank""[63]",18,"Belfast, Ireland",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-206,"Parrish, Mrs. Lutie Davis (née Temple)",60,"Woodford County, Kentucky, US",Southampton,"Woodford County, Kentucky, US",12,True,38.0686424,-84.7404532,0.0
-207,"Pengelly, Mr. Frederick William",19,"Gunnislake, Cornwall, England",Southampton,"Butte, Montana, US",,False,50.5238826,-4.2161922,0.0
-208,"Peruschitz, Father Josef",28,"Scheyern, Bavaria, German Empire",Southampton,"St. Cloud, Minnesota, US",,False,,,
-209,"Phillips, Mr. Escott Robert",42,"Ilfracombe, Devon, England",Southampton,"New Brighton, Pennsylvania, US",,False,51.2076674,-4.1254662,0.0
-210,"Phillips, Miss Alice Frances Louisa",21,"Ilfracombe, Devon, England",Southampton,"New Brighton, Pennsylvania, US",12,True,51.2076674,-4.1254662,0.0
-211,"Phillips, Miss Kate Florence (alias Mrs. Kate Marshall)[10][81]",19,"Birmingham, Worcester, England",Southampton,"Los Angeles, US",11,True,52.1830396,-2.220642,0.0
-212,"Pinsky, Mrs. Rosa",21,"Brooklyn, New York, US",Southampton,"Brooklyn, New York, US",9,True,40.6501038,-73.9495823,0.0
-213,"Ponesell, Mr. Martin",34,"Southampton, Hampshire, England",Southampton,New York City,,False,50.90472085,-1.3587998082396187,0.0
-214,"Portaluppi, Mr. Emilio Ilario Giuseppe",34,"Milford, New Hampshire, US",Southampton,"Milford, New Hampshire, US",14,True,42.8355775,-71.6495345,0.0
-215,"Pulbaum, Mr. Franz",27,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-216,"Quick, Mrs. Jane (née Richards)",33,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,True,50.33392715,-4.155682606473795,0.0
-217,"Quick, Miss Winnifred Vera",8,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,True,50.33392715,-4.155682606473795,0.0
-218,"Quick, Miss Phyllis May",2,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,True,50.33392715,-4.155682606473795,0.0
-219,"Reeves, Mr. David",36,"Slinfold, West Sussex, England",Southampton,New York City,,False,51.0719165,-0.4062535,0.0
-220,"Renouf, Mr. Peter Henry",33,"Elizabeth, New Jersey, US",Southampton,"Elizabeth, New Jersey, US",,False,40.6639916,-74.2107006,0.0
-221,"Renouf, Mrs. Lillian ""Lily"" (née Jefferys)",30,"Elizabeth, New Jersey, US",Southampton,"Elizabeth, New Jersey, US",12,True,40.6639916,-74.2107006,0.0
-222,"Reynaldo, Miss Encarnación",28,"Marbella, Spain",Southampton,New York City,9,True,36.508976,-4.88562,0.0
-223,"Richard, Mr. Emile Philippe",23,"Paris, France",Cherbourg,"Montreal, Quebec, Canada",,False,48.8566969,2.3514616,0.0
-224,"Richards, Mrs. Emily (née Hocking)",23,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,50.1213173,-5.5329266,0.0
-225,"Richards, Master William Rowe",3,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,50.1213173,-5.5329266,0.0
-226,"Richards, Master Sibley George",9 mo.,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,50.1213173,-5.5329266,0.0
-227,"Ridsdale, Miss Lucy",50,"London, England",Southampton,"Marietta, Ohio, US",13,True,51.5073219,-0.1276474,0.0
-228,"Rogers, Mr. Reginald Harry",18,"Tavistock, Devon, England",Southampton,"Wilkes Barre, Pennsylvania, US",,False,50.5496154,-4.1446358,0.0
-229,"Rugg, Miss Emily",21,"Guernsey, Channel Islands",Southampton,"Wilmington, Delaware, US",12,True,49.4578405,-2.5349672,0.0
-230,"Schmidt, Mr. August",26,"Newark, New Jersey, US",Southampton,"Newark, New Jersey, US",,False,40.735657,-74.1723667,0.0
-231,"Sedgwick, Mr. Charles Frederick Waddington",25,"Liverpool, Merseyside, England",Southampton,"Minatitlán, Veracruz, Mexico",,False,,,
-232,"Sharp, Mr. Percival James",27,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-233,"Shelley, Mrs. Imanita (née Parrish Hall)",25,"Deer Lodge, Montana, US",Southampton,"Deer Lodge, Montana, US",12,True,46.395761,-112.730038,0.0
-234,"Silvén, Miss Lyyli Karolina",17,"Tornio, Grand Duchy of Finland",Southampton,"Minneapolis, Minnesota, US",16,True,,,
-235,"Sincock, Miss Maude",20,"St. Ives, Cornwall, England",Southampton,"Hancock, Michigan, US",11,True,50.2148928,-5.4795574,0.0
-236,"Sinkkonen, Miss Anna",30,"Turku, Grand Duchy of Finland",Southampton,"Brighton, Boston, Massachusetts, US",10,True,,,
-237,"Sjöstedt, Mr. Ernst Adolf",30,"Hjo, Västergötland, Sweden",Southampton,"Sault Ste Marie, Michigan, US",10,True,,,
-238,"Slayter, Miss Hilda Mary",30,"Halifax, Nova Scotia, Canada",Queenstown,"Vancouver, British Columbia, Canada",13,True,44.648618,-63.5859487,0.0
-239,"Slemen, Mr. Richard James",35,"Landrake, Cornwall, England",Southampton,"Nashua, New Hampshire, US",,False,50.4218667,-4.2893435,0.0
-240,"Smith, Miss Marion Elsie",39,"Basingstoke, Hampshire, England",Southampton,"Washington, DC US",9,True,51.262826,-1.0861976,0.0
-241,"Sobey, Mr. Samuel James Hayden",25,"Porthallow, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,50.0678647,-5.0796265,0.0
-242,"Stanton, Mr. Samuel Ward",42,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-243,"Stokes, Mr. Philip Joseph",25,"London, England",Southampton,"Detroit, Michigan, US",,False,51.5073219,-0.1276474,0.0
-244,"Sweet, Mr. George Frederick",14,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",,False,50.9420451,-2.6318629,0.0
-245,"Taylor, Mr. Percy Cornelius[63]",32,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-246,"Toomey, Miss Ellen Mary",48,"Indianapolis, Indiana, US",Southampton,"Indianapolis, Indiana, US",9,True,39.7683331,-86.1583502,0.0
-247,"Troupiansky, Mr. Moses Aaron",23,"London, England",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-248,"Trout, Mrs. Jessie L.",26,"Columbus, Ohio, US",Southampton,"Columbus, Ohio, US",9,True,39.9622601,-83.0007065,0.0
-249,"Troutt, Miss Edwina Celia ""Winnie""",27,"Bath, Somerset, England",Southampton,"Auburndale, Florida, US",16,True,51.3813864,-2.3596963,0.0
-250,"Turpin, Mr. William John Robert",29,"Plymouth, Devon, England",Southampton,"Salt Lake City, Utah, US",,False,50.33392715,-4.155682606473795,0.0
-251,"Turpin, Mrs. Dorothy Ann (née Wonnacott)",27,"Plymouth, Devon, England",Southampton,"Salt Lake City, Utah, US",,False,50.33392715,-4.155682606473795,0.0
-252,"Veal, Mr. James",40,"Barre, Vermont, US",Southampton,"Barre, Vermont, US",,False,44.197467,-72.502213,0.0
-253,"Wallcroft, Miss Ellen ""Nellie""",36,"Maidenhead, Berkshire, England",Southampton,"Mamaroneck, New York, US",14,True,51.40801045,-1.2830416451909068,0.0
-254,"Ware, Mr. John James",45,"Bristol, Avon, England",Southampton,"New Britain, Connecticut, US",,False,52.1868871,-1.5995568,0.0
-255,"Ware, Mrs. Florence Louise (née Long)",31,"Bristol, Avon, England",Southampton,"New Britain, Connecticut, US",10,True,52.1868871,-1.5995568,0.0
-256,"Ware, Mr. William Jeffery",23,"Gunnislake, Cornwall, England",Southampton,"Butte, Montana, US",,False,50.5238826,-4.2161922,0.0
-257,"Watson, Mr. Ennis Hastings[63]",15,"Belfast, Northern Ireland, UK",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-258,"Watt, Mrs. Elizabeth Inglis ""Bessie"" (née Milne)",40,"Aberdeen, Aberdeenshire, Scotland",Southampton,"Portland, Oregon, US",9,True,57.3104596,-2.2672868,0.0
-259,"Watt, Miss Robertha Josephine ""Bertha""",12,"Aberdeen, Aberdeenshire, Scotland",Southampton,"Portland, Oregon, US",9,True,57.3104596,-2.2672868,0.0
-260,"Webber, Miss Susan",37,"Bude, Cornwall, England",Southampton,"Hartford, Connecticut, US",12,True,50.8285252,-4.5469361,0.0
-261,"Weisz, Mr. Leopold",28,"Bromsgrove, Worcestershire, England",Southampton,"Montreal, Quebec, Canada",,False,52.3390519,-2.0532017992446177,0.0
-262,"Weisz, Mrs. Mathilde Françoise (née Pëde)",37,"Bromsgrove, Worcestershire, England",Southampton,"Montreal, Quebec, Canada",10,True,52.3390519,-2.0532017992446177,0.0
-263,"Wells, Mrs. Addie Dart (née Trevaskis)",29,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,True,50.1268259,-5.5518726,0.0
-264,"Wells, Miss Joan",4,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,True,50.1268259,-5.5518726,0.0
-265,"Wells, Master Ralph Lester",2,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,True,50.1268259,-5.5518726,0.0
-266,"West, Mr. Edwy Arthur",36,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",,False,50.8497999,-2.1606832,0.0
-267,"West, Mrs. Ada Mary (née Worth)[65][82]",33,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,True,50.8497999,-2.1606832,0.0
-268,"West, Miss Constance Mirium",4,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,True,50.8497999,-2.1606832,0.0
-269,"West, Miss Barbara Joyce",10 mo.,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,True,50.8497999,-2.1606832,0.0
-270,"Wheadon, Mr. Edward H.",66,"Guernsey, Channel Islands",Southampton,"Edgewood, Rhode Island, US",,False,49.4578405,-2.5349672,0.0
-271,"Wheeler, Mr. Edwin Charles ""Fred""",24,"Bath, Somerset, England",Southampton,"Asheville, North Carolina, US",,False,51.3813864,-2.3596963,0.0
-272,"Whilems, Mr. Charles",32,"London, England",Southampton,New York City,9,True,51.5073219,-0.1276474,0.0
-273,"Wilkinson, Miss Elizabeth Anne (alias Mrs. Elizabeth Faunthorpe)",29,"Manchester, England",Southampton,"Philadelphia, Pennsylvania, US",16,True,53.4794892,-2.2451148,0.0
-274,"Williams, Mr. Charles Eugene",23,"Harrow, London, England",Southampton,"Chicago, Illinois, US",14,True,51.596827149999996,-0.33731605402671094,0.0
-275,"Woodward, Mr. John Wesley[63]",32,"Oxford, Oxfordshire, England",Southampton,New York City,,False,51.7520131,-1.2578499,0.0
-276,"Wright, Miss Marion",26,"Yeovil, Somerset, England",Southampton,"Cottage Grove, Oregon, US",9,True,50.9420451,-2.6318629,0.0
-277,"Yvois, Miss Henriette",24,"Paris, France",Southampton,"Montreal, Quebec, Canada",,False,48.8566969,2.3514616,0.0
+,Name,Age,Hometown,Boarded,Destination,Lifeboat,Survived,Position,latitude,longitude,altitude,country
+0,"Abelson, Mr. Samuel",30,Russia,Cherbourg,"New York, New York, US",,False,SecondClass,64.6863136,97.7453061,0.0,Россия
+1,"Abelson, Mrs. Anna (née Wizosky?)",28,Russia,Cherbourg,"New York, New York, US",10,True,SecondClass,64.6863136,97.7453061,0.0,Россия
+2,"Andrew, Mr. Edgar Samuel",17,"San Ambrosio, Córdoba, Argentina",Southampton,"Trenton, New Jersey, US",,False,SecondClass,-31.1363635,-64.3172157,0.0,Argentina
+3,"Andrew, Mr. Frank Thomas",30,"Redruth, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,SecondClass,50.2331065,-5.2259402,0.0,United Kingdom
+4,"Angle, Mr. William A.",32,"Warwick, Warwickshire, England",Southampton,New York City,,False,SecondClass,52.2814519,-1.5815742,0.0,United Kingdom
+5,"Angle, Mrs. Florence Agnes ""Mary"" (née Hughes)",36,"Warwick, Warwickshire, England",Southampton,New York City,11,True,SecondClass,52.2814519,-1.5815742,0.0,United Kingdom
+6,"Ashby, Mr. John",57,"West Hoboken, New Jersey, US",Southampton,"West Hoboken, New Jersey, US",,False,SecondClass,40.7433066,-74.0323752,0.0,United States
+7,"Bailey, Mr. Percy Andrew",18,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",,False,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+8,"Bainbrigge, Mr. Charles Robert",23,"Saint Peter Port, Guernsey, Channel Islands",Southampton,New York City,,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+9,"Ball, Mrs. Ada E. (née Hall)",36,"Bristol, Avon, England",Southampton,"Jacksonville, Florida, US",10,True,SecondClass,52.1868871,-1.5995568,0.0,United Kingdom
+10,"Banfield, Mr. Frederick James",28,"Plymouth, Devon, England",Southampton,"Houghton, Michigan, US",,False,SecondClass,50.33392715,-4.155682606473795,0.0,United Kingdom
+11,"Bateman, Reverend Robert James",51,"Jacksonville, Florida, US",Southampton,"Jacksonville, Florida, US",,False,SecondClass,30.3321838,-81.655651,0.0,United States
+12,"Beane, Mr. Edward",32,New York City,Southampton,New York City,13,True,SecondClass,40.7127281,-74.0060152,0.0,United States
+13,Beane. Mrs. Ethel (née Clarke),19,"Norwich, Norfolk, England",Southampton,New York City,13,True,SecondClass,52.628606,1.29227,0.0,United Kingdom
+14,"Beauchamp, Mr. Henry James",28,"London, England, UK",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+19,"Beesley, Mr. Lawrence",34,"London, England, UK",Southampton,"Toronto, Ontario, Canada",13,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+20,"Bentham, Miss Lillian W.",19,"Rochester, New York, US",Southampton,"Rochester, New York, US",12,True,SecondClass,43.157285,-77.615214,0.0,United States
+21,"Berriman, Mr. William John",23,"St. Ives, Cornwall, England",Southampton,"Calumet, Michigan, US",,False,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+22,"Botsford, Mr. William Hull",25,"Orange, New Jersey, US",Southampton,"Orange, New Jersey, US",,False,SecondClass,40.77117355,-74.23102475098881,0.0,United States
+23,"Bowenur, Mr. Solomon",42,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+24,"Bracken, Mr. James H.",29,"Lake Arthur, New Mexico, US",Southampton,"Lake Arthur, New Mexico, US",,False,SecondClass,32.9981657,-104.3666291,0.0,United States
+25,"Brailey, Mr. W. Theodore Ronald[63]",24,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+26,"Bricoux, Mr. Roger Marie[63]",20,"Monte Carlo, Monaco",Southampton,New York City,,False,SecondClass,43.7402961,7.426559,0.0,Monaco
+27,"Brito, Mr. José Joaquim",32,"Madeira, Portugal",Southampton,"São Paulo, Brazil",,False,SecondClass,32.751748750000004,-16.981752048847362,0.0,Portugal
+31,"Bryhl, Mr. Kurt Arnold Gottfrid",25,"Skara, Västergötland, Sweden",Southampton,"Rockford, Illinois, US",,False,SecondClass,58.3830787,13.4375428,0.0,Sverige
+32,"Bryhl, Miss Dagmar Jenny Ingeborg",20,"Skara, Västergötland, Sweden",Southampton,"Rockford, Illinois, US",12,True,SecondClass,58.3830787,13.4375428,0.0,Sverige
+33,"Buss, Miss Kate",36,"Sittingbourne, Kent, England",Southampton,"San Francisco, US",9,True,SecondClass,51.3397366,0.7342319,0.0,United Kingdom
+35,"Byles, Father Thomas Roussel Davids",42,"London, England",Southampton,"Jacksonville, Florida, US",,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+36,"Byström, Miss Karolina",42,New York City,Southampton,New York City,?,True,SecondClass,40.7127281,-74.0060152,0.0,United States
+37,"Caldwell, Mr. Albert Francis",26,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,True,SecondClass,13.7456236,100.5342199,0.0,ประเทศไทย
+38,"Caldwell, Mrs. Sylvia Mae (née Harbaugh)",28,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,True,SecondClass,13.7456236,100.5342199,0.0,ประเทศไทย
+39,"Caldwell, Master Alden Gates",10 mo.,"Bangkok, Siam",Southampton,"Roseville, Illinois, US",13,True,SecondClass,13.7456236,100.5342199,0.0,ประเทศไทย
+40,"Cameron, Miss Clear Annie",35,"London, England, UK",Southampton,"Mamaronek, New York, US",14,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+41,"Campbell, Mr. William Henry[63]",21,"Belfast, Ireland",Belfast,New York City,,False,SecondClass,54.5964411,-5.9302761,0.0,United Kingdom
+42,"Carbines, Mr. William",19,"St. Ives, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+43,"Carter, Father Ernest Courtenay",54,"London, England, UK",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+44,"Carter, Mrs. Lilian (née Hughes)",45,"London, England, UK",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+45,"Chapman, Mr. Charles Henry",52,"Bronx, New York, US",Southampton,"Bronx, New York, US",,False,SecondClass,40.8466508,-73.8785937,0.0,United States
+46,"Chapman, Mr. John Henry",36,"Liskeard, Cornwall, England",Southampton,"Spokane, Washington, US",,False,SecondClass,50.4468194,-4.4695293,0.0,United Kingdom
+47,"Chapman, Mrs. Sara Elizabeth (née Lawry)",28,"Liskeard, Cornwall, England",Southampton,"Spokane, Washington, US",,False,SecondClass,50.4468194,-4.4695293,0.0,United Kingdom
+48,"Christy, Mrs. Alice Frances",45,"London, England, UK",Southampton,"Montreal, Quebec, Canada",12,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+49,"Christy, Miss Rachel Julie Cohen",25,"London, England, UK",Southampton,"Montreal, Quebec, Canada",12,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+50,"Clarke, Mr. Charles Valentine",29,"Netley Abbey, Hampshire, England",Southampton,"San Francisco, California, US",,False,SecondClass,50.878496150000004,-1.3570166676442152,0.0,United Kingdom
+51,"Clarke, Mrs. Ada Maria",28,"Netley Abbey, Hampshire, England",Southampton,"San Francisco, California, US",14,True,SecondClass,50.878496150000004,-1.3570166676442152,0.0,United Kingdom
+53,"Coleridge, Mr. Reginald Charles",29,"London, England",Southampton,"Detroit, Michigan, US",,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+55,"Collett, Mr. Sidney Clarence Stuart",25,"London, England",Southampton,"Port Byron, New York, US",9,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+56,"Collyer, Mr. Harvey",31,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",,False,SecondClass,50.9712758,-1.3273954372222223,0.0,United Kingdom
+57,"Collyer, Mrs. Charlotte Annie (née Tate)",31,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",14,True,SecondClass,50.9712758,-1.3273954372222223,0.0,United Kingdom
+58,"Collyer, Miss Marjorie Charlotte ""Lottie""",8,"Bishopstoke, Hampshire, England",Southampton,"Payette, Idaho, US",14,True,SecondClass,50.9712758,-1.3273954372222223,0.0,United Kingdom
+59,"Cook, Mrs. Selena (née Rogers)",22,"Oxford, Oxfordshire, England",Southampton,New York City,14,True,SecondClass,51.7520131,-1.2578499,0.0,United Kingdom
+60,"Corbett, Mrs. Irene (née Colvin)",30,"Provo, Utah, US",Southampton,"Provo, Utah, US",,False,SecondClass,40.2338438,-111.6585337,0.0,United States
+61,"Corey, Mrs. Mary Phyllis Elizabeth (née Miller)",30,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",,False,SecondClass,40.4416941,-79.9900861,0.0,United States
+62,"Cotterill, Mr. Henry ""Harry""",20,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",,False,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+63,"Cunningham, Mr. Alfred Fleming[63]",21,"Belfast, Ireland",Belfast,New York City,,False,SecondClass,54.5964411,-5.9302761,0.0,United Kingdom
+64,"Davies, Mr. Charles Henry",21,"Lyndhurst, Hampshire, England",Southampton,"Eden, Manitoba, Canada",,False,SecondClass,50.8727657,-1.5748436,0.0,United Kingdom
+65,"Davies, Mrs. Elizabeth Agnes Mary (née White)",48,"St. Ives, Cornwall, England UK",Southampton,"Houghton, Michigan, US",14,True,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+66,"Davies, Master John Morgan Jr.",8,"St. Ives, Cornwall, England UK",Southampton,"Houghton, Michigan, US",14,True,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+67,"Davis, Miss Mary",28,"London, England, UK",Southampton,"Tottenville, New York, US",13,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+68,"Deacon, Mr. Percy William",20,"Fritham, Hampshire, England, UK",Southampton,"Boston, Massachusetts, US",,False,SecondClass,50.9254957,-1.6655501,0.0,United Kingdom
+69,"del Carlo, Mr. Sebastiano",29,"Montecarlo, Lucca, Tuscany, Italy",Cherbourg,"Chicago, Illinois, US",,False,SecondClass,43.8511862,10.6676214,0.0,Italia
+70,"del Carlo, Mrs. Argene (née Genovesi)[65][77]",24,"Montecarlo, Lucca, Tuscany, Italy",Cherbourg,"Chicago, Illinois, US",11,True,SecondClass,43.8511862,10.6676214,0.0,Italia
+72,"Dibden, Mr. William",18,"Lyndhurst, Hampshire, England",Southampton,"Eden, Manitoba, Canada",,False,SecondClass,50.8727657,-1.5748436,0.0,United Kingdom
+73,"Doling, Mrs. Ada Julia (née Bone)",34,"Southampton, Hampshire, England, UK",Southampton,New York City,?,True,SecondClass,50.90472085,-1.3587998082396187,0.0,United Kingdom
+74,"Doling, Miss Elsie",19,"Southampton, Hampshire, England, UK",Southampton,New York City,?,True,SecondClass,50.90472085,-1.3587998082396187,0.0,United Kingdom
+75,"Douton, Mr. William Joseph",55,"Rochester, New York, US",Southampton,"Rochester, New York, US",,False,SecondClass,43.157285,-77.615214,0.0,United States
+76,"Drew, Mr. James Vivian",42,"Greenport, New York, US",Southampton,"Greenport, New York, US",,False,SecondClass,41.1024654,-72.3591221,0.0,United States
+77,"Drew, Mrs. Lulu Thorne (née Christian)",34,"Greenport, New York, US",Southampton,"Greenport, New York, US",10,True,SecondClass,41.1024654,-72.3591221,0.0,United States
+78,"Drew, Master Marshall Brines",8,"Greenport, New York, US",Southampton,"Greenport, New York, US",10,True,SecondClass,41.1024654,-72.3591221,0.0,United States
+79,"Duran y More, Miss Florentina",30,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",12,True,SecondClass,41.3828939,2.1774322,0.0,España
+80,"Duran y More, Miss Asunción",27,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",12,True,SecondClass,41.3828939,2.1774322,0.0,España
+81,"Fahlstrøm, Mr. Arne Joma",18,"Oslo, Norway","Bayonne, New Jersey, US",,,False,SecondClass,59.9133301,10.7389701,0.0,Norge
+83,"Fillbrook, Mr. Joseph Charles",18,"Truro, Cornwall, England, UK","Houghton, Michigan, US",,,False,SecondClass,50.2627515,-5.0520467,0.0,United Kingdom
+84,"Fox, Mr. Stanley Hubert",38,"Rochester, New York, US","Rochester, New York, US",236MB,,False,SecondClass,43.157285,-77.615214,0.0,United States
+85,"Frost, Mr. Anthony Wood ""Artie""[63]",37,"Belfast, Northern Ireland, UK",Belfast,New York City,,False,SecondClass,54.5964411,-5.9302761,0.0,United Kingdom
+88,"Gale, Mr. Harry",38,"Harrowbarrow, Cornwall, England, UK",Southampton,"Clear Creek, Colorado, US",,False,SecondClass,50.5095754,-4.2623108,0.0,United Kingdom
+89,"Gale, Mr. Shadrach",33,"Harrowbarrow, Cornwall, England, UK",Southampton,"Clear Creek, Colorado, US",,False,SecondClass,50.5095754,-4.2623108,0.0,United Kingdom
+92,"Gavey, Mr. Laurence",26,"Guernsey, Channel Islands",Southampton,"Elizabeth, New Jersey, US",,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+94,"Giles, Mr. Edgar",21,"Porthleven, Cornwall, England",Southampton,"Camden, New Jersey, US",,False,SecondClass,50.0849174,-5.3166558,0.0,United Kingdom
+95,"Giles, Mr. Frederick Edward",20,"Porthleven, Cornwall, England",Southampton,"Camden, New Jersey, US",,False,SecondClass,50.0849174,-5.3166558,0.0,United Kingdom
+96,"Giles, Mr. Ralph",25,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+97,"Gill, Mr. John William",24,"Clevedon, North Somerset, England",Southampton,New York City,,False,SecondClass,51.4360625,-2.8526531,0.0,United Kingdom
+98,"Gillespie, Mr. William Henry",34,"Abbeyleix, Laois, Ireland",Southampton,"Vancouver, British Columbia, Canada",,False,SecondClass,52.9144763,-7.3482153,0.0,Éire / Ireland
+100,"Greenberg, Mr. Samuel",52,"Bronx, New York, US",Southampton,"Bronx, New York, US",,False,SecondClass,40.8466508,-73.8785937,0.0,United States
+101,"Hale, Mr. Reginald",30,"Auburn, New York, US",Southampton,"Auburn, New York, US",,False,SecondClass,42.9320202,-76.5672029,0.0,United States
+102,"Hämäläinen, Mrs. Anna (Anna Hamlin)",24,"Detroit, Michigan, US",Southampton,"Detroit, Michigan, US",4,True,SecondClass,42.3315509,-83.0466403,0.0,United States
+103,"Hämäläinen, Master Viljo Unto Johannes (William Hamlin)",1,"Detroit, Michigan, US",Southampton,"Detroit, Michigan, US",4,True,SecondClass,42.3315509,-83.0466403,0.0,United States
+104,"Harbeck, Mr. William H.",44,"Toledo, Ohio, US",Southampton,"Montreal, Quebec, Canada",,False,SecondClass,41.6529143,-83.5378173,0.0,United States
+105,"Harper, The Reverend John",39,"London, England",Southampton,"Chicago, Illinois, US",,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+106,"Harper, Miss Annie Jessie ""Nina""",6,"London, England",Southampton,"Chicago, Illinois, US",11,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+107,"Harris, Mr. George",62,"London, England",Southampton,New York City,15,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+108,"Harris, Mr. Walter",30,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+109,"Hart, Mr. Benjamin",47,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",,False,SecondClass,51.8149948,1.1540333336121313,0.0,United Kingdom
+110,"Hart, Mrs. Esther Ada (née Bloomfield)",48,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",14,True,SecondClass,51.8149948,1.1540333336121313,0.0,United Kingdom
+111,"Hart, Miss Eva Miriam",7,"Ilford, Essex, England",Southampton,"Winnipeg, Manitoba, Canada",14,True,SecondClass,51.8149948,1.1540333336121313,0.0,United Kingdom
+112,"Hartley, Mr. Wallace Henry[63]",33,"Dewsbury, West Yorkshire, England",Southampton,New York City,,False,SecondClass,53.6909103,-1.6302142,0.0,United Kingdom
+113,"Herman, Mr. Samuel",49,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",,False,SecondClass,50.9420451,-2.6318629,0.0,United Kingdom
+114,"Herman, Mrs. Jane (née Laver)",48,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,True,SecondClass,50.9420451,-2.6318629,0.0,United Kingdom
+115,"Herman, Miss Alice",24,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,True,SecondClass,50.9420451,-2.6318629,0.0,United Kingdom
+116,"Herman, Miss Kate",24,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",9,True,SecondClass,50.9420451,-2.6318629,0.0,United Kingdom
+118,"Hickman, Mr. Lewis",30,"Fritham, Hampshire, England",Southampton,"The Pas, Manitoba, Canada",,False,SecondClass,50.9254957,-1.6655501,0.0,United Kingdom
+119,"Hickman, Mr. Leonard Mark",24,"Fritham, Hampshire, England",Southampton,"Eden, Manitoba, Canada",,False,SecondClass,50.9254957,-1.6655501,0.0,United Kingdom
+120,"Hickman, Mr. Stanley George",20,"Fritham, Hampshire, England",Southampton,"The Pas, Manitoba, Canada",,False,SecondClass,50.9254957,-1.6655501,0.0,United Kingdom
+122,"Hocking, Mrs. Elizabeth ""Eliza"" (née Neads)",54,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+123,"Hocking, Mr. Richard George",23,"Akron, Ohio, US",Southampton,"Akron, Ohio, US",,False,SecondClass,41.083064,-81.518485,0.0,United States
+124,"Hocking, Miss Ellen ""Nellie""",20,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+125,"Hocking, Mr. Samuel James Metcalfe",36,"Devonport, Devon, England",Southampton,"Middletown, Connecticut, US",,False,SecondClass,50.4964389,-4.0447413,0.0,United Kingdom
+126,"Hodges, Mr. Henry Price",50,"Southampton, Hampshire, England",Southampton,"Boston, Massachusetts, US",,False,SecondClass,50.90472085,-1.3587998082396187,0.0,United Kingdom
+127,"Hold, Mr. Stephen",44,"Porthoustock, Cornwall, England",Southampton,"Sacramento, California, US",,False,SecondClass,50.0562982,-5.0661298,0.0,United Kingdom
+128,"Hold, Mrs. Annie Margaret (née Hill)",29,"Porthoustock, Cornwall, England",Southampton,"Sacramento, California, US",10,True,SecondClass,50.0562982,-5.0661298,0.0,United Kingdom
+129,"Hood, Mr. Ambrose Jr.",21,"Fritham, Hampshire, England",Southampton,"Manitoba, Canada",,False,SecondClass,50.9254957,-1.6655501,0.0,United Kingdom
+130,"Hosono, Mr. Masabumi",41,"Tokyo, Japan",Southampton,"Tokyo, Japan",10,True,SecondClass,35.6828387,139.7594549,0.0,日本
+131,"Howard, Mr. Benjamin",63,"Swindon, Wiltshire, England",Southampton,"Idaho, US",,False,SecondClass,51.5443427,-1.8615057,0.0,United Kingdom
+132,"Howard, Mrs. Ellen Truelove (née Arman)",60,"Swindon, Wiltshire, England",Southampton,"Idaho, US",,False,SecondClass,51.5443427,-1.8615057,0.0,United Kingdom
+133,"Hume, Mr. John Law ""Jock""[63]",21,"Dumfries, Scotland",Southampton,New York City,,False,SecondClass,55.069836,-3.6092292,0.0,United Kingdom
+134,"Hunt, Mr. George Henry",33,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,SecondClass,39.9527237,-75.1635262,0.0,United States
+135,"Ilett, Miss Bertha",17,"Jersey, Channel Islands",Southampton,"Atlanta, Georgia, US",?,True,SecondClass,49.2101927,-2.0612456,0.0,Jersey
+136,"Jacobsohn, Mr. Sidney Samuel",40,"London, England",Southampton,"Montreal, Quebec, Canada",,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+137,"Jacobsohn, Mrs. Amy Frances Christy (née Cohen)",24,"London, England",Southampton,"Montreal, Quebec, Canada",12,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+138,"Jarvis, Mr. Denzil John",47,"Stoneygate, Leicestershire, England",Southampton,New York City,,False,SecondClass,52.54215465,-1.2738783286394217,0.0,United Kingdom
+139,"Jefferys, Mr. Clifford Thomas",24,"Guernsey, Channel Islands",Southampton,"Elizabeth, New Jersey, US",,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+140,"Jefferys, Mr. Ernest Wilifred",22,"Guernsey, Channel Islands",Southampton,"Elizabeth, New Jersey, US",,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+141,"Jenkin, Mr. Stephen Curnow",32,"St. Ives, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+142,"Jerwan, Mrs. Marie Marthe (née Thuillard)",23,New York City,Southampton,New York City,11,True,SecondClass,40.7127281,-74.0060152,0.0,United States
+145,"Karnes, Mrs. Claire (née Bennett)",28,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",,False,SecondClass,40.4416941,-79.9900861,0.0,United States
+146,"Keane, Mr. Daniel",35,"Limerick, Ireland",Queenstown,"St Louis, Missouri, US",,False,SecondClass,52.661252,-8.6301239,0.0,Éire / Ireland
+147,"Keane, Miss Nora Agnes",46,"Castleconnell, Limerick, Ireland",Queenstown,"Harrisburg, Pennsylvania, US",10,True,SecondClass,52.714126199999995,-8.486851985787938,0.0,Éire / Ireland
+148,"Kelly, Miss Florence ""Fannie""",45,"London, England",Southampton,New York City,9,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+149,"Kirkland, Reverend Charles Leonard",52,"Glasgow, Scotland",Queenstown,"Tuxford, Saskatchewan, Canada",,False,SecondClass,55.8609825,-4.2488787,0.0,United Kingdom
+150,"Knight, Mr. Robert J.[63]",39,"Belfast, Ireland",Belfast,New York City,,False,SecondClass,54.5964411,-5.9302761,0.0,United Kingdom
+151,"Krins, Mr. Georges Alexandré[63]",23,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+153,"Lahtinen, Reverend William",35,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",,False,SecondClass,44.9772995,-93.2654692,0.0,United States
+154,"Lahtinen, Mrs. Anna Amelia (née Sylfvén)",26,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",,False,SecondClass,44.9772995,-93.2654692,0.0,United States
+155,"Lamb, Mr. John Joseph",30,"Glencree, Ireland",Queenstown,"Providence, Rhode Island, US",,False,SecondClass,53.1996982,-6.2937745,0.0,Éire / Ireland
+156,"Laroche, Mr. Joseph Philippe Lemercier",25,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",,False,SecondClass,48.8566969,2.3514616,0.0,France
+157,"Laroche, Mrs. Juliette Marie Louise (née Lafargue)[65][78]",22,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,True,SecondClass,48.8566969,2.3514616,0.0,France
+158,"Laroche, Miss Simoné Marie Anne Andrée",3,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,True,SecondClass,48.8566969,2.3514616,0.0,France
+159,"Laroche, Miss Louise Marguerite",1,"Paris, France",Cherbourg,"Cap-Haïtien, Haiti",14,True,SecondClass,48.8566969,2.3514616,0.0,France
+160,"Lehmann, Miss Bertha",17,"Lotzwil, Switzerland",Cherbourg,"Central City, Iowa, US",12,True,SecondClass,47.1903503,7.7896055,0.0,Schweiz/Suisse/Svizzera/Svizra
+161,"Leitch, Miss Jessie Wills",31,"London, England",Southampton,"Chicago, Illinois, US",11,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+162,"Lemore, Mrs. Amelia ""Milley"" (née Hunt)",34,"Chicago, Illinois, US",Southampton,"Chicago, Illinois, US",14,True,SecondClass,41.8755616,-87.6244212,0.0,United States
+163,"Levy, Mr. René Jacques",36,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",,False,SecondClass,45.4972159,-73.6103642,0.0,Canada
+164,"Leyson, Mr. Robert William Norman",25,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+165,"Lingane, Mr. John",61,"Chelsea, Michigan, US",Southampton,"Chelsea, Michigan, US",,False,SecondClass,42.3180163,-84.020224,0.0,United States
+166,"Louch, Mr. Charles Alexander",50,"Weston-super-Mare, North Somerset, England",Southampton,New York City,,False,SecondClass,51.3471927,-2.9778916,0.0,United Kingdom
+167,"Louch, Mrs. Alice Adelaide (née Slow)",42,"Weston-super-Mare, North Somerset, England",Southampton,New York City,14,True,SecondClass,51.3471927,-2.9778916,0.0,United Kingdom
+168,"Mack, Mrs. Mary (née Lacy)",57,"Southampton, Hampshire, England",Southampton,New York City,,False,SecondClass,50.90472085,-1.3587998082396187,0.0,United Kingdom
+169,"Malachard, Mr. Jean-Noël",25,"Paris, France",Cherbourg,New York City,,False,SecondClass,48.8566969,2.3514616,0.0,France
+170,"Mallet, Mr. Albert",31,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",,False,SecondClass,45.4972159,-73.6103642,0.0,Canada
+171,"Mallet, Mrs. Antoinette Marie (née Magnin)",24,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",10,True,SecondClass,45.4972159,-73.6103642,0.0,Canada
+172,"Mallet, Master André Clément",1,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",10,True,SecondClass,45.4972159,-73.6103642,0.0,Canada
+173,"Mangiavacchi, Mr. Serafino Emilio",30,"Paris, France",Cherbourg,New York City,,False,SecondClass,48.8566969,2.3514616,0.0,France
+174,"Matthews, Mr. William John",30,"St Austell, Cornwall, England",Southampton,"La Salle, Illinois, US",,False,SecondClass,50.338466,-4.7882104,0.0,United Kingdom
+175,"Maybery, Mr. Frank Hubert",36,"Weston-super-Mare, North Somerset, England",Southampton,"Moose Jaw, Saskatchewan, Canada",,False,SecondClass,51.3471927,-2.9778916,0.0,United Kingdom
+176,"McCrae, Mr. Arthur Gordon",32,"Sydney, New South Wales, Australia",Southampton,Canada,,False,SecondClass,-33.8548157,151.2164539,0.0,Australia
+177,"McCrie, Mr. James Matthew",32,"Sarnia, Ontario, Canada",Southampton,"Sarnia, Ontario, Canada",,False,SecondClass,42.9746137,-82.4065585,0.0,Canada
+178,"McKane, Mr. Peter David",46,"Guernsey, Channel Islands",Southampton,"Rochester, New York, US",,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+179,"Mellinger, Mrs. Elizabeth Anne (née Maidment)",41,"Wimbledon, London, England",Southampton,"Bennington, Vermont, US",14,True,SecondClass,51.4214787,-0.2064027,0.0,United Kingdom
+180,"Mellinger, Miss Madeleine Violet",13,"Wimbledon, London, England",Southampton,"Bennington, Vermont, US",14,True,SecondClass,51.4214787,-0.2064027,0.0,United Kingdom
+181,"Mellors, Mr. William John",19,"Chelsea, London, England",Southampton,"Long Island, New York, US",B,True,SecondClass,51.4875167,-0.1687007,0.0,United Kingdom
+182,"Meyer, Mr. August",31,"Harrow, London, England",Southampton,New York City,,False,SecondClass,51.596827149999996,-0.33731605402671094,0.0,United Kingdom
+183,"Milling, Mr. Jacob Christian",48,"Odense, Denmark",Southampton,"Oregon, Wisconsin, US",,False,SecondClass,55.3997225,10.3852104,0.0,Danmark
+184,"Mitchell, Mr. Henry Michael",71,"Guernsey, Channel Islands",Southampton,"Toledo, Ohio, US",,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+185,"Montvila, Father Juozas",27,"Gudinė, Lithuania",Southampton,"Worcester, Massachusetts, US",,False,SecondClass,54.5596312,23.476043,0.0,Lietuva
+186,"Moraweck, Dr. Ernest",54,"Frankfort, Kentucky, US",Southampton,"Frankfort, Kentucky, US",,False,SecondClass,38.2009055,-84.8732836,0.0,United States
+187,"Morley, Mr. Henry Samuel (alias Mr. Henry Marshall)",38,"Birmingham, Worcester, England",Southampton,"Los Angeles, US",,False,SecondClass,52.1830396,-2.220642,0.0,United Kingdom
+188,"Mudd, Mr. Thomas Charles",16,"Huntingfield, Suffolk, England",Southampton,New York City,,False,SecondClass,52.3168312,1.4273852,0.0,United Kingdom
+189,"Myles, Mr. Thomas Francis",63,"Fermoy, Ireland",Queenstown,"Waban, Massachusetts, US",,False,SecondClass,52.1381665,-8.275223,0.0,Éire / Ireland
+192,"Navratil, Mr. Michel (alias Louis M. Hoffman)",32,"Nice, France",Southampton,New York City,,False,SecondClass,43.7009358,7.2683912,0.0,France
+193,"Navratil, Master Michel Marcel",3,"Nice, France",Southampton,New York City,D,True,SecondClass,43.7009358,7.2683912,0.0,France
+194,"Navratil, Master Edmond Roger",2,"Nice, France",Southampton,New York City,D,True,SecondClass,43.7009358,7.2683912,0.0,France
+195,"Nesson, Mr. Israel",26,"London, England",Southampton,"Boston, Massachusetts, US",,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+196,"Nicholls, Mr. Joseph Charles ""Joe""",19,"St. Ives, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+197,"Norman, Mr. Robert Douglas",28,"Glasgow, Scotland",Southampton,"Houghton, Michigan, US",,False,SecondClass,55.8609825,-4.2488787,0.0,United Kingdom
+198,"Nye, Mrs. Elizabeth (née Ramell)",29,"East Orange, New Jersey, US",Southampton,"East Orange, New Jersey, US",11,True,SecondClass,40.767323,-74.2048677,0.0,United States
+199,"Otter, Mr. Richard",39,"Middleburg Heights, Ohio, US",Southampton,"Middleburg Heights, Ohio, US",,False,SecondClass,41.3614401,-81.812912,0.0,United States
+200,"Oxenham, Mr. Percy Thomas",22,"London, England",Southampton,"North Bergen, New Jersey, US",13,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+201,"Padron Manent, Mr. Julian",26,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",9,True,SecondClass,41.3828939,2.1774322,0.0,España
+202,"Pain, Dr. Alfred ""Alf""",23,"Hamilton, Ontario, Canada",Southampton,"Hamilton, Ontario, Canada",,False,SecondClass,43.2560802,-79.8728583,0.0,Canada
+203,"Pallas y Castello, Mr. Emilio",29,"Barcelona, Catalonia, Spain",Cherbourg,"Havana, Cuba",9,True,SecondClass,41.3828939,2.1774322,0.0,España
+204,"Parker, Mr. Clifford Richard",28,"Guernsey, Channel Islands",Southampton,New York City,,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+205,"Parkes, Mr. Francis ""Frank""[63]",18,"Belfast, Ireland",Belfast,New York City,,False,SecondClass,54.5964411,-5.9302761,0.0,United Kingdom
+206,"Parrish, Mrs. Lutie Davis (née Temple)",60,"Woodford County, Kentucky, US",Southampton,"Woodford County, Kentucky, US",12,True,SecondClass,38.0686424,-84.7404532,0.0,United States
+207,"Pengelly, Mr. Frederick William",19,"Gunnislake, Cornwall, England",Southampton,"Butte, Montana, US",,False,SecondClass,50.5238826,-4.2161922,0.0,United Kingdom
+209,"Phillips, Mr. Escott Robert",42,"Ilfracombe, Devon, England",Southampton,"New Brighton, Pennsylvania, US",,False,SecondClass,51.2076674,-4.1254662,0.0,United Kingdom
+210,"Phillips, Miss Alice Frances Louisa",21,"Ilfracombe, Devon, England",Southampton,"New Brighton, Pennsylvania, US",12,True,SecondClass,51.2076674,-4.1254662,0.0,United Kingdom
+211,"Phillips, Miss Kate Florence (alias Mrs. Kate Marshall)[10][81]",19,"Birmingham, Worcester, England",Southampton,"Los Angeles, US",11,True,SecondClass,52.1830396,-2.220642,0.0,United Kingdom
+212,"Pinsky, Mrs. Rosa",21,"Brooklyn, New York, US",Southampton,"Brooklyn, New York, US",9,True,SecondClass,40.6501038,-73.9495823,0.0,United States
+213,"Ponesell, Mr. Martin",34,"Southampton, Hampshire, England",Southampton,New York City,,False,SecondClass,50.90472085,-1.3587998082396187,0.0,United Kingdom
+214,"Portaluppi, Mr. Emilio Ilario Giuseppe",34,"Milford, New Hampshire, US",Southampton,"Milford, New Hampshire, US",14,True,SecondClass,42.8355775,-71.6495345,0.0,United States
+215,"Pulbaum, Mr. Franz",27,New York City,Southampton,New York City,,False,SecondClass,40.7127281,-74.0060152,0.0,United States
+216,"Quick, Mrs. Jane (née Richards)",33,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,True,SecondClass,50.33392715,-4.155682606473795,0.0,United Kingdom
+217,"Quick, Miss Winnifred Vera",8,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,True,SecondClass,50.33392715,-4.155682606473795,0.0,United Kingdom
+218,"Quick, Miss Phyllis May",2,"Plymouth, Devon, England",Southampton,"Detroit, Michigan, US",11,True,SecondClass,50.33392715,-4.155682606473795,0.0,United Kingdom
+219,"Reeves, Mr. David",36,"Slinfold, West Sussex, England",Southampton,New York City,,False,SecondClass,51.0719165,-0.4062535,0.0,United Kingdom
+220,"Renouf, Mr. Peter Henry",33,"Elizabeth, New Jersey, US",Southampton,"Elizabeth, New Jersey, US",,False,SecondClass,40.6639916,-74.2107006,0.0,United States
+221,"Renouf, Mrs. Lillian ""Lily"" (née Jefferys)",30,"Elizabeth, New Jersey, US",Southampton,"Elizabeth, New Jersey, US",12,True,SecondClass,40.6639916,-74.2107006,0.0,United States
+222,"Reynaldo, Miss Encarnación",28,"Marbella, Spain",Southampton,New York City,9,True,SecondClass,36.508976,-4.88562,0.0,España
+223,"Richard, Mr. Emile Philippe",23,"Paris, France",Cherbourg,"Montreal, Quebec, Canada",,False,SecondClass,48.8566969,2.3514616,0.0,France
+224,"Richards, Mrs. Emily (née Hocking)",23,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+225,"Richards, Master William Rowe",3,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+226,"Richards, Master Sibley George",9 mo.,"Penzance, Cornwall, England",Southampton,"Akron, Ohio, US",4,True,SecondClass,50.1213173,-5.5329266,0.0,United Kingdom
+227,"Ridsdale, Miss Lucy",50,"London, England",Southampton,"Marietta, Ohio, US",13,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+228,"Rogers, Mr. Reginald Harry",18,"Tavistock, Devon, England",Southampton,"Wilkes Barre, Pennsylvania, US",,False,SecondClass,50.5496154,-4.1446358,0.0,United Kingdom
+229,"Rugg, Miss Emily",21,"Guernsey, Channel Islands",Southampton,"Wilmington, Delaware, US",12,True,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+230,"Schmidt, Mr. August",26,"Newark, New Jersey, US",Southampton,"Newark, New Jersey, US",,False,SecondClass,40.735657,-74.1723667,0.0,United States
+232,"Sharp, Mr. Percival James",27,"London, England, UK",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+233,"Shelley, Mrs. Imanita (née Parrish Hall)",25,"Deer Lodge, Montana, US",Southampton,"Deer Lodge, Montana, US",12,True,SecondClass,46.395761,-112.730038,0.0,United States
+235,"Sincock, Miss Maude",20,"St. Ives, Cornwall, England",Southampton,"Hancock, Michigan, US",11,True,SecondClass,50.2148928,-5.4795574,0.0,United Kingdom
+238,"Slayter, Miss Hilda Mary",30,"Halifax, Nova Scotia, Canada",Queenstown,"Vancouver, British Columbia, Canada",13,True,SecondClass,44.648618,-63.5859487,0.0,Canada
+239,"Slemen, Mr. Richard James",35,"Landrake, Cornwall, England",Southampton,"Nashua, New Hampshire, US",,False,SecondClass,50.4218667,-4.2893435,0.0,United Kingdom
+240,"Smith, Miss Marion Elsie",39,"Basingstoke, Hampshire, England",Southampton,"Washington, DC US",9,True,SecondClass,51.262826,-1.0861976,0.0,United Kingdom
+241,"Sobey, Mr. Samuel James Hayden",25,"Porthallow, Cornwall, England",Southampton,"Houghton, Michigan, US",,False,SecondClass,50.0678647,-5.0796265,0.0,United Kingdom
+242,"Stanton, Mr. Samuel Ward",42,New York City,Southampton,New York City,,False,SecondClass,40.7127281,-74.0060152,0.0,United States
+243,"Stokes, Mr. Philip Joseph",25,"London, England",Southampton,"Detroit, Michigan, US",,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+244,"Sweet, Mr. George Frederick",14,"Yeovil, Somerset, England",Southampton,"Bernardsville, New Jersey, US",,False,SecondClass,50.9420451,-2.6318629,0.0,United Kingdom
+245,"Taylor, Mr. Percy Cornelius[63]",32,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+246,"Toomey, Miss Ellen Mary",48,"Indianapolis, Indiana, US",Southampton,"Indianapolis, Indiana, US",9,True,SecondClass,39.7683331,-86.1583502,0.0,United States
+247,"Troupiansky, Mr. Moses Aaron",23,"London, England",Southampton,New York City,,False,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+248,"Trout, Mrs. Jessie L.",26,"Columbus, Ohio, US",Southampton,"Columbus, Ohio, US",9,True,SecondClass,39.9622601,-83.0007065,0.0,United States
+249,"Troutt, Miss Edwina Celia ""Winnie""",27,"Bath, Somerset, England",Southampton,"Auburndale, Florida, US",16,True,SecondClass,51.3813864,-2.3596963,0.0,United Kingdom
+250,"Turpin, Mr. William John Robert",29,"Plymouth, Devon, England",Southampton,"Salt Lake City, Utah, US",,False,SecondClass,50.33392715,-4.155682606473795,0.0,United Kingdom
+251,"Turpin, Mrs. Dorothy Ann (née Wonnacott)",27,"Plymouth, Devon, England",Southampton,"Salt Lake City, Utah, US",,False,SecondClass,50.33392715,-4.155682606473795,0.0,United Kingdom
+252,"Veal, Mr. James",40,"Barre, Vermont, US",Southampton,"Barre, Vermont, US",,False,SecondClass,44.197467,-72.502213,0.0,United States
+253,"Wallcroft, Miss Ellen ""Nellie""",36,"Maidenhead, Berkshire, England",Southampton,"Mamaroneck, New York, US",14,True,SecondClass,51.40801045,-1.2830416451909068,0.0,United Kingdom
+254,"Ware, Mr. John James",45,"Bristol, Avon, England",Southampton,"New Britain, Connecticut, US",,False,SecondClass,52.1868871,-1.5995568,0.0,United Kingdom
+255,"Ware, Mrs. Florence Louise (née Long)",31,"Bristol, Avon, England",Southampton,"New Britain, Connecticut, US",10,True,SecondClass,52.1868871,-1.5995568,0.0,United Kingdom
+256,"Ware, Mr. William Jeffery",23,"Gunnislake, Cornwall, England",Southampton,"Butte, Montana, US",,False,SecondClass,50.5238826,-4.2161922,0.0,United Kingdom
+257,"Watson, Mr. Ennis Hastings[63]",15,"Belfast, Northern Ireland, UK",Belfast,New York City,,False,SecondClass,54.5964411,-5.9302761,0.0,United Kingdom
+258,"Watt, Mrs. Elizabeth Inglis ""Bessie"" (née Milne)",40,"Aberdeen, Aberdeenshire, Scotland",Southampton,"Portland, Oregon, US",9,True,SecondClass,57.3104596,-2.2672868,0.0,United Kingdom
+259,"Watt, Miss Robertha Josephine ""Bertha""",12,"Aberdeen, Aberdeenshire, Scotland",Southampton,"Portland, Oregon, US",9,True,SecondClass,57.3104596,-2.2672868,0.0,United Kingdom
+260,"Webber, Miss Susan",37,"Bude, Cornwall, England",Southampton,"Hartford, Connecticut, US",12,True,SecondClass,50.8285252,-4.5469361,0.0,United Kingdom
+261,"Weisz, Mr. Leopold",28,"Bromsgrove, Worcestershire, England",Southampton,"Montreal, Quebec, Canada",,False,SecondClass,52.3390519,-2.0532017992446177,0.0,United Kingdom
+262,"Weisz, Mrs. Mathilde Françoise (née Pëde)",37,"Bromsgrove, Worcestershire, England",Southampton,"Montreal, Quebec, Canada",10,True,SecondClass,52.3390519,-2.0532017992446177,0.0,United Kingdom
+263,"Wells, Mrs. Addie Dart (née Trevaskis)",29,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,True,SecondClass,50.1268259,-5.5518726,0.0,United Kingdom
+264,"Wells, Miss Joan",4,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,True,SecondClass,50.1268259,-5.5518726,0.0,United Kingdom
+265,"Wells, Master Ralph Lester",2,"Heamoor, Cornwall, England",Southampton,"Akron, Ohio, US",14,True,SecondClass,50.1268259,-5.5518726,0.0,United Kingdom
+266,"West, Mr. Edwy Arthur",36,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",,False,SecondClass,50.8497999,-2.1606832,0.0,United Kingdom
+267,"West, Mrs. Ada Mary (née Worth)[65][82]",33,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,True,SecondClass,50.8497999,-2.1606832,0.0,United Kingdom
+268,"West, Miss Constance Mirium",4,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,True,SecondClass,50.8497999,-2.1606832,0.0,United Kingdom
+269,"West, Miss Barbara Joyce",10 mo.,"Bournemouth, Dorset, England",Southampton,"Gainesville, Florida, US",10,True,SecondClass,50.8497999,-2.1606832,0.0,United Kingdom
+270,"Wheadon, Mr. Edward H.",66,"Guernsey, Channel Islands",Southampton,"Edgewood, Rhode Island, US",,False,SecondClass,49.4578405,-2.5349672,0.0,Guernsey
+271,"Wheeler, Mr. Edwin Charles ""Fred""",24,"Bath, Somerset, England",Southampton,"Asheville, North Carolina, US",,False,SecondClass,51.3813864,-2.3596963,0.0,United Kingdom
+272,"Whilems, Mr. Charles",32,"London, England",Southampton,New York City,9,True,SecondClass,51.5073219,-0.1276474,0.0,United Kingdom
+273,"Wilkinson, Miss Elizabeth Anne (alias Mrs. Elizabeth Faunthorpe)",29,"Manchester, England",Southampton,"Philadelphia, Pennsylvania, US",16,True,SecondClass,53.4794892,-2.2451148,0.0,United Kingdom
+274,"Williams, Mr. Charles Eugene",23,"Harrow, London, England",Southampton,"Chicago, Illinois, US",14,True,SecondClass,51.596827149999996,-0.33731605402671094,0.0,United Kingdom
+275,"Woodward, Mr. John Wesley[63]",32,"Oxford, Oxfordshire, England",Southampton,New York City,,False,SecondClass,51.7520131,-1.2578499,0.0,United Kingdom
+276,"Wright, Miss Marion",26,"Yeovil, Somerset, England",Southampton,"Cottage Grove, Oregon, US",9,True,SecondClass,50.9420451,-2.6318629,0.0,United Kingdom
+277,"Yvois, Miss Henriette",24,"Paris, France",Southampton,"Montreal, Quebec, Canada",,False,SecondClass,48.8566969,2.3514616,0.0,France

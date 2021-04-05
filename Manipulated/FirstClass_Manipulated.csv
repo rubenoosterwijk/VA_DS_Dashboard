@@ -1,327 +1,319 @@
-,Name,Age,Hometown,Boarded,Destination,Lifeboat,Survived,latitude,longitude,altitude
-0,"Allen, Miss Elizabeth Walton",29,"St. Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,True,38.6264178,-90.1998378,0.0
-1,"Allison, Mr. Hudson Joshua Creighton",30,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-2,"and chauffeur, Mr. George Swane[62]",19,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-3,"and cook, Miss Amelia Mary ""Mildred"" Brown[62]",18,"London, England, UK",Southampton,"Montreal, Quebec, Canada",11,True,51.5073219,-0.1276474,0.0
-4,"Allison, Mrs. Bessie Waldo (née Daniels)",25,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-5,"and maid, Miss Sarah Daniels",33,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",8,True,45.4972159,-73.6103642,0.0
-6,"Allison, Miss Helen Loraine",2,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-7,"Allison, Master Hudson Trevor",11 mo.,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",11,True,45.4972159,-73.6103642,0.0
-8,"and nurse, Miss Alice Catherine Cleaver",22,"London, England, UK",Southampton,"Montreal, Quebec, Canada",11,True,51.5073219,-0.1276474,0.0
-9,"Anderson, Mr. Harry",47,New York City,Southampton,New York City,3,True,40.7127281,-74.0060152,0.0
-10,"Andrews, Miss Kornelia Theodosia",62,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,True,42.2528649,-73.790959,0.0
-11,"Andrews, Mr. Thomas[63]",39,"Belfast, Ireland, UK",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-12,"Appleton, Mrs. Charlotte Lane (née Lamson)",53,"New York, New York, US",Southampton,New York City,2,True,40.7127281,-74.0060152,0.0
-13,"Artagaveytia, Mr. Ramon",71,"Montevideo, Uruguay",Cherbourg,New York City,,False,-34.9058916,-56.1913095,0.0
-14,"Astor, Colonel John Jacob IV",47,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-15,"Astor, Mrs. Madeleine Talmage (née Force)[64][65]",18,New York City,Cherbourg,New York City,4,True,40.7127281,-74.0060152,0.0
-16,"and maid, Miss Rosalie Bidois",46,New York City,Cherbourg,New York City,4,True,40.7127281,-74.0060152,0.0
-17,"and nurse, Miss Caroline Louise Endres",39,New York City,Cherbourg,New York City,4,True,40.7127281,-74.0060152,0.0
-18,"Aubart, Mrs. Léontine Pauline[66]",24,"Paris, France",Cherbourg,New York City,9,True,48.8566969,2.3514616,0.0
-19,"and maid, Miss Emma Sägesser",24,"Paris, France",Cherbourg,New York City,9,True,48.8566969,2.3514616,0.0
-20,"Barkworth, Mr. Algernon Henry Wilson",47,"Hessle, East Yorkshire, England, UK",Southampton,New York City,B,True,53.7210436,-0.4412797808658452,0.0
-21,"Baumann, Mr. John D.",60,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-22,"Baxter, Mrs. Hélène (née de Lanaudière-Chaput)",50,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",6,True,45.4972159,-73.6103642,0.0
-23,"Baxter, Mr. Quigg Edmond",24,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-24,"Beattie, Mr. Thomson",36,"Fergus, Ontario, Canada",Southampton,"Fergus, Ontario, Canada",A[67],True,43.7059439,-80.3779366,0.0
-25,"Beckwith, Mr. Richard Leonard",37,New York City,Southampton,New York City,5,True,40.7127281,-74.0060152,0.0
-26,"Beckwith, Mrs. Sallie (née Monypeny)",46,New York City,Southampton,New York City,5,True,40.7127281,-74.0060152,0.0
-27,"Behr, Mr. Karl Howell",26,New York City,Cherbourg,New York City,5,True,40.7127281,-74.0060152,0.0
-28,"Birnbaum, Mr. Jakob",24,"Antwerp, Belgium",Cherbourg,"San Francisco, California, US",,False,51.2211097,4.3997081,0.0
-29,"Bishop, Mr. Dickinson H. ""Dick""",25,"Dowagiac, Michigan, US",Cherbourg,"Dowagiac, Michigan, US",7,True,41.9842123,-86.1086228,0.0
-30,"Bishop, Mrs. Helen (née Walton)[65][68]",19,"Dowagiac, Michigan, US",Cherbourg,"Dowagiac, Michigan, US",7,True,41.9842123,-86.1086228,0.0
-31,"Björnström-Steffansson, Mr. Mauritz Håkan",28,"Stockholm, Sweden",Southampton,"Washington, D.C., US",D,True,59.3251172,18.0710935,0.0
-32,"Blackwell, Mr. Stephen Weart",45,"Trenton, New Jersey, US",Southampton,"Trenton, New Jersey, US",,False,40.2170575,-74.7429463,0.0
-33,"Blank, Mr. Henry",39,"Glen Ridge, New Jersey, US",Cherbourg,"Glen Ridge, New Jersey, US",7,True,40.805378,-74.2037566,0.0
-34,"Bonnell, Miss Elizabeth",61,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,41.1035786,-80.6520161,0.0
-35,"Bonnell, Miss Caroline",30,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,41.1035786,-80.6520161,0.0
-36,"Borebank, Mr. John James",42,"London, England, UK",Southampton,"Toronto, Ontario, Canada",,False,51.5073219,-0.1276474,0.0
-37,"Bowerman, Miss Elsie Edith",22,"St Leonards-on-Sea, East Sussex, England, UK",Southampton,New York City,6,True,,,
-38,"Brady, Mr. John Bertram",41,"Pomeroy, Washington, US",Southampton,"Pomeroy, Washington, US",,False,46.4748738,-117.6026896,0.0
-39,"Brandeis, Mr. Emil",48,"Omaha, Nebraska, US",Cherbourg,"Omaha, Nebraska, US",,False,41.2587459,-95.9383758,0.0
-40,"Brereton, Mr. George Andrew (alias George A. Brayton)",37,"Los Angeles, California, US",Southampton,"Los Angeles, California, US",9,True,34.0536909,-118.242766,0.0
-41,"Brewe, Dr. Arthur Jackson",45,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-42,"Brown, Mrs. Caroline Lane (née Lamson)",59,"Belmont, Massachusetts, US",Southampton,"Belmont, Massachusetts, US",D,True,42.3959296,-71.1786655,0.0
-43,"Brown, Mrs. Margaret (née Tobin)",44,"Denver, Colorado, US",Cherbourg,"Denver, Colorado, US",6,True,39.7392364,-104.9848623,0.0
-44,"Bucknell, Mrs. Emma Eliza (née Ward)",59,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",8,True,39.9527237,-75.1635262,0.0
-45,"and maid, Miss Albina Bazzani",36,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",8,True,39.9527237,-75.1635262,0.0
-46,"Butt, Major Archibald Willingham",46,"Washington, D.C., US",Southampton,"Washington, D.C., US",,False,38.8950368,-77.0365427,0.0
-47,"Calderhead, Mr. Edward Pennington",42,New York City,Southampton,New York City,5,True,40.7127281,-74.0060152,0.0
-48,"Candee, Mrs. Helen Churchill (née Hungerford)",53,"Washington, D.C., US",Cherbourg,"Washington, D.C., US",6,True,38.8950368,-77.0365427,0.0
-49,"Cardeza, Mrs. Charlotte Wardle (née Drake)",58,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,40.0434449,-75.1801775,0.0
-50,"and maid, Miss Annie Moore Ward",38,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,40.0434449,-75.1801775,0.0
-51,"Cardeza, Mr. Thomas Drake Martinez",36,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,40.0434449,-75.1801775,0.0
-52,"and valet, Mr. Gustave J. Lesueur",35,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,40.0434449,-75.1801775,0.0
-53,"Carlsson, Mr. Frans Olof",33,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-54,"Carrau, Mr. Francisco M.",31,"Montevideo, Uruguay",Southampton,"Montevideo, Uruguay",,False,-34.9058916,-56.1913095,0.0
-55,"Carrau, Mr. José Pedro",17,"Montevideo, Uruguay",Southampton,"Montevideo, Uruguay",,False,-34.9058916,-56.1913095,0.0
-56,"Carter, Mr. William Ernest",36,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",C,True,40.0198335,-75.3046299,0.0
-57,"and valet, Mr. Alexander Cairns",28,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",,False,40.0198335,-75.3046299,0.0
-58,"and chauffeur, Mr. Charles Augustus Aldworth[62]",30,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",,False,40.0198335,-75.3046299,0.0
-59,"Carter, Mrs. Lucile (née Polk)",36,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,40.0198335,-75.3046299,0.0
-60,"and maid, Miss Auguste Serreplan",30,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,40.0198335,-75.3046299,0.0
-61,"Carter, Miss Lucile Polk",13,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,40.0198335,-75.3046299,0.0
-62,"Carter, Master William Thornton II",11,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,40.0198335,-75.3046299,0.0
-63,"Case, Mr. Howard Brown",49,"Ascot, Berkshire, England, UK",Southampton,"Rochester, New York, US",,False,51.3895981,-1.3101455,0.0
-64,"Cassebeer, Mrs. Eleanor Genevieve (née Fosdick)",36,"New York, New York, US",Cherbourg,New York City,5,True,40.7127281,-74.0060152,0.0
-65,"Cavendish, Mr. Tyrell William",36,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-66,"Cavendish, Mrs. Julia Florence (née Siegel)",25,"London, England, UK",Southampton,New York City,6,True,51.5073219,-0.1276474,0.0
-67,"and maid, Miss Ellen ""Nellie"" Barber",26,"London, England, UK",Southampton,New York City,6,True,51.5073219,-0.1276474,0.0
-68,"Chaffee, Mr. Herbert Fuller",46,"Amenia, North Dakota, US",Southampton,"Amenia, North Dakota, US",,False,47.0049744,-97.2189763,0.0
-69,"Chaffee, Mrs. Carrie Constance (née Toogood)",47,"Amenia, North Dakota, US",Southampton,"Amenia, North Dakota, US",4,True,47.0049744,-97.2189763,0.0
-70,"Chambers, Mr. Norman Campbell",27,New York City,Southampton,New York City,5,True,40.7127281,-74.0060152,0.0
-71,"Chambers, Mrs. Bertha (née Griggs)",32,New York City,Southampton,New York City,5,True,40.7127281,-74.0060152,0.0
-72,"Cherry, Miss Gladys",30,"London, England, UK",Southampton,"Vancouver, British Columbia, Canada",8,True,51.5073219,-0.1276474,0.0
-73,"Chevré, Mr. Paul Romaine Marie Léonce",45,"Paris, France",Cherbourg,"Ottawa, Ontario, Canada",7,True,48.8566969,2.3514616,0.0
-74,"Chibnall, Mrs. Edith Martha Bowerman (née Barber)",48,"St Leonards-on-Sea, East Sussex, England, UK",Southampton,New York City,6,True,,,
-75,"Chisholm, Mr. Roderick Robert Crispin[63]",40,"Belfast, Ireland, UK",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-76,"Clark, Mr. Walter Miller",27,"Los Angeles, California, US",Cherbourg,"Los Angeles, California, US",,False,34.0536909,-118.242766,0.0
-77,"Clark, Mrs. Virginia Estelle (née McDowell)",26,"Los Angeles, California, US",Cherbourg,"Los Angeles, California, US",4,True,34.0536909,-118.242766,0.0
-78,"Clifford, Mr. George Quincy",40,"Stoughton, Massachusetts, US",Southampton,"Stoughton, Massachusetts",,False,42.1252079,-71.1022015,0.0
-79,"Colley, Mr. Edward Pomeroy",37,"Dublin, Ireland, UK",Southampton,"Vancouver, British Columbia, Canada",,False,54.1645202,-6.3446108,0.0
-80,"Compton, Mrs. Mary Eliza (née Ingersoll)",64,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",14,True,40.092024,-74.21219645621468,0.0
-81,"Compton, Miss Sara Rebecca",39,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",14,True,40.092024,-74.21219645621468,0.0
-82,"Compton, Mr. Alexander Taylor Jr.",37,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",,False,40.092024,-74.21219645621468,0.0
-83,"Cornell, Mrs. Malvina Helen (née Lamson)",55,New York City,Southampton,New York City,2,True,40.7127281,-74.0060152,0.0
-84,"Crafton, Mr. John Bertram",59,"Roachdale, Indiana, US",Southampton,"Roachdale, Indiana, US",,False,39.8489339,-86.8022295,0.0
-85,"Crosby, Captain Edward",70,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",,False,43.0349931,-87.922497,0.0
-86,"Crosby, Mrs. Catherine Elizabeth (née Halstead)",64,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",7,True,43.0349931,-87.922497,0.0
-87,"Crosby, Miss Harriette Rebecca",39,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",7,True,43.0349931,-87.922497,0.0
-88,"Cumings, Mr. John Bradley",39,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-89,"Cumings, Mrs. Florence Briggs (née Thayer)",35,New York City,Cherbourg,New York City,4,True,40.7127281,-74.0060152,0.0
-90,"Daly, Mr. Peter Dennis",51,"Lima, Peru",Southampton,"Lima, Peru",A,True,-12.0621065,-77.0365256,0.0
-91,"Daniel, Mr. Robert Williams",27,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",3,True,39.9527237,-75.1635262,0.0
-92,"Davidson, Mr. Thornton",31,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-93,"Davidson, Mrs. Orian (née Hays)",27,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,True,45.4972159,-73.6103642,0.0
-94,"Dick, Mr. Albert Adrian",31,"Calgary, Alberta, Canada",Southampton,"Calgary, Alberta, Canada",3,True,51.0534234,-114.0625892,0.0
-95,"Dick, Mrs. Vera (née Gillespie)",17,"Calgary, Alberta, Canada",Southampton,"Calgary, Alberta, Canada",3,True,51.0534234,-114.0625892,0.0
-96,"Dodge, Dr. Washington",52,"San Francisco, California, US",Southampton,"San Francisco, California, US",13,True,37.7790262,-122.4199061,0.0
-97,"Dodge, Mrs. Ruth (née Vidaver)",34,"San Francisco, California, US",Southampton,"San Francisco, California, US",5,True,37.7790262,-122.4199061,0.0
-98,"Dodge, Master Washington, Jr.",4,"San Francisco, California, US",Southampton,"San Francisco, California, US",5,True,37.7790262,-122.4199061,0.0
-99,"Douglas, Mr. Walter Donald",50,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",,False,44.9772995,-93.2654692,0.0
-100,"Douglas, Mrs. Mahala (née Dutton)",48,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",2,True,44.9772995,-93.2654692,0.0
-101,"and maid, Miss Berthe Leroy",27,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",2,True,44.9772995,-93.2654692,0.0
-102,"Douglas, Mrs. Mary Hélène (née Baxter)",27,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",6,True,45.4972159,-73.6103642,0.0
-103,"Duff Gordon, Sir Cosmo Edmund",49,"London, England, UK",Cherbourg,New York City,1,True,51.5073219,-0.1276474,0.0
-104,"Duff Gordon, Lucy Christiana, Lady (née Sutherland)",48,"London, England, UK",Cherbourg,New York City,1,True,51.5073219,-0.1276474,0.0
-105,"and secretary, Miss Laura Mabel Francatelli",31,"London, England, UK",Cherbourg,New York City,1,True,51.5073219,-0.1276474,0.0
-106,"Dulles, Mr. William Crothers",39,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-107,"Eustis, Miss Elizabeth Mussey",54,"Brookline, Massachusetts, US",Cherbourg,"Brookline, Massachusetts, US",4,True,42.3317642,-71.1211635,0.0
-108,"Evans, Miss Edith Corse",36,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-109,"Flegenheim, Mrs. Antoinette (née Wendt)",48,New York City,Cherbourg,New York City,7,True,40.7127281,-74.0060152,0.0
-110,"Flynn, Mr. John Irwin",36,"Brooklyn, New York, US",Southampton,"Brooklyn, New York, US",5,True,40.6501038,-73.9495823,0.0
-111,"Foreman, Mr. Benjamin Laventall",30,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-112,"Fortune, Mr. Mark",64,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,49.8955367,-97.1384584,0.0
-113,"Fortune, Mrs. Mary (née McDougald)",60,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,49.8955367,-97.1384584,0.0
-114,"Fortune, Miss Ethel Flora",28,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,49.8955367,-97.1384584,0.0
-115,"Fortune, Miss Alice Elizabeth",24,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,49.8955367,-97.1384584,0.0
-116,"Fortune, Miss Mabel Helen",23,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,49.8955367,-97.1384584,0.0
-117,"Fortune, Mr. Charles Alexander",19,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,49.8955367,-97.1384584,0.0
-118,"Franklin, Mr. Thomas Parnham",37,"London, England, UK",Southampton,"New York, New York, US",,False,51.5073219,-0.1276474,0.0
-119,"Frauenthal, Dr. Henry William",49,"London, England, UK",Southampton,"New York, New York, US",5,True,51.5073219,-0.1276474,0.0
-120,"Frauenthal, Mrs. Clara (née Heinsheimer)",42,"London, England, UK",Southampton,"New York, New York, US",5,True,51.5073219,-0.1276474,0.0
-121,"Frauenthal, Mr. Isaac Gerald",43,"London, England, UK",Southampton,"New York, New York, US",5,True,51.5073219,-0.1276474,0.0
-122,"Frölicher, Mr. Maximilian Josef",60,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,True,47.3744489,8.5410422,0.0
-123,"Frölicher, Mrs. Margaretha Emerentia (née Stehli)",48,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,True,47.3744489,8.5410422,0.0
-124,"Frölicher-Stehli, Miss Hedwig Margaritha",22,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,True,47.3744489,8.5410422,0.0
-125,"Futrelle, Mr. Jacques Heath",37,"Scituate, Massachusetts, US",Southampton,"Scituate, Massachusetts, US",,False,42.1939754,-70.7697128,0.0
-126,"Futrelle, Mrs. Lily May (née Peel)",35,"Scituate, Massachusetts, US",Southampton,"Scituate, Massachusetts, US",D,True,42.1939754,-70.7697128,0.0
-127,"Gee, Mr. Arthur H.",47,"St Annes-on-Sea, Lancashire, England, UK",Southampton,"Mexico City, Mexico",,False,53.7531813,-3.02895,0.0
-128,"Gibson, Mrs. Pauline Caroline (née Boeson)",44,New York City,Cherbourg,New York City,7,True,40.7127281,-74.0060152,0.0
-129,"Gibson, Miss Dorothy Winifred",22,New York City,Cherbourg,New York City,7,True,40.7127281,-74.0060152,0.0
-130,"Goldenberg, Mr. Samuel L.",47,"Paris, France",Cherbourg,New York City,5,True,48.8566969,2.3514616,0.0
-131,"Goldenberg, Mrs. Nella (née Wiggins)",40,"Paris, France",Cherbourg,New York City,5,True,48.8566969,2.3514616,0.0
-132,"Goldschmidt, Mr. George B.",71,"New York, New York, US",Cherbourg,"New York, New York, US",,False,40.7127281,-74.0060152,0.0
-133,"Gracie IV, Colonel Archibald",53,"Washington, D.C., US",Southampton,"Washington, D.C., US",B,True,38.8950368,-77.0365427,0.0
-134,"Graham, Mr. George Edward",38,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,49.8955367,-97.1384584,0.0
-135,"Graham, Mrs. Edith Ware (née Junkins)",59,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,True,41.0264862,-73.6284598,0.0
-136,"Graham, Miss Margaret Edith",19,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,True,41.0264862,-73.6284598,0.0
-137,"and governess, Miss Elizabeth Weed Shutes",40,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,True,41.0264862,-73.6284598,0.0
-138,"Greenfield, Mrs. Blanche (née Strouse)",45,New York City,Cherbourg,New York City,7,True,40.7127281,-74.0060152,0.0
-139,"Greenfield, Mr. William Bertram",23,New York City,Cherbourg,New York City,7,True,40.7127281,-74.0060152,0.0
-140,"Guggenheim, Mr. Benjamin",46,"Paris, France",Cherbourg,New York City,,False,48.8566969,2.3514616,0.0
-141,"and valet, Mr. Victor Giglio",24,"Paris, France",Cherbourg,New York City,,False,48.8566969,2.3514616,0.0
-142,"and chauffeur, Mr. René Pernot[62]",39,"Paris, France",Cherbourg,New York City,,False,48.8566969,2.3514616,0.0
-143,"Harder, Mr. George Achilles",25,New York City,Cherbourg,New York City,5,True,40.7127281,-74.0060152,0.0
-144,"Harder, Mrs. Dorothy (née Annan)",21,New York City,Cherbourg,New York City,5,True,40.7127281,-74.0060152,0.0
-145,"Harper, Mr. Henry Sleeper",48,New York City,Cherbourg,New York City,3,True,40.7127281,-74.0060152,0.0
-146,"and dragoman, Mr. Hammad Hassab",27,"Cairo, Egypt",Cherbourg,New York City,3,True,30.0443879,31.2357257,0.0
-147,"Harper, Mrs. Myna (née Haxtun)",49,New York City,Cherbourg,New York City,3,True,40.7127281,-74.0060152,0.0
-148,"Harris, Mr. Henry Birkhardt",45,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-149,"Harris, Mrs. Irene (née Wallach)",35,New York City,Southampton,New York City,D,True,40.7127281,-74.0060152,0.0
-150,"Hawksford, Mr. Walter James",45,"Kingston, Surrey, England, UK",Southampton,New York City,3,True,51.2351903,-0.7231108,0.0
-151,"Hays, Mr. Charles Melville",55,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-152,"and clerk, Mr. Vivian Ponsonby Payne",22,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-153,"Hays, Mrs. Clara Jennings (née Grigg)",52,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,True,45.4972159,-73.6103642,0.0
-154,"and maid, Miss Mary Anne Perreault",33,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,True,45.4972159,-73.6103642,0.0
-155,"Hays, Miss Margaret Bechstein",24,New York City,Cherbourg,New York City,7,True,40.7127281,-74.0060152,0.0
-156,"Head, Mr. Christopher",42,"Chelsea, London, England, UK",Southampton,New York City,,False,51.4875167,-0.1687007,0.0
-157,"Hilliard, Mr. Herbert Henry",44,"Brighton, Massachusetts, US",Southampton,"Brighton, Massachusetts, US",,False,42.3500971,-71.1564423,0.0
-158,"Hipkins, Mr. William Edward",55,"Birmingham, West Midlands, England, UK",Southampton,New York City,,False,52.4796992,-1.9026911,0.0
-159,"Hippach, Mrs. Ida Sophia (née Fischer)",44,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",4,True,41.8755616,-87.6244212,0.0
-160,"Hippach, Miss Jean Gertrude",17,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",4,True,41.8755616,-87.6244212,0.0
-161,"Hogeboom, Mrs. Anna Louisa (née Andrews)",51,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,True,42.2528649,-73.790959,0.0
-162,"Holverson, Mr. Alexander Oskar",42,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-163,"Holverson, Mrs. Mary Aline (née Towner)",35,New York City,Southampton,New York City,8,True,40.7127281,-74.0060152,0.0
-164,"Homer, Mr. Harry (alias E. Haven)",40,"Indianapolis, Indiana, US",Southampton,"Indianapolis, Indiana, US",15,True,39.7683331,-86.1583502,0.0
-165,"Hoyt, Mr. Frederick Maxfield",35,New York City,Southampton,"Stamford, Connecticut, US",D,True,40.7127281,-74.0060152,0.0
-166,"Hoyt, Mrs. Jane Anne (née Forby)",31,New York City,Southampton,"Stamford, Connecticut, US",D,True,40.7127281,-74.0060152,0.0
-167,"Hoyt, Mr. William Fisher",42,New York City,Cherbourg,New York City,14,True,40.7127281,-74.0060152,0.0
-168,"Isham, Miss Ann Elizabeth",50,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",,False,41.8755616,-87.6244212,0.0
-169,"Ismay, Mr. Joseph Bruce",49,"Liverpool, Merseyside, England, UK",Southampton,New York City,C,True,,,
-170,"and valet, Mr. John Richard Fry",39,"Liverpool, Merseyside, England, UK",Southampton,"New York, New York, US",,False,,,
-171,"and secretary, Mr. William Henry Harrison",45,"Wallasey, Merseyside, England, UK",Southampton,"New York, New York, US",,False,,,
-172,"Jones, Mr. Charles Cresson",46,"Bennington, Vermont, US",Southampton,"Bennington, Vermont, US",,False,42.8783183,-73.1971692,0.0
-173,"Julian, Mr. Henry Forbes",50,"Torquay, Devon, England, UK",Southampton,"San Francisco, US",,False,50.5249806,-3.5944844,0.0
-174,"Kent, Mr. Edward Austin",58,"Buffalo, New York, US",Cherbourg,"Buffalo, New York, US",,False,42.8867166,-78.8783922,0.0
-175,"Kenyon, Mr. Frederick R.",41,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",,False,40.4416941,-79.9900861,0.0
-176,"Kenyon, Mrs. Marion (née Stauffer)[65][71]",31,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",8,True,40.4416941,-79.9900861,0.0
-177,"Kimball, Mr. Edwin Nelson Jr.",42,"Boston, Massachusetts, US",Southampton,"Boston, Massachusetts, US",5,True,42.3602534,-71.0582912,0.0
-178,"Kimball, Mrs. Gertrude (née Parsons)",45,"Boston, Massachusetts, US",Southampton,"Boston, Massachusetts, US",5,True,42.3602534,-71.0582912,0.0
-179,"Klaber, Mr. Herman",45,"Portland, Oregon, US",Southampton,"Portland, Oregon, US",,False,45.5202471,-122.6741949,0.0
-180,"Lambert-Williams, Mr. Fletcher Fellows",43,"London, England, UK",Southampton,"Newark, New Jersey, US",,False,51.5073219,-0.1276474,0.0
-181,"Leader, Dr. Alice (née Farnham)",49,New York City,Southampton,New York City,8,True,40.7127281,-74.0060152,0.0
-182,"Leslie, Lucy Noël Martha, Countess of Rothes (née Dyer-Edwardes)",34,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",8,True,49.2608724,-123.1139529,0.0
-183,"and maid, Miss Roberta Elizabeth Mary ""Cissy"" Maioni[72]",20,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",8,True,49.2608724,-123.1139529,0.0
-184,"Lewy, Mr. Ervin G.",31,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",,False,41.8755616,-87.6244212,0.0
-185,"Lindeberg-Lind, Mr. Erik Gustav (alias Edward Lingrey)",42,"Jordanstorp, Södermanland, Sweden",Southampton,New York City,,False,59.0928872,16.9512411,0.0
-186,"Lindström, Mrs. Sigrid (née Posse)",55,"Stockholm, Sweden",Cherbourg,New York City,6,True,59.3251172,18.0710935,0.0
-187,"Lines, Mrs. Elizabeth Lindsey (née James)",50,"Paris, France",Cherbourg,"Hanover, New Hampshire, US",9,True,48.8566969,2.3514616,0.0
-188,"Lines, Miss Mary Conover",16,"Paris, France",Cherbourg,"Hanover, New Hampshire, US",9,True,48.8566969,2.3514616,0.0
-189,"Long, Mr. Milton Clyde",29,"Springfield, Massachusetts, US",Southampton,"Springfield, Massachusetts, US",,False,42.1018764,-72.5886727,0.0
-190,"Longley, Miss Gretchen Fiske",21,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,True,42.2528649,-73.790959,0.0
-191,"Loring, Mr. Joseph Holland",30,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-192,"Madill, Miss Georgette Alexandra",16,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,True,38.6264178,-90.1998378,0.0
-193,"Maguire, Mr. John Edward",30,"Brockton, Massachusetts, US",Southampton,"Brockton, Massachusetts, US",,False,42.0834335,-71.0183787,0.0
-194,"Maréchal, Mr. Pierre, Sr.",28,"Paris, France",Cherbourg,New York City,7,True,48.8566969,2.3514616,0.0
-195,"Marvin, Mr. Daniel Warner",18,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-196,"Marvin, Mrs. Mary Graham Carmichael (née Farquarson)[65][73]",18,New York City,Southampton,New York City,10,True,40.7127281,-74.0060152,0.0
-197,"Mayné, Miss Bertha Antonine",24,"Brussels, Belgium",Cherbourg,"Montreal, Quebec, Canada",6,True,50.8465573,4.351697,0.0
-198,"McCaffry, Mr. Thomas Francis",46,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",,False,49.2608724,-123.1139529,0.0
-199,"McCarthy, Mr. Timothy J.",54,"Dorchester, Massachusetts, US",Southampton,"Dorchester, Massachusetts, US",,False,42.2973205,-71.0744952,0.0
-200,"McGough, Mr. James Robert",35,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",7,True,39.9527237,-75.1635262,0.0
-201,"Meyer, Mr. Edgar Joseph",28,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-202,"Meyer, Mrs. Leila (née Saks)",25,New York City,Cherbourg,New York City,6,True,40.7127281,-74.0060152,0.0
-203,"Millet, Mr. Francis Davis",63,"East Bridgewater, Massachusetts, US",Cherbourg,"East Bridgewater, Massachusetts, US",,False,42.0334341,-70.9592096,0.0
-204,"Minahan, Dr. William Edward",44,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",,False,43.7748763,-88.4458033,0.0
-205,"Minahan, Mrs. Lillian E. (née Thorpe)",37,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",14,True,43.7748763,-88.4458033,0.0
-206,"Minahan, Miss Daisy E.",33,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",14,True,43.7748763,-88.4458033,0.0
-207,"Mock, Mr. Philipp Edmund",30,New York City,Cherbourg,New York City,11,True,40.7127281,-74.0060152,0.0
-208,"Molson, Mr. Harry Markland",55,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,45.4972159,-73.6103642,0.0
-209,"Moore, Mr. Clarence",47,"Washington, D.C., US",Southampton,"Washington, D.C., US",,False,38.8950368,-77.0365427,0.0
-210,"and valet, Mr. Charles Henry Harrington",37,"Washington, D.C., US",Southampton,"Washington, D.C., US",,False,38.8950368,-77.0365427,0.0
-211,"Natsch, Mr. Charles",36,"Brooklyn, New York, US",Cherbourg,"Brooklyn, New York, US",,False,40.6501038,-73.9495823,0.0
-212,"Newell, Mr. Arthur Webster",58,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",,False,42.4473175,-71.2245003,0.0
-213,"Newell, Miss Madeleine",31,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",6,True,42.4473175,-71.2245003,0.0
-214,"Newell, Miss Marjorie Anne",23,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",6,True,42.4473175,-71.2245003,0.0
-215,"Newsom, Miss Helen Monypeny",19,New York City,Southampton,New York City,5,True,40.7127281,-74.0060152,0.0
-216,"Nicholson, Mr. Arthur Ernest",64,"Shanklin, Isle of Wight, England, UK",Southampton,New York City,,False,50.6288132,-1.1779031,0.0
-217,"Nourney, Mr. Alfred[74][75]",20,"Cologne, German Empire",Cherbourg,New York City,7,True,,,
-218,"Omont, Mr. Alfred Fernand",29,"Le Havre, France",Cherbourg,New York City,7,True,49.4938975,0.1079732,0.0
-219,"Ostby, Mr. Engelhart Cornelius",64,"Providence, Rhode Island, US",Southampton,"Providence, Rhode Island, US",,False,41.8239891,-71.4128343,0.0
-220,"Ostby, Miss Helene Ragnhild",22,"Providence, Rhode Island, US",Southampton,"Providence, Rhode Island, US",5,True,41.8239891,-71.4128343,0.0
-221,"Ovies y Rodriguez, Mr. Servando José Florentino",36,"Havana, Cuba",Cherbourg,"Havana, Cuba",,False,23.135305,-82.3589631,0.0
-222,"Parr, Mr. William Henry Marsh[63]",29,"Belfast, Ireland, UK",Belfast,New York City,,False,54.5964411,-5.9302761,0.0
-223,"Partner, Mr. Austin",40,"Tolworth, London, England, UK",Southampton,"Toronto, Ontario, Canada",,False,51.3788758,-0.2828604,0.0
-224,"Pears, Mr. Thomas Clinton",29,"Isleworth, London, England, UK",Southampton,New York City,,False,51.4683558,-0.3263111,0.0
-225,"Pears, Mrs. Edith (née Wearne)",22,"Isleworth, London, England, UK",Southampton,New York City,8,True,51.4683558,-0.3263111,0.0
-226,"Peñasco y Castellana, Mr. Victor",24,"Madrid, Spain",Cherbourg,New York City,,False,40.4167047,-3.7035825,0.0
-227,"Peñasco y Castellana, Mrs. Maria Josefa (née Perez de Soto y Vallejo)",22,"Madrid, Spain",Cherbourg,New York City,8,True,40.4167047,-3.7035825,0.0
-228,"and maid, Doña Fermina Oliva y Ocana",39,"Madrid, Spain",Cherbourg,New York City,8,True,40.4167047,-3.7035825,0.0
-229,"Peuchen, Major Arthur Godfrey",52,"Toronto, Ontario, Canada",Southampton,"Toronto, Ontario, Canada",6,True,43.6534817,-79.3839347,0.0
-230,"Porter, Mr. Walter Chamberlain",46,"Worcester, Massachusetts, US",Southampton,"Worcester, Massachusetts, US",,False,42.2625621,-71.8018877,0.0
-231,"Potter, Mrs. Lily Alexenia (née Wilson)",56,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",7,True,39.9527237,-75.1635262,0.0
-232,"Reuchlin, The Honourable Mr. Johan George",38,"Rotterdam, The Netherlands",Southampton,New York City,,False,51.9228934,4.4631786,0.0
-233,"Rheims, Mr. George Alexander Lucien",36,"Paris, France",Southampton,New York City,A,True,48.8566969,2.3514616,0.0
-234,"Robert, Mrs. Elisabeth Walton (née McMillan)",43,"St. Louis, Missouri, US",Southampton,"St. Louis, Missouri, US",2,True,38.6264178,-90.1998378,0.0
-235,"and maid, Miss Emilie Kreuchen",29,"St. Louis, Missouri, US",Southampton,"St. Louis, Missouri, US",2,True,38.6264178,-90.1998378,0.0
-236,"Roebling, Mr. Washington Augustus II",31,"Trenton, New Jersey, US",Southampton,"Trenton, New Jersey, US",,False,40.2170575,-74.7429463,0.0
-237,"Romaine, Mr. Charles Hallance (alias C. Rolmane)",45,New York City,Southampton,New York City,9,True,40.7127281,-74.0060152,0.0
-238,"Rood, Mr. Hugh Roscoe",38,"Seattle, Washington, US",Southampton,"Seattle, Washington, US",,False,47.6038321,-122.3300624,0.0
-239,"Rosenbaum, Miss Edith Louise",34,"Paris, France",Cherbourg,"Cincinnati, Ohio, US",11,True,48.8566969,2.3514616,0.0
-240,"Rosenshine, Mr. George (alias George Thorne)",46,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-241,"Ross, Mr. John Hugo",36,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,49.8955367,-97.1384584,0.0
-242,"Rothschild, Mr. Martin",46,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-243,"Rothschild, Mrs. Elizabeth Jane Anne (née Barrett)",54,New York City,Cherbourg,New York City,6,True,40.7127281,-74.0060152,0.0
-244,"Rowe, Mr. Alfred G.",59,"Liverpool, Merseyside, England, UK",Southampton,New York City,,False,,,
-245,"Ryerson, Mr. Arthur Larned",61,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",,False,42.7006303,-74.924321,0.0
-246,"Ryerson, Mrs. Emily Maria (née Borie)",48,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,42.7006303,-74.924321,0.0
-247,"and maid, Miss Victorine Chaudanson",36,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,42.7006303,-74.924321,0.0
-248,"Ryerson, Miss Susan Parker ""Suzette""",21,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,42.7006303,-74.924321,0.0
-249,"Ryerson, Miss Emily Borie",18,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,42.7006303,-74.924321,0.0
-250,"Ryerson, Master John Borie ""Jack""",13,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,42.7006303,-74.924321,0.0
-251,"and governess, Miss Grace Scott Bowen",45,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,42.7006303,-74.924321,0.0
-252,"Saalfeld, Mr. Adolphe",47,"Manchester, England, UK",Southampton,New York City,3,True,53.4794892,-2.2451148,0.0
-253,"Salomon, Mr. Abraham Lincoln",43,New York City,Cherbourg,New York City,1,True,40.7127281,-74.0060152,0.0
-254,"Schabert, Mrs. Emma (née Mock)",35,"Hamburg, German Empire",Southampton,New York City,11,True,,,
-255,"Seward, Mr. Frederic Kimber",34,New York City,Southampton,New York City,7,True,40.7127281,-74.0060152,0.0
-256,"Silverthorne, Mr. Spencer Victor",35,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",5,True,38.6264178,-90.1998378,0.0
-257,"Silvey, Mr. William Baird",50,"Duluth, Minnesota, US",Cherbourg,"Duluth, Minnesota, US",,False,46.7729322,-92.1251218,0.0
-258,"Silvey, Mrs. Alice (née Munger)",39,"Duluth, Minnesota, US",Cherbourg,"Duluth, Minnesota, US",11,True,46.7729322,-92.1251218,0.0
-259,"Simonius-Blumer, Colonel Alfons",56,"Basel, Switzerland",Southampton,New York City,3,True,47.5581077,7.5878261,0.0
-260,"Sloper, Mr. William Thompson",28,"New Britain, Connecticut, US",Southampton,"New Britain, Connecticut, US",7,True,41.6796456,-72.78834682044055,0.0
-261,"Smart, Mr. John Montgomery",56,"Kildale, North Yorkshire, England, UK",Southampton,New York City,,False,54.4763329,-1.063748,0.0
-262,"Smith, Mr. James Clinch",56,"Paris, France",Cherbourg,"Long Island, New York, US",,False,48.8566969,2.3514616,0.0
-263,"Smith, Mr. Lucien Philip",24,"Huntington, West Virginia, US",Cherbourg,"Huntington, West Virginia, US",,False,38.4192496,-82.445154,0.0
-264,"Smith, Mrs. Mary Eloise (née Hughes)[65][76]",18,"Huntington, West Virginia, US",Cherbourg,"Huntington, West Virginia, US",6,True,38.4192496,-82.445154,0.0
-265,"Smith, Mr. Richard William",57,"Streatham, London, England, UK",Southampton,New York City,,False,51.429769,-0.1311105,0.0
-266,"Snyder, Mr. John Pillsbury",24,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",7,True,44.9772995,-93.2654692,0.0
-267,"Snyder, Mrs. Nellie (née Stevenson)",23,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",7,True,44.9772995,-93.2654692,0.0
-268,"Spedden, Mr. Frederic Oakley",45,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,41.20088,-74.2049976216454,0.0
-269,"Spedden, Mrs. Margaretta Corning (née Stone)",39,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,41.20088,-74.2049976216454,0.0
-270,"and maid, Miss Helen Alice Wilson",31,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,41.20088,-74.2049976216454,0.0
-271,"Spedden, Master Robert Douglas",6,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,41.20088,-74.2049976216454,0.0
-272,"and nurse, Miss Elizabeth Margaret Burns",41,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,41.20088,-74.2049976216454,0.0
-273,"Spencer, Mr. William Augustus",57,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-274,"Spencer, Mrs. Marie Eugénie (née Demougeot)",45,New York City,Cherbourg,New York City,6,True,40.7127281,-74.0060152,0.0
-275,"and maid, Miss Eugenie Elise Lurette",59,New York City,Cherbourg,New York City,6,True,40.7127281,-74.0060152,0.0
-276,"Stähelin-Maeglin, Dr. Max",32,"Basel, Switzerland",Southampton,New York City,3,True,47.5581077,7.5878261,0.0
-277,"Stead, Mr. William Thomas",62,"London, England, UK",Southampton,New York City,,False,51.5073219,-0.1276474,0.0
-278,"Stengel, Mr. Charles Emil Henry",54,"Newark, New Jersey, US",Cherbourg,"Newark, New Jersey, US",1,True,40.735657,-74.1723667,0.0
-279,"Stengel, Mrs. Annie May (née Morris)",44,"Newark, New Jersey, US",Cherbourg,"Newark, New Jersey, US",5,True,40.735657,-74.1723667,0.0
-280,"Stephenson, Mrs. Martha (née Eustis)",52,"Paris, France",Cherbourg,"Haverford, Pennsylvania, US",4,True,48.8566969,2.3514616,0.0
-281,"Stewart, Mr. Albert A.",54,"Cincinnati, Ohio, US",Cherbourg,"Gallipolis, Ohio, US",,False,39.1014537,-84.5124602,0.0
-282,"Stone, Mrs. Martha Evelyn (née Stevens)",62,New York City,Southampton,New York City,6,True,40.7127281,-74.0060152,0.0
-283,"and maid, Miss Amelie ""Amelia"" Icard",38,New York City,Southampton,New York City,6,True,40.7127281,-74.0060152,0.0
-284,"Straus, Mr. Isidor",67,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-285,"and valet, Mr. John Farthing",57,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-286,"Straus, Mrs. Rosalie Ida (née Blun)",63,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-287,"and maid, Miss Ellen Bird",31,New York City,Southampton,New York City,8,True,40.7127281,-74.0060152,0.0
-288,"Sutton, Mr. Frederick",61,"Haddonfield, New Jersey, US",Southampton,"Haddonfield, New Jersey, US",,False,39.8915022,-75.0376707,0.0
-289,"Swift, Mrs. Margaret Welles (née Barron)",46,New York City,Southampton,New York City,8,True,40.7127281,-74.0060152,0.0
-290,"Taussig, Mr. Emil",52,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-291,"Taussig, Mrs. Tillie (née Mandelbaum)",39,New York City,Southampton,New York City,8,True,40.7127281,-74.0060152,0.0
-292,"Taussig, Miss Ruth",18,New York City,Southampton,New York City,8,True,40.7127281,-74.0060152,0.0
-293,"Taylor, Mr. Elmer Zebley",48,"London, England, UK",Southampton,"East Orange, New Jersey, US",5,True,51.5073219,-0.1276474,0.0
-294,"Taylor, Mrs. Juliet Cummins (née Wright)",48,"London, England, UK",Southampton,"East Orange, New Jersey, US",5,True,51.5073219,-0.1276474,0.0
-295,"Thayer, Mr. John Borland II",49,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",,False,40.0131672,-75.2943516,0.0
-296,"Thayer, Mrs. Marian Longsteth (née Morris)",39,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",4,True,40.0131672,-75.2943516,0.0
-297,"and maid, Miss Margaret Fleming",42,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",4,True,40.0131672,-75.2943516,0.0
-298,"Thayer, Mr. John Borland ""Jack"" III",17,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",B,True,40.0131672,-75.2943516,0.0
-299,"Thorne, Mrs. Gertrude Maybelle (née McMinn)",37,New York City,Cherbourg,New York City,D,True,40.7127281,-74.0060152,0.0
-300,"Tucker, Mr. Gilbert Milligan Jr.",31,"Albany, New York, US",Cherbourg,"Albany, New York, US",7,True,42.6511674,-73.754968,0.0
-301,"Uruchurtu, Don Manuel E.",39,"Mexico City, Mexico",Cherbourg,"Mexico City, Mexico",,False,19.4326296,-99.1331785,0.0
-302,"Van der Hoef, Mr. Wyckoff",61,"Brooklyn, New York, US",Belfast,"Brooklyn, New York, US",,False,40.6501038,-73.9495823,0.0
-303,"Walker, Mr. William Anderson",48,"East Orange, New Jersey, US",Southampton,"East Orange, New Jersey, US",,False,40.767323,-74.2048677,0.0
-304,"Warren, Mr. Frank Manley",63,"Portland, Oregon, US",Cherbourg,"Portland, Oregon, US",,False,45.5202471,-122.6741949,0.0
-305,"Warren, Mrs. Anna Sophia (née Atkinson)",60,"Portland, Oregon, US",Cherbourg,"Portland, Oregon, US",5,True,45.5202471,-122.6741949,0.0
-306,"Weir, Colonel John",59,New York City,Southampton,New York City,,False,40.7127281,-74.0060152,0.0
-307,"White, Mr. Percival Wayland",54,"Brunswick, Maine, US",Southampton,"Brunswick, Maine, US",,False,43.9145244,-69.9653278,0.0
-308,"White, Mr. Richard Frasar",21,"Brunswick, Maine, US",Southampton,"Brunswick, Maine, US",,False,43.9145244,-69.9653278,0.0
-309,"White, Mrs. Ella (née Holmes)",55,New York City,Cherbourg,New York City,8,True,40.7127281,-74.0060152,0.0
-310,"and maid, Miss Amelia Mayo ""Nellie"" Bessette",39,New York City,Cherbourg,New York City,8,True,40.7127281,-74.0060152,0.0
-311,"and manservant, Mr. Sante Righini",22,New York City,Cherbourg,New York City,,False,40.7127281,-74.0060152,0.0
-312,"Wick, Colonel George Dennick",58,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",,False,41.1035786,-80.6520161,0.0
-313,"Wick, Mrs. Mary (née Hitchcock)",45,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,41.1035786,-80.6520161,0.0
-314,"Wick, Miss Mary Natalie",31,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,41.1035786,-80.6520161,0.0
-315,"Widener, Mr. George Dunton",50,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-316,"and valet, Mr. Edwin Herbert Keeping",33,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-317,"Widener, Mrs. Eleanor (née Elkins)",50,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",4,True,39.9527237,-75.1635262,0.0
-318,"and maid, Miss Amalie Henriette ""Emily"" Gieger",35,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",4,True,39.9527237,-75.1635262,0.0
-319,"Widener, Mr. Harry Elkins",27,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,39.9527237,-75.1635262,0.0
-320,"Willard, Miss Constance",21,"Duluth, Minnesota, US",Southampton,"Duluth, Minnesota, US",8,True,46.7729322,-92.1251218,0.0
-321,"Williams, Mr. Charles Duane",51,"Geneva, Switzerland",Cherbourg,"Radnor, Pennsylvania, US",,False,46.2017559,6.1466014,0.0
-322,"Williams, Mr. Richard Norris II",21,"Geneva, Switzerland",Cherbourg,"Radnor, Pennsylvania, US",A,True,46.2017559,6.1466014,0.0
-323,"Woolner, Mr. Hugh",45,"London, England, UK",Southampton,New York City,D,True,51.5073219,-0.1276474,0.0
-324,"Wright, Mr. George",62,"Halifax, Nova Scotia, Canada",Southampton,"Halifax, Nova Scotia, Canada",,False,44.648618,-63.5859487,0.0
-325,"Young, Miss Marie Grice",36,New York City,Cherbourg,New York City,8,True,40.7127281,-74.0060152,0.0
+,Name,Age,Hometown,Boarded,Destination,Lifeboat,Survived,Position,latitude,longitude,altitude,country
+0,"Allen, Miss Elizabeth Walton",29,"St. Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,True,FirstClass,38.6264178,-90.1998378,0.0,United States
+1,"Allison, Mr. Hudson Joshua Creighton",30,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+2,"and chauffeur, Mr. George Swane[62]",19,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+3,"and cook, Miss Amelia Mary ""Mildred"" Brown[62]",18,"London, England, UK",Southampton,"Montreal, Quebec, Canada",11,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+4,"Allison, Mrs. Bessie Waldo (née Daniels)",25,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+5,"and maid, Miss Sarah Daniels",33,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",8,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+6,"Allison, Miss Helen Loraine",2,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+7,"Allison, Master Hudson Trevor",11 mo.,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",11,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+8,"and nurse, Miss Alice Catherine Cleaver",22,"London, England, UK",Southampton,"Montreal, Quebec, Canada",11,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+9,"Anderson, Mr. Harry",47,New York City,Southampton,New York City,3,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+10,"Andrews, Miss Kornelia Theodosia",62,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,True,FirstClass,42.2528649,-73.790959,0.0,United States
+11,"Andrews, Mr. Thomas[63]",39,"Belfast, Ireland, UK",Belfast,New York City,,False,FirstClass,54.5964411,-5.9302761,0.0,United Kingdom
+12,"Appleton, Mrs. Charlotte Lane (née Lamson)",53,"New York, New York, US",Southampton,New York City,2,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+13,"Artagaveytia, Mr. Ramon",71,"Montevideo, Uruguay",Cherbourg,New York City,,False,FirstClass,-34.9058916,-56.1913095,0.0,Uruguay
+14,"Astor, Colonel John Jacob IV",47,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+15,"Astor, Mrs. Madeleine Talmage (née Force)[64][65]",18,New York City,Cherbourg,New York City,4,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+16,"and maid, Miss Rosalie Bidois",46,New York City,Cherbourg,New York City,4,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+17,"and nurse, Miss Caroline Louise Endres",39,New York City,Cherbourg,New York City,4,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+18,"Aubart, Mrs. Léontine Pauline[66]",24,"Paris, France",Cherbourg,New York City,9,True,FirstClass,48.8566969,2.3514616,0.0,France
+19,"and maid, Miss Emma Sägesser",24,"Paris, France",Cherbourg,New York City,9,True,FirstClass,48.8566969,2.3514616,0.0,France
+20,"Barkworth, Mr. Algernon Henry Wilson",47,"Hessle, East Yorkshire, England, UK",Southampton,New York City,B,True,FirstClass,53.7210436,-0.4412797808658452,0.0,United Kingdom
+21,"Baumann, Mr. John D.",60,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+22,"Baxter, Mrs. Hélène (née de Lanaudière-Chaput)",50,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",6,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+23,"Baxter, Mr. Quigg Edmond",24,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+24,"Beattie, Mr. Thomson",36,"Fergus, Ontario, Canada",Southampton,"Fergus, Ontario, Canada",A[67],True,FirstClass,43.7059439,-80.3779366,0.0,Canada
+25,"Beckwith, Mr. Richard Leonard",37,New York City,Southampton,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+26,"Beckwith, Mrs. Sallie (née Monypeny)",46,New York City,Southampton,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+27,"Behr, Mr. Karl Howell",26,New York City,Cherbourg,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+28,"Birnbaum, Mr. Jakob",24,"Antwerp, Belgium",Cherbourg,"San Francisco, California, US",,False,FirstClass,51.2211097,4.3997081,0.0,België / Belgique / Belgien
+29,"Bishop, Mr. Dickinson H. ""Dick""",25,"Dowagiac, Michigan, US",Cherbourg,"Dowagiac, Michigan, US",7,True,FirstClass,41.9842123,-86.1086228,0.0,United States
+30,"Bishop, Mrs. Helen (née Walton)[65][68]",19,"Dowagiac, Michigan, US",Cherbourg,"Dowagiac, Michigan, US",7,True,FirstClass,41.9842123,-86.1086228,0.0,United States
+31,"Björnström-Steffansson, Mr. Mauritz Håkan",28,"Stockholm, Sweden",Southampton,"Washington, D.C., US",D,True,FirstClass,59.3251172,18.0710935,0.0,Sverige
+32,"Blackwell, Mr. Stephen Weart",45,"Trenton, New Jersey, US",Southampton,"Trenton, New Jersey, US",,False,FirstClass,40.2170575,-74.7429463,0.0,United States
+33,"Blank, Mr. Henry",39,"Glen Ridge, New Jersey, US",Cherbourg,"Glen Ridge, New Jersey, US",7,True,FirstClass,40.805378,-74.2037566,0.0,United States
+34,"Bonnell, Miss Elizabeth",61,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,FirstClass,41.1035786,-80.6520161,0.0,United States
+35,"Bonnell, Miss Caroline",30,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,FirstClass,41.1035786,-80.6520161,0.0,United States
+36,"Borebank, Mr. John James",42,"London, England, UK",Southampton,"Toronto, Ontario, Canada",,False,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+38,"Brady, Mr. John Bertram",41,"Pomeroy, Washington, US",Southampton,"Pomeroy, Washington, US",,False,FirstClass,46.4748738,-117.6026896,0.0,United States
+39,"Brandeis, Mr. Emil",48,"Omaha, Nebraska, US",Cherbourg,"Omaha, Nebraska, US",,False,FirstClass,41.2587459,-95.9383758,0.0,United States
+40,"Brereton, Mr. George Andrew (alias George A. Brayton)",37,"Los Angeles, California, US",Southampton,"Los Angeles, California, US",9,True,FirstClass,34.0536909,-118.242766,0.0,United States
+41,"Brewe, Dr. Arthur Jackson",45,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",,False,FirstClass,39.9527237,-75.1635262,0.0,United States
+42,"Brown, Mrs. Caroline Lane (née Lamson)",59,"Belmont, Massachusetts, US",Southampton,"Belmont, Massachusetts, US",D,True,FirstClass,42.3959296,-71.1786655,0.0,United States
+43,"Brown, Mrs. Margaret (née Tobin)",44,"Denver, Colorado, US",Cherbourg,"Denver, Colorado, US",6,True,FirstClass,39.7392364,-104.9848623,0.0,United States
+44,"Bucknell, Mrs. Emma Eliza (née Ward)",59,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",8,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+45,"and maid, Miss Albina Bazzani",36,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",8,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+46,"Butt, Major Archibald Willingham",46,"Washington, D.C., US",Southampton,"Washington, D.C., US",,False,FirstClass,38.8950368,-77.0365427,0.0,United States
+47,"Calderhead, Mr. Edward Pennington",42,New York City,Southampton,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+48,"Candee, Mrs. Helen Churchill (née Hungerford)",53,"Washington, D.C., US",Cherbourg,"Washington, D.C., US",6,True,FirstClass,38.8950368,-77.0365427,0.0,United States
+49,"Cardeza, Mrs. Charlotte Wardle (née Drake)",58,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,FirstClass,40.0434449,-75.1801775,0.0,United States
+50,"and maid, Miss Annie Moore Ward",38,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,FirstClass,40.0434449,-75.1801775,0.0,United States
+51,"Cardeza, Mr. Thomas Drake Martinez",36,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,FirstClass,40.0434449,-75.1801775,0.0,United States
+52,"and valet, Mr. Gustave J. Lesueur",35,"Germantown, Pennsylvania, US",Cherbourg,"Germantown, Pennsylvania, US",3,True,FirstClass,40.0434449,-75.1801775,0.0,United States
+53,"Carlsson, Mr. Frans Olof",33,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+54,"Carrau, Mr. Francisco M.",31,"Montevideo, Uruguay",Southampton,"Montevideo, Uruguay",,False,FirstClass,-34.9058916,-56.1913095,0.0,Uruguay
+55,"Carrau, Mr. José Pedro",17,"Montevideo, Uruguay",Southampton,"Montevideo, Uruguay",,False,FirstClass,-34.9058916,-56.1913095,0.0,Uruguay
+56,"Carter, Mr. William Ernest",36,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",C,True,FirstClass,40.0198335,-75.3046299,0.0,United States
+57,"and valet, Mr. Alexander Cairns",28,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",,False,FirstClass,40.0198335,-75.3046299,0.0,United States
+58,"and chauffeur, Mr. Charles Augustus Aldworth[62]",30,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",,False,FirstClass,40.0198335,-75.3046299,0.0,United States
+59,"Carter, Mrs. Lucile (née Polk)",36,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,FirstClass,40.0198335,-75.3046299,0.0,United States
+60,"and maid, Miss Auguste Serreplan",30,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,FirstClass,40.0198335,-75.3046299,0.0,United States
+61,"Carter, Miss Lucile Polk",13,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,FirstClass,40.0198335,-75.3046299,0.0,United States
+62,"Carter, Master William Thornton II",11,"Bryn Mawr, Pennsylvania, US",Southampton,"Bryn Mawr, Pennsylvania, US",4,True,FirstClass,40.0198335,-75.3046299,0.0,United States
+63,"Case, Mr. Howard Brown",49,"Ascot, Berkshire, England, UK",Southampton,"Rochester, New York, US",,False,FirstClass,51.3895981,-1.3101455,0.0,United Kingdom
+64,"Cassebeer, Mrs. Eleanor Genevieve (née Fosdick)",36,"New York, New York, US",Cherbourg,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+65,"Cavendish, Mr. Tyrell William",36,"London, England, UK",Southampton,New York City,,False,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+66,"Cavendish, Mrs. Julia Florence (née Siegel)",25,"London, England, UK",Southampton,New York City,6,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+67,"and maid, Miss Ellen ""Nellie"" Barber",26,"London, England, UK",Southampton,New York City,6,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+68,"Chaffee, Mr. Herbert Fuller",46,"Amenia, North Dakota, US",Southampton,"Amenia, North Dakota, US",,False,FirstClass,47.0049744,-97.2189763,0.0,United States
+69,"Chaffee, Mrs. Carrie Constance (née Toogood)",47,"Amenia, North Dakota, US",Southampton,"Amenia, North Dakota, US",4,True,FirstClass,47.0049744,-97.2189763,0.0,United States
+70,"Chambers, Mr. Norman Campbell",27,New York City,Southampton,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+71,"Chambers, Mrs. Bertha (née Griggs)",32,New York City,Southampton,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+72,"Cherry, Miss Gladys",30,"London, England, UK",Southampton,"Vancouver, British Columbia, Canada",8,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+73,"Chevré, Mr. Paul Romaine Marie Léonce",45,"Paris, France",Cherbourg,"Ottawa, Ontario, Canada",7,True,FirstClass,48.8566969,2.3514616,0.0,France
+75,"Chisholm, Mr. Roderick Robert Crispin[63]",40,"Belfast, Ireland, UK",Belfast,New York City,,False,FirstClass,54.5964411,-5.9302761,0.0,United Kingdom
+76,"Clark, Mr. Walter Miller",27,"Los Angeles, California, US",Cherbourg,"Los Angeles, California, US",,False,FirstClass,34.0536909,-118.242766,0.0,United States
+77,"Clark, Mrs. Virginia Estelle (née McDowell)",26,"Los Angeles, California, US",Cherbourg,"Los Angeles, California, US",4,True,FirstClass,34.0536909,-118.242766,0.0,United States
+78,"Clifford, Mr. George Quincy",40,"Stoughton, Massachusetts, US",Southampton,"Stoughton, Massachusetts",,False,FirstClass,42.1252079,-71.1022015,0.0,United States
+79,"Colley, Mr. Edward Pomeroy",37,"Dublin, Ireland, UK",Southampton,"Vancouver, British Columbia, Canada",,False,FirstClass,54.1645202,-6.3446108,0.0,United Kingdom
+80,"Compton, Mrs. Mary Eliza (née Ingersoll)",64,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",14,True,FirstClass,40.092024,-74.21219645621468,0.0,United States
+81,"Compton, Miss Sara Rebecca",39,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",14,True,FirstClass,40.092024,-74.21219645621468,0.0,United States
+82,"Compton, Mr. Alexander Taylor Jr.",37,"Lakewood, New Jersey, US",Cherbourg,"Lakewood, New Jersey, US",,False,FirstClass,40.092024,-74.21219645621468,0.0,United States
+83,"Cornell, Mrs. Malvina Helen (née Lamson)",55,New York City,Southampton,New York City,2,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+84,"Crafton, Mr. John Bertram",59,"Roachdale, Indiana, US",Southampton,"Roachdale, Indiana, US",,False,FirstClass,39.8489339,-86.8022295,0.0,United States
+85,"Crosby, Captain Edward",70,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",,False,FirstClass,43.0349931,-87.922497,0.0,United States
+86,"Crosby, Mrs. Catherine Elizabeth (née Halstead)",64,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",7,True,FirstClass,43.0349931,-87.922497,0.0,United States
+87,"Crosby, Miss Harriette Rebecca",39,"Milwaukee, Wisconsin, US",Southampton,"Milwaukee, Wisconsin, US",7,True,FirstClass,43.0349931,-87.922497,0.0,United States
+88,"Cumings, Mr. John Bradley",39,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+89,"Cumings, Mrs. Florence Briggs (née Thayer)",35,New York City,Cherbourg,New York City,4,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+90,"Daly, Mr. Peter Dennis",51,"Lima, Peru",Southampton,"Lima, Peru",A,True,FirstClass,-12.0621065,-77.0365256,0.0,Perú
+91,"Daniel, Mr. Robert Williams",27,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",3,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+92,"Davidson, Mr. Thornton",31,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+93,"Davidson, Mrs. Orian (née Hays)",27,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+94,"Dick, Mr. Albert Adrian",31,"Calgary, Alberta, Canada",Southampton,"Calgary, Alberta, Canada",3,True,FirstClass,51.0534234,-114.0625892,0.0,Canada
+95,"Dick, Mrs. Vera (née Gillespie)",17,"Calgary, Alberta, Canada",Southampton,"Calgary, Alberta, Canada",3,True,FirstClass,51.0534234,-114.0625892,0.0,Canada
+96,"Dodge, Dr. Washington",52,"San Francisco, California, US",Southampton,"San Francisco, California, US",13,True,FirstClass,37.7790262,-122.4199061,0.0,United States
+97,"Dodge, Mrs. Ruth (née Vidaver)",34,"San Francisco, California, US",Southampton,"San Francisco, California, US",5,True,FirstClass,37.7790262,-122.4199061,0.0,United States
+98,"Dodge, Master Washington, Jr.",4,"San Francisco, California, US",Southampton,"San Francisco, California, US",5,True,FirstClass,37.7790262,-122.4199061,0.0,United States
+99,"Douglas, Mr. Walter Donald",50,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",,False,FirstClass,44.9772995,-93.2654692,0.0,United States
+100,"Douglas, Mrs. Mahala (née Dutton)",48,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",2,True,FirstClass,44.9772995,-93.2654692,0.0,United States
+101,"and maid, Miss Berthe Leroy",27,"Minneapolis, Minnesota, US",Cherbourg,"Minneapolis, Minnesota, US",2,True,FirstClass,44.9772995,-93.2654692,0.0,United States
+102,"Douglas, Mrs. Mary Hélène (née Baxter)",27,"Montreal, Quebec, Canada",Cherbourg,"Montreal, Quebec, Canada",6,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+103,"Duff Gordon, Sir Cosmo Edmund",49,"London, England, UK",Cherbourg,New York City,1,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+104,"Duff Gordon, Lucy Christiana, Lady (née Sutherland)",48,"London, England, UK",Cherbourg,New York City,1,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+105,"and secretary, Miss Laura Mabel Francatelli",31,"London, England, UK",Cherbourg,New York City,1,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+106,"Dulles, Mr. William Crothers",39,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",,False,FirstClass,39.9527237,-75.1635262,0.0,United States
+107,"Eustis, Miss Elizabeth Mussey",54,"Brookline, Massachusetts, US",Cherbourg,"Brookline, Massachusetts, US",4,True,FirstClass,42.3317642,-71.1211635,0.0,United States
+108,"Evans, Miss Edith Corse",36,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+109,"Flegenheim, Mrs. Antoinette (née Wendt)",48,New York City,Cherbourg,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+110,"Flynn, Mr. John Irwin",36,"Brooklyn, New York, US",Southampton,"Brooklyn, New York, US",5,True,FirstClass,40.6501038,-73.9495823,0.0,United States
+111,"Foreman, Mr. Benjamin Laventall",30,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+112,"Fortune, Mr. Mark",64,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,FirstClass,49.8955367,-97.1384584,0.0,Canada
+113,"Fortune, Mrs. Mary (née McDougald)",60,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,FirstClass,49.8955367,-97.1384584,0.0,Canada
+114,"Fortune, Miss Ethel Flora",28,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,FirstClass,49.8955367,-97.1384584,0.0,Canada
+115,"Fortune, Miss Alice Elizabeth",24,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,FirstClass,49.8955367,-97.1384584,0.0,Canada
+116,"Fortune, Miss Mabel Helen",23,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",10,True,FirstClass,49.8955367,-97.1384584,0.0,Canada
+117,"Fortune, Mr. Charles Alexander",19,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,FirstClass,49.8955367,-97.1384584,0.0,Canada
+118,"Franklin, Mr. Thomas Parnham",37,"London, England, UK",Southampton,"New York, New York, US",,False,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+119,"Frauenthal, Dr. Henry William",49,"London, England, UK",Southampton,"New York, New York, US",5,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+120,"Frauenthal, Mrs. Clara (née Heinsheimer)",42,"London, England, UK",Southampton,"New York, New York, US",5,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+121,"Frauenthal, Mr. Isaac Gerald",43,"London, England, UK",Southampton,"New York, New York, US",5,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+122,"Frölicher, Mr. Maximilian Josef",60,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,True,FirstClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+123,"Frölicher, Mrs. Margaretha Emerentia (née Stehli)",48,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,True,FirstClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+124,"Frölicher-Stehli, Miss Hedwig Margaritha",22,"Zürich, Switzerland",Cherbourg,"New York, New York, US",5,True,FirstClass,47.3744489,8.5410422,0.0,Schweiz/Suisse/Svizzera/Svizra
+125,"Futrelle, Mr. Jacques Heath",37,"Scituate, Massachusetts, US",Southampton,"Scituate, Massachusetts, US",,False,FirstClass,42.1939754,-70.7697128,0.0,United States
+126,"Futrelle, Mrs. Lily May (née Peel)",35,"Scituate, Massachusetts, US",Southampton,"Scituate, Massachusetts, US",D,True,FirstClass,42.1939754,-70.7697128,0.0,United States
+127,"Gee, Mr. Arthur H.",47,"St Annes-on-Sea, Lancashire, England, UK",Southampton,"Mexico City, Mexico",,False,FirstClass,53.7531813,-3.02895,0.0,United Kingdom
+128,"Gibson, Mrs. Pauline Caroline (née Boeson)",44,New York City,Cherbourg,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+129,"Gibson, Miss Dorothy Winifred",22,New York City,Cherbourg,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+130,"Goldenberg, Mr. Samuel L.",47,"Paris, France",Cherbourg,New York City,5,True,FirstClass,48.8566969,2.3514616,0.0,France
+131,"Goldenberg, Mrs. Nella (née Wiggins)",40,"Paris, France",Cherbourg,New York City,5,True,FirstClass,48.8566969,2.3514616,0.0,France
+132,"Goldschmidt, Mr. George B.",71,"New York, New York, US",Cherbourg,"New York, New York, US",,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+133,"Gracie IV, Colonel Archibald",53,"Washington, D.C., US",Southampton,"Washington, D.C., US",B,True,FirstClass,38.8950368,-77.0365427,0.0,United States
+134,"Graham, Mr. George Edward",38,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,FirstClass,49.8955367,-97.1384584,0.0,Canada
+135,"Graham, Mrs. Edith Ware (née Junkins)",59,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,True,FirstClass,41.0264862,-73.6284598,0.0,United States
+136,"Graham, Miss Margaret Edith",19,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,True,FirstClass,41.0264862,-73.6284598,0.0,United States
+137,"and governess, Miss Elizabeth Weed Shutes",40,"Greenwich, Connecticut, US",Southampton,"Greenwich, Connecticut, US",3,True,FirstClass,41.0264862,-73.6284598,0.0,United States
+138,"Greenfield, Mrs. Blanche (née Strouse)",45,New York City,Cherbourg,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+139,"Greenfield, Mr. William Bertram",23,New York City,Cherbourg,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+140,"Guggenheim, Mr. Benjamin",46,"Paris, France",Cherbourg,New York City,,False,FirstClass,48.8566969,2.3514616,0.0,France
+141,"and valet, Mr. Victor Giglio",24,"Paris, France",Cherbourg,New York City,,False,FirstClass,48.8566969,2.3514616,0.0,France
+142,"and chauffeur, Mr. René Pernot[62]",39,"Paris, France",Cherbourg,New York City,,False,FirstClass,48.8566969,2.3514616,0.0,France
+143,"Harder, Mr. George Achilles",25,New York City,Cherbourg,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+144,"Harder, Mrs. Dorothy (née Annan)",21,New York City,Cherbourg,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+145,"Harper, Mr. Henry Sleeper",48,New York City,Cherbourg,New York City,3,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+146,"and dragoman, Mr. Hammad Hassab",27,"Cairo, Egypt",Cherbourg,New York City,3,True,FirstClass,30.0443879,31.2357257,0.0,مصر
+147,"Harper, Mrs. Myna (née Haxtun)",49,New York City,Cherbourg,New York City,3,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+148,"Harris, Mr. Henry Birkhardt",45,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+149,"Harris, Mrs. Irene (née Wallach)",35,New York City,Southampton,New York City,D,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+150,"Hawksford, Mr. Walter James",45,"Kingston, Surrey, England, UK",Southampton,New York City,3,True,FirstClass,51.2351903,-0.7231108,0.0,United Kingdom
+151,"Hays, Mr. Charles Melville",55,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+152,"and clerk, Mr. Vivian Ponsonby Payne",22,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+153,"Hays, Mrs. Clara Jennings (née Grigg)",52,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+154,"and maid, Miss Mary Anne Perreault",33,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",3,True,FirstClass,45.4972159,-73.6103642,0.0,Canada
+155,"Hays, Miss Margaret Bechstein",24,New York City,Cherbourg,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+156,"Head, Mr. Christopher",42,"Chelsea, London, England, UK",Southampton,New York City,,False,FirstClass,51.4875167,-0.1687007,0.0,United Kingdom
+157,"Hilliard, Mr. Herbert Henry",44,"Brighton, Massachusetts, US",Southampton,"Brighton, Massachusetts, US",,False,FirstClass,42.3500971,-71.1564423,0.0,United States
+158,"Hipkins, Mr. William Edward",55,"Birmingham, West Midlands, England, UK",Southampton,New York City,,False,FirstClass,52.4796992,-1.9026911,0.0,United Kingdom
+159,"Hippach, Mrs. Ida Sophia (née Fischer)",44,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",4,True,FirstClass,41.8755616,-87.6244212,0.0,United States
+160,"Hippach, Miss Jean Gertrude",17,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",4,True,FirstClass,41.8755616,-87.6244212,0.0,United States
+161,"Hogeboom, Mrs. Anna Louisa (née Andrews)",51,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,True,FirstClass,42.2528649,-73.790959,0.0,United States
+162,"Holverson, Mr. Alexander Oskar",42,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+163,"Holverson, Mrs. Mary Aline (née Towner)",35,New York City,Southampton,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+164,"Homer, Mr. Harry (alias E. Haven)",40,"Indianapolis, Indiana, US",Southampton,"Indianapolis, Indiana, US",15,True,FirstClass,39.7683331,-86.1583502,0.0,United States
+165,"Hoyt, Mr. Frederick Maxfield",35,New York City,Southampton,"Stamford, Connecticut, US",D,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+166,"Hoyt, Mrs. Jane Anne (née Forby)",31,New York City,Southampton,"Stamford, Connecticut, US",D,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+167,"Hoyt, Mr. William Fisher",42,New York City,Cherbourg,New York City,14,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+168,"Isham, Miss Ann Elizabeth",50,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",,False,FirstClass,41.8755616,-87.6244212,0.0,United States
+172,"Jones, Mr. Charles Cresson",46,"Bennington, Vermont, US",Southampton,"Bennington, Vermont, US",,False,FirstClass,42.8783183,-73.1971692,0.0,United States
+173,"Julian, Mr. Henry Forbes",50,"Torquay, Devon, England, UK",Southampton,"San Francisco, US",,False,FirstClass,50.5249806,-3.5944844,0.0,United Kingdom
+174,"Kent, Mr. Edward Austin",58,"Buffalo, New York, US",Cherbourg,"Buffalo, New York, US",,False,FirstClass,42.8867166,-78.8783922,0.0,United States
+175,"Kenyon, Mr. Frederick R.",41,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",,False,FirstClass,40.4416941,-79.9900861,0.0,United States
+176,"Kenyon, Mrs. Marion (née Stauffer)[65][71]",31,"Pittsburgh, Pennsylvania, US",Southampton,"Pittsburgh, Pennsylvania, US",8,True,FirstClass,40.4416941,-79.9900861,0.0,United States
+177,"Kimball, Mr. Edwin Nelson Jr.",42,"Boston, Massachusetts, US",Southampton,"Boston, Massachusetts, US",5,True,FirstClass,42.3602534,-71.0582912,0.0,United States
+178,"Kimball, Mrs. Gertrude (née Parsons)",45,"Boston, Massachusetts, US",Southampton,"Boston, Massachusetts, US",5,True,FirstClass,42.3602534,-71.0582912,0.0,United States
+179,"Klaber, Mr. Herman",45,"Portland, Oregon, US",Southampton,"Portland, Oregon, US",,False,FirstClass,45.5202471,-122.6741949,0.0,United States
+180,"Lambert-Williams, Mr. Fletcher Fellows",43,"London, England, UK",Southampton,"Newark, New Jersey, US",,False,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+181,"Leader, Dr. Alice (née Farnham)",49,New York City,Southampton,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+182,"Leslie, Lucy Noël Martha, Countess of Rothes (née Dyer-Edwardes)",34,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",8,True,FirstClass,49.2608724,-123.1139529,0.0,Canada
+183,"and maid, Miss Roberta Elizabeth Mary ""Cissy"" Maioni[72]",20,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",8,True,FirstClass,49.2608724,-123.1139529,0.0,Canada
+184,"Lewy, Mr. Ervin G.",31,"Chicago, Illinois, US",Cherbourg,"Chicago, Illinois, US",,False,FirstClass,41.8755616,-87.6244212,0.0,United States
+185,"Lindeberg-Lind, Mr. Erik Gustav (alias Edward Lingrey)",42,"Jordanstorp, Södermanland, Sweden",Southampton,New York City,,False,FirstClass,59.0928872,16.9512411,0.0,Sverige
+186,"Lindström, Mrs. Sigrid (née Posse)",55,"Stockholm, Sweden",Cherbourg,New York City,6,True,FirstClass,59.3251172,18.0710935,0.0,Sverige
+187,"Lines, Mrs. Elizabeth Lindsey (née James)",50,"Paris, France",Cherbourg,"Hanover, New Hampshire, US",9,True,FirstClass,48.8566969,2.3514616,0.0,France
+188,"Lines, Miss Mary Conover",16,"Paris, France",Cherbourg,"Hanover, New Hampshire, US",9,True,FirstClass,48.8566969,2.3514616,0.0,France
+189,"Long, Mr. Milton Clyde",29,"Springfield, Massachusetts, US",Southampton,"Springfield, Massachusetts, US",,False,FirstClass,42.1018764,-72.5886727,0.0,United States
+190,"Longley, Miss Gretchen Fiske",21,"Hudson, New York, US",Cherbourg,"Hudson, New York, US",10,True,FirstClass,42.2528649,-73.790959,0.0,United States
+191,"Loring, Mr. Joseph Holland",30,"London, England, UK",Southampton,New York City,,False,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+192,"Madill, Miss Georgette Alexandra",16,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",2,True,FirstClass,38.6264178,-90.1998378,0.0,United States
+193,"Maguire, Mr. John Edward",30,"Brockton, Massachusetts, US",Southampton,"Brockton, Massachusetts, US",,False,FirstClass,42.0834335,-71.0183787,0.0,United States
+194,"Maréchal, Mr. Pierre, Sr.",28,"Paris, France",Cherbourg,New York City,7,True,FirstClass,48.8566969,2.3514616,0.0,France
+195,"Marvin, Mr. Daniel Warner",18,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+196,"Marvin, Mrs. Mary Graham Carmichael (née Farquarson)[65][73]",18,New York City,Southampton,New York City,10,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+197,"Mayné, Miss Bertha Antonine",24,"Brussels, Belgium",Cherbourg,"Montreal, Quebec, Canada",6,True,FirstClass,50.8465573,4.351697,0.0,België / Belgique / Belgien
+198,"McCaffry, Mr. Thomas Francis",46,"Vancouver, British Columbia, Canada",Southampton,"Vancouver, British Columbia, Canada",,False,FirstClass,49.2608724,-123.1139529,0.0,Canada
+199,"McCarthy, Mr. Timothy J.",54,"Dorchester, Massachusetts, US",Southampton,"Dorchester, Massachusetts, US",,False,FirstClass,42.2973205,-71.0744952,0.0,United States
+200,"McGough, Mr. James Robert",35,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",7,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+201,"Meyer, Mr. Edgar Joseph",28,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+202,"Meyer, Mrs. Leila (née Saks)",25,New York City,Cherbourg,New York City,6,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+203,"Millet, Mr. Francis Davis",63,"East Bridgewater, Massachusetts, US",Cherbourg,"East Bridgewater, Massachusetts, US",,False,FirstClass,42.0334341,-70.9592096,0.0,United States
+204,"Minahan, Dr. William Edward",44,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",,False,FirstClass,43.7748763,-88.4458033,0.0,United States
+205,"Minahan, Mrs. Lillian E. (née Thorpe)",37,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",14,True,FirstClass,43.7748763,-88.4458033,0.0,United States
+206,"Minahan, Miss Daisy E.",33,"Fond du Lac, Wisconsin, US",Southampton,"Fond du Lac, Wisconsin, US",14,True,FirstClass,43.7748763,-88.4458033,0.0,United States
+207,"Mock, Mr. Philipp Edmund",30,New York City,Cherbourg,New York City,11,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+208,"Molson, Mr. Harry Markland",55,"Montreal, Quebec, Canada",Southampton,"Montreal, Quebec, Canada",,False,FirstClass,45.4972159,-73.6103642,0.0,Canada
+209,"Moore, Mr. Clarence",47,"Washington, D.C., US",Southampton,"Washington, D.C., US",,False,FirstClass,38.8950368,-77.0365427,0.0,United States
+210,"and valet, Mr. Charles Henry Harrington",37,"Washington, D.C., US",Southampton,"Washington, D.C., US",,False,FirstClass,38.8950368,-77.0365427,0.0,United States
+211,"Natsch, Mr. Charles",36,"Brooklyn, New York, US",Cherbourg,"Brooklyn, New York, US",,False,FirstClass,40.6501038,-73.9495823,0.0,United States
+212,"Newell, Mr. Arthur Webster",58,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",,False,FirstClass,42.4473175,-71.2245003,0.0,United States
+213,"Newell, Miss Madeleine",31,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",6,True,FirstClass,42.4473175,-71.2245003,0.0,United States
+214,"Newell, Miss Marjorie Anne",23,"Lexington, Massachusetts, US",Cherbourg,"Lexington, Massachusetts, US",6,True,FirstClass,42.4473175,-71.2245003,0.0,United States
+215,"Newsom, Miss Helen Monypeny",19,New York City,Southampton,New York City,5,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+216,"Nicholson, Mr. Arthur Ernest",64,"Shanklin, Isle of Wight, England, UK",Southampton,New York City,,False,FirstClass,50.6288132,-1.1779031,0.0,United Kingdom
+218,"Omont, Mr. Alfred Fernand",29,"Le Havre, France",Cherbourg,New York City,7,True,FirstClass,49.4938975,0.1079732,0.0,France
+219,"Ostby, Mr. Engelhart Cornelius",64,"Providence, Rhode Island, US",Southampton,"Providence, Rhode Island, US",,False,FirstClass,41.8239891,-71.4128343,0.0,United States
+220,"Ostby, Miss Helene Ragnhild",22,"Providence, Rhode Island, US",Southampton,"Providence, Rhode Island, US",5,True,FirstClass,41.8239891,-71.4128343,0.0,United States
+221,"Ovies y Rodriguez, Mr. Servando José Florentino",36,"Havana, Cuba",Cherbourg,"Havana, Cuba",,False,FirstClass,23.135305,-82.3589631,0.0,Cuba
+222,"Parr, Mr. William Henry Marsh[63]",29,"Belfast, Ireland, UK",Belfast,New York City,,False,FirstClass,54.5964411,-5.9302761,0.0,United Kingdom
+223,"Partner, Mr. Austin",40,"Tolworth, London, England, UK",Southampton,"Toronto, Ontario, Canada",,False,FirstClass,51.3788758,-0.2828604,0.0,United Kingdom
+224,"Pears, Mr. Thomas Clinton",29,"Isleworth, London, England, UK",Southampton,New York City,,False,FirstClass,51.4683558,-0.3263111,0.0,United Kingdom
+225,"Pears, Mrs. Edith (née Wearne)",22,"Isleworth, London, England, UK",Southampton,New York City,8,True,FirstClass,51.4683558,-0.3263111,0.0,United Kingdom
+226,"Peñasco y Castellana, Mr. Victor",24,"Madrid, Spain",Cherbourg,New York City,,False,FirstClass,40.4167047,-3.7035825,0.0,España
+227,"Peñasco y Castellana, Mrs. Maria Josefa (née Perez de Soto y Vallejo)",22,"Madrid, Spain",Cherbourg,New York City,8,True,FirstClass,40.4167047,-3.7035825,0.0,España
+228,"and maid, Doña Fermina Oliva y Ocana",39,"Madrid, Spain",Cherbourg,New York City,8,True,FirstClass,40.4167047,-3.7035825,0.0,España
+229,"Peuchen, Major Arthur Godfrey",52,"Toronto, Ontario, Canada",Southampton,"Toronto, Ontario, Canada",6,True,FirstClass,43.6534817,-79.3839347,0.0,Canada
+230,"Porter, Mr. Walter Chamberlain",46,"Worcester, Massachusetts, US",Southampton,"Worcester, Massachusetts, US",,False,FirstClass,42.2625621,-71.8018877,0.0,United States
+231,"Potter, Mrs. Lily Alexenia (née Wilson)",56,"Philadelphia, Pennsylvania, US",Cherbourg,"Philadelphia, Pennsylvania, US",7,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+232,"Reuchlin, The Honourable Mr. Johan George",38,"Rotterdam, The Netherlands",Southampton,New York City,,False,FirstClass,51.9228934,4.4631786,0.0,Nederland
+233,"Rheims, Mr. George Alexander Lucien",36,"Paris, France",Southampton,New York City,A,True,FirstClass,48.8566969,2.3514616,0.0,France
+234,"Robert, Mrs. Elisabeth Walton (née McMillan)",43,"St. Louis, Missouri, US",Southampton,"St. Louis, Missouri, US",2,True,FirstClass,38.6264178,-90.1998378,0.0,United States
+235,"and maid, Miss Emilie Kreuchen",29,"St. Louis, Missouri, US",Southampton,"St. Louis, Missouri, US",2,True,FirstClass,38.6264178,-90.1998378,0.0,United States
+236,"Roebling, Mr. Washington Augustus II",31,"Trenton, New Jersey, US",Southampton,"Trenton, New Jersey, US",,False,FirstClass,40.2170575,-74.7429463,0.0,United States
+237,"Romaine, Mr. Charles Hallance (alias C. Rolmane)",45,New York City,Southampton,New York City,9,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+238,"Rood, Mr. Hugh Roscoe",38,"Seattle, Washington, US",Southampton,"Seattle, Washington, US",,False,FirstClass,47.6038321,-122.3300624,0.0,United States
+239,"Rosenbaum, Miss Edith Louise",34,"Paris, France",Cherbourg,"Cincinnati, Ohio, US",11,True,FirstClass,48.8566969,2.3514616,0.0,France
+240,"Rosenshine, Mr. George (alias George Thorne)",46,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+241,"Ross, Mr. John Hugo",36,"Winnipeg, Manitoba, Canada",Southampton,"Winnipeg, Manitoba, Canada",,False,FirstClass,49.8955367,-97.1384584,0.0,Canada
+242,"Rothschild, Mr. Martin",46,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+243,"Rothschild, Mrs. Elizabeth Jane Anne (née Barrett)",54,New York City,Cherbourg,New York City,6,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+245,"Ryerson, Mr. Arthur Larned",61,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",,False,FirstClass,42.7006303,-74.924321,0.0,United States
+246,"Ryerson, Mrs. Emily Maria (née Borie)",48,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,FirstClass,42.7006303,-74.924321,0.0,United States
+247,"and maid, Miss Victorine Chaudanson",36,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,FirstClass,42.7006303,-74.924321,0.0,United States
+248,"Ryerson, Miss Susan Parker ""Suzette""",21,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,FirstClass,42.7006303,-74.924321,0.0,United States
+249,"Ryerson, Miss Emily Borie",18,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,FirstClass,42.7006303,-74.924321,0.0,United States
+250,"Ryerson, Master John Borie ""Jack""",13,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,FirstClass,42.7006303,-74.924321,0.0,United States
+251,"and governess, Miss Grace Scott Bowen",45,"Cooperstown, New York, US",Cherbourg,"Cooperstown, New York, US",4,True,FirstClass,42.7006303,-74.924321,0.0,United States
+252,"Saalfeld, Mr. Adolphe",47,"Manchester, England, UK",Southampton,New York City,3,True,FirstClass,53.4794892,-2.2451148,0.0,United Kingdom
+253,"Salomon, Mr. Abraham Lincoln",43,New York City,Cherbourg,New York City,1,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+255,"Seward, Mr. Frederic Kimber",34,New York City,Southampton,New York City,7,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+256,"Silverthorne, Mr. Spencer Victor",35,"St Louis, Missouri, US",Southampton,"St Louis, Missouri, US",5,True,FirstClass,38.6264178,-90.1998378,0.0,United States
+257,"Silvey, Mr. William Baird",50,"Duluth, Minnesota, US",Cherbourg,"Duluth, Minnesota, US",,False,FirstClass,46.7729322,-92.1251218,0.0,United States
+258,"Silvey, Mrs. Alice (née Munger)",39,"Duluth, Minnesota, US",Cherbourg,"Duluth, Minnesota, US",11,True,FirstClass,46.7729322,-92.1251218,0.0,United States
+259,"Simonius-Blumer, Colonel Alfons",56,"Basel, Switzerland",Southampton,New York City,3,True,FirstClass,47.5581077,7.5878261,0.0,Schweiz/Suisse/Svizzera/Svizra
+260,"Sloper, Mr. William Thompson",28,"New Britain, Connecticut, US",Southampton,"New Britain, Connecticut, US",7,True,FirstClass,41.6796456,-72.78834682044055,0.0,United States
+261,"Smart, Mr. John Montgomery",56,"Kildale, North Yorkshire, England, UK",Southampton,New York City,,False,FirstClass,54.4763329,-1.063748,0.0,United Kingdom
+262,"Smith, Mr. James Clinch",56,"Paris, France",Cherbourg,"Long Island, New York, US",,False,FirstClass,48.8566969,2.3514616,0.0,France
+263,"Smith, Mr. Lucien Philip",24,"Huntington, West Virginia, US",Cherbourg,"Huntington, West Virginia, US",,False,FirstClass,38.4192496,-82.445154,0.0,United States
+264,"Smith, Mrs. Mary Eloise (née Hughes)[65][76]",18,"Huntington, West Virginia, US",Cherbourg,"Huntington, West Virginia, US",6,True,FirstClass,38.4192496,-82.445154,0.0,United States
+265,"Smith, Mr. Richard William",57,"Streatham, London, England, UK",Southampton,New York City,,False,FirstClass,51.429769,-0.1311105,0.0,United Kingdom
+266,"Snyder, Mr. John Pillsbury",24,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",7,True,FirstClass,44.9772995,-93.2654692,0.0,United States
+267,"Snyder, Mrs. Nellie (née Stevenson)",23,"Minneapolis, Minnesota, US",Southampton,"Minneapolis, Minnesota, US",7,True,FirstClass,44.9772995,-93.2654692,0.0,United States
+268,"Spedden, Mr. Frederic Oakley",45,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,FirstClass,41.20088,-74.2049976216454,0.0,United States
+269,"Spedden, Mrs. Margaretta Corning (née Stone)",39,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,FirstClass,41.20088,-74.2049976216454,0.0,United States
+270,"and maid, Miss Helen Alice Wilson",31,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,FirstClass,41.20088,-74.2049976216454,0.0,United States
+271,"Spedden, Master Robert Douglas",6,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,FirstClass,41.20088,-74.2049976216454,0.0,United States
+272,"and nurse, Miss Elizabeth Margaret Burns",41,"Tuxedo Park, New York, US",Cherbourg,"Tuxedo Park, New York, US",3,True,FirstClass,41.20088,-74.2049976216454,0.0,United States
+273,"Spencer, Mr. William Augustus",57,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+274,"Spencer, Mrs. Marie Eugénie (née Demougeot)",45,New York City,Cherbourg,New York City,6,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+275,"and maid, Miss Eugenie Elise Lurette",59,New York City,Cherbourg,New York City,6,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+276,"Stähelin-Maeglin, Dr. Max",32,"Basel, Switzerland",Southampton,New York City,3,True,FirstClass,47.5581077,7.5878261,0.0,Schweiz/Suisse/Svizzera/Svizra
+277,"Stead, Mr. William Thomas",62,"London, England, UK",Southampton,New York City,,False,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+278,"Stengel, Mr. Charles Emil Henry",54,"Newark, New Jersey, US",Cherbourg,"Newark, New Jersey, US",1,True,FirstClass,40.735657,-74.1723667,0.0,United States
+279,"Stengel, Mrs. Annie May (née Morris)",44,"Newark, New Jersey, US",Cherbourg,"Newark, New Jersey, US",5,True,FirstClass,40.735657,-74.1723667,0.0,United States
+280,"Stephenson, Mrs. Martha (née Eustis)",52,"Paris, France",Cherbourg,"Haverford, Pennsylvania, US",4,True,FirstClass,48.8566969,2.3514616,0.0,France
+281,"Stewart, Mr. Albert A.",54,"Cincinnati, Ohio, US",Cherbourg,"Gallipolis, Ohio, US",,False,FirstClass,39.1014537,-84.5124602,0.0,United States
+282,"Stone, Mrs. Martha Evelyn (née Stevens)",62,New York City,Southampton,New York City,6,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+283,"and maid, Miss Amelie ""Amelia"" Icard",38,New York City,Southampton,New York City,6,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+284,"Straus, Mr. Isidor",67,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+285,"and valet, Mr. John Farthing",57,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+286,"Straus, Mrs. Rosalie Ida (née Blun)",63,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+287,"and maid, Miss Ellen Bird",31,New York City,Southampton,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+288,"Sutton, Mr. Frederick",61,"Haddonfield, New Jersey, US",Southampton,"Haddonfield, New Jersey, US",,False,FirstClass,39.8915022,-75.0376707,0.0,United States
+289,"Swift, Mrs. Margaret Welles (née Barron)",46,New York City,Southampton,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+290,"Taussig, Mr. Emil",52,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+291,"Taussig, Mrs. Tillie (née Mandelbaum)",39,New York City,Southampton,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+292,"Taussig, Miss Ruth",18,New York City,Southampton,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+293,"Taylor, Mr. Elmer Zebley",48,"London, England, UK",Southampton,"East Orange, New Jersey, US",5,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+294,"Taylor, Mrs. Juliet Cummins (née Wright)",48,"London, England, UK",Southampton,"East Orange, New Jersey, US",5,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+295,"Thayer, Mr. John Borland II",49,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",,False,FirstClass,40.0131672,-75.2943516,0.0,United States
+296,"Thayer, Mrs. Marian Longsteth (née Morris)",39,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",4,True,FirstClass,40.0131672,-75.2943516,0.0,United States
+297,"and maid, Miss Margaret Fleming",42,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",4,True,FirstClass,40.0131672,-75.2943516,0.0,United States
+298,"Thayer, Mr. John Borland ""Jack"" III",17,"Haverford, Pennsylvania, US",Cherbourg,"Haverford, Pennsylvania, US",B,True,FirstClass,40.0131672,-75.2943516,0.0,United States
+299,"Thorne, Mrs. Gertrude Maybelle (née McMinn)",37,New York City,Cherbourg,New York City,D,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+300,"Tucker, Mr. Gilbert Milligan Jr.",31,"Albany, New York, US",Cherbourg,"Albany, New York, US",7,True,FirstClass,42.6511674,-73.754968,0.0,United States
+301,"Uruchurtu, Don Manuel E.",39,"Mexico City, Mexico",Cherbourg,"Mexico City, Mexico",,False,FirstClass,19.4326296,-99.1331785,0.0,México
+302,"Van der Hoef, Mr. Wyckoff",61,"Brooklyn, New York, US",Belfast,"Brooklyn, New York, US",,False,FirstClass,40.6501038,-73.9495823,0.0,United States
+303,"Walker, Mr. William Anderson",48,"East Orange, New Jersey, US",Southampton,"East Orange, New Jersey, US",,False,FirstClass,40.767323,-74.2048677,0.0,United States
+304,"Warren, Mr. Frank Manley",63,"Portland, Oregon, US",Cherbourg,"Portland, Oregon, US",,False,FirstClass,45.5202471,-122.6741949,0.0,United States
+305,"Warren, Mrs. Anna Sophia (née Atkinson)",60,"Portland, Oregon, US",Cherbourg,"Portland, Oregon, US",5,True,FirstClass,45.5202471,-122.6741949,0.0,United States
+306,"Weir, Colonel John",59,New York City,Southampton,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+307,"White, Mr. Percival Wayland",54,"Brunswick, Maine, US",Southampton,"Brunswick, Maine, US",,False,FirstClass,43.9145244,-69.9653278,0.0,United States
+308,"White, Mr. Richard Frasar",21,"Brunswick, Maine, US",Southampton,"Brunswick, Maine, US",,False,FirstClass,43.9145244,-69.9653278,0.0,United States
+309,"White, Mrs. Ella (née Holmes)",55,New York City,Cherbourg,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+310,"and maid, Miss Amelia Mayo ""Nellie"" Bessette",39,New York City,Cherbourg,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States
+311,"and manservant, Mr. Sante Righini",22,New York City,Cherbourg,New York City,,False,FirstClass,40.7127281,-74.0060152,0.0,United States
+312,"Wick, Colonel George Dennick",58,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",,False,FirstClass,41.1035786,-80.6520161,0.0,United States
+313,"Wick, Mrs. Mary (née Hitchcock)",45,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,FirstClass,41.1035786,-80.6520161,0.0,United States
+314,"Wick, Miss Mary Natalie",31,"Youngstown, Ohio, US",Southampton,"Youngstown, Ohio, US",8,True,FirstClass,41.1035786,-80.6520161,0.0,United States
+315,"Widener, Mr. George Dunton",50,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,FirstClass,39.9527237,-75.1635262,0.0,United States
+316,"and valet, Mr. Edwin Herbert Keeping",33,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,FirstClass,39.9527237,-75.1635262,0.0,United States
+317,"Widener, Mrs. Eleanor (née Elkins)",50,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",4,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+318,"and maid, Miss Amalie Henriette ""Emily"" Gieger",35,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",4,True,FirstClass,39.9527237,-75.1635262,0.0,United States
+319,"Widener, Mr. Harry Elkins",27,"Philadelphia, Pennsylvania, US",Southampton,"Philadelphia, Pennsylvania, US",,False,FirstClass,39.9527237,-75.1635262,0.0,United States
+320,"Willard, Miss Constance",21,"Duluth, Minnesota, US",Southampton,"Duluth, Minnesota, US",8,True,FirstClass,46.7729322,-92.1251218,0.0,United States
+321,"Williams, Mr. Charles Duane",51,"Geneva, Switzerland",Cherbourg,"Radnor, Pennsylvania, US",,False,FirstClass,46.2017559,6.1466014,0.0,Schweiz/Suisse/Svizzera/Svizra
+322,"Williams, Mr. Richard Norris II",21,"Geneva, Switzerland",Cherbourg,"Radnor, Pennsylvania, US",A,True,FirstClass,46.2017559,6.1466014,0.0,Schweiz/Suisse/Svizzera/Svizra
+323,"Woolner, Mr. Hugh",45,"London, England, UK",Southampton,New York City,D,True,FirstClass,51.5073219,-0.1276474,0.0,United Kingdom
+324,"Wright, Mr. George",62,"Halifax, Nova Scotia, Canada",Southampton,"Halifax, Nova Scotia, Canada",,False,FirstClass,44.648618,-63.5859487,0.0,Canada
+325,"Young, Miss Marie Grice",36,New York City,Cherbourg,New York City,8,True,FirstClass,40.7127281,-74.0060152,0.0,United States

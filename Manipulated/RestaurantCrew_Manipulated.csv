@@ -1,70 +1,69 @@
-,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude
-0,"Allaria, Mr. Battista Antonio",30,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-1,"Aspeslagh, Mr. Georges",26,"London, England",Southampton,Asst. Plateman,,False,51.5073219,-0.1276474,0.0
-2,"Banfi, Mr. Ugo",24,"Finsbury, London, England",Southampton,Waiter,,False,51.521798,-0.0914245,0.0
-3,"Basilico, Mr. Giovanni",27,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-4,"Bazzi, Mr. Narciso",33,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-5,"Bernardi, Mr. Battista",22,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-6,"Bertoldo, Mr. Fioravante Giuseppe",23,Asst. Scullion,Southampton,Asst. Waiter,,False,,,
-7,"Beux, Mr. David",26,"London, England",Southampton,,,False,51.5073219,-0.1276474,0.0
-8,"Bietrix, Mr. George Baptiste",28,"Lambeth, London, England",Southampton,Cook,,False,51.5013012,-0.117287,0.0
-9,"Blument, Mr. Jean Baptiste",26,"Southampton, Hampshire, England",Southampton,Pantryman,,False,50.90472085,-1.3587998082396187,0.0
-10,"Bochet, Mr. Pierre Giuseppe",43,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-11,"Bolhuis, Mr. Hendrik ""Hennie""",21,"Southampton, Hampshire, England",,Larder Cook,,False,50.90472085,-1.3587998082396187,0.0
-12,"Bowker, Miss Ruth",27,"London, England",Southampton,Cashier,6.0,False,51.5073219,-0.1276474,0.0
-13,"Casali, Mr. Giulio",27,"Soho, London, England",Southampton,Waiter,,False,51.5131628,-0.1311754,0.0
-14,"Chaboisson, Mr. Adrien Finnin",25,"London, England",Southampton,Roast Cook,,False,51.5073219,-0.1276474,0.0
-15,"Cornaire, Mr.  Marcel Raymond André",19,"London, England",Southampton,Asst. Roast Cook,,False,51.5073219,-0.1276474,0.0
-16,"Coutin, Mr. Auguste Louis",28,"Southampton, Hampshire, England",Southampton,Entrée Cook,,False,50.90472085,-1.3587998082396187,0.0
-17,"Crovella, Mr. Luigi",17,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-18,"De Marsico, Mr. Giovanni",20,"Soho, London, England",Southampton,Asst. Waiter,,False,51.5131628,-0.1311754,0.0
-19,"Debreucq, Mr. Maurice Emile Victor",22,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-20,"Desvernine, Mr. Louis Gabriel",20,"London, England",Southampton,Asst. Pastry Cook,,False,51.5073219,-0.1276474,0.0
-21,"Donati, Mr. Italo Francesco",17,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-22,"Dornier, Mr. Louis Auguste",20,"Southampton, Hampshire, England",Southampton,Asst. Fish Cook,,False,50.90472085,-1.3587998082396187,0.0
-23,"Fey, Mr. Carlo",30,"London, England",Southampton,Scullion,,False,51.5073219,-0.1276474,0.0
-24,"Gatti, Mr. Gaspare Antonio Pietro ""Luigi""",37,"London, England",Southampton,Restaurant Manager,,False,51.5073219,-0.1276474,0.0
-25,"Gilardino, Mr. Vincenzo Pio",31,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-26,"Grosclaude, Mr. Gérald",24,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-27,"Jaillet, Mr. Henri Marie",28,"London, England",Southampton,Pastry Cook,,False,51.5073219,-0.1276474,0.0
-28,"Janin, Mr. Claude Marie",29,"London, England",Southampton,Soup Cook,,False,51.5073219,-0.1276474,0.0
-29,"Jeffery, Mr. William Alfred",28,"Southampton, Hampshire, England",Southampton,Controller,,False,50.90472085,-1.3587998082396187,0.0
-30,"Jouannault, Mr. Georges Jules",24,"Southampton, Hampshire, England",Southampton,Asst. Sauce Cook,,False,50.90472085,-1.3587998082396187,0.0
-31,"Martin, Miss Margaret Edwina ""Mabel""",20,"London, England",Southampton,Cashier,6.0,False,51.5073219,-0.1276474,0.0
-32,"Mattmann, Mr. Adolf",20,"Southampton, Hampshire, England",Southampton,Ice Man,,False,50.90472085,-1.3587998082396187,0.0
-33,"Maugé, Mr. Paul Achille Maurice Germain",25,"Southampton, Hampshire, England",Southampton,Kitchen Clerk,13.0,False,50.90472085,-1.3587998082396187,0.0
-34,"Monteverdi, Mr. Giovanni",23,"Southampton, Hampshire, England",Southampton,Cook,,False,50.90472085,-1.3587998082396187,0.0
-35,"Monrós, Mr. Joan Xavier",20,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-36,"Nannini, Mr. Francesco Luigi",42,"Southampton, Hampshire, England",Southampton,Head Waiter,,False,50.90472085,-1.3587998082396187,0.0
-37,"Pachera, Mr. Jean Baptiste Stanislas",19,"Southampton, Hampshire, England",Southampton,Asst. Larder Cook,,False,50.90472085,-1.3587998082396187,0.0
-38,"Pedrini, Mr. Alessandro",21,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-39,"Peracchio, Mr. Alberto",20,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-40,"Peracchio, Mr. Sebastiano",17,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0
-41,"Perotti, Mr. Alfonso",20,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-42,"Phillips, Mr. Walter John",35,"Southampton, Hampshire, England",Southampton,Storekeeper,,False,50.90472085,-1.3587998082396187,0.0
-43,"Piatti, Mr. Luigi",17,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-44,"Piazza, Mr. Pompeo",30,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-45,"Poggi, Mr. Emilio",28,"Southampton, Hampshire, England",Southampton,Waiter,,False,50.90472085,-1.3587998082396187,0.0
-46,"Price, Mr. Ernest",17,"London, England",Southampton,Barman,,False,51.5073219,-0.1276474,0.0
-47,"Ratti, Mr. Enrico",21,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-48,"Ricaldone, Mr. Rinaldo Renato",22,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-49,"Rigozzi, Mr. Abele",22,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-50,"Rotta, Mr. Angelo Mario",23,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-51,"Rousseau, Mr. Pierre",49,"London, England",Southampton,Chef,,False,51.5073219,-0.1276474,0.0
-52,"Saccaggi, Mr. Giovanni Giuseppe Emilio",24,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-53,"Salussolia, Mr. Giovanni",25,"London, England",Southampton,Glass Man,,False,51.5073219,-0.1276474,0.0
-54,"Sartori, Mr. Lazar",24,"London, England",Southampton,Asst. Glass Man,,False,51.5073219,-0.1276474,0.0
-55,"Scavino, Mr. Candido",42,"London, England",Southampton,Carver,,False,51.5073219,-0.1276474,0.0
-56,"Sesia, Mr. Giacomo",24,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-57,"Testoni, Mr. Ercole",23,"London, England",Southampton,Asst. Glass Man,,False,51.5073219,-0.1276474,0.0
-58,"Tietz, Mr. Karl",27,"Southampton, Hampshire, England",Southampton,Kitchen Porter,,False,50.90472085,-1.3587998082396187,0.0
-59,"Turvey, Mr. Charles",16,"London, England",Southampton,Page Boy,,False,51.5073219,-0.1276474,0.0
-60,"Urbini, Mr. Roberto",22,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-61,"Valvassori, Mr. Ettore Luigi",35,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-62,"Vicat, Mr. Alphonse Jean Eugene",21,"London, England",Southampton,Cook,,False,51.5073219,-0.1276474,0.0
-63,"Villvarlange, Mr. Pierre Léon Gabriel",19,"Paris, France",Southampton,Asst. Soup Cook,,False,48.8566969,2.3514616,0.0
-64,"Vine, Mr. H.",18,"London, England",Southampton,Asst. Controller,,False,51.5073219,-0.1276474,0.0
-65,"Vioni, Mr. Roberto",31,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0
-66,"Voegelin-Dubach, Mr. Johannes",35,"London, England",Southampton,Coffee Maker,,False,51.5073219,-0.1276474,0.0
-67,"Zanetti, Mr. Minio",20,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0
-68,"Zarracchi, Mr. L.",26,"Southampton, Hampshire, England",Southampton,Wine Butler,,False,50.90472085,-1.3587998082396187,0.0
+,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude,country
+0,"Allaria, Mr. Battista Antonio",30,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+1,"Aspeslagh, Mr. Georges",26,"London, England",Southampton,Asst. Plateman,,False,51.5073219,-0.1276474,0.0,United Kingdom
+2,"Banfi, Mr. Ugo",24,"Finsbury, London, England",Southampton,Waiter,,False,51.521798,-0.0914245,0.0,United Kingdom
+3,"Basilico, Mr. Giovanni",27,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+4,"Bazzi, Mr. Narciso",33,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+5,"Bernardi, Mr. Battista",22,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+7,"Beux, Mr. David",26,"London, England",Southampton,,,False,51.5073219,-0.1276474,0.0,United Kingdom
+8,"Bietrix, Mr. George Baptiste",28,"Lambeth, London, England",Southampton,Cook,,False,51.5013012,-0.117287,0.0,United Kingdom
+9,"Blument, Mr. Jean Baptiste",26,"Southampton, Hampshire, England",Southampton,Pantryman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+10,"Bochet, Mr. Pierre Giuseppe",43,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+11,"Bolhuis, Mr. Hendrik ""Hennie""",21,"Southampton, Hampshire, England",,Larder Cook,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+12,"Bowker, Miss Ruth",27,"London, England",Southampton,Cashier,6.0,False,51.5073219,-0.1276474,0.0,United Kingdom
+13,"Casali, Mr. Giulio",27,"Soho, London, England",Southampton,Waiter,,False,51.5131628,-0.1311754,0.0,United Kingdom
+14,"Chaboisson, Mr. Adrien Finnin",25,"London, England",Southampton,Roast Cook,,False,51.5073219,-0.1276474,0.0,United Kingdom
+15,"Cornaire, Mr.  Marcel Raymond André",19,"London, England",Southampton,Asst. Roast Cook,,False,51.5073219,-0.1276474,0.0,United Kingdom
+16,"Coutin, Mr. Auguste Louis",28,"Southampton, Hampshire, England",Southampton,Entrée Cook,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+17,"Crovella, Mr. Luigi",17,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+18,"De Marsico, Mr. Giovanni",20,"Soho, London, England",Southampton,Asst. Waiter,,False,51.5131628,-0.1311754,0.0,United Kingdom
+19,"Debreucq, Mr. Maurice Emile Victor",22,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+20,"Desvernine, Mr. Louis Gabriel",20,"London, England",Southampton,Asst. Pastry Cook,,False,51.5073219,-0.1276474,0.0,United Kingdom
+21,"Donati, Mr. Italo Francesco",17,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+22,"Dornier, Mr. Louis Auguste",20,"Southampton, Hampshire, England",Southampton,Asst. Fish Cook,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+23,"Fey, Mr. Carlo",30,"London, England",Southampton,Scullion,,False,51.5073219,-0.1276474,0.0,United Kingdom
+24,"Gatti, Mr. Gaspare Antonio Pietro ""Luigi""",37,"London, England",Southampton,Restaurant Manager,,False,51.5073219,-0.1276474,0.0,United Kingdom
+25,"Gilardino, Mr. Vincenzo Pio",31,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+26,"Grosclaude, Mr. Gérald",24,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+27,"Jaillet, Mr. Henri Marie",28,"London, England",Southampton,Pastry Cook,,False,51.5073219,-0.1276474,0.0,United Kingdom
+28,"Janin, Mr. Claude Marie",29,"London, England",Southampton,Soup Cook,,False,51.5073219,-0.1276474,0.0,United Kingdom
+29,"Jeffery, Mr. William Alfred",28,"Southampton, Hampshire, England",Southampton,Controller,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+30,"Jouannault, Mr. Georges Jules",24,"Southampton, Hampshire, England",Southampton,Asst. Sauce Cook,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+31,"Martin, Miss Margaret Edwina ""Mabel""",20,"London, England",Southampton,Cashier,6.0,False,51.5073219,-0.1276474,0.0,United Kingdom
+32,"Mattmann, Mr. Adolf",20,"Southampton, Hampshire, England",Southampton,Ice Man,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+33,"Maugé, Mr. Paul Achille Maurice Germain",25,"Southampton, Hampshire, England",Southampton,Kitchen Clerk,13.0,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+34,"Monteverdi, Mr. Giovanni",23,"Southampton, Hampshire, England",Southampton,Cook,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+35,"Monrós, Mr. Joan Xavier",20,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+36,"Nannini, Mr. Francesco Luigi",42,"Southampton, Hampshire, England",Southampton,Head Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+37,"Pachera, Mr. Jean Baptiste Stanislas",19,"Southampton, Hampshire, England",Southampton,Asst. Larder Cook,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+38,"Pedrini, Mr. Alessandro",21,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+39,"Peracchio, Mr. Alberto",20,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+40,"Peracchio, Mr. Sebastiano",17,"Southampton, Hampshire, England",Southampton,Asst. Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+41,"Perotti, Mr. Alfonso",20,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+42,"Phillips, Mr. Walter John",35,"Southampton, Hampshire, England",Southampton,Storekeeper,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+43,"Piatti, Mr. Luigi",17,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+44,"Piazza, Mr. Pompeo",30,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+45,"Poggi, Mr. Emilio",28,"Southampton, Hampshire, England",Southampton,Waiter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+46,"Price, Mr. Ernest",17,"London, England",Southampton,Barman,,False,51.5073219,-0.1276474,0.0,United Kingdom
+47,"Ratti, Mr. Enrico",21,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+48,"Ricaldone, Mr. Rinaldo Renato",22,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+49,"Rigozzi, Mr. Abele",22,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+50,"Rotta, Mr. Angelo Mario",23,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+51,"Rousseau, Mr. Pierre",49,"London, England",Southampton,Chef,,False,51.5073219,-0.1276474,0.0,United Kingdom
+52,"Saccaggi, Mr. Giovanni Giuseppe Emilio",24,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+53,"Salussolia, Mr. Giovanni",25,"London, England",Southampton,Glass Man,,False,51.5073219,-0.1276474,0.0,United Kingdom
+54,"Sartori, Mr. Lazar",24,"London, England",Southampton,Asst. Glass Man,,False,51.5073219,-0.1276474,0.0,United Kingdom
+55,"Scavino, Mr. Candido",42,"London, England",Southampton,Carver,,False,51.5073219,-0.1276474,0.0,United Kingdom
+56,"Sesia, Mr. Giacomo",24,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+57,"Testoni, Mr. Ercole",23,"London, England",Southampton,Asst. Glass Man,,False,51.5073219,-0.1276474,0.0,United Kingdom
+58,"Tietz, Mr. Karl",27,"Southampton, Hampshire, England",Southampton,Kitchen Porter,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+59,"Turvey, Mr. Charles",16,"London, England",Southampton,Page Boy,,False,51.5073219,-0.1276474,0.0,United Kingdom
+60,"Urbini, Mr. Roberto",22,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+61,"Valvassori, Mr. Ettore Luigi",35,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+62,"Vicat, Mr. Alphonse Jean Eugene",21,"London, England",Southampton,Cook,,False,51.5073219,-0.1276474,0.0,United Kingdom
+63,"Villvarlange, Mr. Pierre Léon Gabriel",19,"Paris, France",Southampton,Asst. Soup Cook,,False,48.8566969,2.3514616,0.0,France
+64,"Vine, Mr. H.",18,"London, England",Southampton,Asst. Controller,,False,51.5073219,-0.1276474,0.0,United Kingdom
+65,"Vioni, Mr. Roberto",31,"London, England",Southampton,Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+66,"Voegelin-Dubach, Mr. Johannes",35,"London, England",Southampton,Coffee Maker,,False,51.5073219,-0.1276474,0.0,United Kingdom
+67,"Zanetti, Mr. Minio",20,"London, England",Southampton,Asst. Waiter,,False,51.5073219,-0.1276474,0.0,United Kingdom
+68,"Zarracchi, Mr. L.",26,"Southampton, Hampshire, England",Southampton,Wine Butler,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom

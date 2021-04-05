@@ -1,9 +1,9 @@
-,Name,Age,Hometown,Position,Survived,latitude,longitude,altitude
-0,"Brailey, Theodore Ronald",24,"London, England",Pianist,False,51.5073219,-0.1276474,0.0
-1,"Bricoux, Roger Marie",20,"Cosne-sur-Loire, France",Cellist,False,47.4151279,2.9315659,0.0
-2,"Clarke, John Frederick Preston",30,"Liverpool, Lancashire, England",Bassist,False,53.6326141,-2.8105631,0.0
-3,"Hartley, Wallace",33,"Colne, Lancashire, England","Bandmaster, violinist",False,53.8549144,-2.181886,0.0
-4,"Hume, John Law",21,"Dumfries, Scotland",Violinist,False,55.069836,-3.6092292,0.0
-5,"Krins, Georges Alexandre",23,"London, England",Violinist,False,51.5073219,-0.1276474,0.0
-6,"Taylor, Percy Cornelius",32,"London, England",Cellist,False,51.5073219,-0.1276474,0.0
-7,"Woodward, John Wesley",32,"Oxford, England",Cellist,False,51.7520131,-1.2578499,0.0
+,Name,Age,Hometown,Position,Survived,latitude,longitude,altitude,country
+0,"Brailey, Theodore Ronald",24,"London, England",Pianist,False,51.5073219,-0.1276474,0.0,United Kingdom
+1,"Bricoux, Roger Marie",20,"Cosne-sur-Loire, France",Cellist,False,47.4151279,2.9315659,0.0,France
+2,"Clarke, John Frederick Preston",30,"Liverpool, Lancashire, England",Bassist,False,53.6326141,-2.8105631,0.0,United Kingdom
+3,"Hartley, Wallace",33,"Colne, Lancashire, England","Bandmaster, violinist",False,53.8549144,-2.181886,0.0,United Kingdom
+4,"Hume, John Law",21,"Dumfries, Scotland",Violinist,False,55.069836,-3.6092292,0.0,United Kingdom
+5,"Krins, Georges Alexandre",23,"London, England",Violinist,False,51.5073219,-0.1276474,0.0,United Kingdom
+6,"Taylor, Percy Cornelius",32,"London, England",Cellist,False,51.5073219,-0.1276474,0.0,United Kingdom
+7,"Woodward, John Wesley",32,"Oxford, England",Cellist,False,51.7520131,-1.2578499,0.0,United Kingdom

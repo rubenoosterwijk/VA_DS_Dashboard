@@ -1,60 +1,59 @@
-,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude
-0,"Anderson, Mr. James",40,"Southampton, Hampshire, England",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0
-1,"Anderson, Mr. John",41,"Southampton, Hampshire, England",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0
-2,"Archer, Mr. Ernest Edward",36,"Southampton, Hampshire, England",Southampton,Able Seaman,3,True,50.90472085,-1.3587998082396187,0.0
-3,"Bailey, Mr. Joseph Henry",43,"Southampton, Hampshire, England",Southampton,Master-at-arms,16,True,50.90472085,-1.3587998082396187,0.0
-4,"Bradley, Mr. T.",29,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-5,"Brice, Mr. Walter T.",42,"Southampton, Hampshire, England",Southampton,Able Seaman,11,True,50.90472085,-1.3587998082396187,0.0
-6,"Bright, Mr. Arthur John",41,"Woolston, Hampshire, England",Southampton,Quartermaster,D,True,51.3017496,-1.0535822,0.0
-7,"Buley, Mr. Edward John",27,"Southampton, Hampshire, England",Southampton,Able Seaman,10,True,50.90472085,-1.3587998082396187,0.0
-8,"Clench, Mr. Frederick",34,"Southampton, Hampshire, England",Southampton,Able Seaman,12,True,50.90472085,-1.3587998082396187,0.0
-9,"Clench, Mr. George James",31,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-10,"Couch, Mr. Frank",28,"Port Isaac, Cornwall",Southampton,Able Seaman,,False,50.5938787,-4.8299895,0.0
-11,"Davis, Mr. Stephen James",39,"Landport, Hampshire, England",Southampton,Able Seaman,,False,,,
-12,"Evans, Mr. Alfred Frank",24,"Southampton, Hampshire, England",Southampton,Lookout,15,True,50.90472085,-1.3587998082396187,0.0
-13,"Evans, Mr. Frank Oliver",24,"Southampton, Hampshire, England",Southampton,Able Seaman,10,True,50.90472085,-1.3587998082396187,0.0
-14,"Fleet, Mr. Frederick",24,"Southampton, Hampshire, England",Belfast,Lookout,6,True,50.90472085,-1.3587998082396187,0.0
-15,"Foley, Mr. John",44,"Southampton, Hampshire, England",Belfast,Storekeeper,4,True,50.90472085,-1.3587998082396187,0.0
-16,"Forward, Mr. James",27,"Southampton, Hampshire, England",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0
-17,"Haines, Mr. Albert M.",31,"Southampton, Hampshire, England",Belfast,Boatswain,9,True,50.90472085,-1.3587998082396187,0.0
-18,"Harder, Mr. William",39,"Southampton, Hampshire, England",Southampton,Window Cleaner,14,True,50.90472085,-1.3587998082396187,0.0
-19,"Hemming, Mr. Samuel Ernest",43,"Southampton, Hampshire, England",Belfast,Lamp Trimmer,4,True,50.90472085,-1.3587998082396187,0.0
-20,"Hichens, Mr. Robert",29,"Southampton, Hampshire, England",Southampton,Quartermaster,6,True,50.90472085,-1.3587998082396187,0.0
-21,"Hogg, Mr. George Alfred",29,"Southampton, Hampshire, England",Belfast,Lookout,7,True,50.90472085,-1.3587998082396187,0.0
-22,"Holman, Mr. Harry",27,"Southampton, Hampshire, England",Belfast,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-23,"Hopkins, Mr. Robert John",40,"Southampton, Hampshire, England",Southampton,Able Seaman,13,True,50.90472085,-1.3587998082396187,0.0
-24,"Horswill, Mr. Albert Edward James",33,"Southampton, Hampshire, England",Southampton,Able Seaman,1,True,50.90472085,-1.3587998082396187,0.0
-25,"Humphreys, Mr. Sidney James",48,"Southampton, Hampshire, England",Southampton,Quartermaster,11,True,50.90472085,-1.3587998082396187,0.0
-26,"Hutchinson, Mr. John Hall",26,"Southampton, Hampshire, England",Belfast,Carpenter/Joiner,,False,50.90472085,-1.3587998082396187,0.0
-27,"Jewell, Mr. Archie",23,"Southampton, Hampshire, England",Belfast,Lookout,7,True,50.90472085,-1.3587998082396187,0.0
-28,"Jones, Mr. Thomas William",32,"Liverpool, Lancashire, England",Southampton,Able Seaman,8,True,53.6326141,-2.8105631,0.0
-29,"King, Mr. Thomas W.",43,"Portsmouth, Hampshire, England",Southampton,Master-at-arms,,False,50.8221133,-1.0677602492961795,0.0
-30,"Lee, Mr. Reginald Robinson",41,"Southampton, Hampshire, England",Southampton,Lookout,13,True,50.90472085,-1.3587998082396187,0.0
-31,"Lucas, Mr. William A.",25,"Southampton, Hampshire, England",Southampton,Able Seaman,D,True,50.90472085,-1.3587998082396187,0.0
-32,"Lyons, Mr. William Henry",26,"Southampton, Hampshire, England",Southampton,Able Seaman,4,True,50.90472085,-1.3587998082396187,0.0
-33,"Matherson, Mr. David",30,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-34,"Mathais, Mr. Montague Vincent",27,"Southampton, Hampshire, England",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
-35,"Maxwell, Mr. John",31,"Southampton, Hampshire, England",Belfast,Carpenter/Joiner,,False,50.90472085,-1.3587998082396187,0.0
-36,"McCarthy, Mr. William",47,"Cork, County Cork, Ireland",Southampton,Able Seaman,4,True,51.898627,-8.4705942,0.0
-37,"McGough, Mr. James R.",25,"Southampton, Hampshire, England",Southampton,Able Seaman,9,True,50.90472085,-1.3587998082396187,0.0
-38,"Moore, Mr. George Alfred",32,"Southampton, Hampshire, England",Southampton,Able Seaman,3,True,50.90472085,-1.3587998082396187,0.0
-39,"Nichols, Mr. Alfred",42,"Shirley, Hampshire, England",Belfast,Boatswain,,False,50.783826,-1.5735367,0.0
-40,"O'Loughlin, Dr. William Francis Norman",62,"Southampton, Hampshire, England",Belfast,Surgeon,,False,50.90472085,-1.3587998082396187,0.0
-41,"Olliver, Mr. Alfred",27,"Southampton, Hampshire, England",Belfast,Quartermaster,5,True,50.90472085,-1.3587998082396187,0.0
-42,"Osman, Mr. Frank",28,"Itchen, Hampshire, England",Southampton,Able Seaman,2,True,51.0893892,-1.2887593,0.0
-43,"Pascoe, Mr. Charles H.",43,"Southampton, Hampshire, England",Southampton,Able Seaman,8,True,50.90472085,-1.3587998082396187,0.0
-44,"Perkis, Mr. Walter John",37,"Southampton, Hampshire, England",Belfast,Quartermaster,4,True,50.90472085,-1.3587998082396187,0.0
-45,"Peters, Mr. William Chapman",26,"Woolston, Hampshire, England",Southampton,Able Seaman,9,True,51.3017496,-1.0535822,0.0
-46,"Poingdestre, Mr. John Thomas",33,"Southampton, Hampshire, England",Southampton,Able Seaman,12,True,50.90472085,-1.3587998082396187,0.0
-47,"Rowe, Mr. George Thomas",32,"Gosport, Hampshire, England",Belfast,Quartermaster,C,True,50.7952074,-1.1210853,0.0
-48,"Sawyer, Mr. Robert James",30,"Southampton, Hampshire, England",Southampton,Window Cleaner,,False,50.90472085,-1.3587998082396187,0.0
-49,"Scarrott, Mr. Joseph George",33,"Southampton, Hampshire, England",Southampton,Able Seaman,14,True,50.90472085,-1.3587998082396187,0.0
-50,"Simpson, Dr. John Edward",37,"Southampton, Hampshire, England",Southampton,Assistant Surgeon,,False,50.90472085,-1.3587998082396187,0.0
-51,"Smith, Mr. William",26,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-52,"Symons, Mr. George Thomas Macdonald",24,"Southampton, Hampshire, England",Southampton,Lookout,1,True,50.90472085,-1.3587998082396187,0.0
-53,"Tamlyn, Mr. Frederick",23,"Southampton, Hampshire, England",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0
-54,"Taylor, Mr. C.",35,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-55,"Terrell, Mr. Bertram",20,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0
-56,"Vigott, Mr. Philip Francis",32,"Southampton, Hampshire, England",Southampton,Able Seaman,13,True,50.90472085,-1.3587998082396187,0.0
-57,"Weller, Mr. William Clifford",30,"Southampton, Hampshire, England",Belfast,Able Seaman,7,True,50.90472085,-1.3587998082396187,0.0
-58,"Wynn, Mr. Walter",41,"Shirley, Hampshire, England",Belfast,Quartermaster,9,True,50.783826,-1.5735367,0.0
+,Name,Age,Hometown,Boarded,Position,Lifeboat,Survived,latitude,longitude,altitude,country
+0,"Anderson, Mr. James",40,"Southampton, Hampshire, England",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+1,"Anderson, Mr. John",41,"Southampton, Hampshire, England",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+2,"Archer, Mr. Ernest Edward",36,"Southampton, Hampshire, England",Southampton,Able Seaman,3,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+3,"Bailey, Mr. Joseph Henry",43,"Southampton, Hampshire, England",Southampton,Master-at-arms,16,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+4,"Bradley, Mr. T.",29,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+5,"Brice, Mr. Walter T.",42,"Southampton, Hampshire, England",Southampton,Able Seaman,11,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+6,"Bright, Mr. Arthur John",41,"Woolston, Hampshire, England",Southampton,Quartermaster,D,True,51.3017496,-1.0535822,0.0,United Kingdom
+7,"Buley, Mr. Edward John",27,"Southampton, Hampshire, England",Southampton,Able Seaman,10,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+8,"Clench, Mr. Frederick",34,"Southampton, Hampshire, England",Southampton,Able Seaman,12,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+9,"Clench, Mr. George James",31,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+10,"Couch, Mr. Frank",28,"Port Isaac, Cornwall",Southampton,Able Seaman,,False,50.5938787,-4.8299895,0.0,United Kingdom
+12,"Evans, Mr. Alfred Frank",24,"Southampton, Hampshire, England",Southampton,Lookout,15,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+13,"Evans, Mr. Frank Oliver",24,"Southampton, Hampshire, England",Southampton,Able Seaman,10,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+14,"Fleet, Mr. Frederick",24,"Southampton, Hampshire, England",Belfast,Lookout,6,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+15,"Foley, Mr. John",44,"Southampton, Hampshire, England",Belfast,Storekeeper,4,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+16,"Forward, Mr. James",27,"Southampton, Hampshire, England",Southampton,Able Seaman,16,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+17,"Haines, Mr. Albert M.",31,"Southampton, Hampshire, England",Belfast,Boatswain,9,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+18,"Harder, Mr. William",39,"Southampton, Hampshire, England",Southampton,Window Cleaner,14,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+19,"Hemming, Mr. Samuel Ernest",43,"Southampton, Hampshire, England",Belfast,Lamp Trimmer,4,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+20,"Hichens, Mr. Robert",29,"Southampton, Hampshire, England",Southampton,Quartermaster,6,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+21,"Hogg, Mr. George Alfred",29,"Southampton, Hampshire, England",Belfast,Lookout,7,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+22,"Holman, Mr. Harry",27,"Southampton, Hampshire, England",Belfast,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+23,"Hopkins, Mr. Robert John",40,"Southampton, Hampshire, England",Southampton,Able Seaman,13,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+24,"Horswill, Mr. Albert Edward James",33,"Southampton, Hampshire, England",Southampton,Able Seaman,1,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+25,"Humphreys, Mr. Sidney James",48,"Southampton, Hampshire, England",Southampton,Quartermaster,11,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+26,"Hutchinson, Mr. John Hall",26,"Southampton, Hampshire, England",Belfast,Carpenter/Joiner,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+27,"Jewell, Mr. Archie",23,"Southampton, Hampshire, England",Belfast,Lookout,7,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+28,"Jones, Mr. Thomas William",32,"Liverpool, Lancashire, England",Southampton,Able Seaman,8,True,53.6326141,-2.8105631,0.0,United Kingdom
+29,"King, Mr. Thomas W.",43,"Portsmouth, Hampshire, England",Southampton,Master-at-arms,,False,50.8221133,-1.0677602492961795,0.0,United Kingdom
+30,"Lee, Mr. Reginald Robinson",41,"Southampton, Hampshire, England",Southampton,Lookout,13,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+31,"Lucas, Mr. William A.",25,"Southampton, Hampshire, England",Southampton,Able Seaman,D,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+32,"Lyons, Mr. William Henry",26,"Southampton, Hampshire, England",Southampton,Able Seaman,4,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+33,"Matherson, Mr. David",30,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+34,"Mathais, Mr. Montague Vincent",27,"Southampton, Hampshire, England",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+35,"Maxwell, Mr. John",31,"Southampton, Hampshire, England",Belfast,Carpenter/Joiner,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+36,"McCarthy, Mr. William",47,"Cork, County Cork, Ireland",Southampton,Able Seaman,4,True,51.898627,-8.4705942,0.0,Éire / Ireland
+37,"McGough, Mr. James R.",25,"Southampton, Hampshire, England",Southampton,Able Seaman,9,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+38,"Moore, Mr. George Alfred",32,"Southampton, Hampshire, England",Southampton,Able Seaman,3,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+39,"Nichols, Mr. Alfred",42,"Shirley, Hampshire, England",Belfast,Boatswain,,False,50.783826,-1.5735367,0.0,United Kingdom
+40,"O'Loughlin, Dr. William Francis Norman",62,"Southampton, Hampshire, England",Belfast,Surgeon,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+41,"Olliver, Mr. Alfred",27,"Southampton, Hampshire, England",Belfast,Quartermaster,5,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+42,"Osman, Mr. Frank",28,"Itchen, Hampshire, England",Southampton,Able Seaman,2,True,51.0893892,-1.2887593,0.0,United Kingdom
+43,"Pascoe, Mr. Charles H.",43,"Southampton, Hampshire, England",Southampton,Able Seaman,8,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+44,"Perkis, Mr. Walter John",37,"Southampton, Hampshire, England",Belfast,Quartermaster,4,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+45,"Peters, Mr. William Chapman",26,"Woolston, Hampshire, England",Southampton,Able Seaman,9,True,51.3017496,-1.0535822,0.0,United Kingdom
+46,"Poingdestre, Mr. John Thomas",33,"Southampton, Hampshire, England",Southampton,Able Seaman,12,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+47,"Rowe, Mr. George Thomas",32,"Gosport, Hampshire, England",Belfast,Quartermaster,C,True,50.7952074,-1.1210853,0.0,United Kingdom
+48,"Sawyer, Mr. Robert James",30,"Southampton, Hampshire, England",Southampton,Window Cleaner,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+49,"Scarrott, Mr. Joseph George",33,"Southampton, Hampshire, England",Southampton,Able Seaman,14,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+50,"Simpson, Dr. John Edward",37,"Southampton, Hampshire, England",Southampton,Assistant Surgeon,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+51,"Smith, Mr. William",26,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+52,"Symons, Mr. George Thomas Macdonald",24,"Southampton, Hampshire, England",Southampton,Lookout,1,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+53,"Tamlyn, Mr. Frederick",23,"Southampton, Hampshire, England",Southampton,Mess Steward,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+54,"Taylor, Mr. C.",35,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+55,"Terrell, Mr. Bertram",20,"Southampton, Hampshire, England",Southampton,Able Seaman,,False,50.90472085,-1.3587998082396187,0.0,United Kingdom
+56,"Vigott, Mr. Philip Francis",32,"Southampton, Hampshire, England",Southampton,Able Seaman,13,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+57,"Weller, Mr. William Clifford",30,"Southampton, Hampshire, England",Belfast,Able Seaman,7,True,50.90472085,-1.3587998082396187,0.0,United Kingdom
+58,"Wynn, Mr. Walter",41,"Shirley, Hampshire, England",Belfast,Quartermaster,9,True,50.783826,-1.5735367,0.0,United Kingdom
