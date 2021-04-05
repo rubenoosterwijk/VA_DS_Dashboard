@@ -47,21 +47,74 @@ titel3 = Div(text = "<h2"">Hoofdstuk 2: Barplots en boxplots""</h2>", width = 80
 #h = figure(x_axis_label="Region", y_axis_label="GDP")
 #h.vbar(x='Region', y='GDP', source=source)
 
+
 #inladen van de dataframes
 UKRegio = pd.read_csv(r"Data K\UKRegio.csv")
+UKRegio1eKlas = pd.read_csv(r"Data K\UKRegio1eKlas.csv")
+UKRegio2eKlas = pd.read_csv(r"Data K\UKRegio2eKlas.csv")
+UKRegio3eKlas = pd.read_csv(r"Data K\UKRegio3eKlas.csv")
+
 
 # Barchart
-x_bar = UKRegio['Regio'].unique()
-y_bar = UKRegio['Regio'].value_counts()
+x_barRegio = UKRegio['Regio'].unique()
+y_barRegio = UKRegio['Regio'].value_counts()
+
+x_barRegio1 = UKRegio1eKlas['Regio'].unique()
+y_barRegio1 = UKRegio1eKlas['Regio'].value_counts()
+
+x_barRegio2 = UKRegio2eKlas['Regio'].unique()
+y_barRegio2 = UKRegio2eKlas['Regio'].value_counts()
+
+x_barRegio3 = UKRegio3eKlas['Regio'].unique()
+y_barRegio3 = UKRegio3eKlas['Regio'].value_counts()
 
 
-# plot
-bar_chart = figure(x_range=x_bar, title='Bar Plot', x_axis_label='Regio in engeland en GDP in Pond', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1500)
-bar_chart.vbar(x_bar, top=y_bar, color='blue', width=0.5)
+
+# Create ColumnDataSource: source
+sourceRegio = ColumnDataSource(data={
+    'x1' : x_barRegio,
+    'y1' : y_barRegio
+})
+
+# Maak een nieuwe plot
+bar_chart = figure(x_range=x_barRegio, title='Bar Plot',x_axis_label='Regio in engeland en GDP in Pond', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1500)
+
+
+# Voeg de barchart toe
+bar_chart.vbar('x1', top='y1', source=sourceRegio, color='blue', width=0.5)
 bar_chart.y_range.start = 0
 
+# Define a callback function: update_plot
+def update_bar_chart(attr, old, new):
+    # If all laat alle klasse zien
+    if new == 'All':
+        sourceRegio.data = {
+            'x1' : x_barRegio,
+            'y1' : y_barRegio
+        }
+    # Elif naar 1e klas
+    elif new == '1e Klass':
+        sourceRegio.data = {
+            'x1' : x_barRegio1,
+            'y1' : y_barRegio1
+        }
+    elif new == '2e Klass':
+        sourceRegio.data = {
+            'x1' : x_barRegio2,
+            'y1' : y_barRegio2
+        }
+    elif new == '3e Klass':
+        sourceRegio.data = {
+            'x1' : x_barRegio3,
+            'y1' : y_barRegio3
+        }
+
+# Create a dropdown Select widget: select
+selectRegio = Select(title="Maak keuze uit de klasse", options=["All", "1e Klass", "2e Klass", "3e Klass"], value="All")
 
 
+# Attach the update_plot callback to the 'value' property of select
+selectRegio.on_change('value', update_bar_chart)
 
 
 
@@ -122,7 +175,7 @@ def update_plot(attr, old, new):
         }
 
 # Create a dropdown Select widget: select
-select = Select(title="distribution", options=["All", "1e Klass", "2e Klass", "3e Klass"], value="All")
+select = Select(title="Keuzemenu", options=["All", "1e Klass", "2e Klass", "3e Klass"], value="All")
 
 
 # Attach the update_plot callback to the 'value' property of select
@@ -212,7 +265,7 @@ output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 #Creeer de kolommen voor de layout
 Home = column(titel1, text1)
 h1 = column(titel2, text2, data_table, text3, data_table2)
-h2 = column(titel3, bar_chart)
+h2 = column(titel3, selectRegio, bar_chart)
 h3 = column(titel4, text4, select, plot)
 
 
