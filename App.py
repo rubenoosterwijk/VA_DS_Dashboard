@@ -5,7 +5,16 @@ import pandas as pd
 from bokeh.plotting import figure, output_file, show
 from bokeh.layouts import widgetbox, row, column
 from bokeh.models.widgets import Panel, Tabs, Paragraph, Div, DataTable, DateFormatter, TableColumn
-from bokeh.models import ColumnDataSource
+from bokeh.models import ColumnDataSource, Select, Dropdown
+from bokeh.models.widgets import Panel
+from bokeh.models.widgets import Tabs
+
+from bokeh.io import show
+from bokeh.models import CheckboxGroup, CustomJS
+
+import ipywidgets
+from bokeh.io import push_notebook
+from bokeh.models import Range1d
 
 
 
@@ -42,12 +51,66 @@ titel3 = Div(text = "<h2"">Hoofdstuk 2: Histogrammen en boxplots""</h2>", width 
 # Hoofdstuk 3 Scatter en 2-D visualisatie
 titel4 = Div(text = "<h2"">Hoofdstuk 3: Scatterplots en 2-D visualisaties""</h2>", width = 800, height = 50)
 text4 = Div(text = "<h4"">Hieronder volgt scatterplot van prijs per ticket tegenover de GDP per capita""</h4>", width = 800, height = 50)
-
+#dataframes
 FareVsGDP = pd.read_csv('Data K\FareVsGDP.csv')
+FareVsGDP1 = pd.read_csv('Data K\FareVsGDP1eKlass.csv')
+FareVsGDP2 = pd.read_csv('Data K\FareVsGDP2eKlass.csv')
+FareVsGDP3 = pd.read_csv('Data K\FareVsGDP3eKlass.csv')
 
-#scatterplot
-s = figure(x_axis_label='GDP_Per_Capita', y_axis_label='Fare')
-s.circle(FareVsGDP['GDP_Per_Capita'], FareVsGDP['Fare'], size=10)
+#dropdown
+menu = [("Class 1", "Class_1"), ("Class 2", "Class_2"), None, ("Class 3", "Class_3")]
+
+
+
+# Create ColumnDataSource: source
+source = ColumnDataSource(data={
+    'x' : FareVsGDP['GDP_Per_Capita'],
+    'y' : FareVsGDP['Fare']
+})
+
+# Create a new plot: plot
+plot = figure()
+
+# Add circles to the plot
+plot.circle('x', 'y', source=source)
+
+# Define a callback function: update_plot
+def update_plot(attr, old, new):
+    # If all laat alle klasse zien
+    if new == 'All':
+        source.data = {
+            'x' : FareVsGDP['GDP_Per_Capita'],
+            'y' : FareVsGDP['Fare']
+        }
+    # Elif naar 1e klas
+    elif new == '1e Klass':
+        source.data = {
+            'x' : FareVsGDP1['GDP_Per_Capita'],
+            'y' : FareVsGDP1['Fare']
+        }
+    elif new == '2e Klass':
+        source.data = {
+            'x' : FareVsGDP2['GDP_Per_Capita'],
+            'y' : FareVsGDP2['Fare']
+        }
+    elif new == '3e Klass':
+        source.data = {
+            'x' : FareVsGDP3['GDP_Per_Capita'],
+            'y' : FareVsGDP3['Fare']
+        }
+
+# Create a dropdown Select widget: select
+select = Select(title="distribution", options=["All", "1e Klass", "2e Klass", "3e Klass"], value="All")
+
+
+# Attach the update_plot callback to the 'value' property of select
+select.on_change('value', update_plot)
+
+
+
+
+
+
 
 # Extra voorbeeldcode
 cats = list("abcdef")
@@ -109,7 +172,6 @@ p.xaxis.major_label_text_font_size="16px"
 import numpy as np
 from bokeh.plotting import figure, curdoc
 
-bokeh_doc = curdoc()
 
 sample_plot = figure(plot_height=400,
                      plot_width=400)
@@ -119,8 +181,40 @@ sample_plot.circle(x=np.random.normal(size=(10,)),
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 
 
-dashboard = column(titel1, text1, titel2, text2, data_table, text3, data_table2, titel3, titel4, text4, s, sample_plot, p)
-show(dashboard)
+
+#Creeer de kolommen voor de layout
+Home = column(titel1, text1)
+h1 = column(titel2, text2, data_table, text3, data_table2)
+h2 = column(titel3,)
+h3 = column(titel4, text4, select, plot)
+
+
+#Maak de tabs
+# Create tab1 from plot p1: tab1
+tab1 = Panel(child= Home , title='Hoofdpagina')
+
+# Create tab2 from plot p2: tab2
+tab2 = Panel(child=h1, title='Hoofdstuk 1')
+
+# Create tab3 from plot p3: tab3
+tab3 = Panel(child=h2, title='Hoofdstuk 2')
+
+# Create tab4 from plot p4: tab4
+tab4 = Panel(child=h3, title='Hoofdstuk 3')
+
+# Create tab4 from plot p4: tab4
+tab5 = Panel(child=h2, title='Hoofdstuk 4')
+
+# Create tab4 from plot p4: tab4
+tab6 = Panel(child=h2, title='Bronvermelding')
+
+
+
+# Create layout and add to current document
+
+#layout = column(titel1, text1, titel2, text2, data_table, text3, data_table2, titel3, titel4, text4, select, plot)
+layout = Tabs(tabs=[tab1, tab2, tab3, tab4, tab5, tab6])
+curdoc().add_root(layout)
 
 
 
