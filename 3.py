@@ -1,9 +1,14 @@
-from bokeh.io import curdoc
+from bokeh.io import curdoc, show
 from bokeh.layouts import column
-from bokeh.models import Div, CheckboxGroup, CheckboxButtonGroup
+from bokeh.models import Div, CheckboxGroup, CheckboxButtonGroup, Button, OpenURL, Dropdown
 from functools import partial
-
-
+import folium
+import pandas as pd
+import seaborn as sns
+import numpy as np
+from folium.plugins import MarkerCluster, HeatMap
+from bokeh.plotting import gmap
+import webbrowser
 
 dfdic = {
     'FirstClass': ['FirstClass_Manipulated.csv', '#DAA520', 'credit-card-alt'],
@@ -20,32 +25,32 @@ dfdic = {
 }
 #
 passengerdictonary = {
-    0: dfdic["FirstClass"],
-    1: dfdic['SecondClass'],
-    2: dfdic['ThirdClass']
+    0: "FirstClass",
+    1: 'SecondClass',
+    2: 'ThirdClass'
 }
 
 crewdictonary = {
-    3: dfdic['DeckCrew'],
-    4: dfdic['EngineeringCrew'],
-    5: dfdic['Officers'],
-    6: dfdic['OrchestraCrew'],
-    7: dfdic['PostalCrew'],
-    8: dfdic['RestaurantCrew'],
-    9: dfdic['VictuallingCrew']
+    3: 'DeckCrew',
+    4: 'EngineeringCrew',
+    5: 'Officers',
+    6: 'OrchestraCrew',
+    7: 'PostalCrew',
+    8: 'RestaurantCrew',
+    9: 'VictuallingCrew'
 }
 
 totaldictonary = {
-    0: dfdic["FirstClass"],
-    1: dfdic['SecondClass'],
-    2: dfdic['ThirdClass'],
-    3: dfdic['DeckCrew'],
-    4: dfdic['EngineeringCrew'],
-    5: dfdic['Officers'],
-    6: dfdic['OrchestraCrew'],
-    7: dfdic['PostalCrew'],
-    8: dfdic['RestaurantCrew'],
-    9: dfdic['VictuallingCrew']
+    0: "FirstClass",
+    1: 'SecondClass',
+    2: 'ThirdClass',
+    3: 'DeckCrew',
+    4: 'EngineeringCrew',
+    5: 'Officers',
+    6: 'OrchestraCrew',
+    7: 'PostalCrew',
+    8: 'RestaurantCrew',
+    9: 'VictuallingCrew'
 }
 
 dflist = [
@@ -65,6 +70,8 @@ dflist = [
 colordic = {
     True: 'green',
     False: "red"}
+
+maptype = "MarkerMap"
 
 dlist = list(dfdic)
 
@@ -125,30 +132,97 @@ c.on_change('active', checkbox_changed)
 
 
 def drawmap(lijst):
+    map1 = folium.Map(
+        location=[50, 0],
+        tiles='stamentoner',
+        zoom_start=1,
+    )
+
+    print(type(lijst))
     print(lijst)
-    pass
+    teller = 0
 
 
-def forwardData(list, data, lijst=[]):
-    if list =='passengerlist':
-        i = 0
+
+    for naam in lijst:
+        print(naam)
+        print(maptype)
+        path = "Manipulated/" + naam + "_Manipulated.csv"
+        df = pd.read_csv(path, index_col=0)
+        df = df.dropna(subset=["latitude"]).reset_index(drop=True)
+        dflist[teller] = df
+
+        unique = df.groupby('Hometown')['Name'].nunique()
+        # print (unique)
+        title = dlist[teller]
+        if maptype == "MarkerMap":
+            feature_group = folium.FeatureGroup(title)
+            marker_cluster = MarkerCluster().add_to(map1)
+
+            for row in df.itertuples():
+                folium.Marker(
+                    location=[row.latitude, row.longitude],
+                    radius=1,
+                    popup=(str(row.Name + " :"+row.Position)),
+                    # fill=True, # Set fill to True
+                    # fill_color=color_producer(el),
+                    color=dfdic[naam][1],
+                    icon=folium.Icon(color=colordic[row.Survived],
+                                     icon_color='white',
+                                     icon=dfdic[naam][2],
+                                     angle=0,
+                                     prefix='fa')).add_to(feature_group)
+
+            feature_group.add_to(map1)
+            teller = teller + 1
+
+        if maptype == "ClusterMap":
+            feature_group = folium.FeatureGroup(title)
+            marker_cluster = MarkerCluster().add_to(map1)
+
+            for row in df.itertuples():
+                folium.Marker(
+                    location=[row.latitude, row.longitude],
+                    radius=1,
+                    popup=(str(row.Name + " :"+row.Position)),
+                    # fill=True, # Set fill to True
+                    # fill_color=color_producer(el),
+                    color=dfdic[naam][1],
+                    icon=folium.Icon(color=colordic[row.Survived],
+                                     icon_color='white',
+                                     icon=dfdic[naam][2],
+                                     angle=0,
+                                     prefix='fa')).add_to(marker_cluster)
+
+            feature_group.add_to(map1)
+            teller = teller + 1
+
+        if maptype == "HeatMap":
+            heat_data = [[row['latitude'], row['longitude']] for index, row in df.iterrows()]
+            # Plot it on the map
+            HeatMap(heat_data).add_to(map1)
+
+    folium.LayerControl().add_to(map1)
+    map1.save(r'C:\Users\ruben\Data\Titinic_Locations.html')
+    print("saving done...")
+
+
+def forwardData(list, data):
+    lijst = []
+    if list == 'passengerlist':
         for a in data:
             print(a)
-            lijst[i]= passengerdictonary[a]
-            i = i +1
+            lijst.append(passengerdictonary[a])
 
     if list == 'crewlist':
-        i = 0
         for a in data:
             print(a)
-            lijst[i] = crewdictonary[a]
-            i = i + 1
-    if list =='totallist':
-        i = 0
+            lijst.append(crewdictonary[a])
+
+    if list == 'totallist':
         for a in data:
             print(a)
-            lijst[i]= totaldictonary[a]
-            i = i + 1
+            lijst.append(totaldictonary[a])
 
     drawmap(lijst)
 
@@ -165,20 +239,44 @@ def getPassengers(attr, old, new):
     # new = [new]
     forwardData("passengerlist", new)
 
+
 def getCrew(attr, old, new):
     print(type(new))
     # new = [new]
-    forwardData("crewlist",  new)
+    forwardData("crewlist", new)
+
 
 def getBoth(attr, old, new):
     print(type(new))
     # new = [new]
-    forwardData("totallist",  new)
+    forwardData("totallist", new)
 
+
+def showMap():
+    url = r"C:\Users\ruben\Data\Titinic_Locations.html"
+    webbrowser.open_new_tab(url)
 
 d1.on_change('active', getPassengers)
 d2.on_change('active', getCrew)
 d3.on_change('active', getBoth)
 
+# menu = [("MarkerMap", "item_1"), ("ClusterMap", "item_2"), ("HeatMap", "item_3")]
+#
+# dropdown = Dropdown(label="Choose map type", menu=menu)
+#
+# dropdown.on_change('value', getType)
+dropdown = Dropdown(label='Choose map type', menu=['MarkerMap', 'ClusterMap', 'HeatMap'])
 
-curdoc().add_root(column(c, d1, d2, d3))
+
+def handler(event):
+    global maptype
+    maptype = event.item
+
+dropdown.on_click(handler)
+
+button = Button(label="ShowMap", button_type="success")
+button.on_click(showMap)
+# mapa = Div(text="<iframe src="r'C:\Users\ruben\Data\Titinic_Locations.html'" style='min-width:calc(100vw - 26px); height: 500px'><iframe>")
+
+# show(mapa)
+curdoc().add_root(column(c, dropdown,  d1, d2, d3, button))
