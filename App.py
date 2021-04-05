@@ -48,15 +48,15 @@ titel3 = Div(text = "<h2"">Hoofdstuk 2: Barplots en boxplots""</h2>", width = 80
 #h.vbar(x='Region', y='GDP', source=source)
 
 #inladen van de dataframes
-UKRegio = pd.read_csv('Data K\UKRegio.csv')
+UKRegio = pd.read_csv(r"Data K\UKRegio.csv")
 
 # Barchart
-x_bar = UKRegio['Regio']
+x_bar = UKRegio['Regio'].unique()
 y_bar = UKRegio['Regio'].value_counts()
 
 
 # plot
-bar_chart = figure(x_range=x_bar, title='Bar Plot', x_axis_label='x', y_axis_label='y', plot_height=300)
+bar_chart = figure(x_range=x_bar, title='Bar Plot', x_axis_label='Regio in engeland', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1000)
 bar_chart.vbar(x_bar, top=y_bar, color='blue', width=0.5)
 bar_chart.y_range.start = 0
 
