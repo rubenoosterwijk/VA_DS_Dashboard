@@ -4,10 +4,8 @@ import numpy as np
 import pandas as pd
 from bokeh.plotting import figure, output_file, show
 from bokeh.layouts import widgetbox, row, column
-from bokeh.models.widgets import Panel, Tabs, Paragraph, Div
-from bokeh.models.widgets import DataTable, DateFormatter, TableColumn
+from bokeh.models.widgets import Panel, Tabs, Paragraph, Div, DataTable, DateFormatter, TableColumn
 from bokeh.models import ColumnDataSource
-from bokeh.plotting import figure
 
 
 
@@ -25,8 +23,13 @@ d = {'Region': ['London', 'Rest South East', 'East Anglia', 'South West', 'West 
                 'East Midlands', 'North West', 'Yorks & Humb', 'North', 'Wales', 'Scotland', 'Ireland'],
      'GDP': [416.0, 313.8, 48.8, 120.9, 158.0, 130.2, 323.1, 185.9, 130.2, 116.5, 240.0, 146.8]}
 df = pd.DataFrame(data=d)
-source = ColumnDataSource(df)
+Columns = [TableColumn(field=Ci, title=Ci) for Ci in df.columns] # bokeh columns
+data_table = DataTable(columns=Columns, source=ColumnDataSource(df)) # bokeh table
 
+text3 = Div(text = "<h4"">Daarnaast hebben we de bemanning en passagiers opgedeeld in werkfunctie en klasse. Hieronder volgt een voorbeeld van de passagiers uit de eerste klasse""</h4>", width = 800, height = 50)
+FirstClass = pd.read_csv('Passengers\FirstClass.csv')
+Columns = [TableColumn(field=Ci, title=Ci) for Ci in FirstClass.columns] # bokeh columns
+data_table2 = DataTable(columns=Columns, source=ColumnDataSource(FirstClass)) # bokeh table
 
 
 
@@ -36,9 +39,15 @@ titel3 = Div(text = "<h2"">Hoofdstuk 2: Histogrammen en boxplots""</h2>", width 
 #h.vbar(x='Region', y='GDP', source=source)
 
 
+# Hoofdstuk 3 Scatter en 2-D visualisatie
+titel4 = Div(text = "<h2"">Hoofdstuk 3: Scatterplots en 2-D visualisaties""</h2>", width = 800, height = 50)
+text4 = Div(text = "<h4"">Hieronder volgt scatterplot van prijs per ticket tegenover de GDP per capita""</h4>", width = 800, height = 50)
 
+FareVsGDP = pd.read_csv('Data K\FareVsGDP.csv')
 
-
+#scatterplot
+s = figure(x_axis_label='GDP_Per_Capita', y_axis_label='Fare')
+s.circle(FareVsGDP['GDP_Per_Capita'], FareVsGDP['Fare'], size=10)
 
 # Extra voorbeeldcode
 cats = list("abcdef")
@@ -110,7 +119,7 @@ sample_plot.circle(x=np.random.normal(size=(10,)),
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 
 
-dashboard = column(titel1, text1, titel2, text2, data_table, titel3, sample_plot, p, vplot(hplot(hist)))
+dashboard = column(titel1, text1, titel2, text2, data_table, text3, data_table2, titel3, titel4, text4, s, sample_plot, p)
 show(dashboard)
 
 
