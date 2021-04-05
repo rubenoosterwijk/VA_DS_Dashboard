@@ -56,7 +56,7 @@ y_bar = UKRegio['Regio'].value_counts()
 
 
 # plot
-bar_chart = figure(x_range=x_bar, title='Bar Plot', x_axis_label='Regio in engeland', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1000)
+bar_chart = figure(x_range=x_bar, title='Bar Plot', x_axis_label='Regio in engeland en GDP in Pond', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1500)
 bar_chart.vbar(x_bar, top=y_bar, color='blue', width=0.5)
 bar_chart.y_range.start = 0
 
