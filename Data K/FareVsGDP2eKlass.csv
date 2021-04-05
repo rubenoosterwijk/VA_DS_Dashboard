@@ -1,0 +1,97 @@
+,Name,Hometown,Fare,Pclass,GDP_Per_Capita
+21,"Beauchamp, Mr. Henry James","London, England, UK",26.0,2,4611
+22,"Beesley, Mr. Lawrence","London, England, UK",13.0,2,4611
+23,"Brown, Mr. Thomas William Solomon","Cape Town, South Africa, UK[note 4]",39.0,2,4611
+24,"Deacon, Mr. Percy William","Fritham, Hampshire, England, UK",73.5,2,4611
+25,"Fillbrook, Mr. Joseph Charles","Truro, Cornwall, England, UK",10.5,2,4611
+26,"Gale, Mr. Harry","Harrowbarrow, Cornwall, England, UK",21.0,2,4611
+27,"Gale, Mr. Shadrach","Harrowbarrow, Cornwall, England, UK",21.0,2,4611
+73,"Ashby, Mr. John","West Hoboken, New Jersey, US",13.0,2,4964
+74,"Botsford, Mr. William Hull","Orange, New Jersey, US",13.0,2,4964
+75,"Chapman, Mr. Charles Henry","Bronx, New York, US",13.5,2,4964
+76,"Drew, Mr. James Vivian","Greenport, New York, US",32.5,2,4964
+77,"Fox, Mr. Stanley Hubert","Rochester, New York, US",13.0,2,4964
+78,"Greenberg, Mr. Samuel","Bronx, New York, US",13.0,2,4964
+79,"Hale, Mr. Reginald","Auburn, New York, US",13.0,2,4964
+80,"Hocking, Mr. Richard George","Akron, Ohio, US",11.5,2,4964
+81,"Hunt, Mr. George Henry","Philadelphia, Pennsylvania, US",12.275,2,4964
+82,"Lingane, Mr. John","Chelsea, Michigan, US",12.35,2,4964
+83,"Moraweck, Dr. Ernest","Frankfort, Kentucky, US",14.0,2,4964
+84,"Otter, Mr. Richard","Middleburg Heights, Ohio, US",13.0,2,4964
+85,"Portaluppi, Mr. Emilio Ilario Giuseppe","Milford, New Hampshire, US",12.7375,2,4964
+86,"Renouf, Mr. Peter Henry","Elizabeth, New Jersey, US",21.0,2,4964
+87,"Schmidt, Mr. August","Newark, New Jersey, US",13.0,2,4964
+88,"Veal, Mr. James","Barre, Vermont, US",13.0,2,4964
+89,"Hosono, Mr. Masabumi","Tokyo, Japan",13.0,2,1304
+90,"Kantor, Mr. Sinai","Vitebsk, Russian Empire",26.0,2,1348
+91,"Bryhl, Mr. Kurt Arnold Gottfrid","Skara, Västergötland, Sweden",26.0,2,2543
+92,"Kvillner, Mr. Johan Henrik Johannesson","Trollhättan, Västergötland, Sweden",10.5,2,2543
+94,"Gillespie, Mr. William Henry","Abbeyleix, Laois, Ireland[note 1]",13.0,2,4611
+95,"Keane, Mr. Daniel","Limerick, Ireland[note 1]",12.35,2,4611
+96,"Lamb, Mr. John Joseph","Glencree, Ireland[note 1]",10.7083,2,4611
+97,"Myles, Mr. Thomas Francis","Fermoy, Ireland[note 1]",9.6875,2,4611
+99,"McCrae, Mr. Arthur Gordon","Sydney, New South Wales, Australia",13.5,2,5210
+100,"Pallas y Castello, Mr. Emilio","Barcelona, Catalonia, Spain",13.8583,2,1895
+121,"Andrew, Mr. Frank Thomas","Redruth, Cornwall, England",10.5,2,4611
+122,"Bailey, Mr. Percy Andrew","Penzance, Cornwall, England",11.5,2,4611
+123,"Banfield, Mr. Frederick James","Plymouth, Devon, England",10.5,2,4611
+124,"Beauchamp, Mr. Henry James","London, England, UK",26.0,2,4611
+125,"Beesley, Mr. Lawrence","London, England, UK",13.0,2,4611
+126,"Berriman, Mr. William John","St. Ives, Cornwall, England",13.0,2,4611
+127,"Bowenur, Mr. Solomon","London, England",13.0,2,4611
+128,"Butler, Mr. Reginald Fenton","Southsea, Hampshire, England",13.0,2,4611
+129,"Carbines, Mr. William","St. Ives, Cornwall, England",13.0,2,4611
+130,"Chapman, Mr. John Henry","Liskeard, Cornwall, England",26.0,2,4611
+131,"Clarke, Mr. Charles Valentine","Netley Abbey, Hampshire, England",26.0,2,4611
+132,"Coleridge, Mr. Reginald Charles","London, England",10.5,2,4611
+133,"Collyer, Mr. Harvey","Bishopstoke, Hampshire, England",26.25,2,4611
+134,"Davies, Mr. Charles Henry","Lyndhurst, Hampshire, England",73.5,2,4611
+135,"Deacon, Mr. Percy William","Fritham, Hampshire, England, UK",73.5,2,4611
+136,"Dibden, Mr. William","Lyndhurst, Hampshire, England",73.5,2,4611
+137,"Fillbrook, Mr. Joseph Charles","Truro, Cornwall, England, UK",10.5,2,4611
+138,"Gale, Mr. Harry","Harrowbarrow, Cornwall, England, UK",21.0,2,4611
+139,"Gale, Mr. Shadrach","Harrowbarrow, Cornwall, England, UK",21.0,2,4611
+140,"Gilbert, Mr. William","Carleens, Cornwall, England",10.5,2,4611
+141,"Giles, Mr. Edgar","Porthleven, Cornwall, England",11.5,2,4611
+142,"Giles, Mr. Frederick Edward","Porthleven, Cornwall, England",11.5,2,4611
+143,"Giles, Mr. Ralph","London, England",13.5,2,4611
+144,"Gill, Mr. John William","Clevedon, North Somerset, England",13.0,2,4611
+145,"Harris, Mr. George","London, England",10.5,2,4611
+146,"Harris, Mr. Walter","London, England",10.5,2,4611
+147,"Hart, Mr. Benjamin","Ilford, Essex, England",26.25,2,4611
+148,"Herman, Mr. Samuel","Yeovil, Somerset, England",65.0,2,4611
+149,"Hickman, Mr. Lewis","Fritham, Hampshire, England",73.5,2,4611
+150,"Hickman, Mr. Leonard Mark","Fritham, Hampshire, England",73.5,2,4611
+151,"Hickman, Mr. Stanley George","Fritham, Hampshire, England",73.5,2,4611
+152,"Hocking, Mr. Samuel James Metcalfe","Devonport, Devon, England",13.0,2,4611
+153,"Hodges, Mr. Henry Price","Southampton, Hampshire, England",13.0,2,4611
+154,"Hold, Mr. Stephen","Porthoustock, Cornwall, England",26.0,2,4611
+155,"Howard, Mr. Benjamin","Swindon, Wiltshire, England",26.0,2,4611
+156,"Jacobsohn, Mr. Sidney Samuel","London, England",27.0,2,4611
+157,"Jenkin, Mr. Stephen Curnow","St. Ives, Cornwall, England",10.5,2,4611
+158,"Leyson, Mr. Robert William Norman","London, England",10.5,2,4611
+159,"Louch, Mr. Charles Alexander","Weston-super-Mare, North Somerset, England",26.0,2,4611
+160,"Matthews, Mr. William John","St Austell, Cornwall, England",13.0,2,4611
+161,"Maybery, Mr. Frank Hubert","Weston-super-Mare, North Somerset, England",16.0,2,4611
+162,"Mellors, Mr. William John","Chelsea, London, England",10.5,2,4611
+163,"Meyer, Mr. August","Harrow, London, England",13.0,2,4611
+164,"Mudd, Mr. Thomas Charles","Huntingfield, Suffolk, England",10.5,2,4611
+165,"Nesson, Mr. Israel","London, England",13.0,2,4611
+166,"Oxenham, Mr. Percy Thomas","London, England",10.5,2,4611
+167,"Pengelly, Mr. Frederick William","Gunnislake, Cornwall, England",10.5,2,4611
+168,"Phillips, Mr. Escott Robert","Ilfracombe, Devon, England",21.0,2,4611
+169,"Ponesell, Mr. Martin","Southampton, Hampshire, England",13.0,2,4611
+170,"Reeves, Mr. David","Slinfold, West Sussex, England",10.5,2,4611
+171,"Rogers, Mr. Reginald Harry","Tavistock, Devon, England",10.5,2,4611
+172,"Sedgwick, Mr. Charles Frederick Waddington","Liverpool, Merseyside, England",13.0,2,4611
+173,"Slemen, Mr. Richard James","Landrake, Cornwall, England",10.5,2,4611
+174,"Sobey, Mr. Samuel James Hayden","Porthallow, Cornwall, England",13.0,2,4611
+175,"Stokes, Mr. Philip Joseph","London, England",10.5,2,4611
+176,"Sweet, Mr. George Frederick","Yeovil, Somerset, England",65.0,2,4611
+177,"Troupiansky, Mr. Moses Aaron","London, England",13.0,2,4611
+178,"Turpin, Mr. William John Robert","Plymouth, Devon, England",21.0,2,4611
+179,"Ware, Mr. John James","Bristol, Avon, England",21.0,2,4611
+180,"Ware, Mr. William Jeffery","Gunnislake, Cornwall, England",10.5,2,4611
+181,"Weisz, Mr. Leopold","Bromsgrove, Worcestershire, England",26.0,2,4611
+182,"West, Mr. Edwy Arthur","Bournemouth, Dorset, England",27.75,2,4611
+183,"Williams, Mr. Charles Eugene","Harrow, London, England",13.0,2,4611

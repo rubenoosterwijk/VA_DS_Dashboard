@@ -1,0 +1,88 @@
+,Name,Hometown,Fare,Pclass,GDP_Per_Capita
+0,"Barkworth, Mr. Algernon Henry Wilson","Hessle, East Yorkshire, England, UK",30.0,1,4611
+1,"Borebank, Mr. John James","London, England, UK",26.55,1,4611
+2,"Case, Mr. Howard Brown","Ascot, Berkshire, England, UK",26.0,1,4611
+3,"Cavendish, Mr. Tyrell William","London, England, UK",78.85,1,4611
+4,"Colley, Mr. Edward Pomeroy","Dublin, Ireland, UK[note 1]",25.5875,1,4611
+5,"Frauenthal, Dr. Henry William","London, England, UK",133.65,1,4611
+6,"Frauenthal, Mr. Isaac Gerald","London, England, UK",27.7208,1,4611
+7,"Hawksford, Mr. Walter James","Kingston, Surrey, England, UK",30.0,1,4611
+8,"Head, Mr. Christopher","Chelsea, London, England, UK",42.5,1,4611
+9,"Hipkins, Mr. William Edward","Birmingham, West Midlands, England, UK",50.0,1,4611
+10,"Ismay, Mr. Joseph Bruce","Liverpool, Merseyside, England, UK",0.0,1,4611
+11,"Julian, Mr. Henry Forbes","Torquay, Devon, England, UK",26.0,1,4611
+12,"Loring, Mr. Joseph Holland","London, England, UK",45.5,1,4611
+13,"Nicholson, Mr. Arthur Ernest","Shanklin, Isle of Wight, England, UK",26.0,1,4611
+14,"Pears, Mr. Thomas Clinton","Isleworth, London, England, UK",66.6,1,4611
+15,"Saalfeld, Mr. Adolphe","Manchester, England, UK",30.5,1,4611
+16,"Smart, Mr. John Montgomery","Kildale, North Yorkshire, England, UK",26.55,1,4611
+17,"Smith, Mr. Richard William","Streatham, London, England, UK",26.0,1,4611
+18,"Stead, Mr. William Thomas","London, England, UK",26.55,1,4611
+19,"Taylor, Mr. Elmer Zebley","London, England, UK",52.0,1,4611
+20,"Woolner, Mr. Hugh","London, England, UK",35.5,1,4611
+28,"Blackwell, Mr. Stephen Weart","Trenton, New Jersey, US",35.5,1,4964
+29,"Blank, Mr. Henry","Glen Ridge, New Jersey, US",31.0,1,4964
+30,"Brady, Mr. John Bertram","Pomeroy, Washington, US",30.5,1,4964
+31,"Brandeis, Mr. Emil","Omaha, Nebraska, US",50.4958,1,4964
+32,"Brewe, Dr. Arthur Jackson","Philadelphia, Pennsylvania, US",39.6,1,4964
+33,"Cardeza, Mr. Thomas Drake Martinez","Germantown, Pennsylvania, US",512.3292,1,4964
+34,"Carter, Mr. William Ernest","Bryn Mawr, Pennsylvania, US",120.0,1,4964
+35,"Chaffee, Mr. Herbert Fuller","Amenia, North Dakota, US",61.175,1,4964
+36,"Clark, Mr. Walter Miller","Los Angeles, California, US",136.7792,1,4964
+37,"Clifford, Mr. George Quincy","Stoughton, Massachusetts, US",52.0,1,4964
+38,"Crafton, Mr. John Bertram","Roachdale, Indiana, US",26.55,1,4964
+39,"Daniel, Mr. Robert Williams","Philadelphia, Pennsylvania, US",30.5,1,4964
+40,"Dodge, Dr. Washington","San Francisco, California, US",81.8583,1,4964
+41,"Douglas, Mr. Walter Donald","Minneapolis, Minnesota, US",106.425,1,4964
+42,"Dulles, Mr. William Crothers","Philadelphia, Pennsylvania, US",29.7,1,4964
+43,"Futrelle, Mr. Jacques Heath","Scituate, Massachusetts, US",53.1,1,4964
+44,"Hilliard, Mr. Herbert Henry","Brighton, Massachusetts, US",51.8625,1,4964
+45,"Jones, Mr. Charles Cresson","Bennington, Vermont, US",26.0,1,4964
+46,"Kent, Mr. Edward Austin","Buffalo, New York, US",29.7,1,4964
+47,"Klaber, Mr. Herman","Portland, Oregon, US",26.55,1,4964
+48,"Long, Mr. Milton Clyde","Springfield, Massachusetts, US",30.0,1,4964
+49,"Maguire, Mr. John Edward","Brockton, Massachusetts, US",26.0,1,4964
+50,"McGough, Mr. James Robert","Philadelphia, Pennsylvania, US",26.2875,1,4964
+51,"Millet, Mr. Francis Davis","East Bridgewater, Massachusetts, US",26.55,1,4964
+52,"Minahan, Dr. William Edward","Fond du Lac, Wisconsin, US",90.0,1,4964
+53,"Newell, Mr. Arthur Webster","Lexington, Massachusetts, US",113.275,1,4964
+54,"Ostby, Mr. Engelhart Cornelius","Providence, Rhode Island, US",61.9792,1,4964
+55,"Porter, Mr. Walter Chamberlain","Worcester, Massachusetts, US",52.0,1,4964
+56,"Roebling, Mr. Washington Augustus II","Trenton, New Jersey, US",50.4958,1,4964
+57,"Rood, Mr. Hugh Roscoe","Seattle, Washington, US",50.0,1,4964
+58,"Ryerson, Mr. Arthur Larned","Cooperstown, New York, US",262.375,1,4964
+59,"Silverthorne, Mr. Spencer Victor","St Louis, Missouri, US",26.2875,1,4964
+60,"Silvey, Mr. William Baird","Duluth, Minnesota, US",55.9,1,4964
+61,"Sloper, Mr. William Thompson","New Britain, Connecticut, US",35.5,1,4964
+62,"Smith, Mr. Lucien Philip","Huntington, West Virginia, US",60.0,1,4964
+63,"Snyder, Mr. John Pillsbury","Minneapolis, Minnesota, US",82.2667,1,4964
+64,"Spedden, Mr. Frederic Oakley","Tuxedo Park, New York, US",134.5,1,4964
+65,"Stengel, Mr. Charles Emil Henry","Newark, New Jersey, US",55.4417,1,4964
+66,"Sutton, Mr. Frederick","Haddonfield, New Jersey, US",32.3208,1,4964
+67,"Walker, Mr. William Anderson","East Orange, New Jersey, US",34.0208,1,4964
+68,"Warren, Mr. Frank Manley","Portland, Oregon, US",75.25,1,4964
+69,"White, Mr. Percival Wayland","Brunswick, Maine, US",77.2875,1,4964
+70,"White, Mr. Richard Frasar","Brunswick, Maine, US",77.2875,1,4964
+71,"Widener, Mr. George Dunton","Philadelphia, Pennsylvania, US",211.5,1,4964
+72,"Widener, Mr. Harry Elkins","Philadelphia, Pennsylvania, US",211.5,1,4964
+93,"Colley, Mr. Edward Pomeroy","Dublin, Ireland, UK[note 1]",25.5875,1,4611
+101,"Barkworth, Mr. Algernon Henry Wilson","Hessle, East Yorkshire, England, UK",30.0,1,4611
+102,"Borebank, Mr. John James","London, England, UK",26.55,1,4611
+103,"Case, Mr. Howard Brown","Ascot, Berkshire, England, UK",26.0,1,4611
+104,"Cavendish, Mr. Tyrell William","London, England, UK",78.85,1,4611
+105,"Frauenthal, Dr. Henry William","London, England, UK",133.65,1,4611
+106,"Frauenthal, Mr. Isaac Gerald","London, England, UK",27.7208,1,4611
+107,"Hawksford, Mr. Walter James","Kingston, Surrey, England, UK",30.0,1,4611
+108,"Head, Mr. Christopher","Chelsea, London, England, UK",42.5,1,4611
+109,"Hipkins, Mr. William Edward","Birmingham, West Midlands, England, UK",50.0,1,4611
+110,"Ismay, Mr. Joseph Bruce","Liverpool, Merseyside, England, UK",0.0,1,4611
+111,"Julian, Mr. Henry Forbes","Torquay, Devon, England, UK",26.0,1,4611
+112,"Loring, Mr. Joseph Holland","London, England, UK",45.5,1,4611
+113,"Nicholson, Mr. Arthur Ernest","Shanklin, Isle of Wight, England, UK",26.0,1,4611
+114,"Pears, Mr. Thomas Clinton","Isleworth, London, England, UK",66.6,1,4611
+115,"Saalfeld, Mr. Adolphe","Manchester, England, UK",30.5,1,4611
+116,"Smart, Mr. John Montgomery","Kildale, North Yorkshire, England, UK",26.55,1,4611
+117,"Smith, Mr. Richard William","Streatham, London, England, UK",26.0,1,4611
+118,"Stead, Mr. William Thomas","London, England, UK",26.55,1,4611
+119,"Taylor, Mr. Elmer Zebley","London, England, UK",52.0,1,4611
+120,"Woolner, Mr. Hugh","London, England, UK",35.5,1,4611
