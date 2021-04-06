@@ -8,7 +8,12 @@ from bokeh.models.widgets import Panel, Tabs, Paragraph, Div, DataTable, DateFor
 from bokeh.models import ColumnDataSource, Select, Dropdown
 from bokeh.models.widgets import Panel
 from bokeh.models.widgets import Tabs
+import seaborn as sns
+import matplotlib.pyplot as plt
+import holoviews as hv
+from holoviews import dim
 
+hv.extension('bokeh')
 from bokeh.io import show
 from bokeh.models import CheckboxGroup, CustomJS
 
@@ -53,6 +58,10 @@ UKRegio = pd.read_csv(r"Data K\UKRegio.csv")
 UKRegio1eKlas = pd.read_csv(r"Data K\UKRegio1eKlas.csv")
 UKRegio2eKlas = pd.read_csv(r"Data K\UKRegio2eKlas.csv")
 UKRegio3eKlas = pd.read_csv(r"Data K\UKRegio3eKlas.csv")
+
+Klas1 = pd.read_csv(r"Manipulated\FirstClass_Manipulated.csv")
+Klas2 = pd.read_csv(r"Manipulated\SecondClass_Manipulated.csv")
+Klas3 = pd.read_csv(r"Manipulated\ThirdClass_Manipulated.csv")
 
 # Barchart
 x_barRegio = UKRegio['Regio'].unique()
@@ -100,21 +109,21 @@ bar_chart.vbar('x', top='y', source=sourceRegio, color='blue', width=0.5)
 bar_chart.y_range.start = 0
 
 bar_chart1 = figure(x_range=x_barRegio, title='BarPlot 1e Klasse', x_axis_label='Regio in engeland en GDP in Pond',
-                   y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
+                    y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
 
 # Voeg de barchart toe
 bar_chart1.vbar('x', top='y', source=sourceRegio1, color='blue', width=0.5)
 bar_chart1.y_range.start = 0
 
-bar_chart2 = figure(x_range=x_barRegio, title='BarPlot 2e Klasse', x_axis_label='Regio in engeland en GDP in Pond',
-                   y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
+bar_chart420 = figure(x_range=x_barRegio, title='BarPlot 2e Klasse', x_axis_label='Regio in engeland en GDP in Pond',
+                      y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
 
 # Voeg de barchart toe
-bar_chart2.vbar('x', top='y', source=sourceRegio2, color='blue', width=0.5)
-bar_chart2.y_range.start = 0
+bar_chart420.vbar('x', top='y', source=sourceRegio2, color='blue', width=0.5)
+bar_chart420.y_range.start = 0
 
 bar_chart3 = figure(x_range=x_barRegio, title='BarPlot 3e Klasse', x_axis_label='Regio in engeland en GDP in Pond',
-                   y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
+                    y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
 
 # Voeg de barchart toe
 bar_chart3.vbar('x', top='y', source=sourceRegio3, color='blue', width=0.5)
@@ -122,9 +131,24 @@ bar_chart3.y_range.start = 0
 
 bar_chart.visible = False
 bar_chart1.visible = False
-bar_chart2.visible = False
+bar_chart420.visible = False
 bar_chart3.visible = False
 
+Klas1["Age"] = pd.to_numeric(Klas1["Age"], errors='coerce')
+Klas2["Age"] = pd.to_numeric(Klas2["Age"], errors='coerce')
+Klas3["Age"] = pd.to_numeric(Klas3["Age"], errors='coerce')
+
+
+# boxplot1 = sns.catplot(x="country", y="Age", hue="Survived", data=Klas1, palette="Set3", kind="box")
+# boxplot2 = sns.catplot(x="country", y="Age", hue="Survived", data=Klas2, palette="Set3", kind="box")
+# boxplot3 = sns.catplot(x="country", y="Age", hue="Survived", data=Klas3, palette="Set3", kind="box")
+
+# boxplot1 = sns.catplot(x="Age", y="Survived", kind="box", orient="h", height=1.5, aspect=4,
+#                 data=Klas1)
+# boxplot2 = sns.catplot(x="Age", y="Survived", kind="box", orient="h", height=1.5, aspect=4,
+#                 data=Klas2)
+# boxplot3 = sns.catplot(x="Age", y="Survived", kind="box", orient="h", height=1.5, aspect=4,
+#                 data=Klas3)
 
 
 # Define a callback function: update_plot
@@ -135,23 +159,23 @@ def update_bar_chart(event):
     if new == 'All':
         bar_chart.visible = True
         bar_chart1.visible = False
-        bar_chart2.visible = False
+        bar_chart420.visible = False
         bar_chart3.visible = False
     # Elif naar 1e klas
     elif new == '1e Klass':
         bar_chart.visible = False
         bar_chart1.visible = True
-        bar_chart2.visible = False
+        bar_chart420.visible = False
         bar_chart3.visible = False
     elif new == '2e Klass':
         bar_chart.visible = False
         bar_chart1.visible = False
-        bar_chart2.visible = True
+        bar_chart420.visible = True
         bar_chart3.visible = False
     elif new == '3e Klass':
         bar_chart.visible = False
         bar_chart1.visible = False
-        bar_chart2.visible = False
+        bar_chart420.visible = False
         bar_chart3.visible = True
 
 
@@ -256,13 +280,13 @@ passengerdictonary = {
 }
 
 crewdictonary = {
-    3: 'DeckCrew',
-    4: 'EngineeringCrew',
-    5: 'Officers',
-    6: 'OrchestraCrew',
-    7: 'PostalCrew',
-    8: 'RestaurantCrew',
-    9: 'VictuallingCrew'
+    0: 'DeckCrew',
+    1: 'EngineeringCrew',
+    2: 'Officers',
+    3: 'OrchestraCrew',
+    4: 'PostalCrew',
+    5: 'RestaurantCrew',
+    6: 'VictuallingCrew'
 }
 
 totaldictonary = {
@@ -306,24 +330,24 @@ passengerlist = [dlist[0],
                  # dlist[3]
                  ]
 
-crewlist = [dlist[4],
+crewlist = [dlist[3],
+            dlist[4],
             dlist[5],
             dlist[6],
             dlist[7],
-            dlist[6],
-            dlist[7],
-            dlist[8]]
+            dlist[8],
+            dlist[9]]
 
 totallist = [dlist[0],
              dlist[1],
              dlist[2],
+             dlist[3],
              dlist[4],
              dlist[5],
              dlist[6],
              dlist[7],
-             dlist[6],
-             dlist[7],
-             dlist[8]]
+             dlist[8],
+             dlist[9]]
 LABELS = ["Passengers", "Crew"]
 
 d1 = CheckboxButtonGroup(labels=passengerlist)
@@ -377,7 +401,8 @@ def drawmap(lijst):
 
         unique = df.groupby('Hometown')['Name'].nunique()
         # print (unique)
-        title = dlist[teller]
+        title = naam
+        print (title, "XD")
         if maptype == "MarkerMap":
             feature_group = folium.FeatureGroup(title)
             marker_cluster = MarkerCluster().add_to(map1)
@@ -599,11 +624,11 @@ sample_plot.circle(x=np.random.normal(size=(10,)),
                    y=np.random.normal(size=(10,)))
 
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
-
+# boxplot1, boxplot2, boxplot3
 # Creeer de kolommen voor de layout
 Home = column(titel1, text1)
 h1 = column(titel2, text2, data_table, text3, data_table2)
-h2 = column(titel3, selectRegio, bar_chart, bar_chart3, bar_chart2, bar_chart1)
+h2 = column(titel3, selectRegio, bar_chart, bar_chart3, bar_chart420, bar_chart1)
 h3 = column(titel4, text4, select, plot)
 h4 = column(titel5, text5, c, dropdown, d1, d2, d3, button)
 h5 = column(titel6, text6, bar_chart2, text8)
