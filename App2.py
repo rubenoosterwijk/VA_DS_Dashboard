@@ -553,7 +553,166 @@ bar_chart2 = figure(x_range=x_barLand, title='BarPlot Landen', x_axis_label='Lan
 bar_chart2.vbar(x_barLand, top=y_barLand, color='blue', width=0.5)
 bar_chart2.y_range.start = 0
 
-text8 = Div(text="<h4"">Nu volgt ons regressiemodel.""</h4>", width=800, height=50)
+text8 = Div(text="<h4"">Aangezien het schip uit de UK vertrekt is het logisch dat hier meer mensen vandaan zullen komen, daarom volgt hieronder de dataset zonder de UK.""</h4>", width=800, height=50)
+
+FareVsGDPNoUK = FareVsGDPCountry[FareVsGDPCountry.Land != 'UK']
+
+x_barLandNUK = FareVsGDPNoUK['Land'].unique()
+y_barLandNUK = FareVsGDPNoUK['Land'].value_counts()
+
+# Maak een nieuwe plot
+bar_chart3 = figure(x_range=x_barLandNUK, title='BarPlot Landen', x_axis_label='Land', y_axis_label='Aantal tickets',
+                    plot_height=300, plot_width=1500)
+
+# Voeg de barchart toe
+bar_chart3.vbar(x_barLandNUK, top=y_barLandNUK, color='blue', width=0.5)
+bar_chart3.y_range.start = 0
+
+text9 = Div(text="<h4"">Nu volgt ons regressiemodel.""</h4>", width=800, height=50)
+
+FareVsGDPNoUK = FareVsGDPNoUK.sample(frac=1).reset_index(drop=True)
+
+model_x = FareVsGDPNoUK['GDP_Per_Capita']
+model_y = FareVsGDPNoUK['Fare']
+
+model_x = np.array(model_x).reshape((-1, 1))
+model_y = np.array(model_y).reshape((-1, 1))
+
+# Split the data into training/testing sets
+diabetes_X_train = model_x[:-50]
+diabetes_X_test = model_x[-50:]
+
+# Split the targets into training/testing sets
+diabetes_y_train = model_y[:-50]
+diabetes_y_test = model_y[-50:]
+
+# Create linear regression object
+regr = linear_model.LinearRegression()
+
+# Train the model using the training sets
+regr.fit(diabetes_X_train, diabetes_y_train)
+
+# Make predictions using the testing set
+diabetes_y_pred = regr.predict(diabetes_X_test)
+
+# The coefficients
+print('Coefficients: \n', regr.coef_)
+# The mean squared error
+print('Mean squared error: %.2f'
+      % mean_squared_error(diabetes_y_test, diabetes_y_pred))
+# The coefficient of determination: 1 is perfect prediction
+print('Coefficient of determination: %.2f'
+      % r2_score(diabetes_y_test, diabetes_y_pred))
+
+diabetes_X_test = np.array(diabetes_X_test).reshape((-1, 1))
+diabetes_y_test = np.array(diabetes_y_test).reshape((-1, 1))
+my_array1 = np.array(diabetes_X_test)
+my_array2 = np.array(diabetes_y_test)
+diabetes_X_test12 = pd.DataFrame(my_array1, columns = ['X'])
+diabetes_y_test12 = pd.DataFrame(my_array2, columns = ['Y'])
+
+diabetes_y_pred = np.array(diabetes_y_pred).reshape((-1, 1))
+my_array3 = np.array(diabetes_y_pred)
+diabetes_y_pred12 = pd.DataFrame(my_array3, columns = ['Y'])
+
+
+
+
+
+FareVsGDPCountry2 = FareVsGDPCountry.sample(frac=1).reset_index(drop=True)
+
+model_x1 = FareVsGDPCountry2['GDP_Per_Capita']
+model_y1 = FareVsGDPCountry2['Fare']
+
+model_x1 = np.array(model_x1).reshape((-1, 1))
+model_y1 = np.array(model_y1).reshape((-1, 1))
+
+# Split the data into training/testing sets
+diabetes_X_train1 = model_x1[:-50]
+diabetes_X_test1 = model_x1[-50:]
+
+# Split the targets into training/testing sets
+diabetes_y_train1 = model_y1[:-50]
+diabetes_y_test1 = model_y1[-50:]
+
+# Create linear regression object
+regr = linear_model.LinearRegression()
+
+# Train the model using the training sets
+regr.fit(diabetes_X_train1, diabetes_y_train1)
+
+# Make predictions using the testing set
+diabetes_y_pred1 = regr.predict(diabetes_X_test1)
+
+# The coefficients
+print('Coefficients: \n', regr.coef_)
+# The mean squared error
+print('Mean squared error: %.2f'
+      % mean_squared_error(diabetes_y_test1, diabetes_y_pred1))
+# The coefficient of determination: 1 is perfect prediction
+print('Coefficient of determination: %.2f'
+      % r2_score(diabetes_y_test1, diabetes_y_pred1))
+
+diabetes_X_test1 = np.array(diabetes_X_test1).reshape((-1, 1))
+diabetes_y_test1 = np.array(diabetes_y_test1).reshape((-1, 1))
+my_array11 = np.array(diabetes_X_test1)
+my_array21 = np.array(diabetes_y_test1)
+diabetes_X_test11 = pd.DataFrame(my_array11, columns = ['X'])
+diabetes_y_test11 = pd.DataFrame(my_array21, columns = ['Y'])
+
+diabetes_y_pred11 = np.array(diabetes_y_pred1).reshape((-1, 1))
+my_array31 = np.array(diabetes_y_pred1)
+diabetes_y_pred11 = pd.DataFrame(my_array31, columns = ['Y'])
+
+
+
+plotRegression2 = figure()
+plotRegression2.circle(diabetes_X_test11['X'], diabetes_y_test11['Y'])
+plotRegression2.line(diabetes_X_test11['X'], diabetes_y_pred11['Y'], line_width=2)
+
+
+
+plotRegression = figure()
+plotRegression.circle(diabetes_X_test12['X'], diabetes_y_test12['Y'])
+plotRegression.line(diabetes_X_test12['X'], diabetes_y_pred12['Y'], line_width=2)
+
+
+
+
+plotRegression.visible = False
+plotRegression2.visible = False
+
+
+
+# Define a callback function: update_plot
+def update_bar_chart(event):
+    new = event.item
+
+    # If all laat alle klasse zien
+    if new == 'Zonder UK':
+        plotRegression.visible = True
+        plotRegression2.visible = False
+    # Elif naar 1e klas
+    elif new == 'Met UK':
+        plotRegression.visible = False
+        plotRegression2.visible = True
+
+# Create a dropdown Select widget: select
+selectUK = Dropdown(label="Maak keuze uit de landen", menu=["Zonder UK", "Met UK"])
+
+# Attach the update_plot callback to the 'value' property of select
+selectUK.on_click(update_bar_chart)
+
+
+
+
+
+
+
+
+
+
+
 
 # Extra voorbeeldcode
 cats = list("abcdef")
@@ -631,7 +790,7 @@ h1 = column(titel2, text2, data_table, text3, data_table2)
 h2 = column(titel3, selectRegio, bar_chart, bar_chart3, bar_chart420, bar_chart1)
 h3 = column(titel4, text4, select, plot)
 h4 = column(titel5, text5, c, dropdown, d1, d2, d3, button)
-h5 = column(titel6, text6, bar_chart2, text8)
+h5 = column(titel6, text6, bar_chart2, text8, bar_chart3, text9, selectUK, plotRegression, plotRegression2)
 
 # Maak de tabs
 # Create tab1 from plot p1: tab1
