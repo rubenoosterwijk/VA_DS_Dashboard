@@ -26,11 +26,20 @@ import ipywidgets
 from bokeh.io import push_notebook
 from bokeh.models import Range1d
 
+
+
 # Header en inleiding
 titel1 = Div(text="<h1"">Hoofdpagina correlatie ticketprijzen titanic en gdp per regio""</h1>", width=800, height=50)
 text1 = Div(
     text="<h4"">Op dit dashboard geven we weer wat de correlatie is tussen de consumenten van de ticketprijzen, en het gdp per regio""</h4>",
     width=800, height=50)
+text21 = Div(text="<h3"">Inhoudsopgave:""</h3>",width=800, height=50)
+text22 = Div(text="<h4"">Hoofdstuk 1: Dataverzameling""</h4>",width=800, height=30)
+text23 = Div(text="<h4"">Hoofdstuk 2: 1-Dimensionele visualisaties""</h4>",width=800, height=30)
+text24 = Div(text="<h4"">Hoofdstuk 3: 2-Dimensionele visualisaties""</h4>",width=800, height=30)
+text25 = Div(text="<h4"">Hoofdstuk 4: Kaart""</h4>",width=800, height=30)
+text26 = Div(text="<h4"">Hoofdstuk 5: Lineaire regressie""</h4>",width=800, height=30)
+text27 = Div(text="<h4"">Hoofdstuk 6: Bronvermelding""</h4>",width=800, height=30)
 
 # Hoofdstuk 1 Dataverzameling
 titel2 = Div(text="<h2"">Hoofdstuk 1: Data-analyse en verzameling""</h2>", width=800, height=50)
@@ -719,7 +728,7 @@ text14 = Div(text="<h4"">Alle passagiers en afkomsten van de titanic https://en.
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 # boxplot1, boxplot2, boxplot3
 # Creeer de kolommen voor de layout
-Home = column(titel1, text1)
+Home = column(titel1, text1, text21, text22, text23, text24, text25, text26,text27)
 h1 = column(titel2, text2, data_table, text3, data_table2)
 h2 = column(titel3, selectRegio, bar_chart, bar_chart3, bar_chart420, bar_chart1)
 h3 = column(titel4, text4, select, plot)
@@ -747,7 +756,7 @@ tab5 = Panel(child=h4, title='Hoofdstuk 4')
 tab6 = Panel(child=h5, title='Hoofdstuk 5')
 
 # Create tab4 from plot p4: tab4
-tab7 = Panel(child=h2, title='Bronvermelding')
+tab7 = Panel(child=h6, title='Bronvermelding')
 
 # Create layout and add to current document
 
