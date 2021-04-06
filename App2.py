@@ -725,13 +725,71 @@ text13 = Div(text="<h4"">Alle bemanningsleden van de titanic: https://en.wikiped
 text14 = Div(text="<h4"">Alle passagiers en afkomsten van de titanic https://en.wikipedia.org/wiki/Passengers_of_the_Titanic.""</h4>", width=800,height=50)
 
 
+
+from math import pi
+
+import pandas as pd
+
+from bokeh.io import output_file, show
+from bokeh.palettes import Category20c
+from bokeh.plotting import figure
+from bokeh.transform import cumsum
+
+
+
+x = {
+    'United States': 61,
+    'United Kingdom': 111,
+    'Japan': 1,
+    'Scandinavia (total)': 23,
+    'Canada': 15,
+    'France': 6,
+    'Spain': 1,
+    'Australia': 1,
+    'Russian Empire': 1,
+    'Ireland': 6
+}
+
+data = pd.Series(x).reset_index(name='value').rename(columns={'index':'country'})
+data['angle'] = data['value']/data['value'].sum() * 2*pi
+data['color'] = Category20c[len(x)]
+
+pie = figure(plot_height=350, title="Verkochte tickets per land.", toolbar_location=None,
+           tools="hover", tooltips="@country: @value", x_range=(-0.5, 1.0))
+
+pie.wedge(x=0, y=1, radius=0.4,
+        start_angle=cumsum('angle', include_zero=True), end_angle=cumsum('angle'),
+        line_color="white", fill_color='color', legend_field='country', source=data)
+
+pie.axis.axis_label=None
+pie.axis.visible=False
+pie.grid.grid_line_color = None
+
+text31 = Div(text="<h4"">Hieronder volgt ter illustratie een pie-chart met de verkochte tickets per land. Dit laat zoals verwacht zien dat in Engeland de meeste tickets verkocht zijn""</h4>", width=800,height=50)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 # boxplot1, boxplot2, boxplot3
 # Creeer de kolommen voor de layout
 Home = column(titel1, text1, text21, text22, text23, text24, text25, text26,text27)
 h1 = column(titel2, text2, data_table, text3, data_table2)
 h2 = column(titel3, selectRegio, bar_chart, bar_chart330, bar_chart420, bar_chart1)
-h3 = column(titel4, text4, select, plot)
+h3 = column(titel4, text4, select, plot, text31, pie)
 h4 = column(titel5, text5, c, dropdown, d1, d2, d3, button)
 h5 = column(titel6, text6, bar_chart2, text8, bar_chart3, text9, selectUK, plotRegression, plotRegression2)
 h6 = column(titel7, text11, text12, text13, text14)
