@@ -79,7 +79,7 @@ sourceRegio = ColumnDataSource(data={
 })
 
 # Maak een nieuwe plot
-bar_chart = figure(x_range='x', source=sourceRegio, title='BarPlot',x_axis_label='Regio in engeland en GDP in Pond', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1500)
+bar_chart = figure(x_range=x_barRegio, title='BarPlot', x_axis_label='Regio in engeland en GDP in Pond', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1500)
 
 
 # Voeg de barchart toe
@@ -90,29 +90,29 @@ bar_chart.y_range.start = 0
 def update_bar_chart(attr, old, new):
     # If all laat alle klasse zien
     if new == 'All':
-        source.data = {
+        sourceRegio.data = {
             'x' : x_barRegio,
             'y' : y_barRegio
         }
     # Elif naar 1e klas
     elif new == '1e Klass':
-        source.data = {
+        sourceRegio.data = {
             'x' : x_barRegio1,
             'y' : y_barRegio1
         }
     elif new == '2e Klass':
-        source.data = {
+        sourceRegio.data = {
             'x' : x_barRegio2,
             'y' : y_barRegio2
         }
     elif new == '3e Klass':
-        source.data = {
+        sourceRegio.data = {
             'x' : x_barRegio3,
             'y' : y_barRegio3
         }
 
 # Create a dropdown Select widget: select
-selectRegio = Select(title="Maak keuze uit de klasse", options=["All", "1e Klass", "2e Klass", "3e Klass"], value="All")
+selectRegio = Select(title="Maak keuze uit de klasse", options=["All", "1e Klass", "2e Klass", "3e Klass"], value="3e Klass")
 
 
 # Attach the update_plot callback to the 'value' property of select
@@ -183,12 +183,33 @@ select = Select(title="Keuzemenu", options=["All", "1e Klass", "2e Klass", "3e K
 # Attach the update_plot callback to the 'value' property of select
 select.on_change('value', update_plot)
 
+# Hoofdstuk 4
+titel5 = Div(text = "<h2"">Hoofdstuk 4: Foliumkaart""</h2>", width = 800, height = 50)
+text5 = Div(text = "<h4"">Hieronder volgt onze kaart""</h4>", width = 800, height = 50)
 
 
 
 
+# Hoofdstuk 5
+titel6 = Div(text = "<h2"">Hoofdstuk 5: Regressiemodel""</h2>", width = 800, height = 50)
+text6 = Div(text = "<h4"">Hieronder eerst de data die in het regressiemodel geladen kan worden.""</h4>", width = 800, height = 50)
+text7 = Div(text = "<h4"">Engeland is hier weggelaten aangezien hier de boot is vertrokken en er dus duidelijk een meerderheid aan passagiers is.""</h4>", width = 800, height = 50)
+
+#Toe te voegen dataframes
+FareVsGDPCountry = pd.read_csv('Data K\FareVsGDPCountry.csv')
+
+x_barLand = FareVsGDPCountry['Land'].unique()
+y_barLand = FareVsGDPCountry['Land'].value_counts()
+
+# Maak een nieuwe plot
+bar_chart2 = figure(x_range=x_barLand, title='BarPlot Landen', x_axis_label='Land', y_axis_label='Aantal tickets', plot_height=300, plot_width = 1500)
 
 
+# Voeg de barchart toe
+bar_chart2.vbar(x_barLand, top=y_barLand, color='blue', width=0.5)
+bar_chart2.y_range.start = 0
+
+text8 = Div(text = "<h4"">Nu volgt ons regressiemodel.""</h4>", width = 800, height = 50)
 
 
 
@@ -260,6 +281,12 @@ sample_plot = figure(plot_height=400,
 sample_plot.circle(x=np.random.normal(size=(10,)),
                    y=np.random.normal(size=(10,)))
 
+
+
+
+
+
+
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 
 
@@ -269,7 +296,8 @@ Home = column(titel1, text1)
 h1 = column(titel2, text2, data_table, text3, data_table2)
 h2 = column(titel3, selectRegio, bar_chart)
 h3 = column(titel4, text4, select, plot)
-
+h4 = column(titel5, text5)
+h5 = column(titel6, text6, bar_chart2, text8)
 
 #Maak de tabs
 # Create tab1 from plot p1: tab1
@@ -285,17 +313,20 @@ tab3 = Panel(child=h2, title='Hoofdstuk 2')
 tab4 = Panel(child=h3, title='Hoofdstuk 3')
 
 # Create tab4 from plot p4: tab4
-tab5 = Panel(child=h2, title='Hoofdstuk 4')
+tab5 = Panel(child=h4, title='Hoofdstuk 4')
 
 # Create tab4 from plot p4: tab4
-tab6 = Panel(child=h2, title='Bronvermelding')
+tab6 = Panel(child=h5, title='Hoofdstuk 5')
+
+# Create tab4 from plot p4: tab4
+tab7 = Panel(child=h2, title='Bronvermelding')
 
 
 
 # Create layout and add to current document
 
 #layout = column(titel1, text1, titel2, text2, data_table, text3, data_table2, titel3, titel4, text4, select, plot)
-layout = Tabs(tabs=[tab1, tab2, tab3, tab4, tab5, tab6])
+layout = Tabs(tabs=[tab1, tab2, tab3, tab4, tab5, tab6, tab7])
 curdoc().add_root(layout)
 
 
