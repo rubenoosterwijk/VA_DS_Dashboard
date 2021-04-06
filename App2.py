@@ -709,8 +709,11 @@ selectUK = Dropdown(label="Maak keuze uit de landen", menu=["Zonder UK", "Met UK
 selectUK.on_click(update_bar_chart)
 
 #Hoofdstuk 6 bronvermelding
-
-
+titel7 = Div(text="<h2"">Hoofdstuk 6: Bronvermelding""</h2>", width=800, height=50)
+text11 = Div(text="<h4"">GDP van engelse regio's anno 1911: http://eprints.lse.ac.uk/22557/1/0304Crafts.pdf.""</h4>", width=800,height=50)
+text12 = Div(text="<h4"">GDP per capita van alle landen anno 1910: https://www.oecd-ilibrary.org/economics/how-was-life_9789264214262-en.""</h4>", width=800,height=50)
+text13 = Div(text="<h4"">Alle bemanningsleden van de titanic: https://en.wikipedia.org/wiki/Crew_of_the_Titanic.""</h4>", width=800,height=50)
+text14 = Div(text="<h4"">Alle passagiers en afkomsten van de titanic https://en.wikipedia.org/wiki/Passengers_of_the_Titanic.""</h4>", width=800,height=50)
 
 
 output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
@@ -722,7 +725,7 @@ h2 = column(titel3, selectRegio, bar_chart, bar_chart3, bar_chart420, bar_chart1
 h3 = column(titel4, text4, select, plot)
 h4 = column(titel5, text5, c, dropdown, d1, d2, d3, button)
 h5 = column(titel6, text6, bar_chart2, text8, bar_chart3, text9, selectUK, plotRegression, plotRegression2)
-h6 = column()
+h6 = column(titel7, text11, text12, text13, text14)
 
 # Maak de tabs
 # Create tab1 from plot p1: tab1
