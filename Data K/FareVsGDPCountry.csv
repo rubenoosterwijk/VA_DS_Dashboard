@@ -1,0 +1,227 @@
+,Name,Hometown,Fare,Pclass,GDP_Per_Capita,Land
+0,"Barkworth, Mr. Algernon Henry Wilson","Hessle, East Yorkshire, England, UK",30.0,1,4611,UK
+1,"Borebank, Mr. John James","London, England, UK",26.55,1,4611,UK
+2,"Case, Mr. Howard Brown","Ascot, Berkshire, England, UK",26.0,1,4611,UK
+3,"Cavendish, Mr. Tyrell William","London, England, UK",78.85,1,4611,UK
+4,"Colley, Mr. Edward Pomeroy","Dublin, Ireland, UK[note 1]",25.5875,1,4611,UK
+5,"Frauenthal, Dr. Henry William","London, England, UK",133.65,1,4611,UK
+6,"Frauenthal, Mr. Isaac Gerald","London, England, UK",27.7208,1,4611,UK
+7,"Hawksford, Mr. Walter James","Kingston, Surrey, England, UK",30.0,1,4611,UK
+8,"Head, Mr. Christopher","Chelsea, London, England, UK",42.5,1,4611,UK
+9,"Hipkins, Mr. William Edward","Birmingham, West Midlands, England, UK",50.0,1,4611,UK
+10,"Ismay, Mr. Joseph Bruce","Liverpool, Merseyside, England, UK",0.0,1,4611,UK
+11,"Julian, Mr. Henry Forbes","Torquay, Devon, England, UK",26.0,1,4611,UK
+12,"Loring, Mr. Joseph Holland","London, England, UK",45.5,1,4611,UK
+13,"Nicholson, Mr. Arthur Ernest","Shanklin, Isle of Wight, England, UK",26.0,1,4611,UK
+14,"Pears, Mr. Thomas Clinton","Isleworth, London, England, UK",66.6,1,4611,UK
+15,"Saalfeld, Mr. Adolphe","Manchester, England, UK",30.5,1,4611,UK
+16,"Smart, Mr. John Montgomery","Kildale, North Yorkshire, England, UK",26.55,1,4611,UK
+17,"Smith, Mr. Richard William","Streatham, London, England, UK",26.0,1,4611,UK
+18,"Stead, Mr. William Thomas","London, England, UK",26.55,1,4611,UK
+19,"Taylor, Mr. Elmer Zebley","London, England, UK",52.0,1,4611,UK
+20,"Woolner, Mr. Hugh","London, England, UK",35.5,1,4611,UK
+21,"Beauchamp, Mr. Henry James","London, England, UK",26.0,2,4611,UK
+22,"Beesley, Mr. Lawrence","London, England, UK",13.0,2,4611,UK
+23,"Brown, Mr. Thomas William Solomon","Cape Town, South Africa, UK[note 4]",39.0,2,4611,UK
+24,"Deacon, Mr. Percy William","Fritham, Hampshire, England, UK",73.5,2,4611,UK
+25,"Fillbrook, Mr. Joseph Charles","Truro, Cornwall, England, UK",10.5,2,4611,UK
+26,"Gale, Mr. Harry","Harrowbarrow, Cornwall, England, UK",21.0,2,4611,UK
+27,"Gale, Mr. Shadrach","Harrowbarrow, Cornwall, England, UK",21.0,2,4611,UK
+28,"Blackwell, Mr. Stephen Weart","Trenton, New Jersey, US",35.5,1,4964,US
+29,"Blank, Mr. Henry","Glen Ridge, New Jersey, US",31.0,1,4964,US
+30,"Brady, Mr. John Bertram","Pomeroy, Washington, US",30.5,1,4964,US
+31,"Brandeis, Mr. Emil","Omaha, Nebraska, US",50.4958,1,4964,US
+32,"Brewe, Dr. Arthur Jackson","Philadelphia, Pennsylvania, US",39.6,1,4964,US
+33,"Cardeza, Mr. Thomas Drake Martinez","Germantown, Pennsylvania, US",512.3292,1,4964,US
+34,"Carter, Mr. William Ernest","Bryn Mawr, Pennsylvania, US",120.0,1,4964,US
+35,"Chaffee, Mr. Herbert Fuller","Amenia, North Dakota, US",61.175,1,4964,US
+36,"Clark, Mr. Walter Miller","Los Angeles, California, US",136.7792,1,4964,US
+37,"Clifford, Mr. George Quincy","Stoughton, Massachusetts, US",52.0,1,4964,US
+38,"Crafton, Mr. John Bertram","Roachdale, Indiana, US",26.55,1,4964,US
+39,"Daniel, Mr. Robert Williams","Philadelphia, Pennsylvania, US",30.5,1,4964,US
+40,"Dodge, Dr. Washington","San Francisco, California, US",81.8583,1,4964,US
+41,"Douglas, Mr. Walter Donald","Minneapolis, Minnesota, US",106.425,1,4964,US
+42,"Dulles, Mr. William Crothers","Philadelphia, Pennsylvania, US",29.7,1,4964,US
+43,"Futrelle, Mr. Jacques Heath","Scituate, Massachusetts, US",53.1,1,4964,US
+44,"Hilliard, Mr. Herbert Henry","Brighton, Massachusetts, US",51.8625,1,4964,US
+45,"Jones, Mr. Charles Cresson","Bennington, Vermont, US",26.0,1,4964,US
+46,"Kent, Mr. Edward Austin","Buffalo, New York, US",29.7,1,4964,US
+47,"Klaber, Mr. Herman","Portland, Oregon, US",26.55,1,4964,US
+48,"Long, Mr. Milton Clyde","Springfield, Massachusetts, US",30.0,1,4964,US
+49,"Maguire, Mr. John Edward","Brockton, Massachusetts, US",26.0,1,4964,US
+50,"McGough, Mr. James Robert","Philadelphia, Pennsylvania, US",26.2875,1,4964,US
+51,"Millet, Mr. Francis Davis","East Bridgewater, Massachusetts, US",26.55,1,4964,US
+52,"Minahan, Dr. William Edward","Fond du Lac, Wisconsin, US",90.0,1,4964,US
+53,"Newell, Mr. Arthur Webster","Lexington, Massachusetts, US",113.275,1,4964,US
+54,"Ostby, Mr. Engelhart Cornelius","Providence, Rhode Island, US",61.9792,1,4964,US
+55,"Porter, Mr. Walter Chamberlain","Worcester, Massachusetts, US",52.0,1,4964,US
+56,"Roebling, Mr. Washington Augustus II","Trenton, New Jersey, US",50.4958,1,4964,US
+57,"Rood, Mr. Hugh Roscoe","Seattle, Washington, US",50.0,1,4964,US
+58,"Ryerson, Mr. Arthur Larned","Cooperstown, New York, US",262.375,1,4964,US
+59,"Silverthorne, Mr. Spencer Victor","St Louis, Missouri, US",26.2875,1,4964,US
+60,"Silvey, Mr. William Baird","Duluth, Minnesota, US",55.9,1,4964,US
+61,"Sloper, Mr. William Thompson","New Britain, Connecticut, US",35.5,1,4964,US
+62,"Smith, Mr. Lucien Philip","Huntington, West Virginia, US",60.0,1,4964,US
+63,"Snyder, Mr. John Pillsbury","Minneapolis, Minnesota, US",82.2667,1,4964,US
+64,"Spedden, Mr. Frederic Oakley","Tuxedo Park, New York, US",134.5,1,4964,US
+65,"Stengel, Mr. Charles Emil Henry","Newark, New Jersey, US",55.4417,1,4964,US
+66,"Sutton, Mr. Frederick","Haddonfield, New Jersey, US",32.3208,1,4964,US
+67,"Walker, Mr. William Anderson","East Orange, New Jersey, US",34.0208,1,4964,US
+68,"Warren, Mr. Frank Manley","Portland, Oregon, US",75.25,1,4964,US
+69,"White, Mr. Percival Wayland","Brunswick, Maine, US",77.2875,1,4964,US
+70,"White, Mr. Richard Frasar","Brunswick, Maine, US",77.2875,1,4964,US
+71,"Widener, Mr. George Dunton","Philadelphia, Pennsylvania, US",211.5,1,4964,US
+72,"Widener, Mr. Harry Elkins","Philadelphia, Pennsylvania, US",211.5,1,4964,US
+73,"Ashby, Mr. John","West Hoboken, New Jersey, US",13.0,2,4964,US
+74,"Botsford, Mr. William Hull","Orange, New Jersey, US",13.0,2,4964,US
+75,"Chapman, Mr. Charles Henry","Bronx, New York, US",13.5,2,4964,US
+76,"Drew, Mr. James Vivian","Greenport, New York, US",32.5,2,4964,US
+77,"Fox, Mr. Stanley Hubert","Rochester, New York, US",13.0,2,4964,US
+78,"Greenberg, Mr. Samuel","Bronx, New York, US",13.0,2,4964,US
+79,"Hale, Mr. Reginald","Auburn, New York, US",13.0,2,4964,US
+80,"Hocking, Mr. Richard George","Akron, Ohio, US",11.5,2,4964,US
+81,"Hunt, Mr. George Henry","Philadelphia, Pennsylvania, US",12.275,2,4964,US
+82,"Lingane, Mr. John","Chelsea, Michigan, US",12.35,2,4964,US
+83,"Moraweck, Dr. Ernest","Frankfort, Kentucky, US",14.0,2,4964,US
+84,"Otter, Mr. Richard","Middleburg Heights, Ohio, US",13.0,2,4964,US
+85,"Portaluppi, Mr. Emilio Ilario Giuseppe","Milford, New Hampshire, US",12.7375,2,4964,US
+86,"Renouf, Mr. Peter Henry","Elizabeth, New Jersey, US",21.0,2,4964,US
+87,"Schmidt, Mr. August","Newark, New Jersey, US",13.0,2,4964,US
+88,"Veal, Mr. James","Barre, Vermont, US",13.0,2,4964,US
+89,"Hosono, Mr. Masabumi","Tokyo, Japan",13.0,2,1304,Japan
+90,"Kantor, Mr. Sinai","Vitebsk, Russian Empire",26.0,2,1348,Russian empire
+91,"Bryhl, Mr. Kurt Arnold Gottfrid","Skara, Västergötland, Sweden",26.0,2,2543,Sweden
+92,"Kvillner, Mr. Johan Henrik Johannesson","Trollhättan, Västergötland, Sweden",10.5,2,2543,Sweden
+93,"Colley, Mr. Edward Pomeroy","Dublin, Ireland, UK[note 1]",25.5875,1,4611,Ireland
+94,"Gillespie, Mr. William Henry","Abbeyleix, Laois, Ireland[note 1]",13.0,2,4611,Ireland
+95,"Keane, Mr. Daniel","Limerick, Ireland[note 1]",12.35,2,4611,Ireland
+96,"Lamb, Mr. John Joseph","Glencree, Ireland[note 1]",10.7083,2,4611,Ireland
+97,"Myles, Mr. Thomas Francis","Fermoy, Ireland[note 1]",9.6875,2,4611,Ireland
+98,"McNamee, Mr. Neal","Convoy, Donegal, Ireland",16.1,3,4611,Ireland
+99,"McCrae, Mr. Arthur Gordon","Sydney, New South Wales, Australia",13.5,2,5210,AUS
+100,"Pallas y Castello, Mr. Emilio","Barcelona, Catalonia, Spain",13.8583,2,1895,Spain
+101,"Barkworth, Mr. Algernon Henry Wilson","Hessle, East Yorkshire, England, UK",30.0,1,4611,UK
+102,"Borebank, Mr. John James","London, England, UK",26.55,1,4611,UK
+103,"Case, Mr. Howard Brown","Ascot, Berkshire, England, UK",26.0,1,4611,UK
+104,"Cavendish, Mr. Tyrell William","London, England, UK",78.85,1,4611,UK
+105,"Frauenthal, Dr. Henry William","London, England, UK",133.65,1,4611,UK
+106,"Frauenthal, Mr. Isaac Gerald","London, England, UK",27.7208,1,4611,UK
+107,"Hawksford, Mr. Walter James","Kingston, Surrey, England, UK",30.0,1,4611,UK
+108,"Head, Mr. Christopher","Chelsea, London, England, UK",42.5,1,4611,UK
+109,"Hipkins, Mr. William Edward","Birmingham, West Midlands, England, UK",50.0,1,4611,UK
+110,"Ismay, Mr. Joseph Bruce","Liverpool, Merseyside, England, UK",0.0,1,4611,UK
+111,"Julian, Mr. Henry Forbes","Torquay, Devon, England, UK",26.0,1,4611,UK
+112,"Loring, Mr. Joseph Holland","London, England, UK",45.5,1,4611,UK
+113,"Nicholson, Mr. Arthur Ernest","Shanklin, Isle of Wight, England, UK",26.0,1,4611,UK
+114,"Pears, Mr. Thomas Clinton","Isleworth, London, England, UK",66.6,1,4611,UK
+115,"Saalfeld, Mr. Adolphe","Manchester, England, UK",30.5,1,4611,UK
+116,"Smart, Mr. John Montgomery","Kildale, North Yorkshire, England, UK",26.55,1,4611,UK
+117,"Smith, Mr. Richard William","Streatham, London, England, UK",26.0,1,4611,UK
+118,"Stead, Mr. William Thomas","London, England, UK",26.55,1,4611,UK
+119,"Taylor, Mr. Elmer Zebley","London, England, UK",52.0,1,4611,UK
+120,"Woolner, Mr. Hugh","London, England, UK",35.5,1,4611,UK
+121,"Andrew, Mr. Frank Thomas","Redruth, Cornwall, England",10.5,2,4611,UK
+122,"Bailey, Mr. Percy Andrew","Penzance, Cornwall, England",11.5,2,4611,UK
+123,"Banfield, Mr. Frederick James","Plymouth, Devon, England",10.5,2,4611,UK
+124,"Beauchamp, Mr. Henry James","London, England, UK",26.0,2,4611,UK
+125,"Beesley, Mr. Lawrence","London, England, UK",13.0,2,4611,UK
+126,"Berriman, Mr. William John","St. Ives, Cornwall, England",13.0,2,4611,UK
+127,"Bowenur, Mr. Solomon","London, England",13.0,2,4611,UK
+128,"Butler, Mr. Reginald Fenton","Southsea, Hampshire, England",13.0,2,4611,UK
+129,"Carbines, Mr. William","St. Ives, Cornwall, England",13.0,2,4611,UK
+130,"Chapman, Mr. John Henry","Liskeard, Cornwall, England",26.0,2,4611,UK
+131,"Clarke, Mr. Charles Valentine","Netley Abbey, Hampshire, England",26.0,2,4611,UK
+132,"Coleridge, Mr. Reginald Charles","London, England",10.5,2,4611,UK
+133,"Collyer, Mr. Harvey","Bishopstoke, Hampshire, England",26.25,2,4611,UK
+134,"Davies, Mr. Charles Henry","Lyndhurst, Hampshire, England",73.5,2,4611,UK
+135,"Deacon, Mr. Percy William","Fritham, Hampshire, England, UK",73.5,2,4611,UK
+136,"Dibden, Mr. William","Lyndhurst, Hampshire, England",73.5,2,4611,UK
+137,"Fillbrook, Mr. Joseph Charles","Truro, Cornwall, England, UK",10.5,2,4611,UK
+138,"Gale, Mr. Harry","Harrowbarrow, Cornwall, England, UK",21.0,2,4611,UK
+139,"Gale, Mr. Shadrach","Harrowbarrow, Cornwall, England, UK",21.0,2,4611,UK
+140,"Gilbert, Mr. William","Carleens, Cornwall, England",10.5,2,4611,UK
+141,"Giles, Mr. Edgar","Porthleven, Cornwall, England",11.5,2,4611,UK
+142,"Giles, Mr. Frederick Edward","Porthleven, Cornwall, England",11.5,2,4611,UK
+143,"Giles, Mr. Ralph","London, England",13.5,2,4611,UK
+144,"Gill, Mr. John William","Clevedon, North Somerset, England",13.0,2,4611,UK
+145,"Harris, Mr. George","London, England",10.5,2,4611,UK
+146,"Harris, Mr. Walter","London, England",10.5,2,4611,UK
+147,"Hart, Mr. Benjamin","Ilford, Essex, England",26.25,2,4611,UK
+148,"Herman, Mr. Samuel","Yeovil, Somerset, England",65.0,2,4611,UK
+149,"Hickman, Mr. Lewis","Fritham, Hampshire, England",73.5,2,4611,UK
+150,"Hickman, Mr. Leonard Mark","Fritham, Hampshire, England",73.5,2,4611,UK
+151,"Hickman, Mr. Stanley George","Fritham, Hampshire, England",73.5,2,4611,UK
+152,"Hocking, Mr. Samuel James Metcalfe","Devonport, Devon, England",13.0,2,4611,UK
+153,"Hodges, Mr. Henry Price","Southampton, Hampshire, England",13.0,2,4611,UK
+154,"Hold, Mr. Stephen","Porthoustock, Cornwall, England",26.0,2,4611,UK
+155,"Howard, Mr. Benjamin","Swindon, Wiltshire, England",26.0,2,4611,UK
+156,"Jacobsohn, Mr. Sidney Samuel","London, England",27.0,2,4611,UK
+157,"Jenkin, Mr. Stephen Curnow","St. Ives, Cornwall, England",10.5,2,4611,UK
+158,"Leyson, Mr. Robert William Norman","London, England",10.5,2,4611,UK
+159,"Louch, Mr. Charles Alexander","Weston-super-Mare, North Somerset, England",26.0,2,4611,UK
+160,"Matthews, Mr. William John","St Austell, Cornwall, England",13.0,2,4611,UK
+161,"Maybery, Mr. Frank Hubert","Weston-super-Mare, North Somerset, England",16.0,2,4611,UK
+162,"Mellors, Mr. William John","Chelsea, London, England",10.5,2,4611,UK
+163,"Meyer, Mr. August","Harrow, London, England",13.0,2,4611,UK
+164,"Mudd, Mr. Thomas Charles","Huntingfield, Suffolk, England",10.5,2,4611,UK
+165,"Nesson, Mr. Israel","London, England",13.0,2,4611,UK
+166,"Oxenham, Mr. Percy Thomas","London, England",10.5,2,4611,UK
+167,"Pengelly, Mr. Frederick William","Gunnislake, Cornwall, England",10.5,2,4611,UK
+168,"Phillips, Mr. Escott Robert","Ilfracombe, Devon, England",21.0,2,4611,UK
+169,"Ponesell, Mr. Martin","Southampton, Hampshire, England",13.0,2,4611,UK
+170,"Reeves, Mr. David","Slinfold, West Sussex, England",10.5,2,4611,UK
+171,"Rogers, Mr. Reginald Harry","Tavistock, Devon, England",10.5,2,4611,UK
+172,"Sedgwick, Mr. Charles Frederick Waddington","Liverpool, Merseyside, England",13.0,2,4611,UK
+173,"Slemen, Mr. Richard James","Landrake, Cornwall, England",10.5,2,4611,UK
+174,"Sobey, Mr. Samuel James Hayden","Porthallow, Cornwall, England",13.0,2,4611,UK
+175,"Stokes, Mr. Philip Joseph","London, England",10.5,2,4611,UK
+176,"Sweet, Mr. George Frederick","Yeovil, Somerset, England",65.0,2,4611,UK
+177,"Troupiansky, Mr. Moses Aaron","London, England",13.0,2,4611,UK
+178,"Turpin, Mr. William John Robert","Plymouth, Devon, England",21.0,2,4611,UK
+179,"Ware, Mr. John James","Bristol, Avon, England",21.0,2,4611,UK
+180,"Ware, Mr. William Jeffery","Gunnislake, Cornwall, England",10.5,2,4611,UK
+181,"Weisz, Mr. Leopold","Bromsgrove, Worcestershire, England",26.0,2,4611,UK
+182,"West, Mr. Edwy Arthur","Bournemouth, Dorset, England",27.75,2,4611,UK
+183,"Williams, Mr. Charles Eugene","Harrow, London, England",13.0,2,4611,UK
+184,"Adahl, Mr. Mauritz Nils Martin","Asarum, Småland",7.25,3,2543,Scandinavia
+185,"Andreasson, Mr. Paul Edvin","Kalfsnäs, Småland",7.8542,3,2543,Scandinavia
+186,"Aronsson, Mr. Ernst Axel Algot","Horset, Småland",7.775,3,2543,Scandinavia
+187,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson","Alseda, Småland",31.3875,3,2543,Scandinavia
+188,"Augustsson, Mr. Albert","Krakoryd, Småland",7.8542,3,2543,Scandinavia
+189,"Carlsson, Mr. August Sigfrid","Dagsås, Halland",7.7958,3,2543,Scandinavia
+190,"Eklund, Mr. Hans Linus","Kårberg, Örebro",7.775,3,2543,Scandinavia
+191,"Fischer, Mr. Eberhard Thelander","Björkeberga, Skåne",7.7958,3,2543,Scandinavia
+192,"Hagland, Mr. Ingvald Olai Olsen","Skåre, Haugesund",19.9667,3,2543,Scandinavia
+193,"Hagland, Mr. Konrad Mathias Reiersen","Skåre, Haugesund",19.9667,3,2543,Scandinavia
+194,"Johansson, Mr. Erik","Frostensmåla, Småland",7.7958,3,2543,Scandinavia
+195,"Johansson, Mr. Gustaf Joel","Bäckebo, Småland",8.6542,3,2543,Scandinavia
+196,"Johansson Palmquist, Mr. Oskar Leander","Kvarnaryd, Småland",7.775,3,2543,Scandinavia
+197,"Jonsson, Mr. Carl","Kalfsnäs, Småland",7.8542,3,2543,Scandinavia
+198,"Lindell, Mr. Edvard Bengtsson","Helsingborg, Skåne",15.55,3,2543,Scandinavia
+199,"Lundahl, Mr. Johan Svensson","Fyrnan, Småland",7.0542,3,2543,Scandinavia
+200,"Nilsson, Mr. August Ferdinand","Hörby, Skåne",7.8542,3,2543,Scandinavia
+201,"Svensson, Mr. Johan","Reftele, Småland",7.775,3,2543,Scandinavia
+202,"Svensson, Mr. Olof","Björkeberga, Skåne",7.7958,3,2543,Scandinavia
+203,"Vendel, Mr. Olof Edvin","Östra Sallerup, Skåne",7.8542,3,2543,Scandinavia
+204,"Nysveen, Mr. Johan Hansen",Øyer,6.2375,3,2543,Scandinavia
+205,"Allison, Mr. Hudson Joshua Creighton","Montreal, Quebec, Canada",151.55,1,4066,Canada
+206,"Baxter, Mr. Quigg Edmond","Montreal, Quebec, Canada",247.5208,1,4066,Canada
+207,"Beattie, Mr. Thomson","Fergus, Ontario, Canada",75.2417,1,4066,Canada
+208,"Davidson, Mr. Thornton","Montreal, Quebec, Canada",52.0,1,4066,Canada
+209,"Dick, Mr. Albert Adrian","Calgary, Alberta, Canada",57.0,1,4066,Canada
+210,"Fortune, Mr. Mark","Winnipeg, Manitoba, Canada",263.0,1,4066,Canada
+211,"Fortune, Mr. Charles Alexander","Winnipeg, Manitoba, Canada",263.0,1,4066,Canada
+212,"Graham, Mr. George Edward","Winnipeg, Manitoba, Canada",153.4625,1,4066,Canada
+213,"Hays, Mr. Charles Melville","Montreal, Quebec, Canada",93.5,1,4066,Canada
+214,"McCaffry, Mr. Thomas Francis","Vancouver, British Columbia, Canada",75.2417,1,4066,Canada
+215,"Molson, Mr. Harry Markland","Montreal, Quebec, Canada",30.5,1,4066,Canada
+216,"Ross, Mr. John Hugo","Winnipeg, Manitoba, Canada",40.125,1,4066,Canada
+217,"Wright, Mr. George","Halifax, Nova Scotia, Canada",26.55,1,4066,Canada
+218,"Mallet, Mr. Albert","Montreal, Quebec, Canada",37.0042,2,4066,Canada
+219,"McCrie, Mr. James Matthew","Sarnia, Ontario, Canada",13.0,2,4066,Canada
+220,"Guggenheim, Mr. Benjamin","Paris, France",79.2,1,2965,France
+221,"Omont, Mr. Alfred Fernand","Le Havre, France",25.7417,1,2965,France
+222,"Rheims, Mr. George Alexander Lucien","Paris, France",39.6,1,2965,France
+223,"Smith, Mr. James Clinch","Paris, France",30.6958,1,2965,France
+224,"Laroche, Mr. Joseph Philippe Lemercier","Paris, France",41.5792,2,2965,France
+225,"Mangiavacchi, Mr. Serafino Emilio","Paris, France",15.5792,2,2965,France
