@@ -136,17 +136,17 @@ bar_chart420 = figure(x_range=x_barRegio, title='BarPlot 2e Klasse', x_axis_labe
 bar_chart420.vbar('x', top='y', source=sourceRegio2, color='blue', width=0.5)
 bar_chart420.y_range.start = 0
 
-bar_chart3 = figure(x_range=x_barRegio, title='BarPlot 3e Klasse', x_axis_label='Regio in engeland en GDP in Pond',
+bar_chart330 = figure(x_range=x_barRegio, title='BarPlot 3e Klasse', x_axis_label='Regio in engeland en GDP in Pond',
                     y_axis_label='Aantal tickets', plot_height=300, plot_width=1500)
 
 # Voeg de barchart toe
-bar_chart3.vbar('x', top='y', source=sourceRegio3, color='blue', width=0.5)
-bar_chart3.y_range.start = 0
+bar_chart330.vbar('x', top='y', source=sourceRegio3, color='blue', width=0.5)
+bar_chart330.y_range.start = 0
 
 bar_chart.visible = False
 bar_chart1.visible = False
 bar_chart420.visible = False
-bar_chart3.visible = False
+bar_chart330.visible = False
 
 Klas1["Age"] = pd.to_numeric(Klas1["Age"], errors='coerce')
 Klas2["Age"] = pd.to_numeric(Klas2["Age"], errors='coerce')
@@ -174,23 +174,23 @@ def update_bar_chart(event):
         bar_chart.visible = True
         bar_chart1.visible = False
         bar_chart420.visible = False
-        bar_chart3.visible = False
+        bar_chart330.visible = False
     # Elif naar 1e klas
     elif new == '1e Klass':
         bar_chart.visible = False
         bar_chart1.visible = True
         bar_chart420.visible = False
-        bar_chart3.visible = False
+        bar_chart330.visible = False
     elif new == '2e Klass':
         bar_chart.visible = False
         bar_chart1.visible = False
         bar_chart420.visible = True
-        bar_chart3.visible = False
+        bar_chart330.visible = False
     elif new == '3e Klass':
         bar_chart.visible = False
         bar_chart1.visible = False
         bar_chart420.visible = False
-        bar_chart3.visible = True
+        bar_chart330.visible = True
 
 
 # Create a dropdown Select widget: select
@@ -730,7 +730,7 @@ output_file("Hoofdpagina.html", title="Hoofdpagina Dashboard V.A.")
 # Creeer de kolommen voor de layout
 Home = column(titel1, text1, text21, text22, text23, text24, text25, text26,text27)
 h1 = column(titel2, text2, data_table, text3, data_table2)
-h2 = column(titel3, selectRegio, bar_chart, bar_chart3, bar_chart420, bar_chart1)
+h2 = column(titel3, selectRegio, bar_chart, bar_chart330, bar_chart420, bar_chart1)
 h3 = column(titel4, text4, select, plot)
 h4 = column(titel5, text5, c, dropdown, d1, d2, d3, button)
 h5 = column(titel6, text6, bar_chart2, text8, bar_chart3, text9, selectUK, plotRegression, plotRegression2)
@@ -763,3 +763,5 @@ tab7 = Panel(child=h6, title='Bronvermelding')
 # layout = column(titel1, text1, titel2, text2, data_table, text3, data_table2, titel3, titel4, text4, select, plot)
 layout = Tabs(tabs=[tab1, tab2, tab3, tab4, tab5, tab6, tab7])
 curdoc().add_root(layout)
+
+curdoc().theme = 'night_sky'
